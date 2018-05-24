@@ -1,0 +1,1936 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	grater	grater	NN	NN	O	0	_	grater_1	grater_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	box_1	box_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	grasps	grasp	VB	VBZ	O	4	_	grasp_1	grasp_1	
+12	tightly	tightly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	grater	grater	NN	NN	O	0	_	grater_1	grater_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	box_1	box_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	grasps	grasp	VB	VBZ	O	4	_	grasp_1	grasp_1	
+12	tightly	tightly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	grater	grater	NN	NN	O	0	_	grater_1	grater_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	box_1	box_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	grasps	grasp	VB	VBZ	O	4	_	grasp_1	grasp_1	
+12	tightly	tightly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	grater	grater	NN	NN	O	0	_	grater_1	grater_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	box_1	box_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	grasp	grasp	VB	VBZ	O	4	_	grasp_1	grasp_1	
+12	tightly	tightly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	0	_	grater_1	counter_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	box_1	box_3	
+8	that	that	WDT	WDT	O	11	_			
+9	is	be	VB	VBZ	O	7	_			
+10	tightly	tightly	RB	RB	O	11	_			
+11	grasped	grasp	VB	VBN	O	7	_	grasp_1	grasp_2	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_1	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	grater	grater	NN	NN	O	0	_	grater_1	grater_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	box_1	box_2	
+8	that	that	WDT	WDT	O	11	_			
+9	is	be	VB	VBZ	O	7	_			
+10	tightly	tightly	RB	RB	O	11	_			
+11	grasped	grasp	VB	VBN	O	7	_	grasp_1	grasp_2	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_1	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	grater	grater	NN	NN	O	0	_	grater_1	grater_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	box_1	box_1	
+8	that	that	WDT	WDT	O	11	_			
+9	is	be	VB	VBZ	O	7	_			
+10	tightly	tightly	RB	RB	O	11	_			
+11	grasp	grasp	VB	VBZ	O	4	_	grasp_1	grasp_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	grater	grater	NN	NN	O	0	_	grater_1	grater_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	box_1	box_2	
+8	that	that	WDT	WDT	O	11	_			
+9	is	be	VB	VBZ	O	7	_			
+10	tightly	tightly	RB	RB	O	11	_			
+11	grasped	grasp	VB	VBN	O	7	_	grasp_1	grasp_3	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	man_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_3	box_3	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	grasps	grasp	VB	VBZ	O	4	_	grasp_3	grasp_3	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_3	box_3	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	grasps	grasp	VB	VBZ	O	4	_	grasp_3	grasp_3	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_3	box_3	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	grasps	grasp	VB	VBZ	O	4	_	grasp_3	grasp_3	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_3	box_3	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	grasp	grasp	VB	VBZ	O	4	_	grasp_3	grasp_3	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_3	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	grasped	grasp	VB	VBN	O	7	_	grasp_3	grasp_3	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_3	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	grasped	grasp	VB	VBN	O	7	_	grasp_3	grasp_3	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_3	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	open	open	VB	VBN	O	7	_	grasp_3	open_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_3	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	grasped	grasp	VB	VBN	O	7	_	grasp_3	grasp_3	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	grasps	grasp	VBZ	VBZ	O	0	_	grasp_1	grasp_1	
+4	the	the	DT	DT	O	5	_			
+5	grater	grater	NN	NN	O	3	_	grater_1	grater_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	grasp	grasp	VB	VBZ	O	0	_	grasp_1	grasp_1	
+4	the	the	DT	DT	O	5	_			
+5	grater	grater	NN	NN	O	3	_	grater_1	grater_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	grasps	grasp	VBZ	VBZ	O	0	_	grasp_1	grasp_1	
+4	the	the	DT	DT	O	5	_			
+5	grater	grater	NN	NN	O	3	_	grater_1	grater_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	grasps	grasp	VBZ	VBZ	O	0	_	grasp_1	grasp_1	
+4	the	the	DT	DT	O	5	_			
+5	grater	grater	NN	NN	O	3	_	grater_1	grater_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	box_1	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	grater	grater	NN	NN	O	7	_	grater_1	grater_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	box_1	box_1	
+6	is	be	VB	VBZ	O	7	_			
+7	grasped	grasp	VB	VBN	O	0	_	grasp_1	grasp_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	grater	grater	NN	NN	O	7	_	grater_1	grater_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	box_1	box_1	
+6	is	be	VB	VBZ	O	7	_			
+7	grasped	grasp	VB	VBN	O	0	_	grasp_1	grasp_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	grater	grater	NN	NN	O	7	_	grater_1	grater_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	box_1	box_1	
+6	is	be	VB	VBZ	O	7	_			
+7	grasp	grasp	VB	VBN	O	0	_	grasp_1	grasp_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	grater	grater	NN	NN	O	7	_	grater_1	grater_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	box_1	box_1	
+6	is	be	VB	VBZ	O	7	_			
+7	grasped	grasp	VB	VBN	O	0	_	grasp_1	grasp_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	grasps	grasp	VB	VBZ	O	0	_	grasp_3	grasp_3	
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	3	_	box_3	box_3	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	water	water	NN	NN	O	9	_			
+9	boiler	boiler	NN	NN	O	5	_	boiler_1	boiler_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	grasp	grasp	VB	VBZ	O	0	_	grasp_3	grasp_3	
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	3	_	box_3	box_3	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	water	water	NN	NN	O	9	_			
+9	boiler	boiler	NN	NN	O	5	_	boiler_1	boiler_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	grasps	grasp	VB	VBZ	O	0	_	grasp_3	grasp_3	
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	3	_	box_3	box_3	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	water	water	NN	NN	O	9	_			
+9	boiler	boiler	NN	NN	O	5	_	boiler_1	boiler_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	grasps	grasp	VB	VBZ	O	0	_	grasp_3	grasp_3	
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	3	_	box_3	box_3	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	water	water	NN	NN	O	9	_			
+9	counter	counter	NN	NN	O	5	_	boiler_1	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	box	box	NN	NN	O	8	_	box_3	box_3	
+3	next	next	JJ	JJ	O	5	_			
+4	to	to	TO	TO	O	5	_			
+5	water	water	NN	NN	O	6	_			
+6	boiler	boiler	NN	NN	O	2	_	boiler_1	boiler_1	
+7	is	be	VB	VBZ	O	8	_			
+8	grasped	grasp	VB	VBN	O	0	_	grasp_3	grasp_3	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	8	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	box	box	NN	NN	O	8	_	box_3	box_3	
+3	next	next	JJ	JJ	O	6	_			
+4	to	to	TO	TO	O	6	_			
+5	water	water	NN	NN	O	6	_			
+6	counter	counter	NN	NN	O	2	_	boiler_1	counter_2	
+7	is	be	VB	VBZ	O	8	_			
+8	grasped	grasp	VB	VBN	O	0	_	grasp_3	grasp_3	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	8	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	box	box	NN	NN	O	8	_	box_3	box_3	
+3	next	next	JJ	JJ	O	5	_			
+4	to	to	TO	TO	O	5	_			
+5	water	water	NN	NN	O	6	_			
+6	boiler	boiler	NN	NN	O	2	_	boiler_1	boiler_1	
+7	is	be	VB	VBZ	O	8	_			
+8	grasp	grasp	VB	VBN	O	0	_	grasp_3	grasp_3	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	8	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	box	box	NN	NN	O	8	_	box_3	box_3	
+3	next	next	JJ	JJ	O	5	_			
+4	to	to	TO	TO	O	5	_			
+5	water	water	NN	NN	O	6	_			
+6	boiler	boiler	NN	NN	O	2	_	boiler_1	boiler_1	
+7	is	be	VB	VBZ	O	8	_			
+8	grasped	grasp	VB	VBN	O	0	_	grasp_3	grasp_3	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	8	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	grasps	grasp	VB	VBZ	O	0	_	grasp_2	grasp_2	
+4	the	the	DT	DT	O	5	_			
+5	ladle	ladle	NN	NN	O	3	_	ladle_1	ladle_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	5	_	box_2	box_2	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	grater	grater	NN	NN	O	9	_	grater_2	grater_2	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	grasp	grasp	VB	VBZ	O	0	_	grasp_2	grasp_2	
+4	the	the	DT	DT	O	5	_			
+5	ladle	ladle	NN	NN	O	3	_	ladle_1	ladle_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	5	_	box_2	box_2	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	grater	grater	NN	NN	O	9	_	grater_2	grater_2	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	grasps	grasp	VB	VBZ	O	0	_	grasp_2	grasp_2	
+4	the	the	DT	DT	O	5	_			
+5	ladle	ladle	NN	NN	O	3	_	ladle_1	ladle_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	5	_	box_2	box_2	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	grater	grater	NN	NN	O	9	_	grater_2	grater_2	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	grasps	grasp	VB	VBZ	O	0	_	grasp_2	grasp_2	
+4	the	the	DT	DT	O	5	_			
+5	ladle	ladle	NN	NN	O	3	_	ladle_1	ladle_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	5	_	box_2	box_2	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	grater	grater	NN	NN	O	9	_	grater_2	grater_2	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	grasps	grasp	VB	VBZ	O	0	_	grasp_2	grasp_2	
+4	the	the	DT	DT	O	5	_			
+5	ladle	ladle	NN	NN	O	3	_	ladle_1	ladle_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	5	_	box_2	box_2	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	counter	counter	NN	NN	O	9	_	grater_2	counter_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	ladle	ladle	NN	NN	O	13	_	ladle_1	ladle_1	
+3	next	next	JJ	JJ	O	6	_			
+4	to	to	TO	TO	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	box	box	NN	NN	O	2	_	box_2	box_2	
+7	with	with	IN	IN	O	9	_			
+8	a	a	DT	DT	O	9	_			
+9	grater	grater	NN	NN	O	6	_	grater_2	grater_2	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+12	is	be	VB	VBZ	O	13	_			
+13	grasped	grasp	VB	VBN	O	0	_	grasp_2	grasp_2	
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	man	man	NN	NN	O	13	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	ladle	ladle	NN	NN	O	13	_	ladle_1	ladle_1	
+3	next	next	JJ	JJ	O	6	_			
+4	to	to	TO	TO	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	box	box	NN	NN	O	2	_	box_2	box_2	
+7	with	with	IN	IN	O	9	_			
+8	a	a	DT	DT	O	9	_			
+9	grater	grater	NN	NN	O	6	_	grater_2	grater_2	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+12	is	be	VB	VBZ	O	13	_			
+13	grasped	grasp	VB	VBN	O	0	_	grasp_2	grasp_2	
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	man	man	NN	NN	O	13	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	ladle	ladle	NN	NN	O	13	_	ladle_1	ladle_1	
+3	next	next	JJ	JJ	O	6	_			
+4	to	to	TO	TO	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	box	box	NN	NN	O	2	_	box_2	box_2	
+7	with	with	IN	IN	O	9	_			
+8	a	a	DT	DT	O	9	_			
+9	counter	counter	NN	NN	O	6	_	grater_2	counter_1	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+12	is	be	VB	VBZ	O	13	_			
+13	grasped	grasp	VB	VBN	O	0	_	grasp_2	grasp_2	
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	man	man	NN	NN	O	13	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	ladle	ladle	NN	NN	O	13	_	ladle_1	ladle_1	
+3	next	next	JJ	JJ	O	6	_			
+4	to	to	TO	TO	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	box	box	NN	NN	O	2	_	box_2	box_2	
+7	with	with	IN	IN	O	9	_			
+8	a	a	DT	DT	O	9	_			
+9	grater	grater	NN	NN	O	6	_	grater_2	grater_2	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+12	is	be	VB	VBZ	O	13	_			
+13	grasp	grasp	VB	VBN	O	0	_	grasp_2	grasp_2	
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	man	man	NN	NN	O	13	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	ladle	ladle	NN	NN	O	13	_	ladle_1	ladle_1	
+3	next	next	JJ	JJ	O	6	_			
+4	to	to	TO	TO	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	box	box	NN	NN	O	2	_	box_2	box_2	
+7	with	with	IN	IN	O	9	_			
+8	a	a	DT	DT	O	9	_			
+9	grater	grater	NN	NN	O	6	_	grater_2	grater_2	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+12	is	be	VB	VBZ	O	13	_			
+13	grasped	grasp	VB	VBN	O	0	_	grasp_2	grasp_2	
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	man	man	NN	NN	O	13	_	man_2	man_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	tomato	tomato	NN	NN	O	1	_		tomato_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_16	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	6	_	grater_3	counter_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	spatula	spatula	NN	NN	O	1	_		spatula_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_14	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	box	box	NN	NN	O	6	_	grater_2	box_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	mug_2	mug_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	wallet	wallet	NN	NN	O	6	_		wallet_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	tomato	tomato	NN	NN	O	2	_		tomato_1	
+4	and	and	CC	CC	O	3	_			
+5	grater	grater	NN	NN	O	3	_	grater_3	grater_3	
+6	that	that	WDT	WDT	O	7	_			
+7	lie	lie	VB	VBP	O	5	_		lie_16	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	tray	tray	NN	NN	O	7	_	tray_1	tray_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	tomato	tomato	NN	NN	O	2	_		tomato_1	
+4	and	and	CC	CC	O	3	_			
+5	grater	grater	NN	NN	O	3	_	grater_3	grater_3	
+6	that	that	WDT	WDT	O	7	_			
+7	lie	lie	VB	VBP	O	5	_		lie_15	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	tray_1	counter_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	lid	lid	NN	NN	O	3	_	lid_3	lid_3	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_3	box_3	
+9	on	on	IN	IN	O	12	_			
+10	the	the	DT	DT	O	12	_			
+11	marble	marble	JJ	JJ	O	12	_	marble	marble	
+12	counter	counter	NN	NN	O	8	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	open	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	lid	lid	NN	NN	O	3	_	lid_3	lid_3	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_3	box_3	
+9	on	on	IN	IN	O	12	_			
+10	the	the	DT	DT	O	12	_			
+11	marble	marble	JJ	JJ	O	12	_	marble	marble	
+12	counter	counter	NN	NN	O	8	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	lid	lid	NN	NN	O	3	_	lid_3	lid_3	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_3	box_3	
+9	on	on	IN	IN	O	12	_			
+10	the	the	DT	DT	O	12	_			
+11	marble	marble	JJ	JJ	O	12	_	marble	marble	
+12	counter	counter	NN	NN	O	8	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	lid	lid	NN	NN	O	3	_	lid_3	lid_3	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_3	box_3	
+9	on	on	IN	IN	O	12	_			
+10	the	the	DT	DT	O	12	_			
+11	marble	marble	JJ	JJ	O	12	_	marble	marble	
+12	counter	counter	NN	NN	O	8	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	lid	lid	NN	NN	O	3	_	lid_3	lid_3	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_3	box_3	
+9	on	on	IN	IN	O	12	_			
+10	the	the	DT	DT	O	12	_			
+11	marble	marble	JJ	JJ	O	12	_	marble	marble	
+12	counter	counter	NN	NN	O	8	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	lid	lid	NN	NN	O	3	_	lid_3	lid_3	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_3	box_3	
+9	on	on	IN	IN	O	12	_			
+10	the	the	DT	DT	O	12	_			
+11	marble	marble	JJ	JJ	O	12	_	marble	marble	
+12	counter	counter	NN	NN	O	8	_	counter_2	counter_2	
+
+1	the	the	DT	DT	O	2	_			
+2	lid	lid	NN	NN	O	11	_	lid_3	lid_3	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	box_3	box_3	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	marble	marble	JJ	JJ	O	9	_	marble	marble	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+10	is	be	VB	VBZ	O	11	_			
+11	opened	open	VB	VBN	O	0	_	open_1	open_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	lid	lid	NN	NN	O	11	_	lid_3	lid_3	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	box_3	box_3	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	marble	marble	JJ	JJ	O	9	_	marble	marble	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+10	is	be	VB	VBZ	O	11	_			
+11	opened	open	VB	VBN	O	0	_	open_1	open_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	lid	lid	NN	NN	O	11	_	lid_3	lid_3	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	box_3	box_3	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	marble	counter_2	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_1	
+10	is	be	VB	VBZ	O	11	_			
+11	opened	open	VB	VBN	O	0	_	open_1	open_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	lid	lid	NN	NN	O	11	_	lid_3	lid_3	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	box_3	box_3	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	marble	marble	JJ	JJ	O	9	_	marble	marble	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+10	is	be	VB	VBZ	O	11	_			
+11	opened	open	VB	VBN	O	0	_	open_1	open_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	lid	lid	NN	NN	O	11	_	lid_3	lid_3	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	box_3	box_3	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	marble	marble	JJ	JJ	O	9	_	marble	marble	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+10	is	be	VB	VBZ	O	11	_			
+11	open	open	VB	VBN	O	0	_	open_1	open_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	lid	lid	NN	NN	O	11	_	lid_3	lid_3	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	box_3	box_3	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	marble	marble	JJ	JJ	O	9	_	marble	marble	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+10	is	be	VB	VBZ	O	11	_			
+11	opened	open	VB	VBN	O	0	_	open_1	open_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	mug_1//box_1	mug_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	on	on	IN	IN	O	10	_			
+8	the	the	DT	DT	O	10	_			
+9	??	wooden	JJ	JJ	O	10	_	wooden	wooden	
+10	counter	counter	NN	NN	O	6	_	counter_1	counter_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	mug_1	mug_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	on	on	IN	IN	O	10	_			
+8	the	the	DT	DT	O	10	_			
+9	wooden	wooden	JJ	JJ	O	10	_	wooden	wooden	
+10	counter	counter	NN	NN	O	6	_	counter_1	counter_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	mug_1	mug_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	on	on	IN	IN	O	10	_			
+8	the	the	DT	DT	O	10	_			
+9	wooden	wooden	JJ	JJ	O	10	_	wooden	wooden	
+10	counter	counter	NN	NN	O	6	_	counter_1	counter_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	tray	tray	NN	NN	O	1	_	tray_1	tray_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	wooden	wooden	JJ	JJ	O	11	_	wooden	wooden	
+11	counter	counter	NN	NN	O	7	_	counter_1	counter_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	tray	tray	NN	NN	O	1	_	tray_1	tray_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	wooden	wooden	JJ	JJ	O	11	_	wooden	wooden	
+11	counter	counter	NN	NN	O	7	_	counter_1	counter_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	tray	tray	NN	NN	O	1	_	tray_1	tray_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	wooden	wooden	JJ	JJ	O	11	_	wooden	wooden	
+11	counter	counter	NN	NN	O	7	_	counter_1	counter_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	tray	tray	NN	NN	O	1	_	tray_1	tray_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	wooden	wooden	JJ	JJ	O	11	_	wooden	wooden	
+11	counter	counter	NN	NN	O	7	_	counter_1	counter_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	brown	brown	JJ	JJ	O	5	_	brown	brown	
+5	mug	mug	NN	NN	O	1	_	mug_2	mug_2	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	metal	metal	JJ	JJ	O	9	_	metal	metal	
+9	stool	stool	NN	NN	O	5	_	stool_1	stool_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	brown	brown	JJ	JJ	O	5	_	brown	brown	
+5	mug	mug	NN	NN	O	1	_	mug_2	mug_2	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	metal	metal	JJ	JJ	O	9	_	metal	metal	
+9	stool	stool	NN	NN	O	5	_	stool_1	stool_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	brown	brown	JJ	JJ	O	5	_	brown	brown	
+5	mug	mug	NN	NN	O	1	_	mug_2	mug_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	metal	counter_2	
+9	stool	stool	NN	NN	O	5	_	stool_1	stool_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	brown	brown	JJ	JJ	O	5	_	brown	brown	
+5	mug	mug	NN	NN	O	1	_	mug_2	mug_2	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	metal	metal	JJ	JJ	O	9	_	metal	metal	
+9	counter	counter	NN	NN	O	5	_	stool_1	counter_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cardigan	cardigan	NN	NN	O	0	_	cardigan_1//guitar_1	cardigan_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	sits	sit	VB	VBZ	O	7	_		sit_1	
+12	on	on	IN	IN	O	13	_			
+13	comfortably	comfortably	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	0	_		guitar_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	sits	sit	VB	VBZ	O	7	_		sit_1	
+12	on	on	IN	IN	O	13	_			
+13	comfortably	comfortably	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	0	_		guitar_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	sits	sit	VB	VBZ	O	7	_		sit_1	
+12	on	on	IN	IN	O	13	_			
+13	comfortably	comfortably	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cardigan	cardigan	NN	NN	O	0	_	cardigan_1//guitar_1	cardigan_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	occupied	occupy	VB	VBN	O	7	_		occupy_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	0	_		guitar_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	occupied	occupy	VB	VBN	O	7	_		occupy_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	0	_		guitar_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	occupied	occupy	VB	VBN	O	7	_		occupy_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	0	_	guitar_2	guitar_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_2	couch_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	plays	play	VB	VBZ	O	4	_		play_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	0	_	guitar_2	guitar_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_2	couch_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	plays	play	VB	VBZ	O	4	_		play_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	0	_	guitar_2	guitar_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_2	couch_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	plays	play	VB	VBZ	O	4	_		play_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	pillow	pillow	NN	NN	O	0	_	guitar_2	pillow_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_2	couch_3	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	played	play	VB	VBN	O	7	_		play_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	0	_	guitar_2	guitar_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_2	couch_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	played	play	VB	VBN	O	7	_		play_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	0	_	guitar_2	guitar_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_2	couch_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	played	play	VB	VBN	O	7	_		play_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	sits	sit	VB	VBZ	O	0	_		sit_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	couch	couch	NN	NN	O	3	_	couch_1	couch_1	
+7	with	with	IN	IN	O	9	_			
+8	a	a	DT	DT	O	9	_			
+9	guitar	guitar	NN	NN	O	6	_	guitar_1	guitar_1	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	sits	sit	VB	VBZ	O	0	_		sit_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	couch	couch	NN	NN	O	3	_	couch_1	couch_1	
+7	with	with	IN	IN	O	9	_			
+8	a	a	DT	DT	O	9	_			
+9	guitar	guitar	NN	NN	O	6	_		guitar_1	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	sits	sit	VB	VBZ	O	0	_		sit_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	couch	couch	NN	NN	O	3	_	couch_1	couch_1	
+7	with	with	IN	IN	O	9	_			
+8	a	a	DT	DT	O	9	_			
+9	cardigan	cardigan	NN	NN	O	6	_	cardigan_1//guitar_1	cardigan_1	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+
+1	The	the	DT	DT	O	2	_			
+2	couch	couch	NN	NN	O	9	_	couch_1	couch_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	guitar	guitar	NN	NN	O	2	_	guitar_1	guitar_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	occupied	occupy	VB	VBN	O	0	_		occupy_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	couch	couch	NN	NN	O	9	_	couch_1	couch_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	cardigan	cardigan	NN	NN	O	2	_	cardigan_1//guitar_1	cardigan_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	occupied	occupy	VB	VBN	O	0	_		occupy_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	couch	couch	NN	NN	O	9	_	couch_1	couch_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	guitar	guitar	NN	NN	O	2	_	guitar_1	guitar_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	occupied	occupy	VB	VBN	O	0	_		occupy_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_1	woman_1	
+
+1	the	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	plays	play	VB	VBZ	O	0	_		play_1	
+4	the	the	DT	DT	O	5	_			
+5	guitar	guitar	NN	NN	O	3	_	guitar_2	guitar_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	couch	couch	NN	NN	O	5	_	couch_2	couch_2	
+
+1	the	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	plays	play	VB	VBZ	O	0	_		play_1	
+4	the	the	DT	DT	O	5	_			
+5	guitar	guitar	NN	NN	O	3	_	guitar_2	guitar_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	couch	couch	NN	NN	O	5	_	couch_2	couch_2	
+
+1	the	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	plays	play	VB	VBZ	O	0	_		play_1	
+4	the	the	DT	DT	O	5	_			
+5	guitar	guitar	NN	NN	O	3	_	guitar_2	guitar_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	couch	couch	NN	NN	O	5	_	couch_2	couch_2	
+
+1	the	the	DT	DT	O	2	_			
+2	guitar	guitar	NN	NN	O	7	_	guitar_2	guitar_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_2	couch_2	
+6	is	be	VB	VBZ	O	7	_			
+7	played	play	VB	VBN	O	0	_		play_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	guitar	guitar	NN	NN	O	7	_	guitar_2	guitar_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_2	couch_2	
+6	is	be	VB	VBZ	O	7	_			
+7	played	play	VB	VBN	O	0	_		play_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	guitar	guitar	NN	NN	O	7	_	guitar_2	guitar_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_2	couch_2	
+6	is	be	VB	VBZ	O	7	_			
+7	played	play	VB	VBN	O	0	_		play_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	book	book	NN	NN	O	1	_	flute_1	book_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_17	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	Xylophone	xylophone	NN	NN	O	6	_	xylophone_1	xylophone_1	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	chest	chest	NN	NN	O	10	_	chest_1	chest_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	flute	flute	NN	NN	O	1	_	flute_1	flute_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	xylophone	xylophone	NN	NN	O	6	_	xylophone_1	xylophone_1	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	chest	chest	NN	NN	O	10	_	chest_1	chest_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	flute	flute	NN	NN	O	1	_	flute_1	flute_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	Xylophone	xylophone	NN	NN	O	6	_	xylophone_1	xylophone_1	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	chest	chest	NN	NN	O	10	_	chest_1	chest_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	pillow	pillow	NN	NN	O	1	_	pillow_1	pillow_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_3	couch_3	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	bag	bag	NN	NN	O	9	_	bag_1	bag_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	pillow	pillow	NN	NN	O	1	_	pillow_1	pillow_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_3	couch_3	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	bag	bag	NN	NN	O	9	_	bag_1	bag_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	pillow	pillow	NN	NN	O	1	_	pillow_1	pillow_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_3	couch_3	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	??	bag	NN	NN	O	9	_	bag_1	bag_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	xylophone	xylophone	NN	NN	O	2	_	xylophone_1	xylophone_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	flute	flute	NN	NN	O	4	_	flute_1	flute_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_15	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	chest	chest	NN	NN	O	9	_	chest_1	chest_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	Xylophone	xylophone	NN	NN	O	2	_	xylophone_1	xylophone_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	flute	flute	NN	NN	O	4	_	flute_1	flute_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_15	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	chest	chest	NN	NN	O	9	_	chest_1	chest_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	Xylophone	xylophone	NN	NN	O	2	_	xylophone_1	xylophone_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	flute	flute	NN	NN	O	4	_	flute_1	flute_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_15	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	chest	chest	NN	NN	O	9	_	chest_1	chest_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	2	_	guitar_2//bag_1	guitar_2	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	pillow	pillow	NN	NN	O	4	_		pillow_2	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_13	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	couch	couch	NN	NN	O	9	_	couch_2	couch_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	2	_	guitar_2	guitar_2	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	pillow	pillow	NN	NN	O	4	_		pillow_2	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_13	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	couch	couch	NN	NN	O	9	_	couch_2	couch_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	2	_	guitar_1	guitar_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	cardigan	cardigan	NN	NN	O	4	_	cardigan_1	cardigan_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	couch	couch	NN	NN	O	7	_	couch_1	couch_1	
+11	that	that	IN	IN	O	14	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	14	_	woman_1	woman_1	
+14	sits	sit	VB	VBZ	O	10	_	sit_1	sit_1	
+15	on	on	IN	IN	O	14	_			
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	2	_	guitar_1	guitar_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	cardigan	cardigan	NN	NN	O	4	_	cardigan_1	cardigan_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	couch	couch	NN	NN	O	7	_	couch_1	couch_1	
+11	that	that	IN	IN	O	14	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	14	_	woman_1	woman_1	
+14	sits	sit	VB	VBZ	O	10	_	sit_1	sit_1	
+15	on	on	IN	IN	O	14	_			
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	2	_	guitar_1	guitar_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	cardigan	cardigan	NN	NN	O	4	_	cardigan_1	cardigan_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	couch	couch	NN	NN	O	7	_	couch_1	couch_1	
+11	that	that	IN	IN	O	14	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	14	_	woman_1	woman_1	
+14	sits	sit	VB	VBZ	O	10	_	sit_1	sit_1	
+15	on	on	IN	IN	O	14	_			
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	guitar	guitar	NN	NN	O	2	_	guitar_1	guitar_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	cardigan	cardigan	NN	NN	O	4	_	cardigan_1	cardigan_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	couch	couch	NN	NN	O	7	_	couch_1	couch_1	
+11	that	that	IN	IN	O	14	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	14	_	woman_1	woman_1	
+14	sits	sit	VB	VBZ	O	10	_	sit_1	sit_1	
+15	on	on	IN	IN	O	14	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	breaks	break	VB	VBZ	O	0	_	break_1	break_1	
+4	the	the	DT	DT	O	5	_			
+5	glass	glass	NN	NN	O	3	_	glass_2	glass_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	vitrine	vitrine	NN	NN	O	5	_	vitrine_1	vitrine_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	vase	vase	NN	NN	O	8	_	vase_1	vase_1	
+12	inside	inside	IN	IN	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	break	break	VB	VBZ	O	0	_	break_1	break_1	
+4	the	the	DT	DT	O	5	_			
+5	glass	glass	NN	NN	O	3	_	glass_2	glass_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	vitrine	vitrine	NN	NN	O	5	_	vitrine_1	vitrine_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	vase	vase	NN	NN	O	8	_	vase_1	vase_1	
+12	inside	inside	IN	IN	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	breaks	break	VB	VBZ	O	0	_	break_1	break_1	
+4	the	the	DT	DT	O	5	_			
+5	glass	glass	NN	NN	O	3	_	glass_2	glass_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	vitrine	vitrine	NN	NN	O	5	_	vitrine_1	vitrine_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	vase	vase	NN	NN	O	8	_	vase_1	vase_1	
+12	inside	inside	IN	IN	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	breaks	break	VB	VBZ	O	0	_	break_1	break_1	
+4	the	the	DT	DT	O	5	_			
+5	glass	glass	NN	NN	O	3	_	glass_2	glass_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	vitrine	vitrine	NN	NN	O	5	_	vitrine_1	vitrine_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	vase	vase	NN	NN	O	8	_	vase_1	vase_1	
+12	inside	inside	IN	IN	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	breaks	break	VB	VBZ	O	0	_	break_1	break_1	
+4	the	the	DT	DT	O	5	_			
+5	glass	glass	NN	NN	O	3	_	glass_2	glass_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	vitrine	vitrine	NN	NN	O	5	_	vitrine_1	vitrine_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	vase	vase	NN	NN	O	8	_	vase_1	vase_1	
+12	inside	inside	IN	IN	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	glass	glass	NN	NN	O	11	_	glass_2	glass_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	2	_	vitrine_1	vitrine_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	vase	vase	NN	NN	O	5	_	vase_1	vase_1	
+9	inside	inside	NN	NN	O	5	_			
+10	is	be	VB	VBZ	O	11	_			
+11	broken	break	VB	VBN	O	0	_	break_1	break_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	glass	glass	NN	NN	O	11	_	glass_2	glass_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	2	_	vitrine_1	vitrine_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	vase	vase	NN	NN	O	5	_	vase_1	vase_1	
+9	inside	inside	NN	NN	O	5	_			
+10	is	be	VB	VBZ	O	11	_			
+11	broken	break	VB	VBN	O	0	_	break_1	break_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	glass	glass	NN	NN	O	11	_	glass_2	glass_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	2	_	vitrine_1	vitrine_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	vase	vase	NN	NN	O	5	_	vase_1	vase_1	
+9	inside	inside	NN	NN	O	5	_			
+10	is	be	VB	VBZ	O	11	_			
+11	broken	break	VB	VBN	O	0	_	break_1	break_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	glass	glass	NN	NN	O	11	_	glass_2	glass_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	2	_	vitrine_1	vitrine_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	vase	vase	NN	NN	O	5	_	vase_1	vase_1	
+9	inside	inside	NN	NN	O	5	_			
+10	is	be	VB	VBZ	O	11	_			
+11	break	break	VB	VBN	O	0	_	break_1	break_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	glass	glass	NN	NN	O	11	_	glass_2	glass_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	2	_	vitrine_1	vitrine_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	vase	vase	NN	NN	O	5	_	vase_1	vase_1	
+9	inside	inside	NN	NN	O	5	_			
+10	is	be	VB	VBZ	O	11	_			
+11	broken	break	VB	VBN	O	0	_	break_1	break_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	attunes	attune	VB	VBZ	O	0	_	attune_1	attune_1	
+4	the	the	DT	DT	O	5	_			
+5	strings	string	NN	NNS	O	3	_	string_2	string_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	guitar	guitar	NN	NN	O	5	_	guitar_2	guitar_2	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	plays	play	VB	VBZ	O	8	_	play_1	play_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	attune	attune	VB	VBZ	O	0	_	attune_1	attune_1	
+4	the	the	DT	DT	O	5	_			
+5	strings	string	NN	NNS	O	3	_	string_2	string_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	guitar	guitar	NN	NN	O	5	_	guitar_2	guitar_2	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	plays	play	VB	VBZ	O	8	_	play_1	play_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	attunes	attune	VB	VBZ	O	0	_	attune_1	attune_1	
+4	the	the	DT	DT	O	5	_			
+5	string	string	NN	NN	O	3	_	string_2	string_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	guitar	guitar	NN	NN	O	5	_	guitar_2	guitar_2	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	plays	play	VB	VBZ	O	8	_	play_1	play_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	attunes	attune	VB	VBZ	O	0	_	attune_1	attune_1	
+4	the	the	DT	DT	O	5	_			
+5	strings	string	NN	NNS	O	3	_	string_2	string_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	guitar	guitar	NN	NN	O	5	_	guitar_2	guitar_2	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	plays	play	VB	VBZ	O	8	_	play_1	play_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	attunes	attune	VB	VBZ	O	0	_	attune_1	attune_1	
+4	the	the	DT	DT	O	5	_			
+5	strings	string	NN	NNS	O	3	_	string_2	string_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	guitar	guitar	NN	NN	O	5	_	guitar_2	guitar_2	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	plays	play	VB	VBZ	O	8	_	play_1	play_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	attunes	attune	VB	VBZ	O	0	_	attune_1	attune_1	
+4	the	the	DT	DT	O	5	_			
+5	strings	string	NN	NNS	O	3	_	string_2	string_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	guitar	guitar	NN	NN	O	5	_	guitar_2	guitar_2	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	play	play	VB	VBZ	O	8	_	play_1	play_1	
+
+1	The	the	DT	DT	O	2	_			
+2	string	string	NN	NN	O	11	_	string_2	string_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	guitar	guitar	NN	NN	O	2	_	guitar_2	guitar_2	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+9	plays	play	VB	VBZ	O	5	_	play_1	play_1	
+10	is	be	VB	VBZ	O	11	_			
+11	attuned	attune	VB	VBD	O	0	_	attune_1	attune_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	strings	string	NN	NNS	O	11	_	string_2	string_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	2	_	guitar_2	vitrine_1	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+9	plays	play	VB	VBZ	O	10	_	play_1	play_1	
+10	is	be	VB	VBZ	O	11	_			
+11	attuned	attune	VB	VBD	O	0	_	attune_1	attune_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	strings	string	NN	NNS	O	11	_	string_2	string_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	guitar	guitar	NN	NN	O	2	_	guitar_2	guitar_2	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+9	plays	play	VB	VBZ	O	5	_	play_1	play_1	
+10	is	be	VB	VBZ	O	11	_			
+11	attuned	attune	VB	VBD	O	0	_	attune_1	attune_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	strings	string	NN	NNS	O	11	_	string_2	string_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	guitar	guitar	NN	NN	O	2	_	guitar_2	guitar_2	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	woman	woman	NN	NN	O	9	_	woman_2	woman_1	
+9	sit	sit	VB	VBZ	O	10	_	play_1	sit_1	
+10	is	be	VB	VBZ	O	11	_			
+11	attuned	attune	VB	VBD	O	0	_	attune_1	attune_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	strings	string	NN	NNS	O	11	_	string_2	string_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	guitar	guitar	NN	NN	O	2	_	guitar_2	guitar_2	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+9	plays	play	VB	VBZ	O	5	_	play_1	play_1	
+10	is	be	VB	VBZ	O	11	_			
+11	attune	attune	VB	VBN	O	0	_	attune_1	attune_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	strings	string	NN	NNS	O	11	_	string_2	string_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	guitar	guitar	NN	NN	O	2	_	guitar_2	guitar_2	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+9	plays	play	VB	VBZ	O	5	_	play_1	play_1	
+10	is	be	VB	VBZ	O	11	_			
+11	attuned	attune	VB	VBD	O	0	_	attune_1	attune_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	white	white	JJ	JJ	O	5	_	white	white	
+5	guitar	guitar	NN	NN	O	1	_	guitar_1	guitar_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	beige	beige	JJ	JJ	O	9	_	beige	beige	
+9	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	sits	sit	VB	VBZ	O	9	_	sit_1	sit_1	
+14	on	on	IN	IN	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	white	white	JJ	JJ	O	5	_	white	white	
+5	guitar	guitar	NN	NN	O	1	_	guitar_1	guitar_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	beige	beige	JJ	JJ	O	9	_	beige	beige	
+9	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	sits	sit	VB	VBZ	O	9	_	sit_1	sit_1	
+14	on	on	IN	IN	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	white	white	JJ	JJ	O	5	_	white	white	
+5	guitar	guitar	NN	NN	O	1	_	guitar_1	guitar_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	beige	beige	JJ	JJ	O	9	_	beige	beige	
+9	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	sits	sit	VB	VBZ	O	9	_	sit_1	sit_1	
+14	on	on	IN	IN	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	white	white	JJ	JJ	O	5	_	white	white	
+5	guitar	guitar	NN	NN	O	1	_	guitar_1	guitar_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	beige	beige	JJ	JJ	O	9	_	beige	beige	
+9	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	sits	sit	VB	VBZ	O	9	_	sit_1	sit_1	
+14	on	on	IN	IN	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	white	white	JJ	JJ	O	5	_	white	white	
+5	guitar	guitar	NN	NN	O	1	_	guitar_1	guitar_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	beige	beige	JJ	JJ	O	9	_	beige	beige	
+9	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	sits	sit	VB	VBZ	O	9	_	sit_1	sit_1	
+14	on	on	IN	IN	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	white	white	JJ	JJ	O	5	_	white	white	
+5	guitar	guitar	NN	NN	O	1	_	guitar_1	guitar_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	beige	beige	JJ	JJ	O	9	_	beige	beige	
+9	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	sit	sit	VB	VBZ	O	9	_	sit_1	sit_1	
+14	on	on	IN	IN	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	pillow	pillow	NN	NN	O	1	_	pillow_1	pillow_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VBZ	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	beige	beige	JJ	JJ	O	11	_	beige	beige	
+11	couch	couch	NN	NN	O	7	_	couch_3	couch_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	pillow	pillow	NN	NN	O	1	_	pillow_1	pillow_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VBZ	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	beige	beige	JJ	JJ	O	11	_	beige	beige	
+11	couch	couch	NN	NN	O	7	_	couch_3	couch_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	pillow	pillow	NN	NN	O	1	_	pillow_1	pillow_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VBZ	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	beige	beige	JJ	JJ	O	11	_	beige	beige	
+11	couch	couch	NN	NN	O	7	_	couch_3	couch_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	pillow	pillow	NN	NN	O	1	_	pillow_1	pillow_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VBZ	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	beige	beige	JJ	JJ	O	11	_	beige	beige	
+11	couch	couch	NN	NN	O	7	_	couch_3	couch_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	blue	pink	
+5	pillow	pillow	NN	NN	O	1	_	pillow_2	pillow_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	blue	blue	JJ	JJ	O	9	_	blue	blue	
+9	couch	couch	NN	NN	O	5	_	couch_2	couch_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	pillow	pillow	NN	NN	O	1	_	pillow_2	pillow_2	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	blue	blue	JJ	JJ	O	9	_	blue	blue	
+9	couch	couch	NN	NN	O	5	_	couch_2	couch_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	pillow	pillow	NN	NN	O	1	_	pillow_2	pillow_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	vitrine	vitrine	NN	NN	O	9	_	blue	vitrine_1	
+9	couch	couch	NN	NN	O	5	_	couch_2	couch_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	pillow	pillow	NN	NN	O	1	_	pillow_2	pillow_2	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	blue	blue	JJ	JJ	O	9	_	blue	blue	
+9	couch	couch	NN	NN	O	5	_	couch_2	couch_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	white	white	JJ	JJ	O	5	_	white	white	
+5	guitar	guitar	NN	NN	O	1	_	guitar_3	guitar_3	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_14	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	piano	piano	NN	NN	O	7	_	piano_1	piano_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	white	white	JJ	JJ	O	5	_	white	white	
+5	guitar	guitar	NN	NN	O	1	_	guitar_3	guitar_3	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_14	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	piano	piano	NN	NN	O	7	_	piano_1	piano_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	cardigan	cardigan	NN	NN	O	1	_	cardigan_1	cardigan_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_12	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	guitar	guitar	NN	NN	O	6	_	guitar_1	guitar_1	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	couch	couch	NN	NN	O	10	_	couch_1	couch_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	cardigan	cardigan	NN	NN	O	1	_	cardigan_1	cardigan_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_12	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	guitar	guitar	NN	NN	O	6	_	guitar_1	guitar_1	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	couch	couch	NN	NN	O	10	_	couch_1	couch_1	
+

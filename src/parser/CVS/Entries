@@ -1,0 +1,17 @@
+/DependencyArcList.java/1.1.1.1/Mon Aug 31 16:15:56 2015//TR1
+/DependencyInstance.java/1.1.1.1/Mon Aug 31 16:15:56 2015//TR1
+/DependencyParser.java/1.1.1.1/Mon Aug 31 16:15:56 2015//TR1
+/DependencyPipe.java/1.1.1.1/Mon Aug 31 16:15:56 2015//TR1
+/Evaluator.java/1.1.1.1/Mon Aug 31 16:15:56 2015//TR1
+/GlobalFeatureData.java/1.1.1.1/Mon Aug 31 16:15:56 2015//TR1
+/LocalFeatureData.java/1.1.1.1/Mon Aug 31 16:15:56 2015//TR1
+/LowRankParam.java/1.1.1.1/Mon Aug 31 16:15:56 2015//TR1
+/Options.java/1.1.1.1/Mon Aug 31 16:15:56 2015//TR1
+/Parameters.java/1.1.1.1/Mon Aug 31 16:15:56 2015//TR1
+/talbanken05_train.conll/1.1.1.1/Mon Aug 31 16:15:56 2015//TR1
+D/decoding////
+D/feature////
+D/io////
+D/pruning////
+D/sampling////
+D/visual////

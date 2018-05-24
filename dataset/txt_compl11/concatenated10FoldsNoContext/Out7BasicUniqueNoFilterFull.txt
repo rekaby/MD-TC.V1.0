@@ -1,0 +1,1916 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	book_1	box_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_2	
+11	reads	read	VB	VBZ	O	4	_	read_1	read_2	
+12	quietly	quietly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	book	book	NN	NN	O	0	_	book_1	book_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	couch_1	box_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_2	
+11	reads	read	VB	VBZ	O	4	_	read_1	read_2	
+12	quietly	quietly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	book	book	NN	NN	O	0	_	book_1	book_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	man_1	woman_2	
+11	reads	read	VB	VBZ	O	4	_	read_1	read_2	
+12	quietly	quietly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	book	book	NN	NN	O	0	_	book_1	book_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_2	
+11	box	box	VB	VBZ	O	4	_	read_1	box_1	
+12	quietly	quietly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	0	_	book_1	mug_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	read	read	VB	VBN	O	7	_	read_1	read_2	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	book	book	NN	NN	O	0	_	book_1	book_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	couch_1	box_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	read	read	VB	VBN	O	7	_	read_1	read_2	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	book	book	NN	NN	O	0	_	book_1	book_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	box	box	VB	VBN	O	7	_	read_1	box_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	book	book	NN	NN	O	0	_	book_1	book_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	read	read	VB	VBN	O	7	_	read_1	read_2	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	mug	mug	NN	NN	O	10	_	man_1	mug_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	couch_1	box_1	
+5	with	with	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	blanket	blanket	NN	NN	O	4	_	blanket_1	blanket_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_2	
+11	sits	sit	VB	VBZ	O	4	_	sit_1	sit_1	
+12	on	on	IN	IN	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	couch	couch	NN	NN	O	0	_	couch_1	couch_1	
+5	with	with	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	blanket	blanket	NN	NN	O	4	_	blanket_1	blanket_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	man_1	woman_2	
+11	sits	sit	VB	VBZ	O	4	_	sit_1	sit_1	
+12	on	on	IN	IN	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	couch	couch	NN	NN	O	0	_	couch_1	couch_1	
+5	with	with	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	blanket	blanket	NN	NN	O	4	_	blanket_1	blanket_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_2	
+11	box	box	VB	VBZ	O	4	_	sit_1	box_1	
+12	on	on	IN	IN	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	newspaper	newspaper	NN	NN	O	0	_		newspaper_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	couch_2	box_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	reads	read	VB	VBZ	O	7	_	read_2	read_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	newspaper	newspaper	NN	NN	O	0	_		newspaper_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_2	couch_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	man_2	woman_2	
+11	reads	read	VB	VBZ	O	4	_	read_2	read_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	newspaper	newspaper	NN	NN	O	0	_		newspaper_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_2	couch_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	mug	mug	VB	VBZ	O	4	_	read_2	mug_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	newspaper	newspaper	NN	NN	O	0	_	newspaper_1	newspaper_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	couch_2	box_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	read	read	VB	VBN	O	7	_	read_2	read_2	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	newspaper	newspaper	NN	NN	O	0	_	newspaper_1	newspaper_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_2	couch_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	box	box	VB	VBN	O	7	_	read_2	box_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	newspaper	newspaper	NN	NN	O	0	_	newspaper_1	newspaper_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_2	couch_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	read	read	VB	VBN	O	7	_	read_2	read_2	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	mug	mug	NN	NN	O	10	_	man_2	mug_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	man_1	woman_2	
+3	reads	read	VB	VBZ	O	0	_	read_1	read_2	
+4	the	the	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_1	book_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	blanket	blanket	NN	NN	O	8	_	blanket_1	blanket_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_2	
+3	mug	mug	VB	VBZ	O	0	_	read_1	mug_1	
+4	the	the	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_1	book_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	blanket	blanket	NN	NN	O	8	_	blanket_1	blanket_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_2	
+3	reads	read	VB	VBZ	O	0	_	read_1	read_2	
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	3	_	book_1	mug_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	blanket	blanket	NN	NN	O	8	_	blanket_1	blanket_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_2	
+3	reads	read	VB	VBZ	O	0	_	read_1	read_2	
+4	the	the	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_1	book_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_	couch_1	mug_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	blanket	blanket	NN	NN	O	8	_	blanket_1	blanket_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_2	
+3	reads	read	VB	VBZ	O	0	_	read_1	read_2	
+4	the	the	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_1	book_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	mug	mug	NN	NN	O	8	_	blanket_1	mug_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	the	the	DT	DT	O	2	_			
+2	mug	mug	NN	NN	O	12	_	book_1	mug_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	blanket	blanket	NN	NN	O	5	_	blanket_1	blanket_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	read	read	VB	VBN	O	0	_	read_1	read_2	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_2	
+
+1	the	the	DT	DT	O	2	_			
+2	book	book	NN	NN	O	12	_	book_1	book_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	2	_	couch_1	mug_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	blanket	blanket	NN	NN	O	5	_	blanket_1	blanket_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	read	read	VB	VBN	O	0	_	read_1	read_2	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_2	
+
+1	the	the	DT	DT	O	2	_			
+2	book	book	NN	NN	O	12	_	book_1	book_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_	blanket_1	mug_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	read	read	VB	VBN	O	0	_	read_1	read_2	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_2	
+
+1	the	the	DT	DT	O	2	_			
+2	book	book	NN	NN	O	12	_	book_1	book_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	blanket	blanket	NN	NN	O	5	_	blanket_1	blanket_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	box	box	VB	VBN	O	0	_	read_1	box_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_2	
+
+1	the	the	DT	DT	O	2	_			
+2	book	book	NN	NN	O	12	_	book_1	book_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	blanket	blanket	NN	NN	O	5	_	blanket_1	blanket_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	read	read	VB	VBN	O	0	_	read_1	read_2	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	mug	mug	NN	NN	O	12	_	man_1	mug_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	book	book	NN	NN	O	1	_	laptop_1	book_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	mug	mug	NN	NN	O	6	_	mug_1	mug_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	laptop	laptop	NN	NN	O	1	_	laptop_1	laptop_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	box	box	NN	NN	O	6	_	mug_1	box_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	mug_1	mug_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	table	table	NN	NN	O	6	_	table_1	table_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	mug_1	mug_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	6	_	table_1	box_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	blanket_2//newspaper_1	mug_1	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	book	book	NN	NN	O	4	_	book_3	book_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	box	box	NN	NN	O	10	_		box_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	blanket	blanket	NN	NN	O	1	_	blanket_2	blanket_2	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	4	_	book_3	mug_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	box	box	NN	NN	O	10	_		box_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	blanket	blanket	NN	NN	O	2	_	blanket_1	blanket_2	
+4	and	and	CC	CC	O	3	_			
+5	woman	woman	VB	VBZ	O	6	_	book_1	woman_2	
+6	lying	lie	VB	VBG	O	3	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_		couch_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	mug	mug	NN	NN	O	2	_	mug_1	mug_1	
+4	and	and	CC	CC	O	3	_			
+5	laptop	laptop	NN	NN	O	3	_	laptop_1	laptop_1	
+6	lying	lie	VB	VBG	O	5	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	table	table	NN	NN	O	6	_	table_1	table_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	mug	mug	NN	NN	O	2	_	mug_1	mug_1	
+4	and	and	CC	CC	O	3	_			
+5	box	box	NN	NN	O	3	_	laptop_1	box_1	
+6	lying	lie	VB	VBG	O	5	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	table	table	NN	NN	O	6	_	table_1	table_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	mug	mug	NN	NN	O	2	_	mug_1	mug_1	
+4	and	and	CC	CC	O	3	_			
+5	laptop	laptop	NN	NN	O	3	_	laptop_1	laptop_1	
+6	lying	lie	VB	VBG	O	5	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	6	_	table_1	box_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	0	_	bag_1	mug_1	
+5	and	and	CC	CC	O	4	_			
+6	shoe	shoe	NN	NN	O	4	_	shoe_1	shoe_1	
+7	that	that	WDT	WDT	O	8	_			
+8	lies	lie	VB	VBZ	O	6	_		lie_11	
+9	next	next	JJ	JJ	O	8	_			
+10	to	to	TO	TO	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	couch	couch	NN	NN	O	8	_	couch_1	couch_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bag	bag	NN	NN	O	0	_	bag_1	bag_1	
+5	and	and	CC	CC	O	4	_			
+6	mug	mug	NN	NN	O	4	_	shoe_1	mug_1	
+7	that	that	WDT	WDT	O	8	_			
+8	lies	lie	VB	VBZ	O	6	_		lie_11	
+9	next	next	JJ	JJ	O	8	_			
+10	to	to	TO	TO	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	couch	couch	NN	NN	O	8	_	couch_1	couch_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bag	bag	NN	NN	O	0	_	bag_1	bag_1	
+5	and	and	CC	CC	O	4	_			
+6	shoe	shoe	NN	NN	O	4	_	shoe_1	shoe_1	
+7	that	that	WDT	WDT	O	8	_			
+8	lies	lie	VB	VBZ	O	6	_		lie_11	
+9	next	next	JJ	JJ	O	8	_			
+10	to	to	TO	TO	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	box	box	NN	NN	O	8	_	couch_1	box_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	plug	plug	NN	NN	O	3	_	plug_1	plug_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	laptop	laptop	NN	NN	O	5	_	laptop_1	laptop_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	table	table	NN	NN	O	10	_	table_1	table_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	3	_	plug_1	mug_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	laptop	laptop	NN	NN	O	5	_	laptop_1	laptop_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	table	table	NN	NN	O	10	_	table_1	table_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	plug	plug	NN	NN	O	3	_	plug_1	plug_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_	laptop_1	mug_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	table	table	NN	NN	O	10	_	table_1	table_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	plug	plug	NN	NN	O	3	_	plug_1	plug_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	laptop	laptop	NN	NN	O	5	_	laptop_1	laptop_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	mug	mug	NN	NN	O	10	_	table_1	mug_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	fluffs	fluff	VB	VBZ	O	0	_	fluff_1	fluff_1	
+4	out	out	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	pillow	pillow	NN	NN	O	3	_	pillow_1	pillow_1	
+7	of	of	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_1	couch_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	13	_	man_1	man_2	
+13	sits	sit	VB	VBZ	O	9	_	sit_1	sit_1	
+14	on	on	IN	IN	O	13	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	mug	mug	VB	VBZ	O	0	_	fluff_1	mug_1	
+4	out	out	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	pillow	pillow	NN	NN	O	3	_	pillow_1	pillow_1	
+7	of	of	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_1	couch_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	13	_	man_1	man_2	
+13	sits	sit	VB	VBZ	O	9	_	sit_1	sit_1	
+14	on	on	IN	IN	O	13	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	fluffs	fluff	VB	VBZ	O	0	_	fluff_1	fluff_1	
+4	out	out	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	mug	mug	NN	NN	O	3	_	pillow_1	mug_1	
+7	of	of	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_1	couch_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	13	_	man_1	man_2	
+13	sits	sit	VB	VBZ	O	9	_	sit_1	sit_1	
+14	on	on	IN	IN	O	13	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	fluffs	fluff	VB	VBZ	O	0	_	fluff_1	fluff_1	
+4	out	out	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	pillow	pillow	NN	NN	O	3	_	pillow_1	pillow_1	
+7	of	of	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	6	_	couch_1	box_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	13	_	man_1	man_2	
+13	sits	sit	VB	VBZ	O	9	_	sit_1	sit_1	
+14	on	on	IN	IN	O	13	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	fluffs	fluff	VB	VBZ	O	0	_	fluff_1	fluff_1	
+4	out	out	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	pillow	pillow	NN	NN	O	3	_	pillow_1	pillow_1	
+7	of	of	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_1	couch_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	man_1	woman_1	
+13	sits	sit	VB	VBZ	O	9	_	sit_1	sit_1	
+14	on	on	IN	IN	O	13	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	fluffs	fluff	VB	VBZ	O	0	_	fluff_1	fluff_1	
+4	out	out	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	pillow	pillow	NN	NN	O	3	_	pillow_1	pillow_1	
+7	of	of	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_1	couch_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	13	_	man_1	man_2	
+13	box	box	VB	VBZ	O	6	_	sit_1	box_1	
+14	on	on	IN	IN	O	13	_			
+
+1	The	the	DT	DT	O	2	_			
+2	mug	mug	NN	NN	O	12	_	pillow_1	mug_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	man	man	NN	NN	O	9	_	man_1	man_2	
+9	sits	sit	VB	VBZ	O	5	_	sit_1	sit_1	
+10	on	on	IN	IN	O	12	_			
+11	is	be	VB	VBZ	O	12	_			
+12	fluffed	fluff	VB	VBN	O	0	_	fluff_1	fluff_1	
+13	out	out	RP	RP	O	12	_			
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pillow	pillow	NN	NN	O	12	_	pillow_1	pillow_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	couch_1	box_1	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	man	man	NN	NN	O	9	_	man_1	man_2	
+9	sits	sit	VB	VBZ	O	5	_	sit_1	sit_1	
+10	on	on	IN	IN	O	12	_			
+11	is	be	VB	VBZ	O	12	_			
+12	fluffed	fluff	VB	VBN	O	0	_	fluff_1	fluff_1	
+13	out	out	RP	RP	O	12	_			
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pillow	pillow	NN	NN	O	12	_	pillow_1	pillow_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	woman	woman	NN	NN	O	9	_	man_1	woman_2	
+9	sits	sit	VB	VBZ	O	5	_	sit_1	sit_1	
+10	on	on	IN	IN	O	12	_			
+11	is	be	VB	VBZ	O	12	_			
+12	fluffed	fluff	VB	VBN	O	0	_	fluff_1	fluff_1	
+13	out	out	RP	RP	O	12	_			
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	woman	woman	NN	NN	O	12	_	woman_2	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	pillow	pillow	NN	NN	O	12	_	pillow_1	pillow_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	man	man	NN	NN	O	9	_	man_1	man_2	
+9	box	box	VB	VBZ	O	2	_	sit_1	box_1	
+10	on	on	IN	IN	O	12	_			
+11	is	be	VB	VBZ	O	12	_			
+12	fluffed	fluff	VB	VBN	O	0	_	fluff_1	fluff_1	
+13	out	out	RP	RP	O	12	_			
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pillow	pillow	NN	NN	O	12	_	pillow_1	pillow_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	man	man	NN	NN	O	9	_	man_1	man_2	
+9	sits	sit	VB	VBZ	O	5	_	sit_1	sit_1	
+10	on	on	IN	IN	O	12	_			
+11	is	be	VB	VBZ	O	12	_			
+12	box	box	VB	VBN	O	0	_	fluff_1	box_1	
+13	out	out	RP	RP	O	12	_			
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pillow	pillow	NN	NN	O	12	_	pillow_1	pillow_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	that	that	IN	IN	O	9	_			
+7	the	the	DT	DT	O	8	_			
+8	man	man	NN	NN	O	9	_	man_1	man_2	
+9	sits	sit	VB	VBZ	O	5	_	sit_1	sit_1	
+10	on	on	IN	IN	O	12	_			
+11	is	be	VB	VBZ	O	12	_			
+12	fluffed	fluff	VB	VBN	O	0	_	fluff_1	fluff_1	
+13	out	out	RP	RP	O	12	_			
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	mug	mug	NN	NN	O	12	_	woman_2	mug_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	thin	woman_2	
+5	book	book	NN	NN	O	1	_	book_3	book_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	box	box	NN	NN	O	7	_	box_1	box_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thin	thin	JJ	JJ	O	5	_	thin	thin	
+5	mug	mug	NN	NN	O	1	_	book_3	mug_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	box	box	NN	NN	O	7	_	box_1	box_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thin	thin	JJ	JJ	O	5	_	thin	thin	
+5	book	book	NN	NN	O	1	_	book_3	book_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	mug	mug	NN	NN	O	7	_	box_1	mug_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	thin	woman_2	
+5	book	book	NN	NN	O	1	_	book_3	book_1	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	8	_			
+8	newspaper	newspaper	NN	NN	O	5	_	newspaper_1	newspaper_1	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	read	read	VB	VBN	O	8	_	read_2	read_2	
+12	by	by	IN	IN	O	15	_			
+13	the	the	DT	DT	O	15	_			
+14	old	old	JJ	JJ	O	15	_		old	
+15	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thin	thin	JJ	JJ	O	5	_	thin	thin	
+5	mug	mug	NN	NN	O	1	_	book_3	mug_1	
+6	next	next	JJ	JJ	O	8	_			
+7	to	to	TO	TO	O	8	_			
+8	newspaper	newspaper	NN	NN	O	5	_	newspaper_1	newspaper_1	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	read	read	VB	VBN	O	8	_	read_2	read_2	
+12	by	by	IN	IN	O	15	_			
+13	the	the	DT	DT	O	15	_			
+14	old	old	JJ	JJ	O	15	_		old	
+15	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thin	thin	JJ	JJ	O	5	_	thin	thin	
+5	book	book	NN	NN	O	1	_	book_3	book_1	
+6	next	next	JJ	JJ	O	8	_			
+7	to	to	TO	TO	O	8	_			
+8	box	box	NN	NN	O	5	_	newspaper_1	box_1	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	read	read	VB	VBN	O	8	_	read_2	read_2	
+12	by	by	IN	IN	O	15	_			
+13	the	the	DT	DT	O	15	_			
+14	old	old	JJ	JJ	O	15	_		old	
+15	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thin	thin	JJ	JJ	O	5	_	thin	thin	
+5	book	book	NN	NN	O	1	_	book_3	book_1	
+6	next	next	JJ	JJ	O	8	_			
+7	to	to	TO	TO	O	8	_			
+8	newspaper	newspaper	NN	NN	O	5	_	newspaper_1	newspaper_1	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	box	box	VB	VBN	O	8	_	read_2	box_1	
+12	by	by	IN	IN	O	15	_			
+13	the	the	DT	DT	O	15	_			
+14	old	old	JJ	JJ	O	15	_		old	
+15	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thin	thin	JJ	JJ	O	5	_	thin	thin	
+5	book	book	NN	NN	O	1	_	book_3	book_1	
+6	next	next	JJ	JJ	O	8	_			
+7	to	to	TO	TO	O	8	_			
+8	newspaper	newspaper	NN	NN	O	5	_	newspaper_1	newspaper_1	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	read	read	VB	VBN	O	8	_	read_2	read_2	
+12	by	by	IN	IN	O	15	_			
+13	the	the	DT	DT	O	15	_			
+14	old	old	JJ	JJ	O	15	_		old	
+15	mug	mug	NN	NN	O	11	_	man_2	mug_1	
+
+1	take	take	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	woman	woman	JJ	JJ	O	4	_	beige	woman_2	
+4	blanket	blanket	NN	NN	O	1	_	blanket_1	blanket_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	IN	IN	O	12	_			
+9	the	the	DT	DT	O	11	_			
+10	young	young	JJ	JJ	O	11	_	young	young	
+11	man	man	NN	NN	O	12	_	man_1	man_2	
+12	sits	sit	VB	VBZ	O	4	_	sit_1	sit_1	
+13	on	on	IN	IN	O	12	_			
+
+1	take	take	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	beige	beige	JJ	JJ	O	4	_	beige	beige	
+4	mug	mug	NN	NN	O	1	_	blanket_1	mug_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	IN	IN	O	12	_			
+9	the	the	DT	DT	O	11	_			
+10	young	young	JJ	JJ	O	11	_	young	young	
+11	man	man	NN	NN	O	12	_	man_1	man_2	
+12	sits	sit	VB	VBZ	O	4	_	sit_1	sit_1	
+13	on	on	IN	IN	O	12	_			
+
+1	take	take	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	beige	beige	JJ	JJ	O	4	_	beige	beige	
+4	blanket	blanket	NN	NN	O	1	_	blanket_1	blanket_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	couch_1	box_1	
+8	that	that	IN	IN	O	12	_			
+9	the	the	DT	DT	O	11	_			
+10	young	young	JJ	JJ	O	11	_	young	young	
+11	man	man	NN	NN	O	12	_	man_1	man_2	
+12	sits	sit	VB	VBZ	O	4	_	sit_1	sit_1	
+13	on	on	IN	IN	O	12	_			
+
+1	take	take	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	beige	beige	JJ	JJ	O	4	_	beige	beige	
+4	blanket	blanket	NN	NN	O	1	_	blanket_1	blanket_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	mug	mug	NN	NN	O	7	_	young	mug_1	
+11	man	man	NN	NN	O	12	_	man_1	man_2	
+12	sits	sit	VB	VBZ	O	10	_	sit_1	sit_1	
+13	on	on	IN	IN	O	12	_			
+
+1	take	take	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	beige	beige	JJ	JJ	O	4	_	beige	beige	
+4	blanket	blanket	NN	NN	O	1	_	blanket_1	blanket_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	IN	IN	O	12	_			
+9	the	the	DT	DT	O	11	_			
+10	young	young	JJ	JJ	O	11	_	young	young	
+11	woman	woman	NN	NN	O	12	_	man_1	woman_2	
+12	sits	sit	VB	VBZ	O	4	_	sit_1	sit_1	
+13	on	on	IN	IN	O	12	_			
+
+1	take	take	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	beige	beige	JJ	JJ	O	4	_	beige	beige	
+4	blanket	blanket	NN	NN	O	1	_	blanket_1	blanket_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	couch	couch	NN	NN	O	4	_	couch_1	couch_1	
+8	that	that	IN	IN	O	12	_			
+9	the	the	DT	DT	O	11	_			
+10	young	young	JJ	JJ	O	11	_	young	young	
+11	man	man	NN	NN	O	12	_	man_1	man_2	
+12	box	box	VB	VBZ	O	4	_	sit_1	box_1	
+13	on	on	IN	IN	O	12	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	0	_	apple_1	counter_2	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	basket	basket	NN	NN	O	4	_	basket_1	basket_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_2	
+11	picks	pick	VB	VBZ	O	4	_	pick_1	pick_1	
+12	up	up	RP	RP	O	11	_			
+13	quickly	quickly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_1	apple_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	basket_1	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_2	
+11	picks	pick	VB	VBZ	O	4	_	pick_1	pick_1	
+12	up	up	RP	RP	O	11	_			
+13	quickly	quickly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_1	apple_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	basket	basket	NN	NN	O	4	_	basket_1	basket_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	man_1	woman_1	
+11	picks	pick	VB	VBZ	O	4	_	pick_1	pick_1	
+12	up	up	RP	RP	O	11	_			
+13	quickly	quickly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_1	apple_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	basket	basket	NN	NN	O	4	_	basket_1	basket_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_2	
+11	counter	counter	VB	VBZ	O	4	_	pick_1	counter_2	
+12	up	up	RP	RP	O	11	_			
+13	quickly	quickly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	0	_	apple_1	counter_2	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	basket	basket	NN	NN	O	4	_	basket_1	basket_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	picked	pick	VB	VBN	O	7	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_1	apple_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	basket_1	counter_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	picked	pick	VB	VBN	O	7	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_1	apple_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	basket	basket	NN	NN	O	4	_	basket_1	basket_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	counter	counter	VB	VBN	O	7	_	pick_1	counter_2	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_1	apple_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	basket	basket	NN	NN	O	4	_	basket_1	basket_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	picked	pick	VB	VBN	O	7	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	counter	counter	NN	NN	O	10	_	man_1	counter_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	0	_	apple_2	counter_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	board	board	NN	NN	O	4	_	board_1	board_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	cuts	cut	VB	VBZ	O	4	_	cut_1	cut_1	
+12	into	into	IN	IN	O	13	_			
+13	pieces	piece	NNS	NNS	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_2	apple_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	board_1	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	cuts	cut	VB	VBZ	O	4	_	cut_1	cut_1	
+12	into	into	IN	IN	O	13	_			
+13	pieces	piece	NNS	NNS	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_2	apple_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	board	board	NN	NN	O	4	_	board_1	board_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	man_2	woman_1	
+11	cuts	cut	VB	VBZ	O	4	_	cut_1	cut_1	
+12	into	into	IN	IN	O	13	_			
+13	pieces	piece	NNS	NNS	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_2	apple_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	board	board	NN	NN	O	4	_	board_1	board_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	counter	counter	VB	VBZ	O	4	_	cut_1	counter_2	
+12	into	into	IN	IN	O	13	_			
+13	pieces	piece	NNS	NNS	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	0	_	apple_2	counter_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	board	board	NN	NN	O	4	_	board_1	board_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cut	cut	VB	VBN	O	7	_	cut_1	cut_1	
+11	into	into	IN	IN	O	12	_			
+12	pieces	piece	NN	NNS	O	10	_			
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_2	apple_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	board_1	counter_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cut	cut	VB	VBN	O	7	_	cut_1	cut_1	
+11	into	into	IN	IN	O	12	_			
+12	pieces	piece	NN	NNS	O	10	_			
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_2	apple_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	board	board	NN	NN	O	4	_	board_1	board_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	counter	counter	VB	VBN	O	7	_	cut_1	counter_2	
+11	into	into	IN	IN	O	12	_			
+12	pieces	piece	NN	NNS	O	10	_			
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	an	a	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	0	_	apple_2	apple_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	board	board	NN	NN	O	4	_	board_1	board_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cut	cut	VB	VBN	O	7	_	cut_1	cut_1	
+11	into	into	IN	IN	O	12	_			
+12	pieces	piece	NN	NNS	O	10	_			
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	counter	counter	NN	NN	O	12	_	man_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	man_1	woman_1	
+3	picks	pick	VB	VBZ	O	0	_	pick_1	pick_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	apple	apple	NN	NN	O	3	_	apple_1	apple_1	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	basket	basket	NN	NN	O	6	_	basket_1	basket_1	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	counter	counter	NN	NN	O	9	_		counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_2	
+3	pick	pick	VB	VBZ	O	0	_	pick_1	pick_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	apple	apple	NN	NN	O	3	_	apple_1	apple_1	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	basket	basket	NN	NN	O	6	_	basket_1	basket_1	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	counter	counter	NN	NN	O	9	_		counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_2	
+3	picks	pick	VB	VBZ	O	0	_	pick_1	pick_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	counter	counter	NN	NN	O	3	_	apple_1	counter_2	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	basket	basket	NN	NN	O	6	_	basket_1	basket_1	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	counter	counter	NN	NN	O	9	_		counter_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_2	
+3	picks	pick	VB	VBZ	O	0	_	pick_1	pick_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	apple	apple	NN	NN	O	3	_	apple_1	apple_1	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	counter	counter	NN	NN	O	6	_	basket_1	counter_2	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	counter	counter	NN	NN	O	9	_		counter_1	
+
+1	The	the	DT	DT	O	2	_			
+2	counter	counter	NN	NN	O	10	_	apple_1	counter_2	
+3	in	in	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	basket	basket	NN	NN	O	2	_	basket_1	basket_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_		counter_1	
+9	is	be	VB	VBZ	O	10	_			
+10	picked	pick	VB	VBN	O	0	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	apple	apple	NN	NN	O	10	_	apple_1	apple_1	
+3	in	in	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	basket_1	counter_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_		counter_1	
+9	is	be	VB	VBZ	O	10	_			
+10	picked	pick	VB	VBN	O	0	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	apple	apple	NN	NN	O	10	_	apple_1	apple_1	
+3	in	in	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	basket	basket	NN	NN	O	2	_	basket_1	basket_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_		counter_2	
+9	is	be	VB	VBZ	O	10	_			
+10	pick	pick	VB	VBN	O	0	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	apple	apple	NN	NN	O	10	_	apple_1	apple_1	
+3	in	in	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	basket	basket	NN	NN	O	2	_	basket_1	basket_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_		counter_2	
+9	is	be	VB	VBZ	O	10	_			
+10	picked	pick	VB	VBN	O	0	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	counter	counter	NN	NN	O	10	_	man_1	counter_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	man_2	woman_1	
+3	cuts	cut	VB	VBZ	O	0	_	cut_1	cut_1	
+4	the	the	DT	DT	O	5	_			
+5	apple	apple	NN	NN	O	3	_	apple_2	apple_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	board	board	NN	NN	O	5	_	board_1	board_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	counter	counter	VB	VBZ	O	0	_	cut_1	counter_2	
+4	the	the	DT	DT	O	5	_			
+5	apple	apple	NN	NN	O	3	_	apple_2	apple_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	board	board	NN	NN	O	5	_	board_1	board_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cuts	cut	VB	VBZ	O	0	_	cut_1	cut_1	
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	3	_	apple_2	counter_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	board	board	NN	NN	O	5	_	board_1	board_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cuts	cut	VB	VBZ	O	0	_	cut_1	cut_1	
+4	the	the	DT	DT	O	5	_			
+5	apple	apple	NN	NN	O	3	_	apple_2	apple_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	board_1	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	counter	counter	NN	NN	O	7	_	apple_2	counter_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	board	board	NN	NN	O	2	_	board_1	board_1	
+6	is	be	VB	VBZ	O	7	_			
+7	cut	cut	VB	VBN	O	0	_	cut_1	cut_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	apple	apple	NN	NN	O	7	_	apple_2	apple_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	board_1	counter_2	
+6	is	be	VB	VBZ	O	7	_			
+7	cut	cut	VB	VBN	O	0	_	cut_1	cut_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	apple	apple	NN	NN	O	7	_	apple_2	apple_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	board	board	NN	NN	O	2	_	board_1	board_1	
+6	is	be	VB	VBZ	O	7	_			
+7	pick	pick	VB	VBN	O	0	_	cut_1	pick_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	apple	apple	NN	NN	O	7	_	apple_2	apple_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	board	board	NN	NN	O	2	_	board_1	board_1	
+6	is	be	VB	VBZ	O	7	_			
+7	cut	cut	VB	VBN	O	0	_	cut_1	cut_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	man_2	counter_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	1	_	basket_2	counter_2	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	apple	apple	NN	NN	O	4	_	apple_4	apple_1	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	banana	banana	NN	NN	O	7	_	banana_1	banana_1	
+11	in	in	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+13	that	that	IN	IN	O	14	_			
+14	lies	lie	VB	VBZ	O	4	_		lie_11	
+15	next	next	JJ	JJ	O	14	_			
+16	to	to	TO	TO	O	18	_			
+17	the	the	DT	DT	O	18	_			
+18	eggs	egg	NN	NNS	O	14	_		egg_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	basket	basket	NN	NN	O	1	_	basket_2	basket_1	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	apple_4	counter_2	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	banana	banana	NN	NN	O	7	_	banana_1	banana_1	
+11	in	in	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+13	that	that	IN	IN	O	14	_			
+14	lies	lie	VB	VBZ	O	12	_		lie_11	
+15	next	next	JJ	JJ	O	14	_			
+16	to	to	TO	TO	O	18	_			
+17	the	the	DT	DT	O	18	_			
+18	eggs	egg	NN	NNS	O	14	_		egg_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	basket	basket	NN	NN	O	1	_	basket_2	basket_1	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	apple	apple	NN	NN	O	4	_	apple_4	apple_1	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	banana_1	counter_2	
+11	in	in	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+13	that	that	IN	IN	O	14	_			
+14	lies	lie	VB	VBZ	O	12	_		lie_11	
+15	next	next	JJ	JJ	O	14	_			
+16	to	to	TO	TO	O	18	_			
+17	the	the	DT	DT	O	18	_			
+18	eggs	egg	NN	NNS	O	14	_		egg_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	1	_	apple_1	counter_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	9	_			
+9	pear	pear	NN	NN	O	6	_		pear_1	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	basket	basket	NN	NN	O	9	_	basket_1	basket_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	apple	apple	NN	NN	O	1	_	apple_1	apple_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	9	_			
+9	pear	pear	NN	NN	O	6	_		pear_1	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	counter	counter	NN	NN	O	9	_	basket_1	counter_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	pick	pick	NN	NN	O	2	_	apple_4	pick_1	
+4	and	and	CC	CC	O	3	_			
+5	banana	banana	NN	NN	O	3	_		banana_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lie	lie	VB	VBP	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	basket	basket	NN	NN	O	7	_	basket_2	basket_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	apple	apple	NN	NN	O	2	_	apple_4	apple_1	
+4	and	and	CC	CC	O	3	_			
+5	banana	banana	NN	NN	O	3	_		banana_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lie	lie	VB	VBP	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	basket_2	counter_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	pick	pick	NN	NN	O	2	_	wine_1	pick_1	
+4	and	and	CC	CC	O	3	_			
+5	glass	glass	NN	NN	O	3	_	glass_1	glass_1	
+6	lying	lie	VB	VBG	O	5	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	trolley	trolley	NN	NN	O	6	_	trolley_1	trolley_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	wine	wine	NN	NN	O	2	_	wine_1	wine_1	
+4	and	and	CC	CC	O	3	_			
+5	woman	woman	VB	VBZ	O	6	_	glass_1	woman_1	
+6	lying	lie	VB	VBG	O	3	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	trolley	trolley	NN	NN	O	6	_	trolley_1	trolley_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	wine	wine	NN	NN	O	2	_	wine_1	wine_1	
+4	and	and	CC	CC	O	3	_			
+5	glass	glass	NN	NN	O	3	_	glass_1	glass_1	
+6	lying	lie	VB	VBG	O	5	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	counter	counter	NN	NN	O	6	_	trolley_1	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_		open_1	
+4	the	the	DT	DT	O	5	_			
+5	corks	cork	NN	NNS	O	3	_	cork_1	cork_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	wine	wine	NN	NN	O	5	_	wine_1	wine_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	next	next	JJ	JJ	O	10	_			
+12	to	to	TO	TO	O	13	_			
+13	glass	glass	NN	NN	O	10	_	glass_1	glass_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_		open_1	
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	3	_	cork_1	counter_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	wine	wine	NN	NN	O	5	_	wine_1	wine_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	next	next	JJ	JJ	O	10	_			
+12	to	to	TO	TO	O	13	_			
+13	glass	glass	NN	NN	O	10	_	glass_1	glass_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_		open_1	
+4	the	the	DT	DT	O	5	_			
+5	corks	cork	NN	NNS	O	3	_	cork_1	cork_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	wine_1	counter_2	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	next	next	JJ	JJ	O	10	_			
+12	to	to	TO	TO	O	13	_			
+13	glass	glass	NN	NN	O	10	_	glass_1	glass_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_		open_1	
+4	the	the	DT	DT	O	5	_			
+5	corks	cork	NN	NNS	O	3	_	cork_1	cork_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	wine	wine	NN	NN	O	5	_	wine_1	wine_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	next	next	JJ	JJ	O	10	_			
+12	to	to	TO	TO	O	13	_			
+13	counter	counter	NN	NN	O	10	_	glass_1	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pick	pick	NN	NN	O	12	_	cork_1	pick_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	wine	wine	NN	NN	O	2	_	wine_1	wine_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	10	_			
+10	glass	glass	NN	NN	O	7	_	glass_1	glass_1	
+11	is	be	VB	VBZ	O	12	_			
+12	opened	open	VB	VBN	O	0	_		open_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	corks	cork	NN	NNS	O	12	_	cork_1	cork_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	wine_1	counter_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	10	_			
+10	glass	glass	NN	NN	O	7	_	glass_1	glass_1	
+11	is	be	VB	VBZ	O	12	_			
+12	opened	open	VB	VBN	O	0	_		open_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	corks	cork	NN	NNS	O	12	_	cork_1	cork_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	wine	wine	NN	NN	O	2	_	wine_1	wine_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	10	_			
+10	counter	counter	NN	NN	O	7	_	glass_1	counter_2	
+11	is	be	VB	VBZ	O	12	_			
+12	opened	open	VB	VBN	O	0	_		open_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	corks	cork	NN	NNS	O	12	_	cork_1	cork_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	wine	wine	NN	NN	O	2	_	wine_1	wine_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	10	_			
+10	glass	glass	NN	NN	O	7	_	glass_1	glass_1	
+11	is	be	VB	VBZ	O	12	_			
+12	opened	open	VB	VBN	O	0	_		open_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	counter	counter	NN	NN	O	12	_	woman_1	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	man_2	woman_1	
+3	removes	remove	VB	VBZ	O	0	_	remove_1	remove_1	
+4	the	the	DT	DT	O	5	_			
+5	peel	peel	NN	NN	O	3	_	peel_1	peel_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	apple	apple	NN	NN	O	5	_	apple_2	apple_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	board	board	NN	NN	O	10	_	board_1	board_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	counter	counter	VB	VBZ	O	0	_	remove_1	counter_2	
+4	the	the	DT	DT	O	5	_			
+5	peel	peel	NN	NN	O	3	_	peel_1	peel_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	apple	apple	NN	NN	O	5	_	apple_2	apple_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	board	board	NN	NN	O	10	_	board_1	board_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	removes	remove	VB	VBZ	O	0	_	remove_1	remove_1	
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	3	_	peel_1	counter_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	apple	apple	NN	NN	O	5	_	apple_2	apple_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	board	board	NN	NN	O	10	_	board_1	board_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	removes	remove	VB	VBZ	O	0	_	remove_1	remove_1	
+4	the	the	DT	DT	O	5	_			
+5	peel	peel	NN	NN	O	3	_	peel_1	peel_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	apple_2	counter_2	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	board	board	NN	NN	O	10	_	board_1	board_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	removes	remove	VB	VBZ	O	0	_	remove_1	remove_1	
+4	the	the	DT	DT	O	5	_			
+5	peel	peel	NN	NN	O	3	_	peel_1	peel_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	apple	apple	NN	NN	O	5	_	apple_2	apple_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	counter	counter	NN	NN	O	10	_	board_1	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pick	pick	NN	NN	O	12	_	peel_1	pick_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	apple	apple	NN	NN	O	2	_	apple_2	apple_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	board	board	NN	NN	O	7	_	board_1	board_1	
+11	is	be	VB	VBZ	O	12	_			
+12	removed	remove	VB	VBN	O	0	_	remove_1	remove_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	peel	peel	NN	NN	O	12	_	peel_1	peel_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	apple_2	counter_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	board	board	NN	NN	O	7	_	board_1	board_1	
+11	is	be	VB	VBZ	O	12	_			
+12	removed	remove	VB	VBN	O	0	_	remove_1	remove_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	peel	peel	NN	NN	O	12	_	peel_1	peel_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	apple	apple	NN	NN	O	2	_	apple_2	apple_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	board_1	counter_2	
+11	is	be	VB	VBZ	O	12	_			
+12	removed	remove	VB	VBN	O	0	_	remove_1	remove_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	peel	peel	NN	NN	O	12	_	peel_1	peel_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	apple	apple	NN	NN	O	2	_	apple_2	apple_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	board	board	NN	NN	O	7	_	board_1	board_1	
+11	is	be	VB	VBZ	O	12	_			
+12	pick	pick	VB	VBN	O	0	_	remove_1	pick_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	peel	peel	NN	NN	O	12	_	peel_1	peel_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	apple	apple	NN	NN	O	2	_	apple_2	apple_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	board	board	NN	NN	O	7	_	board_1	board_1	
+11	is	be	VB	VBZ	O	12	_			
+12	removed	remove	VB	VBN	O	0	_	remove_1	remove_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	counter	counter	NN	NN	O	12	_	man_2	counter_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	blue	woman_1	
+5	pot	pot	NN	NN	O	1	_	pot_2	pot_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	counter_2	counter_2	
+11	with	with	IN	IN	O	12	_			
+12	eggs	egg	NN	NNS	O	10	_		egg_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	counter	counter	NN	NN	O	1	_	pot_2	counter_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	counter_2	counter_1	
+11	with	with	IN	IN	O	12	_			
+12	eggs	egg	NN	NNS	O	10	_		egg_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	pot	pot	NN	NN	O	1	_	pot_2	pot_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	counter_2	counter_2	
+11	with	with	IN	IN	O	12	_			
+12	eggs	egg	NN	NNS	O	10	_		egg_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	counter	counter	NN	NN	O	1	_	apple_2	counter_2	
+6	lying	lie	VB	VBG	O	5	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	board	board	NN	NN	O	6	_	board_1	board_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	apple	apple	NN	NN	O	1	_	apple_2	apple_1	
+6	lying	lie	VB	VBG	O	5	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	counter	counter	NN	NN	O	6	_	board_1	counter_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	blue	woman_1	
+5	pot	pot	NN	NN	O	1	_	pot_2	pot_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	board	board	NN	NN	O	7	_	board_1	board_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	counter	counter	NN	NN	O	1	_	pot_2	counter_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	board	board	NN	NN	O	7	_	board_1	board_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	pot	pot	NN	NN	O	1	_	pot_2	pot_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	counter	counter	NN	NN	O	7	_	board_1	counter_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	1	_	basket_2//board_1//egg_1	counter_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_1	
+8	with	with	IN	IN	O	10	_			
+9	a	a	DT	DT	O	10	_			
+10	pot	pot	NN	NN	O	7	_	pot_2	pot_2	
+11	on	on	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+

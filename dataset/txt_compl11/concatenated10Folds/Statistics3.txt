@@ -1,0 +1,52 @@
+Out1BasicUnique1NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	117.0/144.0
+DEBUGGap Filler Reference Accuracy:	117.0/144.0
+DEBUGGap Filler POS Accuracy:	123.0/144.0
+DEBUGGap Filler CPOS Accuracy:	138.0/144.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	400.0/412.0
+  Tokens: 1540
+  Sentences: 144
+  UAS=0.946753	LAS=0.000000	CAS=0.687500	[1432.04s]
+------------------
+Gap Filler Word Accuracy:	0.8125
+Gap Filler Reference Accuracy:	0.8125
+Gap Filler POS Accuracy:	0.8541666666666666
+Gap Filler CPOS Accuracy:	0.9583333333333334
+COMPLETE sentence Reference Accuracy:	0.970873786407767
+
+
+Out2BasicUnique1NoFilterFull
+------------------
+
+
+Out3BasicUnique1NoFilterFull
+------------------
+
+
+Out4BasicUnique1NoFilterFull
+------------------
+
+
+Out5BasicUnique1NoFilterFull
+------------------
+
+
+Out6BasicUnique1NoFilterFull
+------------------
+
+
+Out7BasicUnique1NoFilterFull
+------------------
+
+
+Out8BasicUnique1NoFilterFull
+------------------
+
+
+Out9BasicUnique1NoFilterFull
+------------------
+
+
+Out10BasicUnique1NoFilterFull
+------------------

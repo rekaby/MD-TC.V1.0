@@ -1,0 +1,1863 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	0	_	canvas_1	canvas_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	paints	paint	VB	VBZ	O	4	_		paint_1	
+12	cautiously	cautiously	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	0	_	canvas_1	canvas_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	paints	paint	VB	VBZ	O	4	_		paint_1	
+12	cautiously	cautiously	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	0	_	canvas_1	canvas_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	paints	paint	VB	VBZ	O	4	_		paint_1	
+12	cautiously	cautiously	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	10	_	canvas_1	canvas_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VBZ	VBZ	O	10	_			
+10	painted	paint	VB	VBN	O	0	_		paint_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	10	_	canvas_1	canvas_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VBZ	VBZ	O	10	_			
+10	painted	paint	VB	VBN	O	0	_		paint_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	10	_	canvas_1	canvas_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VBZ	VBZ	O	10	_			
+10	painted	paint	VB	VBN	O	0	_		paint_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	0	_	canvas_2	canvas_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	measures	measure	VB	VBZ	O	4	_		measure_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	0	_	canvas_2	canvas_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	measures	measure	VB	VBZ	O	4	_		measure_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	0	_	canvas_2	canvas_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	measures	measure	VB	VBZ	O	4	_		measure_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	10	_	canvas_2	canvas_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VBZ	VBZ	O	10	_			
+10	measured	measure	VB	VBN	O	0	_		measure_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	10	_	canvas_2	canvas_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VBZ	VBZ	O	10	_			
+10	measured	measure	VB	VBN	O	0	_		measure_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	10	_	canvas_2	canvas_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VBZ	VBZ	O	10	_			
+10	measured	measure	VB	VBN	O	0	_		measure_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	paints	paint	VB	VBZ	O	0	_		paint_1	
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	3	_	canvas_1	canvas_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_1	counter_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	paints	paint	VB	VBZ	O	0	_		paint_1	
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	3	_	canvas_1	canvas_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_1	counter_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	paints	paint	VB	VBZ	O	0	_		paint_1	
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	3	_	canvas_1	canvas_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_1	counter_1	
+
+1	The	the	DT	DT	O	2	_			
+2	canvas	canvas	NN	NN	O	7	_	canvas_1	canvas_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_1	counter_1	
+6	is	be	VB	VBZ	O	7	_			
+7	painted	paint	VB	VBN	O	0	_		paint_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	canvas	canvas	NN	NN	O	7	_	canvas_1	canvas_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_1	counter_1	
+6	is	be	VB	VBZ	O	7	_			
+7	painted	paint	VB	VBN	O	0	_		paint_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	canvas	canvas	NN	NN	O	7	_	canvas_1	canvas_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_1	counter_1	
+6	is	be	VB	VBZ	O	7	_			
+7	painted	paint	VB	VBN	O	0	_		paint_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	measures	measure	VB	VBZ	O	0	_	measure_1	measure_1	
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	3	_	canvas_2	canvas_2	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	notebook	notebook	NN	NN	O	8	_	notebook_1	notebook_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	measure	measure	VB	VBZ	O	0	_	measure_1	measure_1	
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	3	_	canvas_2	canvas_2	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	notebook	notebook	NN	NN	O	8	_	notebook_1	notebook_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	measures	measure	VB	VBZ	O	0	_	measure_1	measure_1	
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	3	_	canvas_2	canvas_2	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	notebook	notebook	NN	NN	O	8	_	notebook_1	notebook_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	measures	measure	VB	VBZ	O	0	_	measure_1	measure_1	
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	3	_	canvas_2	canvas_2	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	notebook	notebook	NN	NN	O	8	_	notebook_1	notebook_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	measures	measure	VB	VBZ	O	0	_	measure_1	measure_1	
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	3	_	canvas_2	canvas_2	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	notebook	notebook	NN	NN	O	8	_	notebook_1	notebook_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	canvas	canvas	NN	NN	O	12	_	canvas_2	canvas_2	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	notebook	notebook	NN	NN	O	5	_	notebook_1	notebook_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	measured	measure	VB	VBN	O	0	_	measure_1	measure_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	canvas	canvas	NN	NN	O	12	_	canvas_2	canvas_2	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	notebook	notebook	NN	NN	O	5	_	notebook_1	notebook_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	measured	measure	VB	VBN	O	0	_	measure_1	measure_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	canvas	canvas	NN	NN	O	12	_	canvas_2	canvas_2	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	notebook	notebook	NN	NN	O	5	_	notebook_1	notebook_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	measured	measure	VB	VBN	O	0	_	measure_1	measure_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	canvas	canvas	NN	NN	O	12	_	canvas_2	canvas_2	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	notebook	notebook	NN	NN	O	5	_	notebook_1	notebook_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	measure	measure	VB	VBN	O	0	_	measure_1	measure_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	canvas	canvas	NN	NN	O	12	_	canvas_2	canvas_2	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	notebook	notebook	NN	NN	O	5	_	notebook_1	notebook_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	measured	measure	VB	VBN	O	0	_	measure_1	measure_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	paint	paint	NN	NN	O	1	_	paint_1	paint_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	hammer	hammer	NN	NN	O	6	_	hammer_1	hammer_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	paint	paint	NN	NN	O	1	_	paint_1	paint_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	drawer	drawer	NN	NN	O	6	_	hammer_1	drawer_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	1	_	canvas_2//vase_1	canvas_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_12	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	notebook	notebook	NN	NN	O	6	_		notebook_1	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	picture	picture	NN	NN	O	2	_	picture_1	picture_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	board	board	NN	NN	O	4	_	board_1	board_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_13	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	wall	wall	NN	NN	O	9	_	wall_1	wall_1	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	picture	picture	NN	NN	O	2	_	picture_1	picture_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	board	board	NN	NN	O	4	_	board_1	board_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_13	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	wall	wall	NN	NN	O	9	_	wall_1	wall_1	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	picture	picture	NN	NN	O	2	_	picture_1	picture_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	board	board	NN	NN	O	4	_	board_1	board_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_13	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	wall	wall	NN	NN	O	9	_	wall_1	wall_1	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	hammer	hammer	NN	NN	O	2	_	hammer_1	hammer_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	paint	paint	NN	NN	O	4	_	paint_1	paint_1	
+8	lying	lie	VB	VBG	O	7	_		lie_15	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	drawer	drawer	NN	NN	O	8	_	drawer_1	drawer_1	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	hammer	hammer	NN	NN	O	2	_	hammer_1	hammer_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	paint	paint	NN	NN	O	4	_	paint_1	paint_1	
+8	lying	lie	VB	VBG	O	7	_		lie_15	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	drawer	drawer	NN	NN	O	8	_	drawer_1	drawer_1	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	hammer	hammer	NN	NN	O	2	_	hammer_1	hammer_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	paint	paint	NN	NN	O	4	_	paint_1	paint_1	
+8	lying	lie	VB	VBG	O	7	_		lie_15	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	drawer	drawer	NN	NN	O	8	_	drawer_1	drawer_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	2	_	canvas_2	canvas_2	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	notebook	notebook	NN	NN	O	4	_		notebook_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_12	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	counter	counter	NN	NN	O	9	_	counter_2	counter_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	canvas	canvas	NN	NN	O	2	_	canvas_2	canvas_2	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	notebook	notebook	NN	NN	O	4	_		notebook_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_12	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	counter	counter	NN	NN	O	9	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	handle	handle	NN	NN	O	3	_	handle_1	handle_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hammer	hammer	NN	NN	O	5	_	hammer_1	hammer_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VBZ	VBZ	O	8	_		lie_15	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	drawer	drawer	NN	NN	O	10	_	drawer_1	drawer_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	handle	handle	NN	NN	O	3	_	handle_1	handle_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hammer	hammer	NN	NN	O	5	_	hammer_1	hammer_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VBZ	VBZ	O	8	_		lie_15	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	drawer	drawer	NN	NN	O	10	_	drawer_1	drawer_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	handle	handle	NN	NN	O	3	_	handle_1	handle_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hammer	hammer	NN	NN	O	5	_	hammer_1	hammer_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VBZ	VBZ	O	8	_		lie_15	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	drawer	drawer	NN	NN	O	10	_	drawer_1	drawer_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	handle	handle	NN	NN	O	3	_	handle_1	handle_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hammer	hammer	NN	NN	O	5	_	hammer_1	hammer_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VBZ	VBZ	O	8	_		lie_15	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	drawer	drawer	NN	NN	O	10	_	drawer_1	drawer_1	
+
+1	The	the	DT	DT	O	2	_			
+2	handle	handle	NN	NN	O	12	_	handle_1	handle_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hammer	hammer	NN	NN	O	2	_	hammer_1	hammer_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	drawer	drawer	NN	NN	O	7	_	drawer_1	drawer_1	
+11	is	be	VB	VBZ	O	12	_			
+12	hold	hold	VB	VBN	O	0	_		hold_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	handle	handle	NN	NN	O	12	_	handle_1	handle_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hammer	hammer	NN	NN	O	2	_	hammer_1	hammer_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	drawer	drawer	NN	NN	O	7	_	drawer_1	drawer_1	
+11	is	be	VB	VBZ	O	12	_			
+12	hold	hold	VB	VBN	O	0	_		hold_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	handle	handle	NN	NN	O	12	_	handle_1	handle_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hammer	hammer	NN	NN	O	2	_	hammer_1	hammer_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	drawer	drawer	NN	NN	O	7	_	drawer_1	drawer_1	
+11	is	be	VB	VBZ	O	12	_			
+12	hold	hold	VB	VBN	O	0	_		hold_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	handle	handle	NN	NN	O	12	_	handle_1	handle_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hammer	hammer	NN	NN	O	2	_	hammer_1	hammer_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	drawer	drawer	NN	NN	O	7	_	drawer_1	drawer_1	
+11	is	be	VB	VBZ	O	12	_			
+12	hold	hold	VB	VBN	O	0	_		hold_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	measures	measure	VB	VBZ	O	0	_	measure_1	measure_1	
+4	the	the	DT	DT	O	5	_			
+5	height	height	NN	NN	O	3	_	height_2	height_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	canvas	canvas	NN	NN	O	5	_	canvas_2	canvas_2	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_12	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	counter	counter	NN	NN	O	10	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	measure	measure	VB	VBZ	O	0	_	measure_1	measure_1	
+4	the	the	DT	DT	O	5	_			
+5	height	height	NN	NN	O	3	_	height_2	height_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	canvas	canvas	NN	NN	O	5	_	canvas_2	canvas_2	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_12	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	counter	counter	NN	NN	O	10	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	measures	measure	VB	VBZ	O	0	_	measure_1	measure_1	
+4	the	the	DT	DT	O	5	_			
+5	height	height	NN	NN	O	3	_	height_2	height_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	canvas	canvas	NN	NN	O	5	_	canvas_2	canvas_2	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_12	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	counter	counter	NN	NN	O	10	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	measures	measure	VB	VBZ	O	0	_	measure_1	measure_1	
+4	the	the	DT	DT	O	5	_			
+5	height	height	NN	NN	O	3	_	height_2	height_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	canvas	canvas	NN	NN	O	5	_	canvas_2	canvas_2	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_12	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	counter	counter	NN	NN	O	10	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	measures	measure	VB	VBZ	O	0	_	measure_1	measure_1	
+4	the	the	DT	DT	O	5	_			
+5	height	height	NN	NN	O	3	_	height_2	height_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	canvas	canvas	NN	NN	O	5	_	canvas_2	canvas_2	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_12	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	counter	counter	NN	NN	O	10	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	height	height	NN	NN	O	12	_	height_2	height_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	12	_	canvas_2	canvas_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_12	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	counter_2	counter_2	
+11	is	be	VB	VBZ	O	12	_			
+12	measured	measure	VB	VBN	O	0	_	measure_1	measure_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	height	height	NN	NN	O	12	_	height_2	height_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	12	_	canvas_2	canvas_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_12	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	counter_2	counter_2	
+11	is	be	VB	VBZ	O	12	_			
+12	measured	measure	VB	VBN	O	0	_	measure_1	measure_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	height	height	NN	NN	O	12	_	height_2	height_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	12	_	canvas_2	canvas_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_12	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	counter_2	counter_2	
+11	is	be	VB	VBZ	O	12	_			
+12	measured	measure	VB	VBN	O	0	_	measure_1	measure_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	height	height	NN	NN	O	12	_	height_2	height_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	12	_	canvas_2	canvas_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_12	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	counter_2	counter_2	
+11	is	be	VB	VBZ	O	12	_			
+12	measure	measure	VB	VBN	O	0	_	measure_1	measure_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	height	height	NN	NN	O	12	_	height_2	height_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	canvas	canvas	NN	NN	O	12	_	canvas_2	canvas_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_12	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	counter_2	counter_2	
+11	is	be	VB	VBZ	O	12	_			
+12	measured	measure	VB	VBN	O	0	_	measure_1	measure_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	white	white	JJ	JJ	O	5	_	white	white	
+5	notebook	notebook	NN	NN	O	1	_	notebook_1	notebook_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_12	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	canvas	canvas	NN	NN	O	7	_	canvas_2	canvas_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	white	white	JJ	JJ	O	5	_	white	white	
+5	notebook	notebook	NN	NN	O	1	_	notebook_1	notebook_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_12	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	canvas	canvas	NN	NN	O	7	_	canvas_2	canvas_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	white	white	JJ	JJ	O	5	_	white	white	
+5	notebook	notebook	NN	NN	O	1	_	notebook_1	notebook_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_12	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	counter	counter	NN	NN	O	7	_	canvas_2	counter_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	big	big	JJ	JJ	O	5	_	big	big	
+5	vase	vase	NN	NN	O	1	_	vase_1	vase_1	
+6	lying	lie	VB	VBG	O	5	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	stool	stool	NN	NN	O	6	_	stool_1	stool_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	big	big	JJ	JJ	O	5	_	big	big	
+5	vase	vase	NN	NN	O	1	_	vase_1	vase_1	
+6	lying	lie	VB	VBG	O	5	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	stool	stool	NN	NN	O	6	_	stool_1	stool_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	big	big	JJ	JJ	O	5	_	big	big	
+5	vase	vase	NN	NN	O	1	_	vase_1	vase_1	
+6	lying	lie	VB	VBG	O	5	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	stool	stool	NN	NN	O	6	_	stool_1	stool_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	small	small	JJ	JJ	O	5	_	small	small	
+5	vase	vase	NN	NN	O	1	_	vase_2	vase_2	
+6	lying	lie	VB	VBG	O	5	_		lie_14	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	counter	counter	NN	NN	O	6	_	counter_1	counter_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	small	small	JJ	JJ	O	5	_	small	small	
+5	vase	vase	NN	NN	O	1	_	vase_2	vase_2	
+6	lying	lie	VB	VBG	O	5	_		lie_14	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	counter	counter	NN	NN	O	6	_	counter_1	counter_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	small	small	JJ	JJ	O	5	_	small	small	
+5	vase	vase	NN	NN	O	1	_	vase_2	vase_2	
+6	lying	lie	VB	VBG	O	5	_		lie_14	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	counter	counter	NN	NN	O	6	_	counter_1	counter_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	0	_	cage_1	cage_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	chest	chest	NN	NN	O	4	_	chest_1	chest_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	moves	move	VB	VBZ	O	4	_		move_1	
+12	carefully	carefully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	0	_	cage_1	cage_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	chest	chest	NN	NN	O	4	_	chest_1	chest_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	moves	move	VB	VBZ	O	4	_		move_1	
+12	carefully	carefully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	0	_	cage_1	cage_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	chest	chest	NN	NN	O	4	_	chest_1	chest_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	moves	move	VB	VBZ	O	4	_		move_1	
+12	carefully	carefully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	10	_	cage_1	cage_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	chest	chest	NN	NN	O	4	_	chest_1	chest_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	moved	move	VB	VBN	O	0	_		move_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	10	_	cage_1	cage_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	chest	chest	NN	NN	O	4	_	chest_1	chest_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	moved	move	VB	VBN	O	0	_		move_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	10	_	cage_1	cage_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	chest	chest	NN	NN	O	4	_	chest_1	chest_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	moved	move	VB	VBN	O	0	_		move_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	0	_	cage_2	cage_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	chest	chest	NN	NN	O	4	_	chest_2	chest_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	cleans	clean	VB	VBZ	O	4	_		clean_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	0	_	cage_2	cage_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bird	bird	NN	NN	O	4	_	chest_2	bird_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	cleans	clean	VB	VBZ	O	4	_		clean_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	0	_	cage_2	cage_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	chest	chest	NN	NN	O	4	_	chest_2	chest_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	cleans	clean	VB	VBZ	O	4	_		clean_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	10	_	cage_2	cage_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	chest	chest	NN	NN	O	4	_	chest_2	chest_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cleaned	clean	VB	VBN	O	0	_		clean_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	10	_	cage_2	cage_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bird	bird	NN	NN	O	4	_	chest_2	bird_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cleaned	clean	VB	VBN	O	0	_		clean_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	10	_	cage_2	cage_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	chest	chest	NN	NN	O	4	_	chest_2	chest_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cleaned	clean	VB	VBN	O	0	_		clean_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	moves	move	VB	VBZ	O	0	_		move_1	
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	3	_	cage_1	cage_1	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	chest	chest	NN	NN	O	5	_	chest_1	chest_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	moves	move	VB	VBZ	O	0	_		move_1	
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	3	_	cage_1	cage_1	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	chest	chest	NN	NN	O	5	_	chest_1	chest_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	moves	move	VB	VBZ	O	0	_		move_1	
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	3	_	cage_1	cage_1	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	chest	chest	NN	NN	O	5	_	chest_1	chest_1	
+
+1	The	the	DT	DT	O	2	_			
+2	cage	cage	NN	NN	O	7	_	cage_1	cage_1	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	chest	chest	NN	NN	O	2	_	chest_1	chest_1	
+6	is	be	VB	VBZ	O	7	_			
+7	moved	move	VB	VBN	O	0	_		move_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	cage	cage	NN	NN	O	7	_	cage_1	cage_1	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	chest	chest	NN	NN	O	2	_	chest_1	chest_1	
+6	is	be	VB	VBZ	O	7	_			
+7	moved	move	VB	VBN	O	0	_		move_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	cage	cage	NN	NN	O	7	_	cage_1	cage_1	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	chest	chest	NN	NN	O	2	_	chest_1	chest_1	
+6	is	be	VB	VBZ	O	7	_			
+7	moved	move	VB	VBN	O	0	_		move_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_		clean_1	
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	3	_	cage_2	cage_2	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	chest	chest	NN	NN	O	5	_	chest_2	chest_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_		clean_1	
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	3	_	cage_2	cage_2	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	chest	chest	NN	NN	O	5	_	chest_2	chest_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_		clean_1	
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	3	_	cage_2	cage_2	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bird	bird	NN	NN	O	5	_	chest_2	bird_1	
+
+1	the	the	DT	DT	O	2	_			
+2	cage	cage	NN	NN	O	7	_	cage_2	cage_2	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	chest	chest	NN	NN	O	2	_	chest_2	chest_2	
+6	is	be	VB	VBZ	O	7	_			
+7	cleaned	clean	VB	VBN	O	0	_		clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_2	man_2	
+
+1	the	the	DT	DT	O	2	_			
+2	cage	cage	NN	NN	O	7	_	cage_2	cage_2	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bird	bird	NN	NN	O	2	_	chest_2	bird_1	
+6	is	be	VB	VBZ	O	7	_			
+7	cleaned	clean	VB	VBN	O	0	_		clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_2	man_2	
+
+1	the	the	DT	DT	O	2	_			
+2	cage	cage	NN	NN	O	7	_	cage_2	cage_2	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	chest	chest	NN	NN	O	2	_	chest_2	chest_2	
+6	is	be	VB	VBZ	O	7	_			
+7	cleaned	clean	VB	VBN	O	0	_		clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_2	man_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	medicine	medicine	NN	NN	O	1	_	medicine_1	medicine_1	
+5	next	next	JJ	JJ	O	9	_			
+6	to	to	TO	TO	O	7	_			
+7	flowers	flower	NNS	NNS	O	4	_	flower_2	flower_2	
+8	that	that	WDT	WDT	O	9	_			
+9	lies	lie	VB	VBZ	O	7	_		lie_18	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	shelf	shelf	NN	NN	O	9	_	shelf_1	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	medicine	medicine	NN	NN	O	1	_	medicine_1	medicine_1	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	flower	flower	NN	NN	O	4	_	flower_2	flower_2	
+8	that	that	WDT	WDT	O	9	_			
+9	lies	lie	VB	VBZ	O	7	_		lie_18	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	shelf	shelf	NN	NN	O	9	_	shelf_1	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	medicine	medicine	NN	NN	O	1	_	medicine_1	medicine_1	
+5	next	next	JJ	JJ	O	9	_			
+6	to	to	TO	TO	O	7	_			
+7	flowers	flower	NNS	NNS	O	4	_	flower_2	flower_2	
+8	that	that	WDT	WDT	O	9	_			
+9	lies	lie	VB	VBZ	O	7	_		lie_18	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	shelf	shelf	NN	NN	O	9	_	shelf_1	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	1	_	cage_3//chair_1	cage_3	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	4	_	shelf_1	shelf_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	flower	flower	NN	NN	O	2	_	flower_2	flower_2	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	medicine	medicine	NN	NN	O	3	_	medicine_1	medicine_1	
+7	that	that	WDT	WDT	O	8	_			
+8	lie	lie	VB	VBP	O	6	_		lie_18	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	shelf	shelf	NN	NN	O	8	_	shelf_1	shelf_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	flowers	flower	NN	NNS	O	2	_	flower_2	flower_2	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	medicine	medicine	NN	NN	O	3	_	medicine_1	medicine_1	
+7	that	that	WDT	WDT	O	8	_			
+8	lie	lie	VB	VBP	O	6	_		lie_18	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	shelf	shelf	NN	NN	O	8	_	shelf_1	shelf_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	flowers	flower	NN	NNS	O	2	_	flower_2	flower_2	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	medicine	medicine	NN	NN	O	3	_	medicine_1	medicine_1	
+7	that	that	WDT	WDT	O	8	_			
+8	lie	lie	VB	VBP	O	6	_		lie_18	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	shelf	shelf	NN	NN	O	8	_	shelf_1	shelf_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	2	_	cage_1	cage_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	lying	lie	VB	VBG	O	7	_		lie_16	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	chest	chest	NN	NN	O	8	_		chest_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	2	_	cage_1	cage_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	lying	lie	VB	VBG	O	7	_		lie_16	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	chest	chest	NN	NN	O	8	_		chest_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	door	door	NN	NN	O	3	_	door_2	door_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cage	cage	NN	NN	O	5	_	cage_2	cage_2	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	cleaned	clean	VB	VBN	O	8	_	clean_1	clean_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	open	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	door	door	NN	NN	O	3	_	door_2	door_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cage	cage	NN	NN	O	5	_	cage_2	cage_2	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	cleaned	clean	VB	VBN	O	8	_	clean_1	clean_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	door	door	NN	NN	O	3	_	door_2	door_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cage	cage	NN	NN	O	5	_	cage_2	cage_2	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	cleaned	clean	VB	VBN	O	8	_	clean_1	clean_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	door	door	NN	NN	O	3	_	door_2	door_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cage	cage	NN	NN	O	5	_	cage_2	cage_2	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	cleaned	clean	VB	VBN	O	8	_	clean_1	clean_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	door	door	NN	NN	O	3	_	door_2	door_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cage	cage	NN	NN	O	5	_	cage_2	cage_2	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	clean	clean	VB	VBN	O	8	_	clean_1	clean_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	door	door	NN	NN	O	3	_	door_2	door_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cage	cage	NN	NN	O	5	_	cage_2	cage_2	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	cleaned	clean	VB	VBN	O	8	_	clean_1	clean_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	man	man	NN	NN	O	11	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	door	door	NN	NN	O	13	_	door_2	door_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	2	_	cage_2	cage_2	
+6	that	that	WDT	WDT	O	8	_			
+7	is	be	VB	VBZ	O	8	_			
+8	cleaned	clean	VB	VBN	O	5	_	clean_1	clean_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	man	man	NN	NN	O	8	_	man_2	man_2	
+12	is	be	VB	VBZ	O	13	_			
+13	opened	open	VB	VBN	O	0	_	open_1	open_1	
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	door	door	NN	NN	O	13	_	door_2	door_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	2	_	cage_2	cage_2	
+6	that	that	WDT	WDT	O	8	_			
+7	is	be	VB	VBZ	O	8	_			
+8	cleaned	clean	VB	VBN	O	5	_	clean_1	clean_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	man	man	NN	NN	O	8	_	man_2	man_2	
+12	is	be	VB	VBZ	O	13	_			
+13	opened	open	VB	VBN	O	0	_	open_1	open_1	
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	door	door	NN	NN	O	13	_	door_2	door_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	2	_	cage_2	cage_2	
+6	that	that	WDT	WDT	O	8	_			
+7	is	be	VB	VBZ	O	8	_			
+8	clean	clean	VB	VBN	O	5	_	clean_1	clean_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	man	man	NN	NN	O	8	_	man_2	man_2	
+12	is	be	VB	VBZ	O	13	_			
+13	opened	open	VB	VBN	O	0	_	open_1	open_1	
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	door	door	NN	NN	O	13	_	door_2	door_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	2	_	cage_2	cage_2	
+6	that	that	WDT	WDT	O	8	_			
+7	is	be	VB	VBZ	O	8	_			
+8	cleaned	clean	VB	VBN	O	5	_	clean_1	clean_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	man	man	NN	NN	O	8	_	man_2	man_2	
+12	is	be	VB	VBZ	O	13	_			
+13	opened	open	VB	VBN	O	0	_	open_1	open_1	
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	door	door	NN	NN	O	13	_	door_2	door_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	2	_	cage_2	cage_2	
+6	that	that	WDT	WDT	O	8	_			
+7	is	be	VB	VBZ	O	8	_			
+8	cleaned	clean	VB	VBN	O	5	_	clean_1	clean_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	man	man	NN	NN	O	8	_	man_2	man_2	
+12	is	be	VB	VBZ	O	13	_			
+13	open	open	VB	VBN	O	0	_	open_1	open_1	
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	door	door	NN	NN	O	13	_	door_2	door_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	2	_	cage_2	cage_2	
+6	that	that	WDT	WDT	O	8	_			
+7	is	be	VB	VBZ	O	8	_			
+8	cleaned	clean	VB	VBN	O	5	_	clean_1	clean_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	man	man	NN	NN	O	8	_	man_2	man_2	
+12	is	be	VB	VBZ	O	13	_			
+13	opened	open	VB	VBN	O	0	_	open_1	open_1	
+14	by	by	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	removes	remove	VB	VBZ	O	0	_	remove_1	remove_1	
+4	the	the	DT	DT	O	5	_			
+5	label	label	NN	NN	O	3	_	label_1	label_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	medicine	medicine	NN	NN	O	5	_	medicine_1	medicine_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_18	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	shelf	shelf	NN	NN	O	10	_	shelf_1	shelf_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	remove	remove	VB	VBZ	O	0	_	remove_1	remove_1	
+4	the	the	DT	DT	O	5	_			
+5	label	label	NN	NN	O	3	_	label_1	label_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	medicine	medicine	NN	NN	O	5	_	medicine_1	medicine_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_18	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	shelf	shelf	NN	NN	O	10	_	shelf_1	shelf_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	removes	remove	VB	VBZ	O	0	_	remove_1	remove_1	
+4	the	the	DT	DT	O	5	_			
+5	label	label	NN	NN	O	3	_	label_1	label_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	medicine	medicine	NN	NN	O	5	_	medicine_1	medicine_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_18	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	shelf	shelf	NN	NN	O	10	_	shelf_1	shelf_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	removes	remove	VB	VBZ	O	0	_	remove_1	remove_1	
+4	the	the	DT	DT	O	5	_			
+5	label	label	NN	NN	O	3	_	label_1	label_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	medicine	medicine	NN	NN	O	5	_	medicine_1	medicine_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_18	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	shelf	shelf	NN	NN	O	10	_	shelf_1	shelf_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	removes	remove	VB	VBZ	O	0	_	remove_1	remove_1	
+4	the	the	DT	DT	O	5	_			
+5	label	label	NN	NN	O	3	_	label_1	label_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	medicine	medicine	NN	NN	O	5	_	medicine_1	medicine_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_18	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	shelf	shelf	NN	NN	O	10	_	shelf_1	shelf_1	
+
+1	The	the	DT	DT	O	2	_			
+2	label	label	NN	NN	O	12	_	label_1	label_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	medicine	medicine	NN	NN	O	2	_	medicine_1	medicine_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_18	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	shelf	shelf	NN	NN	O	7	_	shelf_1	shelf_1	
+11	is	be	VB	VBZ	O	12	_			
+12	removed	remove	VB	VBN	O	0	_	remove_1	remove_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	label	label	NN	NN	O	12	_	label_1	label_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	medicine	medicine	NN	NN	O	2	_	medicine_1	medicine_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_18	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	shelf	shelf	NN	NN	O	7	_	shelf_1	shelf_1	
+11	is	be	VB	VBZ	O	12	_			
+12	removed	remove	VB	VBN	O	0	_	remove_1	remove_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	label	label	NN	NN	O	12	_	label_1	label_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	medicine	medicine	NN	NN	O	2	_	medicine_1	medicine_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_18	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	shelf	shelf	NN	NN	O	7	_	shelf_1	shelf_1	
+11	is	be	VB	VBZ	O	12	_			
+12	removed	remove	VB	VBN	O	0	_	remove_1	remove_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	label	label	NN	NN	O	12	_	label_1	label_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	medicine	medicine	NN	NN	O	2	_	medicine_1	medicine_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_18	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	shelf	shelf	NN	NN	O	7	_	shelf_1	shelf_1	
+11	is	be	VB	VBZ	O	12	_			
+12	remove	remove	VB	VBN	O	0	_	remove_1	remove_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	label	label	NN	NN	O	12	_	label_1	label_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	medicine	medicine	NN	NN	O	2	_	medicine_1	medicine_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_18	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	shelf	shelf	NN	NN	O	7	_	shelf_1	shelf_1	
+11	is	be	VB	VBZ	O	12	_			
+12	removed	remove	VB	VBN	O	0	_	remove_1	remove_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	yellow	yellow	JJ	JJ	O	5	_	yellow	yellow	
+5	toy	toy	NN	NN	O	1	_	toy_1	toy_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	ground	ground	NN	NN	O	7	_	ground_1	ground_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	yellow	yellow	JJ	JJ	O	5	_	yellow	yellow	
+5	toy	toy	NN	NN	O	1	_	toy_1	toy_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	ground	ground	NN	NN	O	7	_	ground_1	ground_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	yellow	yellow	JJ	JJ	O	5	_	yellow	yellow	
+5	toy	toy	NN	NN	O	1	_	toy_1	toy_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	ground	ground	NN	NN	O	7	_	ground_1	ground_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	1	_	cage_3	cage_3	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	green	green	JJ	JJ	O	11	_	green	green	
+11	chair	chair	NN	NN	O	4	_	chair_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	1	_	cage_3	cage_3	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	green	green	JJ	JJ	O	11	_	green	green	
+11	chair	chair	NN	NN	O	4	_	chair_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	1	_	cage_3	cage_3	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	green	green	JJ	JJ	O	11	_	green	green	
+11	chair	chair	NN	NN	O	4	_	chair_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	cage	cage	NN	NN	O	1	_	cage_1	cage_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	chest	chest	NN	NN	O	5	_	chest_1	chest_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	man	man	NN	NN	O	12	_	man_1	man_1	
+12	moves	move	VB	VBZ	O	5	_	move_1	move_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	cage	cage	NN	NN	O	1	_	cage_1	cage_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	chest	chest	NN	NN	O	5	_	chest_1	chest_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	man	man	NN	NN	O	12	_	man_1	man_1	
+12	moves	move	VB	VBZ	O	5	_	move_1	move_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	cage	cage	NN	NN	O	1	_	cage_1	cage_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	chest	chest	NN	NN	O	5	_	chest_1	chest_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	man	man	NN	NN	O	12	_	man_1	man_1	
+12	moves	move	VB	VBZ	O	5	_	move_1	move_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	cage	cage	NN	NN	O	1	_	cage_1	cage_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	chest	chest	NN	NN	O	5	_	chest_1	chest_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	man	man	NN	NN	O	12	_	man_1	man_1	
+12	moves	move	VB	VBZ	O	5	_	move_1	move_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	cage	cage	NN	NN	O	1	_	cage_1	cage_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	chest	chest	NN	NN	O	5	_	chest_1	chest_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	man	man	NN	NN	O	12	_	man_1	man_1	
+12	move	move	VB	VBZ	O	5	_	move_1	move_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	toy	toy	NN	NN	O	1	_	toy_2	toy_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	dog	dog	NN	NN	O	4	_	dog_1	dog_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	chest	chest	NN	NN	O	0	_	chest_1	chest_1	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	cage	cage	NN	NN	O	4	_	cage_1	cage_1	
+8	and	and	CC	CC	O	7	_			
+9	bag	bag	NN	NN	O	7	_	bag_1	bag_1	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	chest	chest	NN	NN	O	0	_	chest_1	chest_1	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	cage	cage	NN	NN	O	4	_	cage_1	cage_1	
+8	and	and	CC	CC	O	7	_			
+9	bag	bag	NN	NN	O	7	_	bag_1	bag_1	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	3	_	cage_2	cage_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bird	bird	NN	NN	O	5	_	bird_1	bird_1	
+9	in	in	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	clean	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	3	_	cage_2	cage_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bird	bird	NN	NN	O	5	_	bird_1	bird_1	
+9	in	in	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	3	_	cage_2	cage_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bird	bird	NN	NN	O	5	_	bird_1	bird_1	
+9	in	in	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	cage	cage	NN	NN	O	3	_	cage_2	cage_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bird	bird	NN	NN	O	5	_	bird_1	bird_1	
+9	in	in	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	cage	cage	NN	NN	O	9	_	cage_2	cage_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bird	bird	NN	NN	O	2	_	bird_1	bird_1	
+6	in	in	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	cage	cage	NN	NN	O	9	_	cage_2	cage_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bird	bird	NN	NN	O	2	_	bird_1	bird_1	
+6	in	in	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	cage	cage	NN	NN	O	9	_	cage_2	cage_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bird	bird	NN	NN	O	2	_	bird_1	bird_1	
+6	in	in	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	clean	clean	VB	VBN	O	0	_	clean_1	clean_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	cage	cage	NN	NN	O	9	_	cage_2	cage_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bird	bird	NN	NN	O	2	_	bird_1	bird_1	
+6	in	in	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_2	man_2	
+

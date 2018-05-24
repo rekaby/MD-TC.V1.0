@@ -1,0 +1,364 @@
+Out1BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	66.0/68.0
+DEBUGGap Filler Reference Accuracy:	66.0/68.0
+DEBUGGap Filler POS Accuracy:	67.0/68.0
+DEBUGGap Filler CPOS Accuracy:	67.0/68.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	203.0/205.0
+  Tokens: 754
+  Sentences: 68
+  UAS=0.907162	LAS=0.000000	CAS=0.485294	[666.07s]
+------------------
+Gap Filler Word Accuracy:	0.9705882352941176
+Gap Filler Reference Accuracy:	0.9705882352941176
+Gap Filler POS Accuracy:	0.9852941176470589
+Gap Filler CPOS Accuracy:	0.9852941176470589
+COMPLETE sentence Reference Accuracy:	0.9902439024390244
+
+
+Out2BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	70.0/76.0
+DEBUGGap Filler Reference Accuracy:	69.0/76.0
+DEBUGGap Filler POS Accuracy:	59.0/76.0
+DEBUGGap Filler CPOS Accuracy:	73.0/76.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	201.0/207.0
+  Tokens: 786
+  Sentences: 76
+  UAS=0.973282	LAS=0.000000	CAS=0.802632	[769.82s]
+------------------
+Gap Filler Word Accuracy:	0.9210526315789473
+Gap Filler Reference Accuracy:	0.9078947368421053
+Gap Filler POS Accuracy:	0.7763157894736842
+Gap Filler CPOS Accuracy:	0.9605263157894737
+COMPLETE sentence Reference Accuracy:	0.9710144927536232
+
+
+
+Out3BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	51.0/56.0
+DEBUGGap Filler Reference Accuracy:	51.0/56.0
+DEBUGGap Filler POS Accuracy:	54.0/56.0
+DEBUGGap Filler CPOS Accuracy:	55.0/56.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	118.0/118.0
+  Tokens: 562
+  Sentences: 56
+  UAS=0.914591	LAS=0.000000	CAS=0.517857	[275.24s]
+------------------
+Gap Filler Word Accuracy:	0.9107142857142857
+Gap Filler Reference Accuracy:	0.9107142857142857
+Gap Filler POS Accuracy:	0.9642857142857143
+Gap Filler CPOS Accuracy:	0.9821428571428571
+COMPLETE sentence Reference Accuracy:	1.0
+
+
+
+Out4BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	74.0/80.0
+DEBUGGap Filler Reference Accuracy:	74.0/80.0
+DEBUGGap Filler POS Accuracy:	78.0/80.0
+DEBUGGap Filler CPOS Accuracy:	80.0/80.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	231.0/234.0
+  Tokens: 901
+  Sentences: 80
+  UAS=0.965594	LAS=0.000000	CAS=0.675000	[1827.14s]
+------------------
+Gap Filler Word Accuracy:	0.925
+Gap Filler Reference Accuracy:	0.925
+Gap Filler POS Accuracy:	0.975
+Gap Filler CPOS Accuracy:	1.0
+COMPLETE sentence Reference Accuracy:	0.9871794871794872
+
+
+
+Out5BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	80.0/86.0
+DEBUGGap Filler Reference Accuracy:	80.0/86.0
+DEBUGGap Filler POS Accuracy:	85.0/86.0
+DEBUGGap Filler CPOS Accuracy:	86.0/86.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	80.0/86.0
+DEBUGGap NonGap Reference Accuracy:	220.0/223.0
+  Tokens: 956
+  Sentences: 86
+  UAS=0.950837	LAS=0.000000	CAS=0.593023	[1002.92s]
+------------------
+Gap Filler Word Accuracy:	0.9302325581395349
+Gap Filler Reference Accuracy:	0.9302325581395349
+Gap Filler POS Accuracy:	0.9883720930232558
+Gap Filler CPOS Accuracy:	1.0
+COMPLETE sentence Reference Accuracy:	0.9302325581395349
+
+
+
+Out6BasicUnique5NoFilterFull
+--------------------------------
+
+
+Out7BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	75.0/82.0
+DEBUGGap Filler Reference Accuracy:	75.0/82.0
+DEBUGGap Filler POS Accuracy:	73.0/82.0
+DEBUGGap Filler CPOS Accuracy:	75.0/82.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	75.0/82.0
+DEBUGGap NonGap Reference Accuracy:	232.0/232.0
+  Tokens: 988
+  Sentences: 82
+  UAS=0.946356	LAS=0.000000	CAS=0.500000	[1495.35s]
+------------------
+Gap Filler Word Accuracy:	0.9146341463414634
+Gap Filler Reference Accuracy:	0.9146341463414634
+Gap Filler POS Accuracy:	0.8902439024390244
+Gap Filler CPOS Accuracy:	0.9146341463414634
+COMPLETE sentence Reference Accuracy:	0.9146341463414634
+
+
+Out8BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	64.0/67.0
+DEBUGGap Filler Reference Accuracy:	64.0/67.0
+DEBUGGap Filler POS Accuracy:	64.0/67.0
+DEBUGGap Filler CPOS Accuracy:	63.0/67.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	64.0/67.0
+DEBUGGap NonGap Reference Accuracy:	150.0/152.0
+  Tokens: 613
+  Sentences: 67
+  UAS=0.969005	LAS=0.000000	CAS=0.746269	[137.66s]
+------------------
+Gap Filler Word Accuracy:	0.9552238805970149
+Gap Filler Reference Accuracy:	0.9552238805970149
+Gap Filler POS Accuracy:	0.9552238805970149
+Gap Filler CPOS Accuracy:	0.9402985074626866
+COMPLETE sentence Reference Accuracy:	0.9552238805970149
+
+
+Out9BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	81.0/84.0
+DEBUGGap Filler Reference Accuracy:	81.0/84.0
+DEBUGGap Filler POS Accuracy:	77.0/84.0
+DEBUGGap Filler CPOS Accuracy:	77.0/84.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	81.0/84.0
+DEBUGGap NonGap Reference Accuracy:	233.0/237.0
+  Tokens: 806
+  Sentences: 84
+  UAS=0.955335	LAS=0.000000	CAS=0.714286	[146.91s]
+------------------
+Gap Filler Word Accuracy:	0.9642857142857143
+Gap Filler Reference Accuracy:	0.9642857142857143
+Gap Filler POS Accuracy:	0.9166666666666666
+Gap Filler CPOS Accuracy:	0.9166666666666666
+COMPLETE sentence Reference Accuracy:	0.9642857142857143
+
+Out10BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	60.0/63.0
+DEBUGGap Filler Reference Accuracy:	60.0/63.0
+DEBUGGap Filler POS Accuracy:	61.0/63.0
+DEBUGGap Filler CPOS Accuracy:	63.0/63.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	58.0/63.0
+DEBUGGap NonGap Reference Accuracy:	156.0/160.0
+  Tokens: 679
+  Sentences: 63
+  UAS=0.966127	LAS=0.000000	CAS=0.809524	[626.71s]
+------------------
+Gap Filler Word Accuracy:	0.9523809523809523
+Gap Filler Reference Accuracy:	0.9523809523809523
+Gap Filler POS Accuracy:	0.9682539682539683
+Gap Filler CPOS Accuracy:	1.0
+COMPLETE sentence Reference Accuracy:	0.9206349206349206
+
+
+Out11BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	77.0/77.0
+DEBUGGap Filler Reference Accuracy:	76.0/77.0
+DEBUGGap Filler POS Accuracy:	75.0/77.0
+DEBUGGap Filler CPOS Accuracy:	76.0/77.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	76.0/77.0
+DEBUGGap NonGap Reference Accuracy:	224.0/224.0
+  Tokens: 840
+  Sentences: 77
+  UAS=0.971429	LAS=0.000000	CAS=0.753247	[523.34s]
+------------------
+Gap Filler Word Accuracy:	1.0
+Gap Filler Reference Accuracy:	0.987012987012987
+Gap Filler POS Accuracy:	0.974025974025974
+Gap Filler CPOS Accuracy:	0.987012987012987
+COMPLETE sentence Reference Accuracy:	0.987012987012987
+
+
+Out12BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	64.0/66.0
+DEBUGGap Filler Reference Accuracy:	64.0/66.0
+DEBUGGap Filler POS Accuracy:	66.0/66.0
+DEBUGGap Filler CPOS Accuracy:	66.0/66.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	64.0/66.0
+DEBUGGap NonGap Reference Accuracy:	174.0/174.0
+  Tokens: 737
+  Sentences: 66
+  UAS=0.982361	LAS=0.000000	CAS=0.863636	[675.52s]
+------------------
+Gap Filler Word Accuracy:	0.9696969696969697
+Gap Filler Reference Accuracy:	0.9696969696969697
+Gap Filler POS Accuracy:	1.0
+Gap Filler CPOS Accuracy:	1.0
+COMPLETE sentence Reference Accuracy:	0.9696969696969697
+
+
+Out13BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	63.0/69.0
+DEBUGGap Filler Reference Accuracy:	62.0/69.0
+DEBUGGap Filler POS Accuracy:	65.0/69.0
+DEBUGGap Filler CPOS Accuracy:	69.0/69.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	62.0/69.0
+DEBUGGap NonGap Reference Accuracy:	191.0/194.0
+  Tokens: 809
+  Sentences: 69
+  UAS=0.967862	LAS=0.000000	CAS=0.710145	[1309.95s]
+------------------
+Gap Filler Word Accuracy:	0.9130434782608695
+Gap Filler Reference Accuracy:	0.8985507246376812
+Gap Filler POS Accuracy:	0.9420289855072463
+Gap Filler CPOS Accuracy:	1.0
+COMPLETE sentence Reference Accuracy:	0.8985507246376812
+
+
+Out14BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	62.0/70.0
+DEBUGGap Filler Reference Accuracy:	62.0/70.0
+DEBUGGap Filler POS Accuracy:	69.0/70.0
+DEBUGGap Filler CPOS Accuracy:	69.0/70.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	62.0/70.0
+DEBUGGap NonGap Reference Accuracy:	231.0/235.0
+  Tokens: 829
+  Sentences: 70
+  UAS=0.944511	LAS=0.000000	CAS=0.542857	[317.01s]
+------------------
+Gap Filler Word Accuracy:	0.8857142857142857
+Gap Filler Reference Accuracy:	0.8857142857142857
+Gap Filler POS Accuracy:	0.9857142857142858
+Gap Filler CPOS Accuracy:	0.9857142857142858
+COMPLETE sentence Reference Accuracy:	0.8857142857142857
+
+
+Out15BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	71.0/77.0
+DEBUGGap Filler Reference Accuracy:	71.0/77.0
+DEBUGGap Filler POS Accuracy:	74.0/77.0
+DEBUGGap Filler CPOS Accuracy:	76.0/77.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	69.0/77.0
+DEBUGGap NonGap Reference Accuracy:	233.0/235.0
+  Tokens: 846
+  Sentences: 77
+  UAS=0.962175	LAS=0.000000	CAS=0.779221	[505.51s]
+------------------
+Gap Filler Word Accuracy:	0.922077922077922
+Gap Filler Reference Accuracy:	0.922077922077922
+Gap Filler POS Accuracy:	0.961038961038961
+Gap Filler CPOS Accuracy:	0.987012987012987
+COMPLETE sentence Reference Accuracy:	0.8961038961038961
+
+
+Out16BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	70.0/70.0
+DEBUGGap Filler Reference Accuracy:	70.0/70.0
+DEBUGGap Filler POS Accuracy:	67.0/70.0
+DEBUGGap Filler CPOS Accuracy:	70.0/70.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	70.0/70.0
+DEBUGGap NonGap Reference Accuracy:	191.0/191.0
+  Tokens: 762
+  Sentences: 70
+  UAS=0.933071	LAS=0.000000	CAS=0.428571	[387.55s]
+------------------
+Gap Filler Word Accuracy:	1.0
+Gap Filler Reference Accuracy:	1.0
+Gap Filler POS Accuracy:	0.9571428571428572
+Gap Filler CPOS Accuracy:	1.0
+COMPLETE sentence Reference Accuracy:	1.0
+
+
+Out17BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	77.0/79.0
+DEBUGGap Filler Reference Accuracy:	77.0/79.0
+DEBUGGap Filler POS Accuracy:	76.0/79.0
+DEBUGGap Filler CPOS Accuracy:	79.0/79.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	77.0/79.0
+DEBUGGap NonGap Reference Accuracy:	239.0/241.0
+  Tokens: 889
+  Sentences: 79
+  UAS=0.946007	LAS=0.000000	CAS=0.556962	[681.57s]
+------------------
+Gap Filler Word Accuracy:	0.9746835443037974
+Gap Filler Reference Accuracy:	0.9746835443037974
+Gap Filler POS Accuracy:	0.9620253164556962
+Gap Filler CPOS Accuracy:	1.0
+COMPLETE sentence Reference Accuracy:	0.9746835443037974
+
+
+Out18BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	66.0/70.0
+DEBUGGap Filler Reference Accuracy:	66.0/70.0
+DEBUGGap Filler POS Accuracy:	69.0/70.0
+DEBUGGap Filler CPOS Accuracy:	70.0/70.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	66.0/70.0
+DEBUGGap NonGap Reference Accuracy:	228.0/228.0
+  Tokens: 747
+  Sentences: 70
+  UAS=0.949130	LAS=0.000000	CAS=0.657143	[610.99s]
+------------------
+Gap Filler Word Accuracy:	0.9428571428571428
+Gap Filler Reference Accuracy:	0.9428571428571428
+Gap Filler POS Accuracy:	0.9857142857142858
+Gap Filler CPOS Accuracy:	1.0
+COMPLETE sentence Reference Accuracy:	0.9428571428571428
+
+
+
+Out19BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	75.0/79.0
+DEBUGGap Filler Reference Accuracy:	75.0/79.0
+DEBUGGap Filler POS Accuracy:	77.0/79.0
+DEBUGGap Filler CPOS Accuracy:	78.0/79.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	75.0/79.0
+DEBUGGap NonGap Reference Accuracy:	272.0/274.0
+  Tokens: 881
+  Sentences: 79
+  UAS=0.912599	LAS=0.000000	CAS=0.430380	[414.24s]
+------------------
+Gap Filler Word Accuracy:	0.9493670886075949
+Gap Filler Reference Accuracy:	0.9493670886075949
+Gap Filler POS Accuracy:	0.9746835443037974
+Gap Filler CPOS Accuracy:	0.9873417721518988
+COMPLETE sentence Reference Accuracy:	0.9493670886075949
+
+
+
+Out20BasicUnique5NoFilterFull
+--------------------------------
+DEBUGGap Filler Word Accuracy:	45.0/51.0
+DEBUGGap Filler Reference Accuracy:	45.0/51.0
+DEBUGGap Filler POS Accuracy:	51.0/51.0
+DEBUGGap Filler CPOS Accuracy:	51.0/51.0
+DEBUGGap COMPLETE sentence Reference Accuracy:	39.0/51.0
+DEBUGGap NonGap Reference Accuracy:	105.0/114.0
+  Tokens: 564
+  Sentences: 51
+  UAS=0.964539	LAS=0.000000	CAS=0.705882	[310.25s]
+------------------
+Gap Filler Word Accuracy:	0.8823529411764706
+Gap Filler Reference Accuracy:	0.8823529411764706
+Gap Filler POS Accuracy:	1.0
+Gap Filler CPOS Accuracy:	1.0
+COMPLETE sentence Reference Accuracy:	0.7647058823529411

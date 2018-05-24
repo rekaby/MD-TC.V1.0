@@ -1,0 +1,746 @@
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	bottle	NN	NN	O	0	ROOT	bottle_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	nmod	bag_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	opens	open	VB	VBZ	O	4	ccomp	
+12	quickly	quickly	RB	RB	O	11	advmod	
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	bag	NN	NN	O	4	nmod	bag_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	opens	open	VB	VBZ	O	4	ccomp	
+12	quickly	quickly	RB	RB	O	11	advmod	
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	nmod	bag_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_1
+11	opens	open	VB	VBZ	O	4	ccomp	
+12	quickly	quickly	RB	RB	O	11	advmod	
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	bottle	NN	NN	O	0	ROOT	bottle_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	nmod	bag_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	opened	open	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	bag	NN	NN	O	4	nmod	bag_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	opened	open	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	nmod	bag_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	opened	open	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	10	nmod	woman_1
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	??	bottle	NN	NN	O	0	ROOT	bottle_2
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	nmod	bag_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	carries	carry	VB	VBZ	O	4	ccomp	
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	0	ROOT	bottle_2
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	bag	NN	NN	O	4	nmod	bag_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	carries	carry	VB	VBZ	O	4	ccomp	
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	0	ROOT	bottle_2
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	nmod	bag_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_2
+11	carries	carry	VB	VBZ	O	4	ccomp	
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	??	bottle	NN	NN	O	0	ROOT	bottle_2
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	nmod	bag_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	carried	carry	VB	VBN	O	7	acl:relcl	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	0	ROOT	bottle_2
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	bag	NN	NN	O	4	nmod	bag_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	carried	carry	VB	VBN	O	7	acl:relcl	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	0	ROOT	bottle_2
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	nmod	bag_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	carried	carry	VB	VBN	O	7	acl:relcl	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	10	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_1
+3	opens	open	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	bottle	bottle	NN	NN	O	3	dobj	bottle_1
+6	in	in	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	bag	bag	NN	NN	O	5	nmod	bag_1
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	opens	open	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	bottle	NN	NN	O	3	dobj	bottle_1
+6	in	in	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	bag	bag	NN	NN	O	5	nmod	bag_1
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	opens	open	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	bottle	bottle	NN	NN	O	3	dobj	bottle_1
+6	in	in	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	bag	NN	NN	O	5	nmod	bag_1
+								
+1	The	the	DT	DT	O	2	det	
+2	??	bottle	NN	NN	O	7	nsubjpass	bottle_1
+3	in	in	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	bag	bag	NN	NN	O	2	nmod	bag_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	opened	open	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	bottle	bottle	NN	NN	O	7	nsubjpass	bottle_1
+3	in	in	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	bag	NN	NN	O	2	nmod	bag_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	opened	open	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	bottle	bottle	NN	NN	O	7	nsubjpass	bottle_1
+3	in	in	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	bag	bag	NN	NN	O	2	nmod	bag_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	opened	open	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	7	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	carries	carry	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	bag	bag	NN	NN	O	3	dobj	bag_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	3	nmod	bottle_2
+9	in	in	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	carries	carry	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	bag	NN	NN	O	3	dobj	bag_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	3	nmod	bottle_2
+9	in	in	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	carries	carry	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	bag	bag	NN	NN	O	3	dobj	bag_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	??	bottle	NN	NN	O	3	nmod	bottle_2
+9	in	in	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	??	bag	NN	NN	O	9	nsubjpass	bag_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bottle	bottle	NN	NN	O	2	nmod	bottle_2
+6	in	in	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	carried	carry	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	bag	bag	NN	NN	O	9	nsubjpass	bag_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	??	bottle	NN	NN	O	2	nmod	bottle_2
+6	in	in	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	carried	carry	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	bag	bag	NN	NN	O	9	nsubjpass	bag_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bottle	bottle	NN	NN	O	2	nmod	bottle_2
+6	in	in	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	carried	carry	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	woman	NN	NN	O	9	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	folds	fold	VB	VBZ	O	0	ROOT	fold_1
+4	the	the	DT	DT	O	5	det	
+5	scarf	scarf	NN	NN	O	3	dobj	scarf_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	??	fold	VB	VBZ	O	0	ROOT	fold_1
+4	the	the	DT	DT	O	5	det	
+5	scarf	scarf	NN	NN	O	3	dobj	scarf_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	folds	fold	VB	VBZ	O	0	ROOT	fold_1
+4	the	the	DT	DT	O	5	det	
+5	??	scarf	NN	NN	O	3	dobj	scarf_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	folds	fold	VB	VBZ	O	0	ROOT	fold_1
+4	the	the	DT	DT	O	5	det	
+5	scarf	scarf	NN	NN	O	3	dobj	scarf_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	couch	NN	NN	O	5	nmod	couch_1
+								
+1	The	the	DT	DT	O	2	det	
+2	??	scarf	NN	NN	O	7	nsubjpass	scarf_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	folded	fold	VB	VBN	O	0	ROOT	fold_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+								
+1	The	the	DT	DT	O	2	det	
+2	scarf	scarf	NN	NN	O	7	nsubjpass	scarf_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	couch	NN	NN	O	2	nmod	couch_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	folded	fold	VB	VBN	O	0	ROOT	fold_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+								
+1	The	the	DT	DT	O	2	det	
+2	scarf	scarf	NN	NN	O	7	nsubjpass	scarf_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	??	fold	VB	VBN	O	0	ROOT	fold_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+								
+1	The	the	DT	DT	O	2	det	
+2	scarf	scarf	NN	NN	O	7	nsubjpass	scarf_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	folded	fold	VB	VBN	O	0	ROOT	fold_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	7	nmod	man_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	scarf	NN	NN	O	1	dobj	scarf_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	scarf	scarf	NN	NN	O	1	dobj	scarf_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	couch	NN	NN	O	6	nmod	couch_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	bottle	NN	NN	O	1	dobj	bottle_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	in	in	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	bag	bag	NN	NN	O	6	nmod	bag_1
+10	next	next	JJ	JJ	O	12	dep	
+11	to	to	TO	TO	O	12	case	
+12	candle	candle	NN	NN	O	9	nmod	candle_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	1	dobj	bottle_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	in	in	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	bag	NN	NN	O	6	nmod	bag_1
+10	next	next	JJ	JJ	O	12	dep	
+11	to	to	TO	TO	O	12	case	
+12	candle	candle	NN	NN	O	9	nmod	candle_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	1	dobj	bottle_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	in	in	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	bag	bag	NN	NN	O	6	nmod	bag_1
+10	next	next	JJ	JJ	O	12	dep	
+11	to	to	TO	TO	O	12	case	
+12	??	candle	NN	NN	O	9	nmod	candle_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	bottle	NN	NN	O	1	dobj	bottle_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	ice	ice	NN	NN	O	10	compound	ice
+10	bucket	bucket	NN	NN	O	6	nmod	bucket_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	1	dobj	bottle_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	??	ice	NN	NN	O	10	compound	ice
+10	bucket	bucket	NN	NN	O	6	nmod	bucket_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	1	dobj	bottle_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	ice	ice	NN	NN	O	10	compound	ice
+10	??	bucket	NN	NN	O	6	nmod	bucket_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	scarf	NN	NN	O	2	nsubj	scarf_2
+5	and	and	CC	CC	O	4	cc	
+6	keys	key	NN	NNS	O	4	conj	key_1
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	chair	chair	NN	NN	O	4	nmod	chair_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	scarf	scarf	NN	NN	O	2	nsubj	scarf_2
+5	and	and	CC	CC	O	4	cc	
+6	??	key	NN	NNS	O	4	conj	key_1
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	chair	chair	NN	NN	O	4	nmod	chair_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	scarf	scarf	NN	NN	O	2	nsubj	scarf_2
+5	and	and	CC	CC	O	4	cc	
+6	keys	key	NN	NNS	O	4	conj	key_1
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	chair	NN	NN	O	4	nmod	chair_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	bag	NN	NN	O	2	nsubj	bag_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	candle	candle	NN	NN	O	4	conj	candle_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	table	table	NN	NN	O	7	nmod	table_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	bag	bag	NN	NN	O	2	nsubj	bag_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	??	candle	NN	NN	O	4	conj	candle_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	table	table	NN	NN	O	7	nmod	table_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	bag	bag	NN	NN	O	2	nsubj	bag_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	candle	candle	NN	NN	O	4	conj	candle_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	table	NN	NN	O	7	nmod	table_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	bottle	NN	NN	O	2	nsubj	bottle_3
+5	and	and	CC	CC	O	4	cc	
+6	bucket	bucket	NN	NN	O	4	conj	bucket_1
+7	in	in	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	vitrine	vitrine	NN	NN	O	4	nmod	vitrine_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	2	nsubj	bottle_3
+5	and	and	CC	CC	O	4	cc	
+6	??	bucket	NN	NN	O	4	conj	bucket_1
+7	in	in	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	vitrine	vitrine	NN	NN	O	4	nmod	vitrine_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	bottle	bottle	NN	NN	O	2	nsubj	bottle_3
+5	and	and	CC	CC	O	4	cc	
+6	bucket	bucket	NN	NN	O	4	conj	bucket_1
+7	in	in	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	vitrine	NN	NN	O	4	nmod	vitrine_1
+								
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	arm	arm	NN	NN	O	3	dobj	arm_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	chair	chair	NN	NN	O	5	nmod	chair_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	??	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	arm	arm	NN	NN	O	3	dobj	arm_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	chair	chair	NN	NN	O	5	nmod	chair_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	??	arm	NN	NN	O	3	dobj	arm_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	chair	chair	NN	NN	O	5	nmod	chair_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	arm	arm	NN	NN	O	3	dobj	arm_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	chair	NN	NN	O	5	nmod	chair_1
+								
+1	The	the	DT	DT	O	2	det	
+2	??	arm	NN	NN	O	7	nsubjpass	arm_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	chair	chair	NN	NN	O	2	nmod	chair_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_2
+								
+1	The	the	DT	DT	O	2	det	
+2	arm	arm	NN	NN	O	7	nsubjpass	arm_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	chair	NN	NN	O	2	nmod	chair_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_2
+								
+1	The	the	DT	DT	O	2	det	
+2	arm	arm	NN	NN	O	7	nsubjpass	arm_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	chair	chair	NN	NN	O	2	nmod	chair_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	??	clean	VB	VBN	O	0	ROOT	clean_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_2
+								
+1	The	the	DT	DT	O	2	det	
+2	arm	arm	NN	NN	O	7	nsubjpass	arm_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	chair	chair	NN	NN	O	2	nmod	chair_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	7	nmod	man_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	red	JJ	JJ	O	5	amod	red
+5	scarf	scarf	NN	NN	O	1	dobj	scarf_2
+6	hanging	hang	VB	VBG	O	5	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	chair	chair	NN	NN	O	6	nmod	chair_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	red	red	JJ	JJ	O	5	amod	red
+5	??	scarf	NN	NN	O	1	dobj	scarf_2
+6	hanging	hang	VB	VBG	O	5	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	chair	chair	NN	NN	O	6	nmod	chair_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	red	red	JJ	JJ	O	5	amod	red
+5	scarf	scarf	NN	NN	O	1	dobj	scarf_2
+6	hanging	hang	VB	VBG	O	5	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	chair	NN	NN	O	6	nmod	chair_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	glass	NN	NN	O	5	compound	glass
+5	bottle	bottle	NN	NN	O	1	dobj	bottle_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	in	in	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	green	green	JJ	JJ	O	11	amod	green
+11	bag	bag	NN	NN	O	7	nmod	bag_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	glass	glass	NN	NN	O	5	compound	glass
+5	??	bottle	NN	NN	O	1	dobj	bottle_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	in	in	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	green	green	JJ	JJ	O	11	amod	green
+11	bag	bag	NN	NN	O	7	nmod	bag_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	glass	glass	NN	NN	O	5	compound	glass
+5	bottle	bottle	NN	NN	O	1	dobj	bottle_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	in	in	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	??	green	JJ	JJ	O	11	amod	green
+11	bag	bag	NN	NN	O	7	nmod	bag_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	glass	glass	NN	NN	O	5	compound	glass
+5	bottle	bottle	NN	NN	O	1	dobj	bottle_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	in	in	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	green	green	JJ	JJ	O	11	amod	green
+11	??	bag	NN	NN	O	7	nmod	bag_1
+								
+1	fill	fill	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	??	cleaning	NN	NN	O	4	compound	cleaning
+4	bucket	bucket	NN	NN	O	1	dobj	bucket_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	chair	chair	NN	NN	O	6	nmod	chair_1
+								
+1	fill	fill	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	cleaning	cleaning	NN	NN	O	4	compound	cleaning
+4	??	bucket	NN	NN	O	1	dobj	bucket_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	chair	chair	NN	NN	O	6	nmod	chair_1
+								
+1	fill	fill	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	cleaning	cleaning	NN	NN	O	4	compound	cleaning
+4	bucket	bucket	NN	NN	O	1	dobj	bucket_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	chair	NN	NN	O	6	nmod	chair_1

@@ -1,0 +1,1705 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	book	book	NN	NN	O	0	_	mug_1	book_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	vitrine	vitrine	NN	NN	O	4	_	vitrine_1	vitrine_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	damages	damage	VB	VBZ	O	4	_		damage_1	
+12	carelessly	carelessly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	0	_	mug_1	mug_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	vitrine	vitrine	NN	NN	O	4	_	vitrine_1	vitrine_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	damages	damage	VB	VBZ	O	4	_		damage_1	
+12	carelessly	carelessly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	0	_	mug_1	mug_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	vitrine	vitrine	NN	NN	O	4	_	vitrine_1	vitrine_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	damages	damage	VB	VBZ	O	4	_		damage_1	
+12	carelessly	carelessly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	book	book	NN	NN	O	0	_	mug_1	book_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	vitrine	vitrine	NN	NN	O	4	_	vitrine_1	vitrine_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	damaged	damage	VB	VBN	O	7	_		damage_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	0	_	mug_1	mug_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	book	book	NN	NN	O	4	_	vitrine_1	book_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	damaged	damage	VB	VBN	O	7	_		damage_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	0	_	mug_1	mug_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	vitrine	vitrine	NN	NN	O	4	_	vitrine_1	vitrine_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	damaged	damage	VB	VBN	O	7	_		damage_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	book	book	NN	NN	O	10	_	woman_1	book_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_		clean_1	
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	3	_	vitrine_2	vitrine_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_		mug_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_		clean_1	
+4	the	the	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	vitrine_2	book_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_		mug_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	book	book	NN	NN	O	9	_	vitrine_2	book_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	2	_		mug_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	cleaned	clean	VB	VBN	O	0	_		clean_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	vitrine	vitrine	NN	NN	O	9	_	vitrine_2	vitrine_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	2	_		mug_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	cleaned	clean	VB	VBN	O	0	_		clean_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	book	book	NN	NN	O	9	_	woman_2	book_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_		clean_1	
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	3	_	vitrine_2	vitrine_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	candle	candle	NN	NN	O	5	_		candle_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_		clean_1	
+4	the	the	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	vitrine_2	book_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	candle	candle	NN	NN	O	5	_		candle_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	book	book	NN	NN	O	9	_	vitrine_2	book_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	candle	candle	NN	NN	O	2	_		candle_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	cleaned	clean	VB	VBN	O	0	_		clean_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	vitrine	vitrine	NN	NN	O	9	_	vitrine_2	vitrine_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	candle	candle	NN	NN	O	2	_		candle_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	cleaned	clean	VB	VBN	O	0	_		clean_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	book	book	NN	NN	O	9	_	woman_2	book_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	damages	damage	VB	VBZ	O	0	_		damage_1	
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	3	_	vitrine_1	vitrine_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_		mug_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	damages	damage	VB	VBZ	O	0	_		damage_1	
+4	the	the	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	vitrine_1	book_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_		mug_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	book	book	NN	NN	O	9	_	vitrine_1	book_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	2	_		mug_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	damaged	damage	VB	VBN	O	0	_		damage_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_1	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	vitrine	vitrine	NN	NN	O	9	_	vitrine_1	vitrine_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	2	_		mug_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	damaged	damage	VB	VBN	O	0	_		damage_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	book	book	NN	NN	O	9	_	woman_1	book_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	3	_	vitrine_2	vitrine_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	sofa	sofa	NN	NN	O	5	_	sofa_1	sofa_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	clean	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	3	_	vitrine_2	vitrine_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	sofa	sofa	NN	NN	O	5	_	sofa_1	sofa_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	vitrine_2	book_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	sofa	sofa	NN	NN	O	5	_	sofa_1	sofa_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	vitrine	vitrine	NN	NN	O	3	_	vitrine_2	vitrine_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	book	book	NN	NN	O	5	_	sofa_1	book_1	
+
+1	The	the	DT	DT	O	2	_			
+2	book	book	NN	NN	O	8	_	vitrine_2	book_1	
+3	next	next	JJ	JJ	O	6	_			
+4	to	to	TO	TO	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	sofa	sofa	NN	NN	O	2	_	sofa_1	sofa_1	
+7	is	be	VB	VBZ	O	8	_			
+8	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	8	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	vitrine	vitrine	NN	NN	O	8	_	vitrine_2	vitrine_1	
+3	next	next	JJ	JJ	O	6	_			
+4	to	to	TO	TO	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	book	book	NN	NN	O	2	_	sofa_1	book_1	
+7	is	be	VB	VBZ	O	8	_			
+8	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	8	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	vitrine	vitrine	NN	NN	O	8	_	vitrine_2	vitrine_1	
+3	next	next	JJ	JJ	O	6	_			
+4	to	to	TO	TO	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	sofa	sofa	NN	NN	O	2	_	sofa_1	sofa_1	
+7	is	be	VB	VBZ	O	8	_			
+8	clean	clean	VB	VBN	O	0	_	clean_1	clean_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	8	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	vitrine	vitrine	NN	NN	O	8	_	vitrine_2	vitrine_1	
+3	next	next	JJ	JJ	O	6	_			
+4	to	to	TO	TO	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	sofa	sofa	NN	NN	O	2	_	sofa_1	sofa_1	
+7	is	be	VB	VBZ	O	8	_			
+8	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	book	book	NN	NN	O	8	_	woman_2	book_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	book	book	NN	NN	O	1	_	clock_1	book_1	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	book	book	NN	NN	O	4	_	book_1	book_4	
+8	lying	lie	VB	VBG	O	7	_		lie_11	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	shelf	shelf	NN	NN	O	8	_	shelf_1	shelf_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	clock	clock	NN	NN	O	1	_	clock_1	clock_1	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	book	book	NN	NN	O	4	_	book_1	book_1	
+8	lying	lie	VB	VBG	O	7	_		lie_11	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	shelf	shelf	NN	NN	O	8	_	shelf_1	shelf_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	clock	clock	NN	NN	O	1	_	clock_1	clock_1	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	book	book	NN	NN	O	4	_	book_1	book_1	
+8	lying	lie	VB	VBG	O	7	_		lie_11	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	vitrine	vitrine	NN	NN	O	8	_	shelf_1	vitrine_1	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	book	book	NN	NN	O	1	_	mug_2	book_1	
+5	lying	lie	VB	VBG	O	4	_		lie_11	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	candle	candle	NN	NN	O	5	_		candle_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	book	book	NN	NN	O	2	_	mug_2	book_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	candle	candle	NN	NN	O	4	_		candle_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_11	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	vitrine	vitrine	NN	NN	O	9	_	vitrine_2	vitrine_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	2	_	mug_2	mug_2	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	candle	candle	NN	NN	O	4	_		candle_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_11	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	book	book	NN	NN	O	9	_	vitrine_2	book_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	book	book	NN	NN	O	2	_	frame_1	book_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	mug	mug	NN	NN	O	4	_	mug_3	mug_2	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_11	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	chest	chest	NN	NN	O	9	_	chest_1	chest_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	frame	frame	NN	NN	O	2	_	frame_1	frame_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	book	book	NN	NN	O	4	_	mug_3	book_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_11	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	chest	chest	NN	NN	O	9	_	chest_1	chest_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	frame	frame	NN	NN	O	2	_	frame_1	frame_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	mug	mug	NN	NN	O	4	_	mug_3	mug_2	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_11	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	book	book	NN	NN	O	9	_	chest_1	book_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	man_1	woman_2	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	a	a	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_1	book_1	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_2	shelf_3	
+9	of	of	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	vitrine	vitrine	NN	NN	O	8	_	vitrine_1	vitrine_1	
+12	that	that	IN	IN	O	15	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	15	_	woman_1	woman_1	
+15	damages	damage	VB	VBZ	O	5	_		damage_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	a	a	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_2	book_1	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_2	shelf_3	
+9	of	of	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	vitrine	vitrine	NN	NN	O	8	_	vitrine_1	vitrine_1	
+12	that	that	IN	IN	O	15	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	15	_	woman_1	woman_2	
+15	damages	damage	VB	VBZ	O	5	_		damage_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	a	a	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_2	book_1	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	book	book	NN	NN	O	5	_	shelf_2	book_4	
+9	of	of	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	vitrine	vitrine	NN	NN	O	8	_	vitrine_1	vitrine_1	
+12	that	that	IN	IN	O	15	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	15	_	woman_1	woman_2	
+15	damages	damage	VB	VBZ	O	5	_		damage_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	a	a	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_2	book_1	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_2	shelf_3	
+9	of	of	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	vitrine	vitrine	NN	NN	O	8	_	vitrine_1	vitrine_1	
+12	that	that	IN	IN	O	15	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	15	_	woman_1	woman_2	
+15	damages	damage	VB	VBZ	O	5	_		damage_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	a	a	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_2	book_1	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_2	shelf_3	
+9	of	of	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	vitrine	vitrine	NN	NN	O	8	_	vitrine_1	vitrine_1	
+12	that	that	IN	IN	O	15	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	15	_	woman_1	woman_2	
+15	damages	damage	VB	VBZ	O	5	_		damage_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	man_1	woman_2	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	a	a	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_2	book_1	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_2	shelf_3	
+9	of	of	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	vitrine	vitrine	NN	NN	O	8	_	vitrine_1	vitrine_1	
+12	that	that	WDT	WDT	O	14	_			
+13	is	be	VB	VBZ	O	14	_			
+14	damaged	damage	VB	VBN	O	11	_		damage_1	
+15	by	by	IN	IN	O	17	_			
+16	the	the	DT	DT	O	17	_			
+17	woman	woman	NN	NN	O	14	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	a	a	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_2	book_1	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_2	shelf_3	
+9	of	of	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	vitrine	vitrine	NN	NN	O	8	_	vitrine_1	vitrine_1	
+12	that	that	WDT	WDT	O	14	_			
+13	is	be	VB	VBZ	O	14	_			
+14	damaged	damage	VB	VBN	O	11	_		damage_1	
+15	by	by	IN	IN	O	17	_			
+16	the	the	DT	DT	O	17	_			
+17	woman	woman	NN	NN	O	14	_	woman_1	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	a	a	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_2	book_1	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	book	book	NN	NN	O	5	_	shelf_2	book_4	
+9	of	of	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	vitrine	vitrine	NN	NN	O	8	_	vitrine_1	vitrine_1	
+12	that	that	WDT	WDT	O	14	_			
+13	is	be	VB	VBZ	O	14	_			
+14	damaged	damage	VB	VBN	O	11	_		damage_1	
+15	by	by	IN	IN	O	17	_			
+16	the	the	DT	DT	O	17	_			
+17	woman	woman	NN	NN	O	14	_	woman_1	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	a	a	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_2	book_1	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_2	shelf_3	
+9	of	of	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	vitrine	vitrine	NN	NN	O	8	_	vitrine_1	vitrine_1	
+12	that	that	WDT	WDT	O	14	_			
+13	is	be	VB	VBZ	O	14	_			
+14	damaged	damage	VB	VBN	O	11	_		damage_1	
+15	by	by	IN	IN	O	17	_			
+16	the	the	DT	DT	O	17	_			
+17	woman	woman	NN	NN	O	14	_	woman_1	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	a	a	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_2	book_1	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_2	shelf_3	
+9	of	of	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	vitrine	vitrine	NN	NN	O	8	_	vitrine_1	vitrine_1	
+12	that	that	WDT	WDT	O	14	_			
+13	is	be	VB	VBZ	O	14	_			
+14	damaged	damage	VB	VBN	O	11	_		damage_1	
+15	by	by	IN	IN	O	17	_			
+16	the	the	DT	DT	O	17	_			
+17	book	book	NN	NN	O	14	_	woman_1	book_4	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	blue	woman_2	
+5	mug	mug	NN	NN	O	1	_	mug_2	mug_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	candle	candle	NN	NN	O	7	_	candle_1	candle_1	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	book	book	NN	NN	O	1	_	mug_2	book_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	candle	candle	NN	NN	O	7	_	candle_1	candle_1	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	mug	mug	NN	NN	O	1	_	mug_2	mug_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	book	book	NN	NN	O	7	_	candle_1	book_1	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	yellow	woman_2	
+5	book	book	NN	NN	O	1	_	book_4	book_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	bowl	bowl	NN	NN	O	7	_	bowl_1	bowl_1	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	yellow	yellow	JJ	JJ	O	5	_	yellow	yellow	
+5	book	book	NN	NN	O	1	_	book_4	book_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	bowl	bowl	NN	NN	O	7	_	bowl_1	bowl_1	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	yellow	yellow	JJ	JJ	O	5	_	yellow	yellow	
+5	book	book	NN	NN	O	1	_	book_4	book_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	book	book	NN	NN	O	7	_	bowl_1	book_4	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	0	_	pan_1	counter_3	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	cleans	clean	VB	VBZ	O	4	_	clean_1	clean_1	
+12	thoroughly	thoroughly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	pan	pan	NN	NN	O	0	_	pan_1	pan_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_3	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	cleans	clean	VB	VBZ	O	4	_	clean_1	clean_1	
+12	thoroughly	thoroughly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	pan	pan	NN	NN	O	0	_	pan_1	pan_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	cleans	clean	VB	VBZ	O	4	_	clean_1	clean_1	
+12	thoroughly	thoroughly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	pan	pan	NN	NN	O	0	_	pan_1	pan_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	counter	counter	VB	VBZ	O	4	_	clean_1	counter_3	
+12	thoroughly	thoroughly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	0	_	pan_1	counter_3	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cleaned	clean	VB	VBN	O	7	_	clean_1	clean_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	pan	pan	NN	NN	O	0	_	pan_1	pan_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_3	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cleaned	clean	VB	VBN	O	7	_	clean_1	clean_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	pan	pan	NN	NN	O	0	_	pan_1	pan_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	counter	counter	VB	VBN	O	7	_	clean_1	counter_3	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	pan	pan	NN	NN	O	0	_	pan_1	pan_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_1	counter_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cleaned	clean	VB	VBN	O	7	_	clean_1	clean_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	counter	counter	NN	NN	O	10	_	woman_1	counter_3	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	0	_	plate_1	counter_3	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	arranges	arrange	VB	VBZ	O	4	_	arrange_1	arrange_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	plate	plate	NN	NN	O	0	_	plate_1	plate_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_3	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	arranges	arrange	VB	VBZ	O	4	_	arrange_1	arrange_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	plate	plate	NN	NN	O	0	_	plate_1	plate_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	arranges	arrange	VB	VBZ	O	4	_	arrange_1	arrange_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	plate	plate	NN	NN	O	0	_	plate_1	plate_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	counter	counter	VB	VBZ	O	7	_	arrange_1	counter_3	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	0	_	plate_1	counter_3	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	arranged	arrange	VB	VBD	O	7	_	arrange_1	arrange_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	plate	plate	NN	NN	O	0	_	plate_1	plate_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_3	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	arranged	arrange	VB	VBD	O	7	_	arrange_1	arrange_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	plate	plate	NN	NN	O	0	_	plate_1	plate_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	counter	counter	VB	VBN	O	7	_	arrange_1	counter_3	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	plate	plate	NN	NN	O	0	_	plate_1	plate_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	counter_2	counter_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	arranged	arrange	VB	VBD	O	7	_	arrange_1	arrange_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	counter	counter	NN	NN	O	10	_	woman_2	counter_3	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	pan	pan	NN	NN	O	3	_	pan_1	pan_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_1	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	clean	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	pan	pan	NN	NN	O	3	_	pan_1	pan_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_1	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	3	_	pan_1	counter_3	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_1	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	pan	pan	NN	NN	O	3	_	pan_1	pan_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_1	counter_3	
+
+1	The	the	DT	DT	O	2	_			
+2	counter	counter	NN	NN	O	7	_	pan_1	counter_3	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_1	counter_2	
+6	is	be	VB	VBZ	O	7	_			
+7	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pan	pan	NN	NN	O	7	_	pan_1	pan_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_1	counter_3	
+6	is	be	VB	VBZ	O	7	_			
+7	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pan	pan	NN	NN	O	7	_	pan_1	pan_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_1	counter_2	
+6	is	be	VB	VBZ	O	7	_			
+7	clean	clean	VB	VBN	O	0	_	clean_1	clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pan	pan	NN	NN	O	7	_	pan_1	pan_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_1	counter_2	
+6	is	be	VB	VBZ	O	7	_			
+7	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	woman_1	counter_3	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	arranges	arrange	VB	VBZ	O	0	_	arrange_1	arrange_1	
+4	the	the	DT	DT	O	5	_			
+5	plate	plate	NN	NN	O	3	_	plate_1	plate_1	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	clean	clean	VB	VBZ	O	0	_	arrange_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	plate	plate	NN	NN	O	3	_	plate_1	plate_1	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	arranges	arrange	VB	VBZ	O	0	_	arrange_1	arrange_1	
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	3	_	plate_1	counter_3	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	arranges	arrange	VB	VBZ	O	0	_	arrange_1	arrange_1	
+4	the	the	DT	DT	O	5	_			
+5	plate	plate	NN	NN	O	3	_	plate_1	plate_1	
+6	on	on	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_3	
+
+1	The	the	DT	DT	O	2	_			
+2	counter	counter	NN	NN	O	7	_	plate_1	counter_3	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	is	be	VB	VBZ	O	7	_			
+7	arranged	arrange	VB	VBN	O	0	_	arrange_1	arrange_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	plate	plate	NN	NN	O	7	_	plate_1	plate_1	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_3	
+6	is	be	VB	VBZ	O	7	_			
+7	arranged	arrange	VB	VBN	O	0	_	arrange_1	arrange_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	plate	plate	NN	NN	O	7	_	plate_1	plate_1	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	is	be	VB	VBZ	O	7	_			
+7	clean	clean	VB	VBN	O	0	_	arrange_1	clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	plate	plate	NN	NN	O	7	_	plate_1	plate_1	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	is	be	VB	VBZ	O	7	_			
+7	arranged	arrange	VB	VBN	O	0	_	arrange_1	arrange_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	woman_2	counter_3	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	man_1	woman_2	
+3	washes	wash	VB	VBZ	O	0	_	wash_1	wash_1	
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	3	_	mug_1	mug_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	vase	vase	NN	NN	O	8	_	vase_1	vase_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	clean	clean	VB	VBZ	O	0	_	wash_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	3	_	mug_1	mug_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	vase	vase	NN	NN	O	8	_	vase_1	vase_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	washes	wash	VB	VBZ	O	0	_	wash_1	wash_1	
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	3	_	mug_1	counter_3	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	vase	vase	NN	NN	O	8	_	vase_1	vase_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	washes	wash	VB	VBZ	O	0	_	wash_1	wash_1	
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	3	_	mug_1	mug_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_3	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	vase	vase	NN	NN	O	8	_	vase_1	vase_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	washes	wash	VB	VBZ	O	0	_	wash_1	wash_1	
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	3	_	mug_1	mug_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	counter	counter	NN	NN	O	8	_	vase_1//pan_2//plate_1	counter_3	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	counter	counter	NN	NN	O	12	_	mug_1	counter_3	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	vase	vase	NN	NN	O	5	_	vase_1	vase_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	washed	wash	VB	VBN	O	0	_	wash_1	wash_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	mug	mug	NN	NN	O	12	_	mug_1	mug_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_3	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	vase	vase	NN	NN	O	5	_	vase_1	vase_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	washed	wash	VB	VBN	O	0	_	wash_1	wash_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	mug	mug	NN	NN	O	12	_	mug_1	mug_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	vase_1//pan_2//plate_1	counter_3	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	washed	wash	VB	VBN	O	0	_	wash_1	wash_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	mug	mug	NN	NN	O	12	_	mug_1	mug_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	vase	vase	NN	NN	O	5	_	vase_1	vase_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	clean	clean	VB	VBN	O	0	_	wash_1	clean_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	mug	mug	NN	NN	O	12	_	mug_1	mug_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	counter_2	counter_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	vase	vase	NN	NN	O	5	_	vase_1	vase_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	washed	wash	VB	VBN	O	0	_	wash_1	wash_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	counter	counter	NN	NN	O	12	_	man_1	counter_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	1	_	pan_2	counter_3	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	plate	plate	NN	NN	O	4	_	plate_1	plate_1	
+8	that	that	WDT	WDT	O	9	_			
+9	stand	stand	VB	VB	O	7	_		stand_15	
+10	next	next	JJ	JJ	O	9	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	stove	stove	NN	NN	O	9	_		stove_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	pan	pan	NN	NN	O	1	_	pan_2	pan_1	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	plate_1	counter_3	
+8	that	that	WDT	WDT	O	9	_			
+9	stand	stand	VB	VB	O	7	_		stand_15	
+10	next	next	JJ	JJ	O	9	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	stove	stove	NN	NN	O	9	_		stove_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	1	_	knife_1	counter_3	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	pan	pan	NN	NN	O	4	_		pan_1	
+8	that	that	WDT	WDT	O	9	_			
+9	stand	stand	VB	VBP	O	7	_		stand_15	
+10	on	on	IN	IN	O	13	_			
+11	the	the	DT	DT	O	13	_			
+12	left	left	JJ	JJ	O	13	_	left_1	left_2	
+13	counter	counter	NN	NN	O	9	_	counter_1	counter_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	knife	knife	NN	NN	O	1	_	knife_1	knife_1	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	pan	pan	NN	NN	O	4	_	pan_1	pan_1	
+8	that	that	WDT	WDT	O	9	_			
+9	stand	stand	VB	VBP	O	7	_		stand_15	
+10	on	on	IN	IN	O	13	_			
+11	the	the	DT	DT	O	13	_			
+12	woman	woman	JJ	JJ	O	13	_	left_1	woman_2	
+13	counter	counter	NN	NN	O	9	_	counter_1	counter_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	knife	knife	NN	NN	O	1	_	knife_1	knife_1	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	pan	pan	NN	NN	O	4	_	pan_1	pan_1	
+8	that	that	WDT	WDT	O	9	_			
+9	stand	stand	VB	VBP	O	7	_		stand_15	
+10	on	on	IN	IN	O	13	_			
+11	the	the	DT	DT	O	13	_			
+12	left	left	JJ	JJ	O	13	_	left_1	left_2	
+13	counter	counter	NN	NN	O	9	_	counter_1	counter_3	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	2	_	mug_2	counter_3	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	wine	wine	NN	NN	O	8	_		wine	
+8	shelf	shelf	NN	NN	O	4	_		shelf_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	counter	counter	NN	NN	O	8	_	counter_3	counter_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	2	_	mug_2	mug_2	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	wine	wine	NN	NN	O	8	_		wine	
+8	shelf	shelf	NN	NN	O	4	_		shelf_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	counter	counter	NN	NN	O	8	_	counter_3	counter_3	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	counter	counter	NN	NN	O	2	_	vase_2	counter_3	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	bench	bench	NN	NN	O	7	_	bench_1	bench_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	vase	vase	NN	NN	O	2	_	vase_2	vase_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	counter	counter	NN	NN	O	4	_	bag_1	counter_3	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	bench	bench	NN	NN	O	7	_	bench_1	bench_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	vase	vase	NN	NN	O	2	_	vase_2	vase_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	counter	counter	NN	NN	O	7	_	bench_1	counter_3	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	man_1	woman_2	
+3	holds	hold	VB	VBZ	O	0	_	hold_1	hold_1	
+4	the	the	DT	DT	O	5	_			
+5	handle	handle	NN	NN	O	3	_	handle_1	handle_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_	mug_1	mug_2	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	counter	counter	NN	NN	O	8	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	clean	clean	VB	VBZ	O	0	_	hold_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	handle	handle	NN	NN	O	3	_	handle_1	handle_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_	mug_1	mug_2	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	counter	counter	NN	NN	O	8	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	holds	hold	VB	VBZ	O	0	_	hold_1	hold_1	
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	3	_	handle_1	counter_3	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_	mug_1	mug_2	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	counter	counter	NN	NN	O	8	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	holds	hold	VB	VBZ	O	0	_	hold_1	hold_1	
+4	the	the	DT	DT	O	5	_			
+5	handle	handle	NN	NN	O	3	_	handle_1	handle_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	mug_1	counter_3	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	counter	counter	NN	NN	O	8	_	counter_2	counter_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	holds	hold	VB	VBZ	O	0	_	hold_1	hold_1	
+4	the	the	DT	DT	O	5	_			
+5	handle	handle	NN	NN	O	3	_	handle_1	handle_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_	mug_1	mug_2	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	counter	counter	NN	NN	O	8	_	counter_2	counter_3	
+
+1	The	the	DT	DT	O	2	_			
+2	counter	counter	NN	NN	O	10	_	handle_1	counter_3	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	2	_	mug_1	mug_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	is	be	VB	VBZ	O	10	_			
+10	holded	hold	VB	VBN	O	0	_	hold_1	hold_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	handle	handle	VB	VB	O	0	_	handle_1	handle_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	counter	counter	NN	NN	O	2	_	mug_1	counter_3	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	is	be	VB	VBZ	O	10	_			
+10	holded	hold	VB	VBN	O	0	_	hold_1	hold_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	handle	handle	VB	VB	O	0	_	handle_1	handle_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	2	_	mug_1	mug_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_3	
+9	is	be	VB	VBZ	O	10	_			
+10	holded	hold	VB	VBN	O	0	_	hold_1	hold_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	handle	handle	VB	VB	O	0	_	handle_1	handle_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	2	_	mug_1	mug_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	is	be	VB	VBZ	O	10	_			
+10	clean	clean	VB	VBN	O	0	_	hold_1	clean_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	handle	handle	VB	VB	O	13	_	handle_1	handle_2	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	2	_	mug_1	mug_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+9	is	be	VB	VBZ	O	10	_			
+10	holded	hold	VB	VBN	O	0	_	hold_1	hold_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	counter	counter	NN	NN	O	10	_	man_1	counter_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	red	woman_2	
+5	pan	pan	NN	NN	O	1	_	pan_1	pan_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	left	left	JJ	JJ	O	9	_	left_1	left_2	
+9	counter	counter	NN	NN	O	5	_	counter_1	counter_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	cleans	clean	VB	VBZ	O	5	_	clean_1	clean_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	red	red	JJ	JJ	O	5	_	red	red	
+5	counter	counter	NN	NN	O	1	_	pan_1	counter_3	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	left	left	JJ	JJ	O	9	_	left_1	left_2	
+9	counter	counter	NN	NN	O	5	_	counter_1	counter_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_2	
+13	cleans	clean	VB	VBZ	O	5	_	clean_1	clean_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	red	red	JJ	JJ	O	5	_	red	red	
+5	pan	pan	NN	NN	O	1	_	pan_1	pan_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	woman	woman	JJ	JJ	O	9	_	left_1	woman_2	
+9	counter	counter	NN	NN	O	5	_	counter_1	counter_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	cleans	clean	VB	VBZ	O	9	_	clean_1	clean_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	red	red	JJ	JJ	O	5	_	red	red	
+5	pan	pan	NN	NN	O	1	_	pan_1	pan_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	left	left	JJ	JJ	O	9	_	left_1	left_2	
+9	counter	counter	NN	NN	O	5	_	counter_1	counter_3	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_2	
+13	cleans	clean	VB	VBZ	O	5	_	clean_1	clean_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	red	red	JJ	JJ	O	5	_	red	red	
+5	pan	pan	NN	NN	O	1	_	pan_1	pan_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	left	left	JJ	JJ	O	9	_	left_1	left_2	
+9	counter	counter	NN	NN	O	5	_	counter_1	counter_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_2	
+13	cleans	clean	VB	VBZ	O	5	_	clean_1	clean_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	red	red	JJ	JJ	O	5	_	red	red	
+5	pan	pan	NN	NN	O	1	_	pan_1	pan_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	left	left	JJ	JJ	O	9	_	left_1	left_2	
+9	counter	counter	NN	NN	O	5	_	counter_1	counter_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_2	
+13	counter	counter	VB	VBZ	O	9	_	clean_1	counter_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	blue	woman_2	
+5	pan	pan	NN	NN	O	1	_	pan_2	pan_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	right	right	JJ	JJ	O	9	_	right_1	right_1	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_2	woman_1	
+13	stands	stand	VB	VBZ	O	5	_	stand_1	stand_15	
+14	next	next	JJ	JJ	O	13	_			
+15	to	to	TO	TO	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	counter	counter	NN	NN	O	1	_	pan_2	counter_3	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	right	right	JJ	JJ	O	9	_	right_1	right_1	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_2	woman_2	
+13	stands	stand	VB	VBZ	O	5	_	stand_1	stand_15	
+14	next	next	JJ	JJ	O	13	_			
+15	to	to	TO	TO	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	pan	pan	NN	NN	O	1	_	pan_2	pan_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	woman	woman	JJ	JJ	O	9	_	right_1	woman_2	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_2	woman_1	
+13	stands	stand	VB	VBZ	O	5	_	stand_1	stand_15	
+14	next	next	JJ	JJ	O	13	_			
+15	to	to	TO	TO	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	pan	pan	NN	NN	O	1	_	pan_2	pan_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	right	right	JJ	JJ	O	9	_	right_1	right_1	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_3	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_2	woman_2	
+13	stands	stand	VB	VBZ	O	5	_	stand_1	stand_15	
+14	next	next	JJ	JJ	O	13	_			
+15	to	to	TO	TO	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	pan	pan	NN	NN	O	1	_	pan_2	pan_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	right	right	JJ	JJ	O	9	_	right_1	right_1	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_2	woman_2	
+13	stands	stand	VB	VBZ	O	5	_	stand_1	stand_15	
+14	next	next	JJ	JJ	O	13	_			
+15	to	to	TO	TO	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	pan	pan	NN	NN	O	1	_	pan_2	pan_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	right	right	JJ	JJ	O	9	_	right_1	right_1	
+9	counter	counter	NN	NN	O	5	_	counter_2	counter_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_2	woman_2	
+13	counter	counter	VB	VBZ	O	5	_	stand_1	counter_3	
+14	next	next	JJ	JJ	O	13	_			
+15	to	to	TO	TO	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	big	woman_2	
+5	mug	mug	NN	NN	O	1	_	mug_2	mug_2	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	left	left	JJ	JJ	O	9	_	left_2	left_2	
+9	counter	counter	NN	NN	O	5	_	counter_3	counter_2	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	wine	wine	NN	NN	O	13	_		wine	
+13	shelf	shelf	NN	NN	O	9	_	shelf_1	shelf_1	
+14	on	on	IN	IN	O	15	_			
+15	it	it	PRP	PRP	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	big	big	JJ	JJ	O	5	_	big	big	
+5	counter	counter	NN	NN	O	1	_	mug_2	counter_3	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	left	left	JJ	JJ	O	9	_	left_2	left_2	
+9	counter	counter	NN	NN	O	5	_	counter_3	counter_2	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	wine	wine	NN	NN	O	13	_		wine	
+13	shelf	shelf	NN	NN	O	9	_	shelf_1	shelf_1	
+14	on	on	IN	IN	O	15	_			
+15	it	it	PRP	PRP	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	big	big	JJ	JJ	O	5	_	big	big	
+5	mug	mug	NN	NN	O	1	_	mug_2	mug_2	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	woman	woman	JJ	JJ	O	9	_	left_2	woman_2	
+9	counter	counter	NN	NN	O	5	_	counter_3	counter_2	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	wine	wine	NN	NN	O	13	_		wine	
+13	shelf	shelf	NN	NN	O	9	_	shelf_1	shelf_1	
+14	on	on	IN	IN	O	15	_			
+15	it	it	PRP	PRP	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	big	big	JJ	JJ	O	5	_	big	big	
+5	mug	mug	NN	NN	O	1	_	mug_2	mug_2	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	left	left	JJ	JJ	O	9	_	left_2	left_2	
+9	counter	counter	NN	NN	O	5	_	counter_3	counter_3	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	wine	wine	NN	NN	O	13	_		wine	
+13	shelf	shelf	NN	NN	O	9	_	shelf_1	shelf_1	
+14	on	on	IN	IN	O	15	_			
+15	it	it	PRP	PRP	O	13	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	big	big	JJ	JJ	O	5	_	big	big	
+5	mug	mug	NN	NN	O	1	_	mug_2	mug_2	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	left	left	JJ	JJ	O	9	_	left_2	left_2	
+9	counter	counter	NN	NN	O	5	_	counter_3	counter_2	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	wine	wine	NN	NN	O	13	_		wine	
+13	counter	counter	NN	NN	O	9	_	shelf_1	counter_3	
+14	on	on	IN	IN	O	15	_			
+15	it	it	PRP	PRP	O	13	_			
+

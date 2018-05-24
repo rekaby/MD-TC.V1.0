@@ -1,0 +1,665 @@
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	mug	NN	NN	O	0	ROOT	mug_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	vitrine	vitrine	NN	NN	O	4	nmod	vitrine_1
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	damages	damage	VB	VBZ	O	4	ccomp	
+12	carelessly	carelessly	RB	RB	O	11	advmod	
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	0	ROOT	mug_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	vitrine	NN	NN	O	4	nmod	vitrine_1
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	damages	damage	VB	VBZ	O	4	ccomp	
+12	carelessly	carelessly	RB	RB	O	11	advmod	
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	0	ROOT	mug_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	vitrine	vitrine	NN	NN	O	4	nmod	vitrine_1
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_1
+11	damages	damage	VB	VBZ	O	4	ccomp	
+12	carelessly	carelessly	RB	RB	O	11	advmod	
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	mug	NN	NN	O	0	ROOT	mug_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	vitrine	vitrine	NN	NN	O	4	nmod	vitrine_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	damaged	damage	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	0	ROOT	mug_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	vitrine	NN	NN	O	4	nmod	vitrine_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	damaged	damage	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	0	ROOT	mug_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	vitrine	vitrine	NN	NN	O	4	nmod	vitrine_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	damaged	damage	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	10	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	3	dobj	vitrine_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	mug	mug	NN	NN	O	5	nmod	
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	vitrine	NN	NN	O	3	dobj	vitrine_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	mug	mug	NN	NN	O	5	nmod	
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	??	vitrine	NN	NN	O	9	nsubjpass	vitrine_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	mug	mug	NN	NN	O	2	nmod	
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	cleaned	clean	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	vitrine	vitrine	NN	NN	O	9	nsubjpass	vitrine_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	mug	mug	NN	NN	O	2	nmod	
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	cleaned	clean	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	woman	NN	NN	O	9	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	3	dobj	vitrine_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	candle	candle	NN	NN	O	5	nmod	
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	vitrine	NN	NN	O	3	dobj	vitrine_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	candle	candle	NN	NN	O	5	nmod	
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	??	vitrine	NN	NN	O	9	nsubjpass	vitrine_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	candle	candle	NN	NN	O	2	nmod	
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	cleaned	clean	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	vitrine	vitrine	NN	NN	O	9	nsubjpass	vitrine_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	candle	candle	NN	NN	O	2	nmod	
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	cleaned	clean	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	woman	NN	NN	O	9	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_1
+3	damages	damage	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	3	dobj	vitrine_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	mug	mug	NN	NN	O	5	nmod	
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	damages	damage	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	vitrine	NN	NN	O	3	dobj	vitrine_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	mug	mug	NN	NN	O	5	nmod	
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	??	vitrine	NN	NN	O	9	nsubjpass	vitrine_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	mug	mug	NN	NN	O	2	nmod	
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	damaged	damage	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	vitrine	vitrine	NN	NN	O	9	nsubjpass	vitrine_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	mug	mug	NN	NN	O	2	nmod	
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	damaged	damage	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	woman	NN	NN	O	9	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	3	dobj	vitrine_2
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	sofa	sofa	NN	NN	O	5	nmod	sofa_1
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	??	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	3	dobj	vitrine_2
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	sofa	sofa	NN	NN	O	5	nmod	sofa_1
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	??	vitrine	NN	NN	O	3	dobj	vitrine_2
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	sofa	sofa	NN	NN	O	5	nmod	sofa_1
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	3	dobj	vitrine_2
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	sofa	NN	NN	O	5	nmod	sofa_1
+								
+1	The	the	DT	DT	O	2	det	
+2	??	vitrine	NN	NN	O	8	nsubjpass	vitrine_2
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	sofa	sofa	NN	NN	O	2	nmod	sofa_1
+7	is	be	VB	VBZ	O	8	auxpass	
+8	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	8	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	vitrine	vitrine	NN	NN	O	8	nsubjpass	vitrine_2
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	??	sofa	NN	NN	O	2	nmod	sofa_1
+7	is	be	VB	VBZ	O	8	auxpass	
+8	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	8	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	vitrine	vitrine	NN	NN	O	8	nsubjpass	vitrine_2
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	sofa	sofa	NN	NN	O	2	nmod	sofa_1
+7	is	be	VB	VBZ	O	8	auxpass	
+8	??	clean	VB	VBN	O	0	ROOT	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	8	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	vitrine	vitrine	NN	NN	O	8	nsubjpass	vitrine_2
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	sofa	sofa	NN	NN	O	2	nmod	sofa_1
+7	is	be	VB	VBZ	O	8	auxpass	
+8	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	woman	NN	NN	O	8	nmod	woman_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	clock	NN	NN	O	1	dobj	clock_1
+5	and	and	CC	CC	O	4	cc	
+6	the	the	DT	DT	O	7	det	
+7	book	book	NN	NN	O	4	conj	book_1
+8	lying	lie	VB	VBG	O	7	ccmop	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	shelf	shelf	NN	NN	O	8	nmod	shelf_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	clock	clock	NN	NN	O	1	dobj	clock_1
+5	and	and	CC	CC	O	4	cc	
+6	the	the	DT	DT	O	7	det	
+7	??	book	NN	NN	O	4	conj	book_1
+8	lying	lie	VB	VBG	O	7	ccmop	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	shelf	shelf	NN	NN	O	8	nmod	shelf_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	clock	clock	NN	NN	O	1	dobj	clock_1
+5	and	and	CC	CC	O	4	cc	
+6	the	the	DT	DT	O	7	det	
+7	book	book	NN	NN	O	4	conj	book_1
+8	lying	lie	VB	VBG	O	7	ccmop	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	shelf	NN	NN	O	8	nmod	shelf_1
+								
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	mug	NN	NN	O	1	dobj	mug_2
+5	lying	lie	VB	VBG	O	4	ccomp	
+6	next	next	JJ	JJ	O	5	advmod	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	candle	candle	NN	NN	O	5	nmod	
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	mug	NN	NN	O	2	nsubj	mug_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	candle	candle	NN	NN	O	4	conj	
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	vitrine	vitrine	NN	NN	O	9	nmod	vitrine_2
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	2	nsubj	mug_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	candle	candle	NN	NN	O	4	conj	
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	vitrine	NN	NN	O	9	nmod	vitrine_2
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	frame	NN	NN	O	2	nsubj	frame_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	mug	mug	NN	NN	O	4	conj	mug_3
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	chest	chest	NN	NN	O	9	nmod	chest_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	frame	frame	NN	NN	O	2	nsubj	frame_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	??	mug	NN	NN	O	4	conj	mug_3
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	chest	chest	NN	NN	O	9	nmod	chest_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	frame	frame	NN	NN	O	2	nsubj	frame_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	mug	mug	NN	NN	O	4	conj	mug_3
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	chest	NN	NN	O	9	nmod	chest_1
+								
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_1
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	5	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	vitrine	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	15	nsubj	woman_1
+15	damages	damage	VB	VBZ	O	11	ccomp	
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	??	book	NN	NN	O	3	dobj	book_2
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	5	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	vitrine	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	15	nsubj	woman_1
+15	damages	damage	VB	VBZ	O	11	ccomp	
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_2
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	shelf	NN	NN	O	5	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	vitrine	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	15	nsubj	woman_1
+15	damages	damage	VB	VBZ	O	11	ccomp	
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_2
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	5	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	15	nsubj	woman_1
+15	damages	damage	VB	VBZ	O	11	ccomp	
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_2
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	5	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	vitrine	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	??	woman	NN	NN	O	15	nsubj	woman_1
+15	damages	damage	VB	VBZ	O	11	ccomp	
+								
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_2
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	3	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	vitrine	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	WDT	WDT	O	14	nsubjpass	
+13	is	be	VB	VBZ	O	14	auxpass	
+14	damaged	damage	VB	VBN	O	11	ccomp	
+15	by	by	IN	IN	O	17	case	
+16	the	the	DT	DT	O	17	det	
+17	woman	woman	NN	NN	O	14	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	??	book	NN	NN	O	3	dobj	book_2
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	3	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	vitrine	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	WDT	WDT	O	14	nsubjpass	
+13	is	be	VB	VBZ	O	14	auxpass	
+14	damaged	damage	VB	VBN	O	11	ccomp	
+15	by	by	IN	IN	O	17	case	
+16	the	the	DT	DT	O	17	det	
+17	woman	woman	NN	NN	O	14	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_2
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	shelf	NN	NN	O	3	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	vitrine	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	WDT	WDT	O	14	nsubjpass	
+13	is	be	VB	VBZ	O	14	auxpass	
+14	damaged	damage	VB	VBN	O	11	ccomp	
+15	by	by	IN	IN	O	17	case	
+16	the	the	DT	DT	O	17	det	
+17	woman	woman	NN	NN	O	14	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_2
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	3	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	WDT	WDT	O	14	nsubjpass	
+13	is	be	VB	VBZ	O	14	auxpass	
+14	damaged	damage	VB	VBN	O	11	ccomp	
+15	by	by	IN	IN	O	17	case	
+16	the	the	DT	DT	O	17	det	
+17	woman	woman	NN	NN	O	14	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_2
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	3	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	vitrine	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	WDT	WDT	O	14	nsubjpass	
+13	is	be	VB	VBZ	O	14	auxpass	
+14	damaged	damage	VB	VBN	O	11	ccomp	
+15	by	by	IN	IN	O	17	case	
+16	the	the	DT	DT	O	17	det	
+17	??	woman	NN	NN	O	14	nmod	woman_1
+								
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	blue	JJ	JJ	O	5	amod	blue
+5	mug	mug	NN	NN	O	1	dobj	mug_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	candle	candle	NN	NN	O	7	nmod	candle_1 
+								
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	??	mug	NN	NN	O	1	dobj	mug_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	candle	candle	NN	NN	O	7	nmod	candle_1 
+								
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	mug	mug	NN	NN	O	1	dobj	mug_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	candle	NN	NN	O	7	nmod	candle_1 
+								
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	yellow	JJ	JJ	O	5	amod	yellow
+5	book	book	NN	NN	O	1	dobj	book_4
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	bowl	bowl	NN	NN	O	7	nmod	bowl_1
+								
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	yellow	yellow	JJ	JJ	O	5	amod	yellow
+5	??	book	NN	NN	O	1	dobj	book_4
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	bowl	bowl	NN	NN	O	7	nmod	bowl_1
+								
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	yellow	yellow	JJ	JJ	O	5	amod	yellow
+5	book	book	NN	NN	O	1	dobj	book_4
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	bowl	NN	NN	O	7	nmod	bowl_1

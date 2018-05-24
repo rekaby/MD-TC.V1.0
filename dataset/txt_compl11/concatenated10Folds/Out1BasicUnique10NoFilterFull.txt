@@ -1,0 +1,1840 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	0	_	glass_1//key_1	glass_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	tablerunner	tablerunner	NN	NN	O	4	_	tablerunner_1	tablerunner_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	holds	hold	VB	VBZ	O	4	_		hold_1	
+12	lightly	lightly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	0	_	glass_1	glass_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	tablerunner	tablerunner	NN	NN	O	4	_	tablerunner_1	tablerunner_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	holds	hold	VB	VBZ	O	4	_		hold_1	
+12	lightly	lightly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	0	_	glass_1	glass_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	tablerunner	tablerunner	NN	NN	O	4	_	tablerunner_1	tablerunner_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	holds	hold	VB	VBZ	O	4	_		hold_1	
+12	lightly	lightly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	10	_	glass_1	glass_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	tablerunner	tablerunner	NN	NN	O	4	_	tablerunner_1	tablerunner_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	held	hold	VB	VBN	O	0	_		hold_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	10	_	glass_1	glass_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	tablerunner	tablerunner	NN	NN	O	4	_	tablerunner_1	tablerunner_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	held	hold	VB	VBN	O	0	_		hold_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	10	_	glass_1	glass_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	tablerunner	tablerunner	NN	NN	O	4	_	tablerunner_1	tablerunner_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	held	hold	VB	VBN	O	0	_		hold_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	0	_	glass_2//key_1	glass_2	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	opens	open	VB	VBZ	O	7	_	open_2	open_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	0	_	glass_2	glass_2	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	opens	open	VB	VBZ	O	7	_	open_2	open_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	0	_	glass_2	glass_2	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	open	open	VB	VBZ	O	7	_	open_2	open_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	0	_	glass_2	glass_2	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	opened	open	VB	VBN	O	7	_	open_2	open_2	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	0	_	glass_2	glass_2	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	open	open	VB	VBN	O	7	_	open_2	open_2	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	0	_	glass_2	glass_2	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	opened	open	VB	VBN	O	7	_	open_2	open_2	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	glasses	glass	NNS	NNS	O	3	_	glass_1	glass_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	glass	glass	NN	NN	O	3	_	glass_1	glass_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	glasses	glass	NNS	NNS	O	3	_	glass_1	glass_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	sidearm	sidearm	NN	NN	O	5	_	tablerunner_1	sidearm_1	
+
+1	The	the	DT	DT	O	2	_			
+2	glass	glass	NN	NN	O	7	_	glass_1	glass_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	tablerunner	tablerunner	NN	NN	O	2	_	tablerunner_1	tablerunner_1	
+6	is	be	VB	VBZ	O	7	_			
+7	held	hold	VB	VBN	O	0	_		hold_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	glasses	glass	NN	NNS	O	7	_	glass_1	glass_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	tablerunner	tablerunner	NN	NN	O	2	_	tablerunner_1	tablerunner_1	
+6	is	be	VB	VBZ	O	7	_			
+7	held	hold	VB	VBN	O	0	_		hold_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	glasses	glass	NN	NNS	O	7	_	glass_1	glass_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	tablerunner	tablerunner	NN	NN	O	2	_	tablerunner_1	tablerunner_1	
+6	is	be	VB	VBZ	O	7	_			
+7	held	hold	VB	VBN	O	0	_		hold_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	opens	open	VB	VBZ	O	0	_	open_2	open_2	
+4	the	the	DT	DT	O	5	_			
+5	bag	bag	NN	NN	O	3	_	bag_1	bag_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_		tablerunner_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	open	open	VB	VBZ	O	0	_	open_2	open_2	
+4	the	the	DT	DT	O	5	_			
+5	bag	bag	NN	NN	O	3	_	bag_1	bag_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_		tablerunner_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	opens	open	VB	VBZ	O	0	_	open_2	open_2	
+4	the	the	DT	DT	O	5	_			
+5	bag	bag	NN	NN	O	3	_	bag_1	bag_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_		tablerunner_2	
+
+1	The	the	DT	DT	O	2	_			
+2	bag	bag	NN	NN	O	7	_	bag_1	bag_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	tablerunner	tablerunner	NN	NN	O	2	_		tablerunner_2	
+6	is	be	VB	VBZ	O	7	_			
+7	opened	open	VB	VBN	O	0	_	open_2	open_2	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	bag	bag	NN	NN	O	7	_	bag_1	bag_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	tablerunner	tablerunner	NN	NN	O	2	_		tablerunner_2	
+6	is	be	VB	VBZ	O	7	_			
+7	open	open	VB	VBN	O	0	_	open_2	open_2	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	bag	bag	NN	NN	O	7	_	bag_1	bag_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	tablerunner	tablerunner	NN	NN	O	2	_		tablerunner_2	
+6	is	be	VB	VBZ	O	7	_			
+7	opened	open	VB	VBN	O	0	_	open_2	open_2	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	glasses	glass	NN	NNS	O	3	_	glass_1	glass_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	glass	glass	NN	NN	O	3	_	glass_1	glass_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	holds	hold	VB	VBZ	O	0	_		hold_1	
+4	the	the	DT	DT	O	5	_			
+5	glasses	glass	NN	NNS	O	3	_	glass_1	glass_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+
+1	The	the	DT	DT	O	2	_			
+2	glass	glass	NN	NN	O	7	_	glass_1	glass_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	tablerunner	tablerunner	NN	NN	O	2	_	tablerunner_1	tablerunner_1	
+6	is	be	VB	VBZ	O	7	_			
+7	held	hold	VB	VBN	O	0	_		hold_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	glasses	glass	NN	NNS	O	7	_	glass_1	glass_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	tablerunner	tablerunner	NN	NN	O	2	_	tablerunner_1	tablerunner_1	
+6	is	be	VB	VBZ	O	7	_			
+7	held	hold	VB	VBN	O	0	_		hold_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	glasses	glass	NN	NNS	O	7	_	glass_1	glass_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	tablerunner	tablerunner	NN	NN	O	2	_	tablerunner_1	tablerunner_1	
+6	is	be	VB	VBZ	O	7	_			
+7	held	hold	VB	VBN	O	0	_		hold_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	1	_	glass_3	glass_3	
+5	lying	lie	VB	VBG	O	4	_		lie_12	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	book	book	NN	NN	O	5	_		book_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	key	key	NN	NN	O	2	_	key_1	key_1	
+5	","	","	","	","	O	6	_			
+6	glasses	glass	NN	NNS	O	4	_	glass_2	glass_2	
+7	and	and	CC	CC	O	6	_			
+8	a	a	DT	DT	O	9	_			
+9	bag	bag	NN	NN	O	6	_	bag_1	bag_1	
+10	lying	lie	VB	VBG	O	9	_		lie_15	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	tablerunner	tablerunner	NN	NN	O	10	_	tablerunner_2	tablerunner_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	key	key	NN	NN	O	2	_	key_1	key_1	
+5	","	","	","	","	O	6	_			
+6	glass	glass	NN	NN	O	4	_	glass_2	glass_2	
+7	and	and	CC	CC	O	6	_			
+8	a	a	DT	DT	O	9	_			
+9	bag	bag	NN	NN	O	6	_	bag_1	bag_1	
+10	lying	lie	VB	VBG	O	9	_		lie_15	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	tablerunner	tablerunner	NN	NN	O	10	_	tablerunner_2	tablerunner_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	key	key	NN	NN	O	2	_	key_1	key_1	
+5	","	","	","	","	O	6	_			
+6	glasses	glass	NN	NNS	O	4	_	glass_2	glass_2	
+7	and	and	CC	CC	O	6	_			
+8	a	a	DT	DT	O	9	_			
+9	bag	bag	NN	NN	O	6	_	bag_1	bag_1	
+10	lying	lie	VB	VBG	O	9	_		lie_15	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	tablerunner	tablerunner	NN	NN	O	10	_	tablerunner_2	tablerunner_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	key	key	NN	NN	O	2	_	key_1	key_1	
+5	","	","	","	","	O	6	_			
+6	glasses	glass	NN	NNS	O	4	_	glass_2	glass_2	
+7	and	and	CC	CC	O	6	_			
+8	a	a	DT	DT	O	9	_			
+9	bag	bag	NN	NN	O	6	_	bag_1	bag_1	
+10	lying	lie	VB	VBG	O	9	_		lie_15	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	tablerunner	tablerunner	NN	NN	O	10	_	tablerunner_2	tablerunner_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	glass	glass	NN	NN	O	2	_	glass_1	glass_1	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	bottle	bottle	NN	NN	O	3	_	bottle_1	bottle_1	
+7	lying	lie	VB	VBG	O	6	_		lie_14	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	tablerunner	tablerunner	NN	NN	O	7	_	tablerunner_1	tablerunner_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	glasses	glass	NN	NNS	O	2	_	glass_1	glass_1	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	bottle	bottle	NN	NN	O	3	_	bottle_1	bottle_1	
+7	lying	lie	VB	VBG	O	6	_		lie_14	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	tablerunner	tablerunner	NN	NN	O	7	_	tablerunner_1	tablerunner_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	cap	cap	NN	NN	O	3	_	cap_1	cap_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_1	bottle_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	tablerunner	tablerunner	NN	NN	O	8	_	tablerunner_1	tablerunner_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	open	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	cap	cap	NN	NN	O	3	_	cap_1	cap_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_1	bottle_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	tablerunner	tablerunner	NN	NN	O	8	_	tablerunner_1	tablerunner_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	cap	cap	NN	NN	O	3	_	cap_1	cap_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_1	bottle_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	tablerunner	tablerunner	NN	NN	O	8	_	tablerunner_1	tablerunner_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	cap	cap	NN	NN	O	3	_	cap_1	cap_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_1	bottle_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	tablerunner	tablerunner	NN	NN	O	8	_	tablerunner_1	tablerunner_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	cap	cap	NN	NN	O	3	_	cap_1	cap_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_1	bottle_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	tablerunner	tablerunner	NN	NN	O	8	_	tablerunner_1	tablerunner_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	fixes	fix	VB	VBZ	O	0	_	fix_1	fix_1	
+4	the	the	DT	DT	O	5	_			
+5	sidearm	sidearm	NN	NN	O	3	_	sidearm_1	sidearm_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	glasses	glass	NN	NNS	O	5	_	glass_1	glass_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	tablerunner	tablerunner	NN	NN	O	8	_	tablerunner_1	tablerunner_1	
+12	with	with	IN	IN	O	14	_			
+13	a	a	DT	DT	O	14	_			
+14	bottle	bottle	NN	NN	O	11	_	bottle_1	bottle_1	
+15	on	on	IN	IN	O	16	_			
+16	it	it	PRP	PRP	O	14	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	fix	fix	VB	VBZ	O	0	_	fix_1	fix_1	
+4	the	the	DT	DT	O	5	_			
+5	sidearm	sidearm	NN	NN	O	3	_	sidearm_1	sidearm_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	glasses	glass	NN	NNS	O	5	_	glass_1	glass_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	tablerunner	tablerunner	NN	NN	O	8	_	tablerunner_1	tablerunner_1	
+12	with	with	IN	IN	O	14	_			
+13	a	a	DT	DT	O	14	_			
+14	bottle	bottle	NN	NN	O	11	_	bottle_1	bottle_1	
+15	on	on	IN	IN	O	16	_			
+16	it	it	PRP	PRP	O	14	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	fixes	fix	VB	VBZ	O	0	_	fix_1	fix_1	
+4	the	the	DT	DT	O	5	_			
+5	sidearm	sidearm	NN	NN	O	3	_	sidearm_1	sidearm_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	glasses	glass	NN	NNS	O	5	_	glass_1	glass_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	tablerunner	tablerunner	NN	NN	O	8	_	tablerunner_1	tablerunner_1	
+12	with	with	IN	IN	O	14	_			
+13	a	a	DT	DT	O	14	_			
+14	bottle	bottle	NN	NN	O	11	_	bottle_1	bottle_1	
+15	on	on	IN	IN	O	16	_			
+16	it	it	PRP	PRP	O	14	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	fixes	fix	VB	VBZ	O	0	_	fix_1	fix_1	
+4	the	the	DT	DT	O	5	_			
+5	sidearm	sidearm	NN	NN	O	3	_	sidearm_1	sidearm_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	glass	glass	NN	NN	O	5	_	glass_1	glass_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	tablerunner	tablerunner	NN	NN	O	8	_	tablerunner_1	tablerunner_1	
+12	with	with	IN	IN	O	14	_			
+13	a	a	DT	DT	O	14	_			
+14	bottle	bottle	NN	NN	O	11	_	bottle_1	bottle_1	
+15	on	on	IN	IN	O	16	_			
+16	it	it	PRP	PRP	O	14	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	fixes	fix	VB	VBZ	O	0	_	fix_1	fix_1	
+4	the	the	DT	DT	O	5	_			
+5	sidearm	sidearm	NN	NN	O	3	_	sidearm_1	sidearm_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	glasses	glass	NN	NNS	O	5	_	glass_1	glass_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	tablerunner	tablerunner	NN	NN	O	8	_	tablerunner_1	tablerunner_1	
+12	with	with	IN	IN	O	14	_			
+13	a	a	DT	DT	O	14	_			
+14	bottle	bottle	NN	NN	O	11	_	bottle_1	bottle_1	
+15	on	on	IN	IN	O	16	_			
+16	it	it	PRP	PRP	O	14	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	fixes	fix	VB	VBZ	O	0	_	fix_1	fix_1	
+4	the	the	DT	DT	O	5	_			
+5	sidearm	sidearm	NN	NN	O	3	_	sidearm_1	sidearm_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	glasses	glass	NN	NNS	O	5	_	glass_1	glass_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	tablerunner	tablerunner	NN	NN	O	8	_	tablerunner_1	tablerunner_1	
+12	with	with	IN	IN	O	14	_			
+13	a	a	DT	DT	O	14	_			
+14	bottle	bottle	NN	NN	O	11	_	bottle_1	bottle_1	
+15	on	on	IN	IN	O	16	_			
+16	it	it	PRP	PRP	O	14	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	bag	bag	NN	NN	O	1	_	bag_2	bag_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	ground	ground	NN	NN	O	7	_	ground_1	ground_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	bag	bag	NN	NN	O	1	_	bag_2	bag_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	ground	ground	NN	NN	O	7	_	ground_1	ground_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	bag	bag	NN	NN	O	1	_	bag_2	bag_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	ground	ground	NN	NN	O	7	_	ground_1	ground_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	framed	framed	JJ	JJ	O	5	_	framed	framed	
+5	glasses	glass	NN	NNS	O	1	_	glass_1	glass_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	green	green	JJ	JJ	O	9	_	green	green	
+9	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	framed	framed	jj	JJ	O	5	_	framed	framed	
+5	glass	glass	NN	NN	O	1	_	glass_1	glass_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	green	green	JJ	JJ	O	9	_	green	green	
+9	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	framed	framed	jj	JJ	O	5	_	framed	framed	
+5	glasses	glass	NN	NNS	O	1	_	glass_1	glass_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	green	green	JJ	JJ	O	9	_	green	green	
+9	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	framed	framed	jj	JJ	O	5	_	framed	framed	
+5	glasses	glass	NN	NNS	O	1	_	glass_1	glass_1	
+6	on	on	IN	IN	O	9	_			
+7	the	the	DT	DT	O	9	_			
+8	green	green	JJ	JJ	O	9	_	green	green	
+9	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	pink	green	
+5	tablerunner	tablerunner	NN	NN	O	1	_	tablerunner_3	tablerunner_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	blue	blue	JJ	JJ	O	11	_	blue	blue	
+11	bag	bag	NN	NN	O	7	_	bag_3	bag_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	bag	bag	NN	NN	O	1	_	tablerunner_3	bag_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	blue	blue	JJ	JJ	O	11	_	blue	blue	
+11	bag	bag	NN	NN	O	7	_	bag_3	bag_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	tablerunner	tablerunner	NN	NN	O	1	_	tablerunner_3	tablerunner_3	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	blue	blue	JJ	JJ	O	11	_	blue	blue	
+11	bag	bag	NN	NN	O	7	_	bag_3	bag_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	tablerunner	tablerunner	NN	NN	O	1	_	tablerunner_3	tablerunner_3	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_15	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	blue	blue	JJ	JJ	O	11	_	blue	blue	
+11	tablerunner	tablerunner	NN	NN	O	7	_	bag_3	tablerunner_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	1	_	glass_1//key_1//bag_1	glass_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	on	on	IN	IN	O	10	_			
+8	the	the	DT	DT	O	10	_			
+9	blue	blue	JJ	JJ	O	10	_	blue	blue	
+10	tablerunner	tablerunner	NN	NN	O	6	_	tablerunner_2	tablerunner_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glasses	glass	NNS	NNS	O	1	_	glass_1	glass_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	on	on	IN	IN	O	10	_			
+8	the	the	DT	DT	O	10	_			
+9	blue	blue	JJ	JJ	O	10	_	blue	blue	
+10	tablerunner	tablerunner	NN	NN	O	6	_	tablerunner_2	tablerunner_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glasses	glass	NNS	NNS	O	1	_	glass_1	glass_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	on	on	IN	IN	O	10	_			
+8	the	the	DT	DT	O	10	_			
+9	blue	blue	JJ	JJ	O	10	_	blue	blue	
+10	tablerunner	tablerunner	NN	NN	O	6	_	tablerunner_2	tablerunner_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	1	_	phone_1	glass_3	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_12	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	book	book	NN	NN	O	6	_	book_1	book_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	phone	phone	NN	NN	O	1	_	phone_1	phone_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	sofa	sofa	NN	NN	O	6	_	book_1	sofa_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	9	_	glass_2	glass_2	
+5	lying	lie	VB	VBG	O	4	_		lie_15	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	bag	bag	NN	NN	O	1	_	bag_1	bag_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	key	key	NN	NN	O	9	_	key_1	key_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	1	_	glass_2	glass_2	
+5	lying	lie	VB	VBG	O	4	_		lie_15	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	bag	bag	NN	NN	O	5	_	bag_1	bag_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	key	key	NN	NN	O	9	_	key_1	key_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	1	_	glass_2	glass_2	
+5	lying	lie	VB	VBG	O	4	_		lie_15	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	bag	bag	NN	NN	O	5	_	bag_1	bag_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	key	key	NN	NN	O	9	_	key_1	key_1	
+
+1	clean	clean	JJ	JJ	O	3	_			
+2	the	the	DT	DT	O	3	_			
+3	shelf	shelf	NN	NN	O	0	_	shelf_2	shelf_2	
+4	with	with	IN	IN	O	6	_			
+5	a	a	DT	DT	O	6	_			
+6	mug	mug	NN	NN	O	3	_	mug_1	mug_1	
+7	on	on	IN	IN	O	8	_			
+8	it	it	PRP	PRP	O	6	_			
+
+1	clean	clean	JJ	JJ	O	3	_			
+2	the	the	DT	DT	O	3	_			
+3	shelf	shelf	NN	NN	O	0	_	shelf_2	shelf_2	
+4	with	with	IN	IN	O	6	_			
+5	a	a	DT	DT	O	6	_			
+6	mug	mug	NN	NN	O	3	_	mug_1	mug_1	
+7	on	on	IN	IN	O	8	_			
+8	it	it	PRP	PRP	O	6	_			
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	0	_	glass_1	glass_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	tablerunner	tablerunner	NN	NN	O	4	_	tablerunner_1	tablerunner_1	
+8	with	with	IN	IN	O	10	_			
+9	a	a	DT	DT	O	10	_			
+10	bottle	bottle	NN	NN	O	7	_	bottle_1	bottle_1	
+11	on	on	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	2	_	glass_1	glass_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	tablerunner	tablerunner	NN	NN	O	4	_	tablerunner_1	tablerunner_1	
+8	with	with	IN	IN	O	10	_			
+9	a	a	DT	DT	O	10	_			
+10	bottle	bottle	NN	NN	O	7	_	bottle_1	bottle_1	
+11	on	on	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+
+1	The	the	DT	DT	O	2	_			
+2	sidearm	sidearm	NN	NN	O	15	_	sidearm_1	sidearm_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	glasses	glass	NN	NNS	O	2	_	glass_1	glass_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bottle	bottle	NN	NN	O	8	_	bottle_1	bottle_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+14	is	be	VB	VBZ	O	15	_			
+15	fixed	fix	VB	VBN	O	0	_	fix_1	fix_1	
+16	by	by	IN	IN	O	18	_			
+17	the	the	DT	DT	O	18	_			
+18	man	man	NN	NN	O	15	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	sidearm	sidearm	NN	NN	O	15	_	sidearm_1	sidearm_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	glass	glass	NN	NN	O	2	_	glass_1	glass_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bottle	bottle	NN	NN	O	8	_	bottle_1	bottle_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+14	is	be	VB	VBZ	O	15	_			
+15	fixed	fix	VB	VBN	O	0	_	fix_1	fix_1	
+16	by	by	IN	IN	O	18	_			
+17	the	the	DT	DT	O	18	_			
+18	man	man	NN	NN	O	15	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	sidearm	sidearm	NN	NN	O	15	_	sidearm_1	sidearm_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	glasses	glass	NN	NNS	O	2	_	glass_1	glass_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bottle	bottle	NN	NN	O	8	_	bottle_1	bottle_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+14	is	be	VB	VBZ	O	15	_			
+15	fixed	fix	VB	VBN	O	0	_	fix_1	fix_1	
+16	by	by	IN	IN	O	18	_			
+17	the	the	DT	DT	O	18	_			
+18	man	man	NN	NN	O	15	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	sidearm	sidearm	NN	NN	O	15	_	sidearm_1	sidearm_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	glasses	glass	NN	NNS	O	2	_	glass_1	glass_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bottle	bottle	NN	NN	O	8	_	bottle_1	bottle_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+14	is	be	VB	VBZ	O	15	_			
+15	fix	fix	VB	VBN	O	0	_	fix_1	fix_1	
+16	by	by	IN	IN	O	18	_			
+17	the	the	DT	DT	O	18	_			
+18	man	man	NN	NN	O	15	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	sidearm	sidearm	NN	NN	O	15	_	sidearm_1	sidearm_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	glasses	glass	NN	NNS	O	2	_	glass_1	glass_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	tablerunner	tablerunner	NN	NN	O	5	_	tablerunner_1	tablerunner_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bottle	bottle	NN	NN	O	8	_	bottle_1	bottle_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+14	is	be	VB	VBZ	O	15	_			
+15	fixed	fix	VB	VBN	O	0	_	fix_1	fix_1	
+16	by	by	IN	IN	O	18	_			
+17	the	the	DT	DT	O	18	_			
+18	man	man	NN	NN	O	15	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	3	_			
+3	bottle	bottle	NN	NN	O	0	_	bottle_1	bottle_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	table	table	NN	NN	O	3	_	table_1	table_1	
+7	that	that	IN	IN	O	10	_			
+8	the	the	DT	DT	O	9	_			
+9	man	man	NN	NN	O	10	_	man_1	man_1	
+10	assembles	assemble	VB	VBZ	O	6	_	assemble_1	assemble_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	3	_			
+3	bottle	bottle	NN	NN	O	0	_	bottle_1	bottle_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	table	table	NN	NN	O	3	_	table_1	table_1	
+7	that	that	IN	IN	O	10	_			
+8	the	the	DT	DT	O	9	_			
+9	man	man	NN	NN	O	10	_	man_1	man_1	
+10	assembles	assemble	VB	VBZ	O	6	_	assemble_1	assemble_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	3	_			
+3	bottle	bottle	NN	NN	O	0	_	bottle_1	bottle_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	table	table	NN	NN	O	3	_	table_1	table_1	
+7	that	that	IN	IN	O	10	_			
+8	the	the	DT	DT	O	9	_			
+9	man	man	NN	NN	O	10	_	man_1	man_1	
+10	assembles	assemble	VB	VBZ	O	6	_	assemble_1	assemble_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	3	_			
+3	bottle	bottle	NN	NN	O	0	_	bottle_1	bottle_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	table	table	NN	NN	O	3	_	table_1	table_1	
+7	that	that	IN	IN	O	10	_			
+8	the	the	DT	DT	O	9	_			
+9	man	man	NN	NN	O	10	_	man_1	man_1	
+10	assemble	assemble	VB	VBZ	O	6	_	assemble_1	assemble_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	3	_			
+3	bottle	bottle	NN	NN	O	0	_	bottle_1	bottle_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	table	table	NN	NN	O	3	_	table_1	table_1	
+7	that	that	WDT	WDT	O	9	_			
+8	is	be	VB	VBZ	O	9	_			
+9	assembled	assemble	VB	VBN	O	6	_	assemble_1	assemble_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	3	_			
+3	bottle	bottle	NN	NN	O	0	_	bottle_1	bottle_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	table	table	NN	NN	O	3	_	table_1	table_1	
+7	that	that	WDT	WDT	O	9	_			
+8	is	be	VB	VBZ	O	9	_			
+9	assembled	assemble	VB	VBN	O	6	_	assemble_1	assemble_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	3	_			
+3	bottle	bottle	NN	NN	O	0	_	bottle_1	bottle_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	table	table	NN	NN	O	3	_	table_1	table_1	
+7	that	that	WDT	WDT	O	9	_			
+8	is	be	VB	VBZ	O	9	_			
+9	assemble	assemble	VB	VBN	O	6	_	assemble_1	assemble_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	3	_			
+3	bottle	bottle	NN	NN	O	0	_	bottle_1	bottle_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	table	table	NN	NN	O	3	_	table_1	table_1	
+7	that	that	WDT	WDT	O	9	_			
+8	is	be	VB	VBZ	O	9	_			
+9	assembled	assemble	VB	VBN	O	6	_	assemble_1	assemble_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	laptop	laptop	NN	NN	O	0	_	laptop_1	laptop_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_2	table_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	uses	use	VB	VBZ	O	4	_	use_1	use_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	laptop	laptop	NN	NN	O	0	_	laptop_1	laptop_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_2	table_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	uses	use	VB	VBZ	O	4	_	use_1	use_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	laptop	laptop	NN	NN	O	0	_	laptop_1	laptop_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_2	table_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	uses	use	VB	VBZ	O	4	_	use_1	use_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	laptop	laptop	NN	NN	O	0	_	laptop_1	laptop_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_2	table_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	use	use	VB	VBZ	O	4	_	use_1	use_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	laptop	laptop	NN	NN	O	10	_	laptop_1	laptop_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_2	table_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	used	use	VB	VBN	O	0	_	use_1	use_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	laptop	laptop	NN	NN	O	10	_	laptop_1	laptop_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_2	table_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	used	use	VB	VBN	O	0	_	use_1	use_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	laptop	laptop	NN	NN	O	10	_	laptop_1	laptop_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_2	table_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	use	use	VB	VBN	O	0	_	use_1	use_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	laptop	laptop	NN	NN	O	10	_	laptop_1	laptop_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_2	table_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	used	use	VB	VBN	O	0	_	use_1	use_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	assembles	assemble	VB	VBZ	O	0	_	assemble_1	assemble_1	
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	3	_	table_1	table_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_1	bottle_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	assembles	assemble	VB	VBZ	O	0	_	assemble_1	assemble_1	
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	3	_	table_1	table_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_1	bottle_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	assemble	assemble	VB	VBZ	O	0	_	assemble_1	assemble_1	
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	3	_	table_1	table_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_1	bottle_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	assembles	assemble	VB	VBZ	O	0	_	assemble_1	assemble_1	
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	3	_	table_1	table_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_1	bottle_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	table	table	NN	NN	O	9	_	table_1	table_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bottle	bottle	NN	NN	O	2	_	bottle_1	bottle_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	assembled	assemble	VB	VBN	O	0	_	assemble_1	assemble_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	table	table	NN	NN	O	9	_	table_1	table_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bottle	bottle	NN	NN	O	2	_	bottle_1	bottle_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	assembled	assemble	VB	VBN	O	0	_	assemble_1	assemble_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	table	table	NN	NN	O	9	_	table_1	table_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bottle	bottle	NN	NN	O	2	_	bottle_1	bottle_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	assemble	assemble	VB	VBN	O	0	_	assemble_1	assemble_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	table	table	NN	NN	O	9	_	table_1	table_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bottle	bottle	NN	NN	O	2	_	bottle_1	bottle_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	assembled	assemble	VB	VBN	O	0	_	assemble_1	assemble_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	uses	use	VB	VBZ	O	0	_	use_1	use_1	
+4	the	the	DT	DT	O	5	_			
+5	laptop	laptop	NN	NN	O	3	_	laptop_1	laptop_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_2	table_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bottle	bottle	NN	NN	O	8	_	bottle_2	bottle_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	use	use	VB	VBZ	O	0	_	use_1	use_1	
+4	the	the	DT	DT	O	5	_			
+5	laptop	laptop	NN	NN	O	3	_	laptop_1	laptop_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_2	table_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bottle	bottle	NN	NN	O	8	_	bottle_2	bottle_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	uses	use	VB	VBZ	O	0	_	use_1	use_1	
+4	the	the	DT	DT	O	5	_			
+5	laptop	laptop	NN	NN	O	3	_	laptop_1	laptop_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_2	table_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bottle	bottle	NN	NN	O	8	_	bottle_2	bottle_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	uses	use	VB	VBZ	O	0	_	use_1	use_1	
+4	the	the	DT	DT	O	5	_			
+5	laptop	laptop	NN	NN	O	3	_	laptop_1	laptop_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_2	table_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bottle	bottle	NN	NN	O	8	_	bottle_2	bottle_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	uses	use	VB	VBZ	O	0	_	use_1	use_1	
+4	the	the	DT	DT	O	5	_			
+5	laptop	laptop	NN	NN	O	3	_	laptop_1	laptop_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_2	table_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bottle	bottle	NN	NN	O	8	_	bottle_2	bottle_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	laptop	laptop	NN	NN	O	12	_	laptop_1	laptop_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_2	table_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_2	bottle_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	used	use	VB	VBN	O	0	_	use_1	use_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	laptop	laptop	NN	NN	O	12	_	laptop_1	laptop_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_2	table_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_2	bottle_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	used	use	VB	VBN	O	0	_	use_1	use_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	laptop	laptop	NN	NN	O	12	_	laptop_1	laptop_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_2	table_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_2	bottle_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	used	use	VB	VBN	O	0	_	use_1	use_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	laptop	laptop	NN	NN	O	12	_	laptop_1	laptop_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_2	table_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_2	bottle_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	use	use	VB	VBN	O	0	_	use_1	use_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	laptop	laptop	NN	NN	O	12	_	laptop_1	laptop_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_2	table_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_2	bottle_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	used	use	VB	VBN	O	0	_	use_1	use_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	envelope	envelope	NN	NN	O	1	_	envelope_1	envelope_1	
+5	lying	lie	VB	VBG	O	4	_		lie_14	
+6	in	in	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	mug_1	mug_1	
+5	next	next	JJ	JJ	O	4	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	coffee	coffee	NN	NN	O	9	_			
+9	machine	machine	NN	NN	O	4	_	machine_1	machine_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	bottle	bottle	NN	NN	O	9	_	bottle_3	bottle_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	mug_1	mug_1	
+5	next	next	JJ	JJ	O	4	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	coffee	coffee	NN	NN	O	9	_			
+9	machine	machine	NN	NN	O	4	_	machine_1	machine_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	bottle	bottle	NN	NN	O	9	_	bottle_3	bottle_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	mug_1	mug_1	
+5	next	next	JJ	JJ	O	4	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	coffee	coffee	NN	NN	O	9	_			
+9	machine	machine	NN	NN	O	4	_	machine_1	machine_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	bottle	bottle	NN	NN	O	9	_	bottle_3	bottle_3	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	2	_	mug_1	mug_1	
+5	","	","	","	","	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	bottle	bottle	NN	NN	O	4	_	bottle_3	bottle_3	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	coffee	coffee	NN	NN	O	11	_			
+11	machine	machine	NN	NN	O	7	_	machine_1	machine_1	
+12	that	that	WDT	WDT	O	13	_			
+13	stand	stand	VB	VBP	O	11	_		stand_13	
+14	on	on	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	table	table	NN	NN	O	13	_	table_3	table_3	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	2	_	mug_1	mug_1	
+5	","	","	","	","	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	bottle	bottle	NN	NN	O	4	_	bottle_3	bottle_3	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	coffee	coffee	NN	NN	O	11	_			
+11	machine	machine	NN	NN	O	7	_	machine_1	machine_1	
+12	that	that	WDT	WDT	O	13	_			
+13	stand	stand	VB	VBP	O	11	_		stand_13	
+14	on	on	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	table	table	NN	NN	O	13	_	table_3	table_3	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	2	_	mug_1	mug_1	
+5	","	","	","	","	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	bottle	bottle	NN	NN	O	4	_	bottle_3	bottle_3	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	coffee	coffee	NN	NN	O	11	_			
+11	machine	machine	NN	NN	O	7	_	machine_1	machine_1	
+12	that	that	WDT	WDT	O	13	_			
+13	stand	stand	VB	VBP	O	11	_		stand_13	
+14	on	on	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	table	table	NN	NN	O	13	_	table_3	table_3	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	2	_	mug_1	mug_1	
+5	","	","	","	","	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	bottle	bottle	NN	NN	O	4	_	bottle_3	bottle_3	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	coffee	coffee	NN	NN	O	11	_			
+11	machine	machine	NN	NN	O	7	_	machine_1	machine_1	
+12	that	that	WDT	WDT	O	13	_			
+13	stand	stand	VB	VBP	O	11	_		stand_13	
+14	on	on	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	table	table	NN	NN	O	13	_	table_3	table_3	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	sandwich	sandwich	NN	NN	O	2	_	sandwich_1	sandwich_1	
+5	","	","	","	","	O	4	_			
+6	an	a	DT	DT	O	7	_			
+7	envelope	envelope	NN	NN	O	4	_	envelope_2	envelope_2	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	holder	holder	NN	NN	O	7	_	holder_1	holder_1	
+11	that	that	WDT	WDT	O	12	_			
+12	lie	lie	VB	VBP	O	10	_		lie_15	
+13	on	on	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	cabinet	cabinet	NN	NN	O	12	_	cabinet_1	cabinet_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	sandwich	sandwich	NN	NN	O	2	_	sandwich_1	sandwich_1	
+5	","	","	","	","	O	4	_			
+6	an	a	DT	DT	O	7	_			
+7	envelope	envelope	NN	NN	O	4	_	envelope_2	envelope_2	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	holder	holder	NN	NN	O	7	_	holder_1	holder_1	
+11	that	that	WDT	WDT	O	12	_			
+12	lie	lie	VB	VBP	O	10	_		lie_15	
+13	on	on	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	cabinet	cabinet	NN	NN	O	12	_	cabinet_1	cabinet_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	sandwich	sandwich	NN	NN	O	2	_	sandwich_1	sandwich_1	
+5	","	","	","	","	O	4	_			
+6	an	a	DT	DT	O	7	_			
+7	envelope	envelope	NN	NN	O	4	_	envelope_2	envelope_2	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	holder	holder	NN	NN	O	7	_	holder_1	holder_1	
+11	that	that	WDT	WDT	O	12	_			
+12	lie	lie	VB	VBP	O	10	_		lie_15	
+13	on	on	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	cabinet	cabinet	NN	NN	O	12	_	cabinet_1	cabinet_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	sandwich	sandwich	NN	NN	O	2	_	sandwich_1	sandwich_1	
+5	","	","	","	","	O	4	_			
+6	an	a	DT	DT	O	7	_			
+7	envelope	envelope	NN	NN	O	4	_	envelope_2	envelope_2	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	holder	holder	NN	NN	O	7	_	holder_1	holder_1	
+11	that	that	WDT	WDT	O	12	_			
+12	lie	lie	VB	VBP	O	10	_		lie_15	
+13	on	on	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	cabinet	cabinet	NN	NN	O	12	_	cabinet_1	cabinet_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	holds	hold	VB	VBZ	O	0	_	hold_1	hold_1	
+4	the	the	DT	DT	O	5	_			
+5	leg	leg	NN	NN	O	3	_	leg_1	leg_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_1	table_1	
+9	that	that	IN	IN	O	11	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	stands	stand	VB	VBZ	O	8	_	stand_1	stand_1	
+12	next	next	JJ	JJ	O	11	_			
+13	to	to	TO	TO	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	hold	hold	VB	VBZ	O	0	_	hold_1	hold_1	
+4	the	the	DT	DT	O	5	_			
+5	leg	leg	NN	NN	O	3	_	leg_1	leg_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_1	table_1	
+9	that	that	IN	IN	O	11	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	stands	stand	VB	VBZ	O	8	_	stand_1	stand_1	
+12	next	next	JJ	JJ	O	11	_			
+13	to	to	TO	TO	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	holds	hold	VB	VBZ	O	0	_	hold_1	hold_1	
+4	the	the	DT	DT	O	5	_			
+5	leg	leg	NN	NN	O	3	_	leg_1	leg_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_1	table_1	
+9	that	that	IN	IN	O	11	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	stands	stand	VB	VBZ	O	8	_	stand_1	stand_1	
+12	next	next	JJ	JJ	O	11	_			
+13	to	to	TO	TO	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	holds	hold	VB	VBZ	O	0	_	hold_1	hold_1	
+4	the	the	DT	DT	O	5	_			
+5	leg	leg	NN	NN	O	3	_	leg_1	leg_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_1	table_1	
+9	that	that	IN	IN	O	11	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	stands	stand	VB	VBZ	O	8	_	stand_1	stand_1	
+12	next	next	JJ	JJ	O	11	_			
+13	to	to	TO	TO	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	holds	hold	VB	VBZ	O	0	_	hold_1	hold_1	
+4	the	the	DT	DT	O	5	_			
+5	leg	leg	NN	NN	O	3	_	leg_1	leg_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_1	table_1	
+9	that	that	IN	IN	O	11	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	stands	stand	VB	VBZ	O	8	_	stand_1	stand_1	
+12	next	next	JJ	JJ	O	11	_			
+13	to	to	TO	TO	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	holds	hold	VB	VBZ	O	0	_	hold_1	hold_1	
+4	the	the	DT	DT	O	5	_			
+5	leg	leg	NN	NN	O	3	_	leg_1	leg_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_1	table_1	
+9	that	that	IN	IN	O	11	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	stand	stand	VB	VBZ	O	8	_	stand_1	stand_1	
+12	next	next	JJ	JJ	O	11	_			
+13	to	to	TO	TO	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	paints	paint	VB	VBZ	O	0	_	paint_1	paint_1	
+4	the	the	DT	DT	O	5	_			
+5	leg	leg	NN	NN	O	3	_	leg_3	leg_3	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_3	table_3	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	coffee	coffee	NN	NN	O	12	_			
+12	machine	machine	NN	NN	O	8	_		machine_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	paint	paint	VB	VBZ	O	0	_	paint_1	paint_1	
+4	the	the	DT	DT	O	5	_			
+5	leg	leg	NN	NN	O	3	_	leg_3	leg_3	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_3	table_3	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	coffee	coffee	NN	NN	O	12	_			
+12	machine	machine	NN	NN	O	8	_		machine_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	paints	paint	VB	VBZ	O	0	_	paint_1	paint_1	
+4	the	the	DT	DT	O	5	_			
+5	leg	leg	NN	NN	O	3	_	leg_3	leg_3	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_3	table_3	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	coffee	coffee	NN	NN	O	12	_			
+12	machine	machine	NN	NN	O	8	_		machine_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	paints	paint	VB	VBZ	O	0	_	paint_1	paint_1	
+4	the	the	DT	DT	O	5	_			
+5	leg	leg	NN	NN	O	3	_	leg_3	leg_3	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	table	table	NN	NN	O	5	_	table_3	table_3	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	coffee	coffee	NN	NN	O	12	_			
+12	machine	machine	NN	NN	O	8	_		machine_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	open	open	VB	VB	O	0	_		open_1	
+2	the	the	DT	DT	O	3	_			
+3	envelope	envelope	NN	NN	O	1	_	envelope_2	envelope_2	
+4	that	that	WDT	WDT	O	5	_			
+5	lies	lie	VB	VBZ	O	3	_		lie_15	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	8	_			
+8	sandwich	sandwich	NN	NN	O	5	_	holder_1//sandwich_1	sandwich_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	cabinet	cabinet	NN	NN	O	8	_	cabinet_1	cabinet_1	
+
+1	open	open	VB	VB	O	0	_		open_1	
+2	the	the	DT	DT	O	3	_			
+3	envelope	envelope	NN	NN	O	1	_	envelope_2	envelope_2	
+4	that	that	WDT	WDT	O	5	_			
+5	lies	lie	VB	VBZ	O	3	_		lie_15	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	8	_			
+8	holder	holder	NN	NN	O	5	_	holder_1	holder_1	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	cabinet	cabinet	NN	NN	O	8	_	cabinet_1	cabinet_1	
+
+1	clean	clean	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	beige	beige	JJ	JJ	O	4	_	beige	beige	
+4	table	table	NN	NN	O	1	_	table_3	table_3	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	coffee	coffee	NN	NN	O	8	_			
+8	machine	machine	NN	NN	O	4	_		machine_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	clean	clean	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	beige	beige	JJ	JJ	O	4	_	beige	beige	
+4	table	table	NN	NN	O	1	_	table_3	table_3	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	coffee	coffee	NN	NN	O	8	_			
+8	machine	machine	NN	NN	O	4	_		machine_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	get	get	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	opened	opened	JJ	JJ	O	5	_	opened	opened	
+5	envelope	envelope	NN	NN	O	1	_	envelope_1	envelope_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+
+1	get	get	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	opened	opened	JJ	JJ	O	5	_	opened	opened	
+5	envelope	envelope	NN	NN	O	1	_	envelope_1	envelope_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+
+1	get	get	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	opened	opened	JJ	JJ	O	5	_	opened	opened	
+5	envelope	envelope	NN	NN	O	1	_	envelope_1	envelope_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	envelope	envelope	NN	NN	O	1	_	sandwich_1//holder_1//envelope_2	envelope_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	sandwich	sandwich	NN	NN	O	6	_	sandwich_1	sandwich_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	envelope	envelope	NN	NN	O	1	_	envelope_2	envelope_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_14	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	box	box	NN	NN	O	6	_	sandwich_1//holder_1//envelope_2	box_1	
+
+1	get	get	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	glass	glass	JJ	JJ	O	5	_	glass	glass	
+5	bottle	bottle	NN	NN	O	1	_	bottle_2	bottle_2	
+6	lying	lie	VB	VBG	O	5	_		lie_12	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	laptop	laptop	NN	NN	O	6	_	laptop_1	laptop_1	
+
+1	get	get	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	5	_	glass	glass	
+5	bottle	bottle	NN	NN	O	1	_	bottle_2	bottle_2	
+6	lying	lie	VB	VBG	O	5	_		lie_12	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	laptop	laptop	NN	NN	O	6	_	laptop_1	laptop_1	
+
+1	get	get	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	5	_	glass	glass	
+5	bottle	bottle	NN	NN	O	1	_	bottle_2	bottle_1	
+6	lying	lie	VB	VBG	O	5	_		lie_11	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	table	table	NN	NN	O	6	_	laptop_1	table_1	
+

@@ -1,0 +1,747 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	0	_	bottle_1	bottle_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	opens	open	VB	VBZ	O	4	_		open_1	
+12	quickly	quickly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	0	_	bottle_1	bottle_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	opens	open	VB	VBZ	O	4	_		open_1	
+12	quickly	quickly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	0	_	bottle_1	bottle_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	opens	open	VB	VBZ	O	4	_		open_1	
+12	quickly	quickly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	10	_	bottle_1	bottle_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	opened	open	VB	VBN	O	0	_		open_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	10	_	bottle_1	bottle_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	opened	open	VB	VBN	O	0	_		open_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	10	_	bottle_1	bottle_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_1	bag_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	opened	open	VB	VBN	O	0	_		open_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	0	_	bottle_2	bottle_2	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_2	bag_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	carries	carry	VB	VBZ	O	7	_		carry_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	0	_	bottle_2	bottle_2	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_2	bag_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	carries	carry	VB	VBZ	O	7	_		carry_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	0	_	bottle_2	bottle_2	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_2	bag_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	carries	carry	VB	VBZ	O	7	_		carry_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	0	_	bottle_2	bottle_2	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_2	bag_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	carried	carry	VB	VBN	O	7	_		carry_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	0	_	bottle_2	bottle_2	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_2	bag_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	carried	carry	VB	VBN	O	7	_		carry_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	0	_	bottle_2	bottle_2	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bag	bag	NN	NN	O	4	_	bag_2	bag_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	carried	carry	VB	VBN	O	7	_		carry_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_		open_1	
+4	the	the	DT	DT	O	5	_			
+5	bottle	bottle	NN	NN	O	3	_	bottle_1	bottle_1	
+6	in	in	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bag	bag	NN	NN	O	5	_	bag_1	bag_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_		open_1	
+4	the	the	DT	DT	O	5	_			
+5	bottle	bottle	NN	NN	O	3	_	bottle_1	bottle_1	
+6	in	in	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bag	bag	NN	NN	O	5	_	bag_1	bag_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	opens	open	VB	VBZ	O	0	_		open_1	
+4	the	the	DT	DT	O	5	_			
+5	bottle	bottle	NN	NN	O	3	_	bottle_1	bottle_1	
+6	in	in	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bag	bag	NN	NN	O	5	_	bag_1	bag_1	
+
+1	The	the	DT	DT	O	2	_			
+2	bottle	bottle	NN	NN	O	7	_	bottle_1	bottle_1	
+3	in	in	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	bag	bag	NN	NN	O	2	_	bag_1	bag_1	
+6	is	be	VB	VBZ	O	7	_			
+7	opened	open	VB	VBN	O	0	_		open_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	bottle	bottle	NN	NN	O	7	_	bottle_1	bottle_1	
+3	in	in	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	bag	bag	NN	NN	O	2	_	bag_1	bag_1	
+6	is	be	VB	VBZ	O	7	_			
+7	opened	open	VB	VBN	O	0	_		open_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	bottle	bottle	NN	NN	O	7	_	bottle_1	bottle_1	
+3	in	in	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	bag	bag	NN	NN	O	2	_	bag_1	bag_1	
+6	is	be	VB	VBZ	O	7	_			
+7	opened	open	VB	VBN	O	0	_		open_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	carries	carry	VB	VBZ	O	0	_		carry_1	
+4	the	the	DT	DT	O	5	_			
+5	bag	bag	NN	NN	O	3	_	bag_2	bag_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_2	bottle_2	
+9	in	in	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	carries	carry	VB	VBZ	O	0	_		carry_1	
+4	the	the	DT	DT	O	5	_			
+5	bag	bag	NN	NN	O	3	_	bag_2	bag_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_2	bottle_2	
+9	in	in	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	carries	carry	VB	VBZ	O	0	_		carry_1	
+4	the	the	DT	DT	O	5	_			
+5	bag	bag	NN	NN	O	3	_	bag_2	bag_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bottle	bottle	NN	NN	O	5	_	bottle_2	bottle_2	
+9	in	in	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	bag	bag	NN	NN	O	9	_	bag_2	bag_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bottle	bottle	NN	NN	O	2	_	bottle_2	bottle_2	
+6	in	in	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	carried	carry	VB	VBN	O	0	_		carry_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	bag	bag	NN	NN	O	9	_	bag_2	bag_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bottle	bottle	NN	NN	O	2	_	bottle_2	bottle_2	
+6	in	in	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	carried	carry	VB	VBN	O	0	_		carry_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	bag	bag	NN	NN	O	9	_	bag_2	bag_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bottle	bottle	NN	NN	O	2	_	bottle_2	bottle_2	
+6	in	in	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	carried	carry	VB	VBN	O	0	_		carry_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	folds	fold	VB	VBZ	O	0	_	fold_1	fold_1	
+4	the	the	DT	DT	O	5	_			
+5	scarf	scarf	NN	NN	O	3	_	scarf_1	scarf_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	fold	fold	VB	VBZ	O	0	_	fold_1	fold_1	
+4	the	the	DT	DT	O	5	_			
+5	scarf	scarf	NN	NN	O	3	_	scarf_1	scarf_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	folds	fold	VB	VBZ	O	0	_	fold_1	fold_1	
+4	the	the	DT	DT	O	5	_			
+5	scarf	scarf	NN	NN	O	3	_	scarf_1	scarf_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	folds	fold	VB	VBZ	O	0	_	fold_1	fold_1	
+4	the	the	DT	DT	O	5	_			
+5	scarf	scarf	NN	NN	O	3	_	scarf_1	scarf_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	couch	couch	NN	NN	O	5	_	couch_1	couch_1	
+
+1	The	the	DT	DT	O	2	_			
+2	scarf	scarf	NN	NN	O	7	_	scarf_1	scarf_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	is	be	VB	VBZ	O	7	_			
+7	folded	fold	VB	VBN	O	0	_	fold_1	fold_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	scarf	scarf	NN	NN	O	7	_	scarf_1	scarf_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	is	be	VB	VBZ	O	7	_			
+7	folded	fold	VB	VBN	O	0	_	fold_1	fold_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	scarf	scarf	NN	NN	O	7	_	scarf_1	scarf_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	is	be	VB	VBZ	O	7	_			
+7	fold	fold	VB	VBN	O	0	_	fold_1	fold_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	scarf	scarf	NN	NN	O	7	_	scarf_1	scarf_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	couch	couch	NN	NN	O	2	_	couch_1	couch_1	
+6	is	be	VB	VBZ	O	7	_			
+7	folded	fold	VB	VBN	O	0	_	fold_1	fold_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	scarf	scarf	NN	NN	O	1	_	scarf_1	scarf_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_12	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_1	couch_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	scarf	scarf	NN	NN	O	1	_	scarf_1	scarf_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_12	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_1	couch_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	1	_	bottle_1	bottle_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_13	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	bag	bag	NN	NN	O	6	_	bag_1	bag_1	
+10	next	next	JJ	JJ	O	12	_			
+11	to	to	TO	TO	O	12	_			
+12	candle	candle	NN	NN	O	9	_	candle_1	candle_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	1	_	bottle_1	bottle_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_13	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	bag	bag	NN	NN	O	6	_	bag_1	bag_1	
+10	next	next	JJ	JJ	O	12	_			
+11	to	to	TO	TO	O	12	_			
+12	candle	candle	NN	NN	O	9	_	candle_1	candle_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	1	_	bottle_1	bottle_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_13	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	bag	bag	NN	NN	O	6	_	bag_1	bag_1	
+10	next	next	JJ	JJ	O	12	_			
+11	to	to	TO	TO	O	12	_			
+12	candle	candle	NN	NN	O	9	_	candle_1	candle_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	1	_	bottle_3	bottle_3	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	ice	ice	NN	NN	O	10	_	ice	ice	
+10	bucket	bucket	NN	NN	O	6	_	bucket_1	bucket_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	1	_	bottle_3	bottle_3	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	ice	ice	JJ	JJ	O	10	_	ice	ice	
+10	bucket	bucket	NN	NN	O	6	_	bucket_1	bucket_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	1	_	bottle_3	bottle_3	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	ice	ice	NN	NN	O	10	_	ice	ice	
+10	bucket	bucket	NN	NN	O	6	_	bucket_1	bucket_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	scarf	scarf	NN	NN	O	2	_	scarf_2	scarf_2	
+5	and	and	CC	CC	O	4	_			
+6	keys	key	NN	NNS	O	4	_	key_1	key_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	chair	chair	NN	NN	O	6	_	chair_1	chair_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	scarf	scarf	NN	NN	O	2	_	scarf_2	scarf_2	
+5	and	and	CC	CC	O	4	_			
+6	key	key	NN	NN	O	4	_	key_1	key_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	chair	chair	NN	NN	O	6	_	chair_1	chair_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	scarf	scarf	NN	NN	O	2	_	scarf_2	scarf_2	
+5	and	and	CC	CC	O	4	_			
+6	keys	key	NN	NNS	O	4	_	key_1	key_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	chair	chair	NN	NN	O	6	_	chair_1	chair_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	bag	bag	NN	NN	O	2	_	bag_1	bag_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	candle	candle	NN	NN	O	4	_	candle_1	candle_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	table	table	NN	NN	O	7	_	table_1	table_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	bag	bag	NN	NN	O	2	_	bag_1	bag_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	candle	candle	NN	NN	O	4	_	candle_1	candle_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	table	table	NN	NN	O	7	_	table_1	table_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	bag	bag	NN	NN	O	2	_	bag_1	bag_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	candle	candle	NN	NN	O	4	_	candle_1	candle_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	table	table	NN	NN	O	7	_	table_1	table_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	2	_	bottle_3	bottle_3	
+5	and	and	CC	CC	O	4	_			
+6	bucket	bucket	NN	NN	O	4	_	bucket_1	bucket_1	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	vitrine	vitrine	NN	NN	O	6	_	vitrine_1	vitrine_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	2	_	bottle_3	bottle_3	
+5	and	and	CC	CC	O	4	_			
+6	bucket	bucket	NN	NN	O	4	_	bucket_1	bucket_1	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	vitrine	vitrine	NN	NN	O	6	_	vitrine_1	vitrine_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	bottle	bottle	NN	NN	O	2	_	bottle_3	bottle_3	
+5	and	and	CC	CC	O	4	_			
+6	bucket	bucket	NN	NN	O	4	_	bucket_1	bucket_1	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	vitrine	vitrine	NN	NN	O	6	_	vitrine_1	vitrine_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	arm	arm	NN	NN	O	3	_	arm_1	arm_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	chair	chair	NN	NN	O	5	_	chair_1	chair_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	clean	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	arm	arm	NN	NN	O	3	_	arm_1	arm_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	chair	chair	NN	NN	O	5	_	chair_1	chair_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	arm	arm	NN	NN	O	3	_	arm_1	arm_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	chair	chair	NN	NN	O	5	_	chair_1	chair_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_1	clean_1	
+4	the	the	DT	DT	O	5	_			
+5	arm	arm	NN	NN	O	3	_	arm_1	arm_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	chair	chair	NN	NN	O	5	_	chair_1	chair_1	
+
+1	The	the	DT	DT	O	2	_			
+2	arm	arm	NN	NN	O	7	_	arm_1	arm_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	chair	chair	NN	NN	O	2	_	chair_1	chair_1	
+6	is	be	VB	VBZ	O	7	_			
+7	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	arm	arm	NN	NN	O	7	_	arm_1	arm_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	chair	chair	NN	NN	O	2	_	chair_1	chair_1	
+6	is	be	VB	VBZ	O	7	_			
+7	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	arm	arm	NN	NN	O	7	_	arm_1	arm_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	chair	chair	NN	NN	O	2	_	chair_1	chair_1	
+6	is	be	VB	VBZ	O	7	_			
+7	clean	clean	VB	VBN	O	0	_	clean_1	clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	arm	arm	NN	NN	O	7	_	arm_1	arm_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	chair	chair	NN	NN	O	2	_	chair_1	chair_1	
+6	is	be	VB	VBZ	O	7	_			
+7	cleaned	clean	VB	VBN	O	0	_	clean_1	clean_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_2	man_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	red	red	JJ	JJ	O	5	_	red	red	
+5	scarf	scarf	NN	NN	O	1	_	scarf_2	scarf_2	
+6	hanging	hang	VB	VBG	O	5	_		hang_16	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	chair	chair	NN	NN	O	6	_	chair_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	red	red	JJ	JJ	O	5	_	red	red	
+5	scarf	scarf	NN	NN	O	1	_	scarf_2	scarf_2	
+6	hanging	hang	VB	VBG	O	5	_		hang_16	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	chair	chair	NN	NN	O	6	_	chair_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	red	red	JJ	JJ	O	5	_	red	red	
+5	scarf	scarf	NN	NN	O	1	_	scarf_2	scarf_2	
+6	hanging	hang	VB	VBG	O	5	_		hang_16	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	chair	chair	NN	NN	O	6	_	chair_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	glass	glass	JJ	JJ	O	5	_	glass	glass	
+5	bottle	bottle	NN	NN	O	1	_	bottle_1	bottle_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	in	in	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	green	green	JJ	JJ	O	11	_	green	green	
+11	bag	bag	NN	NN	O	7	_	bag_1	bag_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	5	_	glass	glass	
+5	bottle	bottle	NN	NN	O	1	_	bottle_1	bottle_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	in	in	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	green	green	JJ	JJ	O	11	_	green	green	
+11	bag	bag	NN	NN	O	7	_	bag_1	bag_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	5	_	glass	glass	
+5	bottle	bottle	NN	NN	O	1	_	bottle_1	bottle_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	in	in	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	green	green	JJ	JJ	O	11	_	green	green	
+11	bag	bag	NN	NN	O	7	_	bag_1	bag_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	5	_	glass	glass	
+5	bottle	bottle	NN	NN	O	1	_	bottle_1	bottle_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	in	in	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	green	green	JJ	JJ	O	11	_	green	green	
+11	bag	bag	NN	NN	O	7	_	bag_1	bag_1	
+
+1	fill	fill	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	ice	ice	JJ	JJ	O	4	_	cleaning	ice	
+4	bucket	bucket	NN	NN	O	1	_	bucket_2	bucket_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	chair	chair	NN	NN	O	6	_	chair_1	chair_1	
+
+1	fill	fill	VB	VB	O	0	_			
+2	the	the	DT	DT	O	3	_			
+3	cleaning	cleaning	NN	NN	O	4	_	cleaning	cleaning	
+4	key	key	NN	NN	O	1	_	bucket_2	key_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_16	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	chair	chair	NN	NN	O	6	_	chair_1	chair_1	
+
+1	fill	fill	VB	VB	O	0	_			
+2	the	the	DT	DT	O	3	_			
+3	cleaning	cleaning	NN	NN	O	4	_	cleaning	cleaning	
+4	bucket	bucket	NN	NN	O	1	_	bucket_2	bucket_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	vitrine	vitrine	NN	NN	O	6	_	chair_1	vitrine_1	
+

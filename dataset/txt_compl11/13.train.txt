@@ -1,0 +1,259 @@
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	0	ROOT	canvas_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_1
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	paints	paint	VB	VBZ	O	4	ccomp	paint_1
+12	cautiously	cautiously	RB	RB	O	11	advmod	
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	0	ROOT	canvas_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VBZ	VBZ	O	10	auxpass	
+10	painted	paint	VB	VBN	O	7	ccomp	paint_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	0	ROOT	canvas_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	measures	measure	VB	VBZ	O	4	ccomp	measure_1
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	0	ROOT	canvas_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VBZ	VBZ	O	10	auxpass	
+10	measured	measure	VB	VBN	O	7	ccomp	measure_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	paints	paint	VB	VBZ	O	0	ROOT	paint_1
+4	the	the	DT	DT	O	5	det	
+5	canvas	canvas	NN	NN	O	3	dep	canvas_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_1
+								
+1	The	the	DT	DT	O	2	det	
+2	canvas	canvas	NN	NN	O	7	nsubjpass	canvas_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	counter	counter	NN	NN	O	2	nmod	counter_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	painted	paint	VB	VBN	O	0	ROOT	paint_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	measures	measure	VB	VBZ	O	0	ROOT	measure_1
+4	the	the	DT	DT	O	5	det	
+5	canvas	canvas	NN	NN	O	3	dobj	canvas_2
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	notebook	notebook	NN	NN	O	8	nmod	notebook_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	canvas	canvas	NN	NN	O	12	nsubjpass	canvas_2
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	counter	counter	NN	NN	O	2	nmod	counter_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	notebook	notebook	NN	NN	O	5	nmod	notebook_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	measured	measure	VB	VBN	O	0	ROOT	measure_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	paint	paint	NN	NN	O	1	dobj	paint_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	hammer	hammer	NN	NN	O	6	nmod	hammer_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	1	dobj	canvas_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	notebook	notebook	NN	NN	O	6	nmod	notebook_1
+								
+1	there	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	picture	picture	NN	NN	O	2	nsubj	picture_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	board	board	NN	NN	O	4	conj	board_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	acl:relcl	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	wall	wall	NN	NN	O	9	nmod	wall_1
+								
+1	there	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	hammer	hammer	NN	NN	O	2	nsubj	hammer_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	paint	paint	NN	NN	O	4	conj	paint_1
+8	lying	lie	VB	VBG	O	7	acl	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	drawer	drawer	NN	NN	O	8	nmod	drawer_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	2	nsubj	canvas_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	notebook	notebook	NN	NN	O	4	conj	notebook_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	acl:relcl	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	counter	counter	NN	NN	O	9	nmod	counter_2
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	handle	handle	NN	NN	O	3	dobj	handle_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	hammer	hammer	NN	NN	O	5	nmod	hammer_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VBZ	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	drawer	drawer	NN	NN	O	10	nmod	drawer_1
+								
+1	The	the	DT	DT	O	2	det	
+2	handle	handle	NN	NN	O	12	nsubjpass	handle_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	hammer	hammer	NN	NN	O	2	nmod	hammer_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	drawer	drawer	NN	NN	O	5	nmod	drawer_1
+11	is	be	VB	VBZ	O	12	cop	
+12	hold	hold	VB	VBN	O	0	ROOT	hold_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	measures	measure	VB	VBZ	O	0	ROOT	measure_1
+4	the	the	DT	DT	O	5	det	
+5	height	height	NN	NN	O	3	dobj	height_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	canvas	canvas	NN	NN	O	5	nmod	canvas_2
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	counter	counter	NN	NN	O	10	nmod	counter_2
+								
+1	The	the	DT	DT	O	2	det	
+2	height	height	NN	NN	O	12	nsubjpass	height_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	canvas	canvas	NN	NN	O	2	nmod	canvas_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	counter	counter	NN	NN	O	7	nmod	counter_2
+11	is	be	VB	VBZ	O	12	auxpass	
+12	measured	measure	VB	VBN	O	0	ROOT	measure_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	white	white	JJ	JJ	O	5	amod	white
+5	notebook	notebook	NN	NN	O	1	dobj	notebook_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	canvas	canvas	NN	NN	O	7	nmod	canvas_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	big	big	JJ	JJ	O	5	amod	big
+5	vase	vase	NN	NN	O	1	dobj	vase_1
+6	lying	lie	VB	VBG	O	5	acl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	stool	stool	NN	NN	O	6	nmod	stool_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	small	small	JJ	JJ	O	5	amod	small
+5	vase	vase	NN	NN	O	1	dobj	vase_2
+6	lying	lie	VB	VBG	O	5	acl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	counter	counter	NN	NN	O	6	nmod	counter_1
+								
+								
+								
+								
+ 								

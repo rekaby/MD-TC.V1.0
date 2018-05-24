@@ -1,0 +1,1840 @@
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	??	glass	NN	NNS	O	0	ROOT	glass_1//key_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	tablerunner	tablerunner	NN	NN	O	4	nmod	tablerunner_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	holds	hold	VB	VBZ	O	4	ccomp	
+12	lightly	lightly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	tablerunner	NN	NN	O	4	nmod	tablerunner_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	holds	hold	VB	VBZ	O	4	ccomp	
+12	lightly	lightly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	tablerunner	tablerunner	NN	NN	O	4	nmod	tablerunner_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_1
+11	holds	hold	VB	VBZ	O	4	ccomp	
+12	lightly	lightly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	??	glass	NN	NNS	O	0	ROOT	glass_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	tablerunner	tablerunner	NN	NN	O	4	nmod	tablerunner_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	held	hold	VB	VBN	O	7	acl:relcl	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	tablerunner	NN	NN	O	4	nmod	tablerunner_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	held	hold	VB	VBN	O	7	acl:relcl	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	tablerunner	tablerunner	NN	NN	O	4	nmod	tablerunner_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	held	hold	VB	VBN	O	7	acl:relcl	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	glass	NN	NNS	O	0	ROOT	glass_2//key_1
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	bag	bag	NN	NN	O	4	nmod	bag_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	opens	open	VB	VBZ	O	4	ccomp	open_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_2
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	bag	bag	NN	NN	O	4	nmod	bag_1 
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_2
+11	opens	open	VB	VBZ	O	4	ccomp	open_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_2
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	bag	bag	NN	NN	O	4	nmod	bag_1 
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	??	open	VB	VBZ	O	4	ccomp	open_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	glass	NN	NNS	O	0	ROOT	glass_2
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	bag	bag	NN	NN	O	4	nmod	bag_1 
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	opened	open	VB	VBN	O	7	acl:relcl	open_2
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_2
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	bag	bag	NN	NN	O	4	nmod	bag_1 
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	??	open	VB	VBN	O	7	acl:relcl	open_2
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_2
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	bag	bag	NN	NN	O	4	nmod	bag_1 
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	opened	open	VB	VBN	O	7	acl:relcl	open_2
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	10	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	glasses	glass	NNS	NNS	O	3	dobj	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	glass	NNS	NNS	O	3	dobj	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	glasses	glass	NNS	NNS	O	3	dobj	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	glass	NN	NNS	O	7	nsubjpass	glass_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	tablerunner	tablerunner	NN	NN	O	2	nmod	tablerunner_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	held	hold	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	glasses	glass	NN	NNS	O	7	nsubjpass	glass_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	tablerunner	NN	NN	O	2	nmod	tablerunner_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	held	hold	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	glasses	glass	NN	NNS	O	7	nsubjpass	glass_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	tablerunner	tablerunner	NN	NN	O	2	nmod	tablerunner_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	held	hold	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	opens	open	VB	VBZ	O	0	ROOT	open_2
+4	the	the	DT	DT	O	5	det	
+5	bag	bag	NN	NN	O	3	dobj	bag_1 
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	??	open	VB	VBZ	O	0	ROOT	open_2
+4	the	the	DT	DT	O	5	det	
+5	bag	bag	NN	NN	O	3	dobj	bag_1 
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	opens	open	VB	VBZ	O	0	ROOT	open_2
+4	the	the	DT	DT	O	5	det	
+5	??	bag	NN	NN	O	3	dobj	bag_1 
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	bag	NN	NN	O	7	nsubjpass	bag_1 
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	tablerunner	tablerunner	NN	NN	O	2	nmod	
+6	is	be	VB	VBZ	O	7	auxpass	
+7	opened	open	VB	VBN	O	0	ROOT	open_2
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	bag	bag	NN	NN	O	7	nsubjpass	bag_1 
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	tablerunner	tablerunner	NN	NN	O	2	nmod	
+6	is	be	VB	VBZ	O	7	auxpass	
+7	??	open	VB	VBN	O	0	ROOT	open_2
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	bag	bag	NN	NN	O	7	nsubjpass	bag_1 
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	tablerunner	tablerunner	NN	NN	O	2	nmod	
+6	is	be	VB	VBZ	O	7	auxpass	
+7	opened	open	VB	VBN	O	0	ROOT	open_2
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	7	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	glasses	glass	NN	NNS	O	3	dobj	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	glass	NN	NNS	O	3	dobj	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	glasses	glass	NN	NNS	O	3	dobj	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	glass	NN	NNS	O	7	nsubjpass	glass_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	tablerunner	tablerunner	NN	NN	O	2	nmod	tablerunner_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	held	hold	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	glasses	glass	NN	NNS	O	7	nsubjpass	glass_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	tablerunner	NN	NN	O	2	nmod	tablerunner_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	held	hold	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	glasses	glass	NN	NNS	O	7	nsubjpass	glass_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	tablerunner	tablerunner	NN	NN	O	2	nmod	tablerunner_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	held	hold	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	7	nmod	woman_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	glass	NN	NNS	O	1	dobj	glass_3
+5	lying	lie	VB	VBG	O	4	ccomp	
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	book	book	NN	NN	O	5	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	key	NN	NN	O	2	nsubj	key_1
+5	","	","	","	","	O	4	cc	
+6	glasses	glass	NN	NNS	O	4	conj	glass_2
+7	and	and	CC	CC	O	4	cc	
+8	a	a	DT	DT	O	9	det	
+9	bag	bag	NN	NN	O	4	conj	bag_1
+10	lying	lie	VB	VBG	O	9	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	tablerunner	tablerunner	NN	NN	O	10	nmod	tablerunner_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	key	key	NN	NN	O	2	nsubj	key_1
+5	","	","	","	","	O	4	cc	
+6	??	glass	NN	NNS	O	4	conj	glass_2
+7	and	and	CC	CC	O	4	cc	
+8	a	a	DT	DT	O	9	det	
+9	bag	bag	NN	NN	O	4	conj	bag_1
+10	lying	lie	VB	VBG	O	9	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	tablerunner	tablerunner	NN	NN	O	10	nmod	tablerunner_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	key	key	NN	NN	O	2	nsubj	key_1
+5	","	","	","	","	O	4	cc	
+6	glasses	glass	NN	NNS	O	4	conj	glass_2
+7	and	and	CC	CC	O	4	cc	
+8	a	a	DT	DT	O	9	det	
+9	??	bag	NN	NN	O	4	conj	bag_1
+10	lying	lie	VB	VBG	O	9	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	tablerunner	tablerunner	NN	NN	O	10	nmod	tablerunner_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	key	key	NN	NN	O	2	nsubj	key_1
+5	","	","	","	","	O	4	cc	
+6	glasses	glass	NN	NNS	O	4	conj	glass_2
+7	and	and	CC	CC	O	4	cc	
+8	a	a	DT	DT	O	9	det	
+9	bag	bag	NN	NN	O	4	conj	bag_1
+10	lying	lie	VB	VBG	O	9	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	tablerunner	NN	NN	O	10	nmod	tablerunner_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	??	glass	NN	NNS	O	2	nsubj	glass_1
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	bottle	bottle	NN	NN	O	3	conj	bottle_1
+7	lying	lie	VB	VBG	O	6	acl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	tablerunner	tablerunner	NN	NN	O	7	nmod	tablerunner_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	glasses	glass	NN	NNS	O	2	nsubj	glass_1
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	bottle	bottle	NN	NN	O	3	conj	bottle_1
+7	lying	lie	VB	VBG	O	6	acl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	tablerunner	NN	NN	O	7	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	cap	cap	NN	NN	O	3	dobj	cap_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	5	nmod	bottle_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	tablerunner	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	??	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	cap	cap	NN	NN	O	3	dobj	cap_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	5	nmod	bottle_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	tablerunner	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	??	cap	NN	NN	O	3	dobj	cap_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	5	nmod	bottle_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	tablerunner	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	cap	cap	NN	NN	O	3	dobj	cap_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	bottle	NN	NN	O	5	nmod	bottle_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	tablerunner	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	cap	cap	NN	NN	O	3	dobj	cap_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	5	nmod	bottle_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_2
+3	fixes	fix	VB	VBZ	O	0	ROOT	fix_1
+4	the	the	DT	DT	O	5	det	
+5	sidearm	sidearm	NN	NN	O	3	dobj	sidearm_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	glasses	glass	NN	NNS	O	5	nmod	glass_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	tablerunner	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+12	with	with	IN	IN	O	14	case	
+13	a	a	DT	DT	O	14	det	
+14	bottle	bottle	NN	NN	O	11	nmod	bottle_1
+15	on	on	IN	IN	O	16	case	
+16	it	it	PRP	PRP	O	14	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	??	fix	VB	VBZ	O	0	ROOT	fix_1
+4	the	the	DT	DT	O	5	det	
+5	sidearm	sidearm	NN	NN	O	3	dobj	sidearm_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	glasses	glass	NN	NNS	O	5	nmod	glass_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	tablerunner	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+12	with	with	IN	IN	O	14	case	
+13	a	a	DT	DT	O	14	det	
+14	bottle	bottle	NN	NN	O	11	nmod	bottle_1
+15	on	on	IN	IN	O	16	case	
+16	it	it	PRP	PRP	O	14	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	fixes	fix	VB	VBZ	O	0	ROOT	fix_1
+4	the	the	DT	DT	O	5	det	
+5	??	sidearm	NN	NN	O	3	dobj	sidearm_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	glasses	glass	NN	NNS	O	5	nmod	glass_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	tablerunner	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+12	with	with	IN	IN	O	14	case	
+13	a	a	DT	DT	O	14	det	
+14	bottle	bottle	NN	NN	O	11	nmod	bottle_1
+15	on	on	IN	IN	O	16	case	
+16	it	it	PRP	PRP	O	14	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	fixes	fix	VB	VBZ	O	0	ROOT	fix_1
+4	the	the	DT	DT	O	5	det	
+5	sidearm	sidearm	NN	NN	O	3	dobj	sidearm_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	glass	NN	NNS	O	5	nmod	glass_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	tablerunner	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+12	with	with	IN	IN	O	14	case	
+13	a	a	DT	DT	O	14	det	
+14	bottle	bottle	NN	NN	O	11	nmod	bottle_1
+15	on	on	IN	IN	O	16	case	
+16	it	it	PRP	PRP	O	14	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	fixes	fix	VB	VBZ	O	0	ROOT	fix_1
+4	the	the	DT	DT	O	5	det	
+5	sidearm	sidearm	NN	NN	O	3	dobj	sidearm_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	glasses	glass	NN	NNS	O	5	nmod	glass_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+12	with	with	IN	IN	O	14	case	
+13	a	a	DT	DT	O	14	det	
+14	bottle	bottle	NN	NN	O	11	nmod	bottle_1
+15	on	on	IN	IN	O	16	case	
+16	it	it	PRP	PRP	O	14	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	fixes	fix	VB	VBZ	O	0	ROOT	fix_1
+4	the	the	DT	DT	O	5	det	
+5	sidearm	sidearm	NN	NN	O	3	dobj	sidearm_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	glasses	glass	NN	NNS	O	5	nmod	glass_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	tablerunner	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+12	with	with	IN	IN	O	14	case	
+13	a	a	DT	DT	O	14	det	
+14	??	bottle	NN	NN	O	11	nmod	bottle_1
+15	on	on	IN	IN	O	16	case	
+16	it	it	PRP	PRP	O	14	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	blue	JJ	JJ	O	5	amod	blue
+5	bag	bag	NN	NN	O	1	dobj	bag_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	ground	ground	NN	NN	O	7	nmod	ground_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	??	bag	NN	NN	O	1	dobj	bag_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	ground	ground	NN	NN	O	7	nmod	ground_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	bag	bag	NN	NN	O	1	dobj	bag_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	ground	NN	NN	O	7	nmod	ground_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	nsubj	
+3	the	the	DT	DT	O	5	dep	
+4	??	framed	jj	JJ	O	5	dep	framed
+5	glasses	glass	NN	NNS	O	1	dobj	glass_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	green	green	JJ	JJ	O	9	amod	green
+9	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	nsubj	
+3	the	the	DT	DT	O	5	dep	
+4	framed	framed	jj	JJ	O	5	dep	framed
+5	??	glass	NN	NNS	O	1	dobj	glass_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	green	green	JJ	JJ	O	9	amod	green
+9	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	nsubj	
+3	the	the	DT	DT	O	5	dep	
+4	framed	framed	jj	JJ	O	5	dep	framed
+5	glasses	glass	NN	NNS	O	1	dobj	glass_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	??	green	JJ	JJ	O	9	amod	green
+9	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	nsubj	
+3	the	the	DT	DT	O	5	dep	
+4	framed	framed	jj	JJ	O	5	dep	framed
+5	glasses	glass	NN	NNS	O	1	dobj	glass_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	green	green	JJ	JJ	O	9	amod	green
+9	??	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	pink	JJ	JJ	O	5	amod	pink
+5	tablerunner	tablerunner	NN	NN	O	1	dobj	tablerunner_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	blue	blue	JJ	JJ	O	11	amod	blue
+11	bag	bag	NN	NN	O	7	nmod	bag_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	??	tablerunner	NN	NN	O	1	dobj	tablerunner_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	blue	blue	JJ	JJ	O	11	amod	blue
+11	bag	bag	NN	NN	O	7	nmod	bag_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	tablerunner	tablerunner	NN	NN	O	1	dobj	tablerunner_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	??	blue	JJ	JJ	O	11	amod	blue
+11	bag	bag	NN	NN	O	7	nmod	bag_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	tablerunner	tablerunner	NN	NN	O	1	dobj	tablerunner_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	blue	blue	JJ	JJ	O	11	amod	blue
+11	??	bag	NN	NN	O	7	nmod	bag_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	glass	NNS	NNS	O	1	dobj	glass_1//key_1//bag_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	10	case	
+8	the	the	DT	DT	O	10	det	
+9	blue	blue	JJ	JJ	O	10	amod	blue
+10	tablerunner	tablerunner	NN	NN	O	6	nmod	tablerunner_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NNS	NNS	O	1	dobj	glass_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	10	case	
+8	the	the	DT	DT	O	10	det	
+9	??	blue	JJ	JJ	O	10	amod	blue
+10	tablerunner	tablerunner	NN	NN	O	6	nmod	tablerunner_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NNS	NNS	O	1	dobj	glass_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	10	case	
+8	the	the	DT	DT	O	10	det	
+9	blue	blue	JJ	JJ	O	10	amod	blue
+10	??	tablerunner	NN	NN	O	6	nmod	tablerunner_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	??	phone	NN	NN	O	1	nsubj	phone_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	book	book	NN	NN	O	6	nmod	book_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	phone	phone	NN	NN	O	1	nsubj	phone_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	book	NN	NN	O	6	nmod	book_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	??	glass	NN	NNS	O	1	xcomp	glass_2
+5	lying	lie	VB	VBG	O	4	acl	
+6	next	next	JJ	JJ	O	5	advmod	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	bag	bag	NN	NN	O	5	nmod	bag_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	key	key	NN	NN	O	9	conj	key_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	1	xcomp	glass_2
+5	lying	lie	VB	VBG	O	4	acl	
+6	next	next	JJ	JJ	O	5	advmod	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	bag	NN	NN	O	5	nmod	bag_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	key	key	NN	NN	O	9	conj	key_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	1	xcomp	glass_2
+5	lying	lie	VB	VBG	O	4	acl	
+6	next	next	JJ	JJ	O	5	advmod	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	bag	bag	NN	NN	O	5	nmod	bag_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	??	key	NN	NN	O	9	conj	key_1
+
+1	clean	clean	JJ	JJ	O	0	ROOT	
+2	the	the	DT	DT	O	3	det	
+3	??	shelf	NN	NN	O	1	dep	shelf_2
+4	with	with	IN	IN	O	6	case	
+5	a	a	DT	DT	O	6	det	
+6	mug	mug	NN	NN	O	3	nmod	mug_1
+7	on	on	IN	IN	O	8	case	
+8	it	it	PRP	PRP	O	6	nmod	
+
+1	clean	clean	JJ	JJ	O	0	ROOT	
+2	the	the	DT	DT	O	3	det	
+3	shelf	shelf	NN	NN	O	1	dep	shelf_2
+4	with	with	IN	IN	O	6	case	
+5	a	a	DT	DT	O	6	det	
+6	??	mug	NN	NN	O	3	nmod	mug_1
+7	on	on	IN	IN	O	8	case	
+8	it	it	PRP	PRP	O	6	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	glass	NN	NNS	O	2	nsubj	glass_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	tablerunner	tablerunner	NN	NN	O	4	nmod	tablerunner_1
+8	with	with	IN	IN	O	10	case	
+9	a	a	DT	DT	O	10	det	
+10	bottle	bottle	NN	NN	O	7	nmod	bottle_1
+11	on	on	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	2	nsubj	glass_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	tablerunner	NN	NN	O	4	nmod	tablerunner_1
+8	with	with	IN	IN	O	10	case	
+9	a	a	DT	DT	O	10	det	
+10	bottle	bottle	NN	NN	O	7	nmod	bottle_1
+11	on	on	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	sidearm	NN	NN	O	15	nsubjpass	sidearm_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	glasses	glass	NN	NNS	O	2	nmod	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bottle	bottle	NN	NN	O	8	nmod	bottle_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+14	is	be	VB	VBZ	O	15	auxpass	
+15	fixed	fix	VB	VBN	O	0	ROOT	fix_1
+16	by	by	IN	IN	O	18	case	
+17	the	the	DT	DT	O	18	det	
+18	man	man	NN	NN	O	15	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	sidearm	sidearm	NN	NN	O	15	nsubjpass	sidearm_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	glass	NN	NNS	O	2	nmod	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bottle	bottle	NN	NN	O	8	nmod	bottle_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+14	is	be	VB	VBZ	O	15	auxpass	
+15	fixed	fix	VB	VBN	O	0	ROOT	fix_1
+16	by	by	IN	IN	O	18	case	
+17	the	the	DT	DT	O	18	det	
+18	man	man	NN	NN	O	15	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	sidearm	sidearm	NN	NN	O	15	nsubjpass	sidearm_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	glasses	glass	NN	NNS	O	2	nmod	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bottle	bottle	NN	NN	O	8	nmod	bottle_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+14	is	be	VB	VBZ	O	15	auxpass	
+15	fixed	fix	VB	VBN	O	0	ROOT	fix_1
+16	by	by	IN	IN	O	18	case	
+17	the	the	DT	DT	O	18	det	
+18	man	man	NN	NN	O	15	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	sidearm	sidearm	NN	NN	O	15	nsubjpass	sidearm_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	glasses	glass	NN	NNS	O	2	nmod	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bottle	bottle	NN	NN	O	8	nmod	bottle_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+14	is	be	VB	VBZ	O	15	auxpass	
+15	??	fix	VB	VBN	O	0	ROOT	fix_1
+16	by	by	IN	IN	O	18	case	
+17	the	the	DT	DT	O	18	det	
+18	man	man	NN	NN	O	15	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	sidearm	sidearm	NN	NN	O	15	nsubjpass	sidearm_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	glasses	glass	NN	NNS	O	2	nmod	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bottle	bottle	NN	NN	O	8	nmod	bottle_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+14	is	be	VB	VBZ	O	15	auxpass	
+15	fixed	fix	VB	VBN	O	0	ROOT	fix_1
+16	by	by	IN	IN	O	18	case	
+17	the	the	DT	DT	O	18	det	
+18	??	man	NN	NN	O	15	nmod	man_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	3	cop	
+3	??	bottle	NN	NN	O	0	ROOT	bottle_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	table	table	NN	NN	O	3	nmod	table_1
+7	that	that	IN	IN	O	10	mark	
+8	the	the	DT	DT	O	9	det	
+9	man	man	NN	NN	O	10	nsubj	man_1
+10	assembles	assemble	VB	VBZ	O	6	ccomp	assemble_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	3	cop	
+3	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	??	table	NN	NN	O	3	nmod	table_1
+7	that	that	IN	IN	O	10	mark	
+8	the	the	DT	DT	O	9	det	
+9	man	man	NN	NN	O	10	nsubj	man_1
+10	assembles	assemble	VB	VBZ	O	6	ccomp	assemble_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	3	cop	
+3	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	table	table	NN	NN	O	3	nmod	table_1
+7	that	that	IN	IN	O	10	mark	
+8	the	the	DT	DT	O	9	det	
+9	??	man	NN	NN	O	10	nsubj	man_1
+10	assembles	assemble	VB	VBZ	O	6	ccomp	assemble_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	3	cop	
+3	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	table	table	NN	NN	O	3	nmod	table_1
+7	that	that	IN	IN	O	10	mark	
+8	the	the	DT	DT	O	9	det	
+9	man	man	NN	NN	O	10	nsubj	man_1
+10	??	assemble	VB	VBZ	O	6	ccomp	assemble_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	3	cop	
+3	??	bottle	NN	NN	O	0	ROOT	bottle_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	table	table	NN	NN	O	3	nmod	table_1
+7	that	that	WDT	WDT	O	9	nsubjpass	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	assembled	assemble	VB	VBN	O	6	acl:relcl	assemble_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	3	cop	
+3	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	??	table	NN	NN	O	3	nmod	table_1
+7	that	that	WDT	WDT	O	9	nsubjpass	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	assembled	assemble	VB	VBN	O	6	acl:relcl	assemble_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	3	cop	
+3	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	table	table	NN	NN	O	3	nmod	table_1
+7	that	that	WDT	WDT	O	9	nsubjpass	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	??	assemble	VB	VBN	O	6	acl:relcl	assemble_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	3	cop	
+3	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	table	table	NN	NN	O	3	nmod	table_1
+7	that	that	WDT	WDT	O	9	nsubjpass	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	assembled	assemble	VB	VBN	O	6	acl:relcl	assemble_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	man	NN	NN	O	9	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	??	laptop	NN	NN	O	0	ROOT	laptop_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	uses	use	VB	VBZ	O	4	ccomp	use_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	laptop	laptop	NN	NN	O	0	ROOT	laptop_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	table	NN	NN	O	4	nmod	table_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	uses	use	VB	VBZ	O	4	ccomp	use_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	laptop	laptop	NN	NN	O	0	ROOT	laptop_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	11	nsubj	man_2
+11	uses	use	VB	VBZ	O	4	ccomp	use_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	laptop	laptop	NN	NN	O	0	ROOT	laptop_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	??	use	VB	VBZ	O	4	ccomp	use_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	??	laptop	NN	NN	O	0	ROOT	laptop_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	used	use	VB	VBN	O	7	ccomp	use_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	laptop	laptop	NN	NN	O	0	ROOT	laptop_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	table	NN	NN	O	4	nmod	table_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	used	use	VB	VBN	O	7	ccomp	use_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	laptop	laptop	NN	NN	O	0	ROOT	laptop_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	??	use	VB	VBN	O	7	ccomp	use_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	laptop	laptop	NN	NN	O	0	ROOT	laptop_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	used	use	VB	VBN	O	7	ccomp	use_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	man	NN	NN	O	10	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	assembles	assemble	VB	VBZ	O	0	ROOT	assemble_1
+4	the	the	DT	DT	O	5	det	
+5	table	table	NN	NN	O	3	dobj	table_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	3	nmod	bottle_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	assembles	assemble	VB	VBZ	O	0	ROOT	assemble_1
+4	the	the	DT	DT	O	5	det	
+5	??	table	NN	NN	O	3	dobj	table_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	3	nmod	bottle_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	??	assemble	VB	VBZ	O	0	ROOT	assemble_1
+4	the	the	DT	DT	O	5	det	
+5	table	table	NN	NN	O	3	dobj	table_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	3	nmod	bottle_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	assembles	assemble	VB	VBZ	O	0	ROOT	assemble_1
+4	the	the	DT	DT	O	5	det	
+5	table	table	NN	NN	O	3	dobj	table_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	??	bottle	NN	NN	O	3	nmod	bottle_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	table	NN	NN	O	9	nsubjpass	table_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bottle	bottle	NN	NN	O	2	nmod	bottle_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	assembled	assemble	VB	VBN	O	0	ROOT	assemble_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	table	table	NN	NN	O	9	nsubjpass	table_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	??	bottle	NN	NN	O	2	nmod	bottle_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	assembled	assemble	VB	VBN	O	0	ROOT	assemble_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	table	table	NN	NN	O	9	nsubjpass	table_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bottle	bottle	NN	NN	O	2	nmod	bottle_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	??	assemble	VB	VBN	O	0	ROOT	assemble_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	table	table	NN	NN	O	9	nsubjpass	table_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bottle	bottle	NN	NN	O	2	nmod	bottle_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	assembled	assemble	VB	VBN	O	0	ROOT	assemble_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	man	NN	NN	O	9	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_2
+3	uses	use	VB	VBZ	O	0	ROOT	use_1
+4	the	the	DT	DT	O	5	det	
+5	laptop	laptop	NN	NN	O	3	dobj	laptop_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bottle	bottle	NN	NN	O	8	nmod	bottle_2
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	??	use	VB	VBZ	O	0	ROOT	use_1
+4	the	the	DT	DT	O	5	det	
+5	laptop	laptop	NN	NN	O	3	dobj	laptop_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bottle	bottle	NN	NN	O	8	nmod	bottle_2
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	uses	use	VB	VBZ	O	0	ROOT	use_1
+4	the	the	DT	DT	O	5	det	
+5	??	laptop	NN	NN	O	3	dobj	laptop_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bottle	bottle	NN	NN	O	8	nmod	bottle_2
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	uses	use	VB	VBZ	O	0	ROOT	use_1
+4	the	the	DT	DT	O	5	det	
+5	laptop	laptop	NN	NN	O	3	dobj	laptop_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	table	NN	NN	O	5	nmod	table_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bottle	bottle	NN	NN	O	8	nmod	bottle_2
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	uses	use	VB	VBZ	O	0	ROOT	use_1
+4	the	the	DT	DT	O	5	det	
+5	laptop	laptop	NN	NN	O	3	dobj	laptop_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	??	bottle	NN	NN	O	8	nmod	bottle_2
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	laptop	NN	NN	O	12	nsubjpass	laptop_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	table	table	NN	NN	O	2	nmod	table_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	5	nmod	bottle_2
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	used	use	VB	VBN	O	0	ROOT	use_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	laptop	laptop	NN	NN	O	12	nsubjpass	laptop_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	table	NN	NN	O	2	nmod	table_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	5	nmod	bottle_2
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	used	use	VB	VBN	O	0	ROOT	use_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	laptop	laptop	NN	NN	O	12	nsubjpass	laptop_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	table	table	NN	NN	O	2	nmod	table_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	??	bottle	NN	NN	O	5	nmod	bottle_2
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	used	use	VB	VBN	O	0	ROOT	use_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	laptop	laptop	NN	NN	O	12	nsubjpass	laptop_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	table	table	NN	NN	O	2	nmod	table_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	5	nmod	bottle_2
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	??	use	VB	VBN	O	0	ROOT	use_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	laptop	laptop	NN	NN	O	12	nsubjpass	laptop_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	table	table	NN	NN	O	2	nmod	table_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	5	nmod	bottle_2
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	used	use	VB	VBN	O	0	ROOT	use_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	??	man	NN	NN	O	12	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	envelope	NN	NN	O	1	dobj	envelope_1
+5	lying	lie	VB	VBG	O	4	ccomp	
+6	in	in	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	mug	NN	NN	O	1	dobj	mug_1
+5	next	next	JJ	JJ	O	9	dep	
+6	to	to	TO	TO	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	coffee	coffee	NN	NN	O	9	compound	
+9	machine	machine	NN	NN	O	4	nmod	machine_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	bottle	bottle	NN	NN	O	9	conj	bottle_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	1	dobj	mug_1
+5	next	next	JJ	JJ	O	9	dep	
+6	to	to	TO	TO	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	coffee	coffee	NN	NN	O	9	compound	
+9	??	machine	NN	NN	O	4	nmod	machine_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	bottle	bottle	NN	NN	O	9	conj	bottle_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	1	dobj	mug_1
+5	next	next	JJ	JJ	O	9	dep	
+6	to	to	TO	TO	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	coffee	coffee	NN	NN	O	9	compound	
+9	machine	machine	NN	NN	O	4	nmod	machine_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	??	bottle	NN	NN	O	9	conj	bottle_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	mug	NN	NN	O	2	nsubj	mug_1
+5	","	","	","	","	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	bottle	bottle	NN	NN	O	4	conj	bottle_3
+8	and	and	CC	CC	O	4	cc	
+9	a	a	DT	DT	O	11	det	
+10	coffee	coffee	NN	NN	O	11	compound	
+11	machine	machine	NN	NN	O	4	conj	machine_1
+12	that	that	WDT	WDT	O	13	nsubj	
+13	stand	stand	VB	VBP	O	11	ccomp	
+14	on	on	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	table	table	NN	NN	O	13	nmod	table_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	2	nsubj	mug_1
+5	","	","	","	","	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	??	bottle	NN	NN	O	4	conj	bottle_3
+8	and	and	CC	CC	O	4	cc	
+9	a	a	DT	DT	O	11	det	
+10	coffee	coffee	NN	NN	O	11	compound	
+11	machine	machine	NN	NN	O	4	conj	machine_1
+12	that	that	WDT	WDT	O	13	nsubj	
+13	stand	stand	VB	VBP	O	11	ccomp	
+14	on	on	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	table	table	NN	NN	O	13	nmod	table_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	2	nsubj	mug_1
+5	","	","	","	","	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	bottle	bottle	NN	NN	O	4	conj	bottle_3
+8	and	and	CC	CC	O	4	cc	
+9	a	a	DT	DT	O	11	det	
+10	coffee	coffee	NN	NN	O	11	compound	
+11	??	machine	NN	NN	O	4	conj	machine_1
+12	that	that	WDT	WDT	O	13	nsubj	
+13	stand	stand	VB	VBP	O	11	ccomp	
+14	on	on	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	table	table	NN	NN	O	13	nmod	table_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	2	nsubj	mug_1
+5	","	","	","	","	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	bottle	bottle	NN	NN	O	4	conj	bottle_3
+8	and	and	CC	CC	O	4	cc	
+9	a	a	DT	DT	O	11	det	
+10	coffee	coffee	NN	NN	O	11	compound	
+11	machine	machine	NN	NN	O	4	conj	machine_1
+12	that	that	WDT	WDT	O	13	nsubj	
+13	stand	stand	VB	VBP	O	11	ccomp	
+14	on	on	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	??	table	NN	NN	O	13	nmod	table_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	sandwich	NN	NN	O	2	nsubj	sandwich_1
+5	","	","	","	","	O	4	cc	
+6	an	a	DT	DT	O	7	det	
+7	envelope	envelope	NN	NN	O	4	conj	envelope_2
+8	and	and	CC	CC	O	4	cc	
+9	a	a	DT	DT	O	10	det	
+10	holder	holder	NN	NN	O	4	conj	holder_1
+11	that	that	WDT	WDT	O	12	nsubj	
+12	lie	lie	VB	VBP	O	10	ccomp	
+13	on	on	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	cabinet	cabinet	NN	NN	O	12	nmod	cabinet_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	sandwich	sandwich	NN	NN	O	2	nsubj	sandwich_1
+5	","	","	","	","	O	4	cc	
+6	an	a	DT	DT	O	7	det	
+7	??	envelope	NN	NN	O	4	conj	envelope_2
+8	and	and	CC	CC	O	4	cc	
+9	a	a	DT	DT	O	10	det	
+10	holder	holder	NN	NN	O	4	conj	holder_1
+11	that	that	WDT	WDT	O	12	nsubj	
+12	lie	lie	VB	VBP	O	10	ccomp	
+13	on	on	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	cabinet	cabinet	NN	NN	O	12	nmod	cabinet_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	sandwich	sandwich	NN	NN	O	2	nsubj	sandwich_1
+5	","	","	","	","	O	4	cc	
+6	an	a	DT	DT	O	7	det	
+7	envelope	envelope	NN	NN	O	4	conj	envelope_2
+8	and	and	CC	CC	O	4	cc	
+9	a	a	DT	DT	O	10	det	
+10	??	holder	NN	NN	O	4	conj	holder_1
+11	that	that	WDT	WDT	O	12	nsubj	
+12	lie	lie	VB	VBP	O	10	ccomp	
+13	on	on	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	cabinet	cabinet	NN	NN	O	12	nmod	cabinet_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	sandwich	sandwich	NN	NN	O	2	nsubj	sandwich_1
+5	","	","	","	","	O	4	cc	
+6	an	a	DT	DT	O	7	det	
+7	envelope	envelope	NN	NN	O	4	conj	envelope_2
+8	and	and	CC	CC	O	4	cc	
+9	a	a	DT	DT	O	10	det	
+10	holder	holder	NN	NN	O	4	conj	holder_1
+11	that	that	WDT	WDT	O	12	nsubj	
+12	lie	lie	VB	VBP	O	10	ccomp	
+13	on	on	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	??	cabinet	NN	NN	O	12	nmod	cabinet_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	leg	leg	NN	NN	O	3	dobj	leg_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_1
+9	that	that	IN	IN	O	11	mark	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	stands	stand	VB	VBZ	O	3	ccomp	 stand_1
+12	next	next	JJ	JJ	O	11	xcomp	
+13	to	to	TO	TO	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	??	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	leg	leg	NN	NN	O	3	dobj	leg_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_1
+9	that	that	IN	IN	O	11	mark	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	stands	stand	VB	VBZ	O	3	ccomp	 stand_1
+12	next	next	JJ	JJ	O	11	xcomp	
+13	to	to	TO	TO	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	??	leg	NN	NN	O	3	dobj	leg_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_1
+9	that	that	IN	IN	O	11	mark	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	stands	stand	VB	VBZ	O	3	ccomp	 stand_1
+12	next	next	JJ	JJ	O	11	xcomp	
+13	to	to	TO	TO	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	leg	leg	NN	NN	O	3	dobj	leg_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	table	NN	NN	O	5	nmod	table_1
+9	that	that	IN	IN	O	11	mark	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	stands	stand	VB	VBZ	O	3	ccomp	 stand_1
+12	next	next	JJ	JJ	O	11	xcomp	
+13	to	to	TO	TO	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	leg	leg	NN	NN	O	3	dobj	leg_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_1
+9	that	that	IN	IN	O	11	mark	
+10	??	woman	NN	NN	O	11	nsubj	woman_1
+11	stands	stand	VB	VBZ	O	3	ccomp	 stand_1
+12	next	next	JJ	JJ	O	11	xcomp	
+13	to	to	TO	TO	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	leg	leg	NN	NN	O	3	dobj	leg_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_1
+9	that	that	IN	IN	O	11	mark	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	??	stand	VB	VBZ	O	3	ccomp	 stand_1
+12	next	next	JJ	JJ	O	11	xcomp	
+13	to	to	TO	TO	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	paints	paint	VB	VBZ	O	0	ROOT	paint_1
+4	the	the	DT	DT	O	5	det	
+5	leg	leg	NN	NN	O	3	dobj	leg_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_3
+9	with	with	IN	IN	O	12	case	
+10	a	a	DT	DT	O	12	det	
+11	coffee	coffee	NN	NN	O	12	compound	
+12	machine	machine	NN	NN	O	8	nmod	
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	??	paint	VB	VBZ	O	0	ROOT	paint_1
+4	the	the	DT	DT	O	5	det	
+5	leg	leg	NN	NN	O	3	dobj	leg_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_3
+9	with	with	IN	IN	O	12	case	
+10	a	a	DT	DT	O	12	det	
+11	coffee	coffee	NN	NN	O	12	compound	
+12	machine	machine	NN	NN	O	8	nmod	
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	paints	paint	VB	VBZ	O	0	ROOT	paint_1
+4	the	the	DT	DT	O	5	det	
+5	??	leg	NN	NN	O	3	dobj	leg_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_3
+9	with	with	IN	IN	O	12	case	
+10	a	a	DT	DT	O	12	det	
+11	coffee	coffee	NN	NN	O	12	compound	
+12	machine	machine	NN	NN	O	8	nmod	
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	paints	paint	VB	VBZ	O	0	ROOT	paint_1
+4	the	the	DT	DT	O	5	det	
+5	leg	leg	NN	NN	O	3	dobj	leg_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	table	NN	NN	O	5	nmod	table_3
+9	with	with	IN	IN	O	12	case	
+10	a	a	DT	DT	O	12	det	
+11	coffee	coffee	NN	NN	O	12	compound	
+12	machine	machine	NN	NN	O	8	nmod	
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	open	open	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	3	det	
+3	envelope	envelope	NN	NN	O	1	dobj	envelope_2
+4	that	that	WDT	WDT	O	5	nsubj	
+5	lies	lie	VB	VBZ	O	3	acl:relcl	
+6	next	next	JJ	JJ	O	5	advmod	
+7	to	to	TO	TO	O	8	case	
+8	??	holder	NN	NN	O	6	nmod	holder_1//sandwich_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	cabinet	cabinet	NN	NN	O	5	nmod	cabinet_1
+
+1	open	open	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	3	det	
+3	envelope	envelope	NN	NN	O	1	dobj	envelope_2
+4	that	that	WDT	WDT	O	5	nsubj	
+5	lies	lie	VB	VBZ	O	3	acl:relcl	
+6	next	next	JJ	JJ	O	5	advmod	
+7	to	to	TO	TO	O	8	case	
+8	holder	holder	NN	NN	O	6	nmod	holder_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	cabinet	NN	NN	O	5	nmod	cabinet_1
+
+1	clean	clean	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	??	beige	JJ	JJ	O	4	amod	beige
+4	table	table	NN	NN	O	1	dobj	table_3
+5	with	with	IN	IN	O	8	case	
+6	a	a	DT	DT	O	8	det	
+7	coffee	coffee	NN	NN	O	8	compound	
+8	machine	machine	NN	NN	O	4	nmod	
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	4	nmod	
+
+1	clean	clean	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	beige	beige	JJ	JJ	O	4	amod	beige
+4	??	table	NN	NN	O	1	dobj	table_3
+5	with	with	IN	IN	O	8	case	
+6	a	a	DT	DT	O	8	det	
+7	coffee	coffee	NN	NN	O	8	compound	
+8	machine	machine	NN	NN	O	4	nmod	
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	4	nmod	
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	opened	JJ	JJ	O	5	amod	opened
+5	envelope	envelope	NN	NN	O	1	dobj	envelope_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_1
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	opened	opened	JJ	JJ	O	5	amod	opened
+5	??	envelope	NN	NN	O	1	dobj	envelope_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_1
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	opened	opened	JJ	JJ	O	5	amod	opened
+5	envelope	envelope	NN	NN	O	1	dobj	envelope_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	box	NN	NN	O	5	nmod	box_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	??	envelope	NN	NN	O	1	nsubj	sandwich_1//holder_1//envelope_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	sandwich	sandwich	NN	NN	O	6	nmod	sandwich_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	envelope	envelope	NN	NN	O	1	nsubj	envelope_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	sandwich	NN	NN	O	6	nmod	sandwich_1//holder_1//envelope_2
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	??	glass	NN	NN	O	5	compound	glass
+5	bottle	bottle	NN	NN	O	1	xcomp	bottle_2
+6	lying	lie	VB	VBG	O	5	acl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	laptop	laptop	NN	NN	O	7	nmod	laptop_1
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	glass	glass	NN	NN	O	5	compound	glass
+5	??	bottle	NN	NN	O	1	xcomp	bottle_2
+6	lying	lie	VB	VBG	O	5	acl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	laptop	laptop	NN	NN	O	7	nmod	laptop_1
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	glass	glass	NN	NN	O	5	compound	glass
+5	bottle	bottle	NN	NN	O	1	xcomp	bottle_2
+6	lying	lie	VB	VBG	O	5	acl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	laptop	NN	NN	O	7	nmod	laptop_1
+

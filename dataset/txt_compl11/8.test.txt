@@ -1,0 +1,1047 @@
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	guitar	NN	NN	O	0	ROOT	cardigan_1//guitar_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	sits	sit	VB	VBZ	O	4	ccomp	
+12	on	on	IN	IN	O	13	case	
+13	comfortably	comfortably	RB	RB	O	11	advcl	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	sits	sit	VB	VBZ	O	4	ccomp	
+12	on	on	IN	IN	O	13	case	
+13	comfortably	comfortably	RB	RB	O	11	advcl	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_1
+11	sits	sit	VB	VBZ	O	4	ccomp	
+12	on	on	IN	IN	O	13	case	
+13	comfortably	comfortably	RB	RB	O	11	advcl	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	guitar	NN	NN	O	0	ROOT	cardigan_1//guitar_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	occupied	occupy	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	occupied	occupy	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	occupied	occupy	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	guitar	NN	NN	O	0	ROOT	guitar_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	plays	play	VB	VBZ	O	4	ccomp	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	guitar_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	plays	play	VB	VBZ	O	4	ccomp	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	guitar_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_2
+11	plays	play	VB	VBZ	O	4	ccomp	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	guitar	NN	NN	O	0	ROOT	guitar_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	played	play	VB	VBN	O	4	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	guitar_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	played	play	VB	VBN	O	4	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	guitar_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	played	play	VB	VBN	O	4	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	10	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_1
+3	sits	sit	VB	VBZ	O	0	ROOT	
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	couch	couch	NN	NN	O	3	nmod	couch_1
+7	with	with	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	guitar	guitar	NN	NN	O	6	nmod	guitar_1
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	sits	sit	VB	VBZ	O	0	ROOT	
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	??	couch	NN	NN	O	3	nmod	couch_1
+7	with	with	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	guitar	guitar	NN	NN	O	6	nmod	
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	sits	sit	VB	VBZ	O	0	ROOT	
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	couch	couch	NN	NN	O	3	nmod	couch_1
+7	with	with	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	??	guitar	NN	NN	O	6	nmod	cardigan_1//guitar_1
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	couch	NN	NN	O	9	nsubjpass	couch_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	2	nmod	guitar_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	occupied	occupy	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	couch	couch	NN	NN	O	9	nsubjpass	couch_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	??	guitar	NN	NN	O	2	nmod	cardigan_1//guitar_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	occupied	occupy	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	couch	couch	NN	NN	O	9	nsubjpass	couch_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	2	nmod	guitar_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	occupied	occupy	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	woman	NN	NN	O	9	nmod	woman_1
+
+1	the	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	plays	play	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	3	dobj	guitar_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_2
+
+1	the	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	plays	play	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	guitar	NN	NN	O	3	dobj	guitar_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_2
+
+1	the	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	plays	play	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	3	dobj	guitar_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	couch	NN	NN	O	5	nmod	couch_2
+
+1	the	the	DT	DT	O	2	det	
+2	??	guitar	NN	NN	O	7	nsubjpass	guitar_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	played	play	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	the	the	DT	DT	O	2	det	
+2	guitar	guitar	NN	NN	O	7	nsubjpass	guitar_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	couch	NN	NN	O	2	nmod	couch_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	played	play	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	the	the	DT	DT	O	2	det	
+2	guitar	guitar	NN	NN	O	7	nsubjpass	guitar_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	played	play	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	7	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	??	flute	NN	NN	O	1	nsubj	flute_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	Xylophone	xylophone	NN	NN	O	7	nmod	xylophone_1
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	chest	chest	NN	NN	O	6	nmod	chest_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	flute	flute	NN	NN	O	1	nsubj	flute_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	xylophone	NN	NN	O	7	nmod	xylophone_1
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	chest	chest	NN	NN	O	6	nmod	chest_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	flute	flute	NN	NN	O	1	nsubj	flute_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	Xylophone	xylophone	NN	NN	O	7	nmod	xylophone_1
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	chest	NN	NN	O	6	nmod	chest_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	pillow	NN	NN	O	1	dobj	pillow_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_3
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	bag	bag	NN	NN	O	9	nmod	bag_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	pillow	pillow	NN	NN	O	1	dobj	pillow_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	couch	NN	NN	O	6	nmod	couch_3
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	bag	bag	NN	NN	O	9	nmod	bag_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	pillow	pillow	NN	NN	O	1	dobj	pillow_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	couch	NN	NN	O	6	nmod	couch_3
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	bag	NN	NN	O	9	nmod	bag_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	xylophone	NN	NN	O	2	nsubj	xylophone_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	flute	flute	NN	NN	O	4	conj	flute_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	chest	chest	NN	NN	O	9	nmod	chest_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	Xylophone	xylophone	NN	NN	O	2	nsubj	xylophone_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	??	flute	NN	NN	O	4	conj	flute_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	chest	chest	NN	NN	O	9	nmod	chest_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	Xylophone	xylophone	NN	NN	O	2	nsubj	xylophone_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	flute	flute	NN	NN	O	4	conj	flute_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	chest	NN	NN	O	9	nmod	chest_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	guitar	NN	NN	O	2	nsubj	guitar_2//bag_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	pillow	pillow	NN	NN	O	4	conj	
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	couch	couch	NN	NN	O	9	nmod	couch_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	2	nsubj	guitar_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	pillow	pillow	NN	NN	O	4	conj	
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	couch	NN	NN	O	9	nmod	couch_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	guitar	NN	NN	O	2	nsubj	guitar_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	cardigan	cardigan	NN	NN	O	4	conj	cardigan_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	couch	couch	NN	NN	O	2	nmod	couch_1
+11	that	that	IN	IN	O	14	mark	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	14	nsubj	woman_1
+14	sits	sit	VB	VBZ	O	10	ccomp	sit_1
+15	on	on	IN	IN	O	14	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	2	nsubj	guitar_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	??	cardigan	NN	NN	O	4	conj	cardigan_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	couch	couch	NN	NN	O	2	nmod	couch_1
+11	that	that	IN	IN	O	14	mark	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	14	nsubj	woman_1
+14	sits	sit	VB	VBZ	O	10	ccomp	sit_1
+15	on	on	IN	IN	O	14	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	2	nsubj	guitar_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	cardigan	cardigan	NN	NN	O	4	conj	cardigan_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	couch	NN	NN	O	2	nmod	couch_1
+11	that	that	IN	IN	O	14	mark	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	14	nsubj	woman_1
+14	sits	sit	VB	VBZ	O	10	ccomp	sit_1
+15	on	on	IN	IN	O	14	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	2	nsubj	guitar_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	cardigan	cardigan	NN	NN	O	4	conj	cardigan_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	couch	couch	NN	NN	O	2	nmod	couch_1
+11	that	that	IN	IN	O	14	mark	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	14	nsubj	woman_1
+14	sits	sit	VB	VBZ	O	10	ccomp	sit_1
+15	on	on	IN	IN	O	14	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	breaks	break	VB	VBZ	O	0	ROOT	break_1
+4	the	the	DT	DT	O	5	det	
+5	glass	glass	NN	NN	O	3	dobj	glass_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	vitrine	vitrine	NN	NN	O	5	nmod	vitrine_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	vase	vase	NN	NN	O	8	nmod	vase_1
+12	inside	inside	IN	IN	O	3	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	??	break	VB	VBZ	O	0	ROOT	break_1
+4	the	the	DT	DT	O	5	det	
+5	glass	glass	NN	NN	O	3	dobj	glass_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	vitrine	vitrine	NN	NN	O	5	nmod	vitrine_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	vase	vase	NN	NN	O	8	nmod	vase_1
+12	inside	inside	IN	IN	O	3	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	breaks	break	VB	VBZ	O	0	ROOT	break_1
+4	the	the	DT	DT	O	5	det	
+5	??	glass	NN	NN	O	3	dobj	glass_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	vitrine	vitrine	NN	NN	O	5	nmod	vitrine_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	vase	vase	NN	NN	O	8	nmod	vase_1
+12	inside	inside	IN	IN	O	3	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	breaks	break	VB	VBZ	O	0	ROOT	break_1
+4	the	the	DT	DT	O	5	det	
+5	glass	glass	NN	NN	O	3	dobj	glass_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	vitrine	NN	NN	O	5	nmod	vitrine_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	vase	vase	NN	NN	O	8	nmod	vase_1
+12	inside	inside	IN	IN	O	3	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	breaks	break	VB	VBZ	O	0	ROOT	break_1
+4	the	the	DT	DT	O	5	det	
+5	glass	glass	NN	NN	O	3	dobj	glass_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	vitrine	vitrine	NN	NN	O	5	nmod	vitrine_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	??	vase	NN	NN	O	8	nmod	vase_1
+12	inside	inside	IN	IN	O	3	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	glass	NN	NN	O	11	nsubjpass	glass_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	2	nmod	vitrine_1
+6	with	with	IN	IN	O	9	case	
+7	a	a	DT	DT	O	9	det	
+8	vase	vase	NN	NN	O	9	compound	vase_1
+9	inside	inside	NN	NN	O	5	nmod	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	broken	break	VB	VBN	O	0	ROOT	break_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	glass	glass	NN	NN	O	11	nsubjpass	glass_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	vitrine	NN	NN	O	2	nmod	vitrine_1
+6	with	with	IN	IN	O	9	case	
+7	a	a	DT	DT	O	9	det	
+8	vase	vase	NN	NN	O	9	compound	vase_1
+9	inside	inside	NN	NN	O	5	nmod	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	broken	break	VB	VBN	O	0	ROOT	break_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	glass	glass	NN	NN	O	11	nsubjpass	glass_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	2	nmod	vitrine_1
+6	with	with	IN	IN	O	9	case	
+7	a	a	DT	DT	O	9	det	
+8	??	vase	NN	NN	O	9	compound	vase_1
+9	inside	inside	NN	NN	O	5	nmod	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	broken	break	VB	VBN	O	0	ROOT	break_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	glass	glass	NN	NN	O	11	nsubjpass	glass_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	2	nmod	vitrine_1
+6	with	with	IN	IN	O	9	case	
+7	a	a	DT	DT	O	9	det	
+8	vase	vase	NN	NN	O	9	compound	vase_1
+9	inside	inside	NN	NN	O	5	nmod	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	??	break	VB	VBN	O	0	ROOT	break_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	glass	glass	NN	NN	O	11	nsubjpass	glass_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	2	nmod	vitrine_1
+6	with	with	IN	IN	O	9	case	
+7	a	a	DT	DT	O	9	det	
+8	vase	vase	NN	NN	O	9	compound	vase_1
+9	inside	inside	NN	NN	O	5	nmod	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	broken	break	VB	VBN	O	0	ROOT	break_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	??	man	NN	NN	O	11	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_2
+3	attunes	attune	VB	VBZ	O	0	ROOT	attune_1
+4	the	the	DT	DT	O	5	det	
+5	strings	string	NN	NNS	O	3	dobj	string_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	guitar	guitar	NN	NN	O	5	nmod	guitar_2
+9	that	that	IN	IN	O	12	mark	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	12	nsubj	woman_2
+12	plays	play	VB	VBZ	O	8	ccomp	play_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	??	attune	VB	VBZ	O	0	ROOT	attune_1
+4	the	the	DT	DT	O	5	det	
+5	strings	string	NN	NNS	O	3	dobj	string_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	guitar	guitar	NN	NN	O	5	nmod	guitar_2
+9	that	that	IN	IN	O	12	mark	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	12	nsubj	woman_2
+12	plays	play	VB	VBZ	O	8	ccomp	play_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	attunes	attune	VB	VBZ	O	0	ROOT	attune_1
+4	the	the	DT	DT	O	5	det	
+5	??	string	NN	NNS	O	3	dobj	string_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	guitar	guitar	NN	NN	O	5	nmod	guitar_2
+9	that	that	IN	IN	O	12	mark	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	12	nsubj	woman_2
+12	plays	play	VB	VBZ	O	8	ccomp	play_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	attunes	attune	VB	VBZ	O	0	ROOT	attune_1
+4	the	the	DT	DT	O	5	det	
+5	strings	string	NN	NNS	O	3	dobj	string_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	guitar	NN	NN	O	5	nmod	guitar_2
+9	that	that	IN	IN	O	12	mark	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	12	nsubj	woman_2
+12	plays	play	VB	VBZ	O	8	ccomp	play_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	attunes	attune	VB	VBZ	O	0	ROOT	attune_1
+4	the	the	DT	DT	O	5	det	
+5	strings	string	NN	NNS	O	3	dobj	string_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	guitar	guitar	NN	NN	O	5	nmod	guitar_2
+9	that	that	IN	IN	O	12	mark	
+10	the	the	DT	DT	O	11	det	
+11	??	woman	NN	NN	O	12	nsubj	woman_2
+12	plays	play	VB	VBZ	O	8	ccomp	play_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	attunes	attune	VB	VBZ	O	0	ROOT	attune_1
+4	the	the	DT	DT	O	5	det	
+5	strings	string	NN	NNS	O	3	dobj	string_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	guitar	guitar	NN	NN	O	5	nmod	guitar_2
+9	that	that	IN	IN	O	12	mark	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	12	nsubj	woman_2
+12	??	play	VB	VBZ	O	8	ccomp	play_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	string	NN	NNS	O	11	nsubj	string_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	2	nmod	guitar_2
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	woman	woman	NN	NN	O	9	nsubj	woman_2
+9	plays	play	VB	VBZ	O	5	ccomp	play_1
+10	is	be	VB	VBZ	O	11	aux	
+11	attuned	attune	VB	VBD	O	0	ROOT	attune_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	strings	string	NN	NNS	O	11	nsubj	string_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	guitar	NN	NN	O	2	nmod	guitar_2
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	woman	woman	NN	NN	O	9	nsubj	woman_2
+9	plays	play	VB	VBZ	O	5	ccomp	play_1
+10	is	be	VB	VBZ	O	11	aux	
+11	attuned	attune	VB	VBD	O	0	ROOT	attune_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	strings	string	NN	NNS	O	11	nsubj	string_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	2	nmod	guitar_2
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	??	woman	NN	NN	O	9	nsubj	woman_2
+9	plays	play	VB	VBZ	O	5	ccomp	play_1
+10	is	be	VB	VBZ	O	11	aux	
+11	attuned	attune	VB	VBD	O	0	ROOT	attune_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	strings	string	NN	NNS	O	11	nsubj	string_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	2	nmod	guitar_2
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	woman	woman	NN	NN	O	9	nsubj	woman_2
+9	??	play	VB	VBZ	O	5	ccomp	play_1
+10	is	be	VB	VBZ	O	11	aux	
+11	attuned	attune	VB	VBD	O	0	ROOT	attune_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	strings	string	NN	NNS	O	11	nsubj	string_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	2	nmod	guitar_2
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	woman	woman	NN	NN	O	9	nsubj	woman_2
+9	plays	play	VB	VBZ	O	5	ccomp	play_1
+10	is	be	VB	VBZ	O	11	aux	
+11	??	attune	VB	VBD	O	0	ROOT	attune_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	strings	string	NN	NNS	O	11	nsubj	string_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	2	nmod	guitar_2
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	woman	woman	NN	NN	O	9	nsubj	woman_2
+9	plays	play	VB	VBZ	O	5	ccomp	play_1
+10	is	be	VB	VBZ	O	11	aux	
+11	attuned	attune	VB	VBD	O	0	ROOT	attune_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	??	man	NN	NN	O	11	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	white	JJ	JJ	O	5	amod	white
+5	guitar	guitar	NN	NN	O	1	dobj	guitar_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	beige	beige	JJ	JJ	O	9	amod	beige
+9	couch	couch	NN	NN	O	5	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_1
+13	sits	sit	VB	VBZ	O	1	ccomp	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	white	white	JJ	JJ	O	5	amod	white
+5	??	guitar	NN	NN	O	1	dobj	guitar_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	beige	beige	JJ	JJ	O	9	amod	beige
+9	couch	couch	NN	NN	O	5	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_1
+13	sits	sit	VB	VBZ	O	1	ccomp	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	white	white	JJ	JJ	O	5	amod	white
+5	guitar	guitar	NN	NN	O	1	dobj	guitar_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	??	beige	JJ	JJ	O	9	amod	beige
+9	couch	couch	NN	NN	O	5	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_1
+13	sits	sit	VB	VBZ	O	1	ccomp	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	white	white	JJ	JJ	O	5	amod	white
+5	guitar	guitar	NN	NN	O	1	dobj	guitar_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	beige	beige	JJ	JJ	O	9	amod	beige
+9	??	couch	NN	NN	O	5	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_1
+13	sits	sit	VB	VBZ	O	1	ccomp	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	white	white	JJ	JJ	O	5	amod	white
+5	guitar	guitar	NN	NN	O	1	dobj	guitar_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	beige	beige	JJ	JJ	O	9	amod	beige
+9	couch	couch	NN	NN	O	5	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	??	woman	NN	NN	O	13	nsubj	woman_1
+13	sits	sit	VB	VBZ	O	1	ccomp	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	white	white	JJ	JJ	O	5	amod	white
+5	guitar	guitar	NN	NN	O	1	dobj	guitar_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	beige	beige	JJ	JJ	O	9	amod	beige
+9	couch	couch	NN	NN	O	5	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_1
+13	??	sit	VB	VBZ	O	1	ccomp	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	pink	JJ	JJ	O	5	amod	pink
+5	pillow	pillow	NN	NN	O	1	dobj	pillow_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VBZ	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	beige	beige	JJ	JJ	O	11	amod	beige
+11	couch	couch	NN	NN	O	7	nmod	couch_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	??	pillow	NN	NN	O	1	dobj	pillow_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VBZ	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	beige	beige	JJ	JJ	O	11	amod	beige
+11	couch	couch	NN	NN	O	7	nmod	couch_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	pillow	pillow	NN	NN	O	1	dobj	pillow_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VBZ	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	??	beige	JJ	JJ	O	11	amod	beige
+11	couch	couch	NN	NN	O	7	nmod	couch_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	pillow	pillow	NN	NN	O	1	dobj	pillow_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VBZ	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	beige	beige	JJ	JJ	O	11	amod	beige
+11	??	couch	NN	NN	O	7	nmod	couch_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	blue	JJ	JJ	O	5	amod	blue
+5	pillow	pillow	NN	NN	O	1	dobj	pillow_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	blue	blue	JJ	JJ	O	9	amod	blue
+9	couch	couch	NN	NN	O	5	nmod	couch_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	??	pillow	NN	NN	O	1	dobj	pillow_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	blue	blue	JJ	JJ	O	9	amod	blue
+9	couch	couch	NN	NN	O	5	nmod	couch_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	pillow	pillow	NN	NN	O	1	dobj	pillow_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	??	blue	JJ	JJ	O	9	amod	blue
+9	couch	couch	NN	NN	O	5	nmod	couch_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	pillow	pillow	NN	NN	O	1	dobj	pillow_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	blue	blue	JJ	JJ	O	9	amod	blue
+9	??	couch	NN	NN	O	5	nmod	couch_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	5	det	
+4	??	white	JJ	JJ	O	5	amod	white
+5	guitar	guitar	NN	NN	O	1	nsubj	guitar_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	piano	piano	NN	NN	O	7	nmod	piano_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	5	det	
+4	white	white	JJ	JJ	O	5	amod	white
+5	??	guitar	NN	NN	O	1	nsubj	guitar_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	piano	piano	NN	NN	O	7	nmod	piano_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	cardigan	cardigan	NN	NN	O	1	nsubj	cardigan_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	guitar	guitar	NN	NN	O	7	nmod	guitar_1
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	couch	NN	NN	O	6	nmod	couch_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	cardigan	cardigan	NN	NN	O	1	nsubj	cardigan_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	guitar	NN	NN	O	7	nmod	guitar_1
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	couch	couch	NN	NN	O	6	nmod	couch_1

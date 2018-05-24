@@ -1,0 +1,4917 @@
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	0	ROOT	mug_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	vitrine	vitrine	NN	NN	O	4	nmod	vitrine_1
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	damages	damage	VB	VBZ	O	4	ccomp	damage_1
+12	carelessly	carelessly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	0	ROOT	mug_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	vitrine	vitrine	NN	NN	O	4	nmod	vitrine_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	damaged	damage	VB	VBN	O	7	ccomp	damage_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	3	dobj	vitrine_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	mug	mug	NN	NN	O	5	nmod	mug_2
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	vitrine	vitrine	NN	NN	O	9	nsubjpass	vitrine_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	mug	mug	NN	NN	O	2	nmod	mug_2
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	3	dobj	vitrine_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	candle	candle	NN	NN	O	5	nmod	candle_1 
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	vitrine	vitrine	NN	NN	O	9	nsubjpass	vitrine_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	candle	candle	NN	NN	O	2	nmod	candle_1 
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	damages	damage	VB	VBZ	O	0	ROOT	damage_1
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	3	dobj	vitrine_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	mug	mug	NN	NN	O	5	nmod	mug_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	vitrine	vitrine	NN	NN	O	9	nsubjpass	vitrine_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	mug	mug	NN	NN	O	2	nmod	mug_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	damaged	damage	VB	VBN	O	0	ROOT	damage_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	3	dobj	vitrine_2
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	sofa	sofa	NN	NN	O	5	nmod	sofa_1
+
+1	The	the	DT	DT	O	2	det	
+2	vitrine	vitrine	NN	NN	O	8	nsubjpass	vitrine_2
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	sofa	sofa	NN	NN	O	2	nmod	sofa_1
+7	is	be	VB	VBZ	O	8	auxpass	
+8	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	8	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	clock	clock	NN	NN	O	1	dobj	clock_1
+5	and	and	CC	CC	O	4	cc	
+6	the	the	DT	DT	O	7	det	
+7	book	book	NN	NN	O	4	conj	book_1
+8	lying	lie	VB	VBG	O	7	ccmop	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	shelf	shelf	NN	NN	O	8	nmod	shelf_1
+
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	1	dobj	mug_2
+5	lying	lie	VB	VBG	O	4	ccomp	
+6	next	next	JJ	JJ	O	5	advmod	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	candle	candle	NN	NN	O	5	nmod	candle_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	2	nsubj	mug_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	candle	candle	NN	NN	O	4	conj	candle_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	vitrine	vitrine	NN	NN	O	9	nmod	vitrine_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	frame	frame	NN	NN	O	2	nsubj	frame_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	mug	mug	NN	NN	O	4	conj	mug_3
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	chest	chest	NN	NN	O	9	nmod	chest_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_2
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	5	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	vitrine	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	15	nsubj	woman_1
+15	damages	damage	VB	VBZ	O	11	ccomp	damage_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	a	a	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_2
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	3	nmod	shelf_2
+9	of	of	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	vitrine	vitrine	NN	NN	O	8	nmod	vitrine_1
+12	that	that	WDT	WDT	O	14	nsubjpass	
+13	is	be	VB	VBZ	O	14	auxpass	
+14	damaged	damage	VB	VBN	O	11	ccomp	damage_1
+15	by	by	IN	IN	O	17	case	
+16	the	the	DT	DT	O	17	det	
+17	woman	woman	NN	NN	O	14	nmod	woman_1
+
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	mug	mug	NN	NN	O	1	dobj	mug_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	candle	candle	NN	NN	O	7	nmod	candle_1 
+
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	yellow	yellow	JJ	JJ	O	5	amod	yellow
+5	book	book	NN	NN	O	1	dobj	book_4
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	bowl	bowl	NN	NN	O	7	nmod	bowl_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	pan	pan	NN	NN	O	0	ROOT	pan_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	cleans	clean	VB	VBZ	O	4	ccomp	clean_1
+12	thoroughly	thoroughly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	pan	pan	NN	NN	O	0	ROOT	pan_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cleaned	clean	VB	VBN	O	4	ccomp	clean_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	plate	plate	NN	NN	O	0	ROOT	plate_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	arranges	arrange	VB	VBZ	O	4	ccomp	arrange_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	plate	plate	NN	NN	O	0	ROOT	plate_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	arranged	arrange	VB	VBD	O	4	ccomp	arrange_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	pan	pan	NN	NN	O	3	dobj	pan_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_1
+
+1	The	the	DT	DT	O	2	det	
+2	pan	pan	NN	NN	O	7	nsubjpass	pan_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	counter	counter	NN	NN	O	2	nmod	counter_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	arranges	arrange	VB	VBZ	O	0	ROOT	arrange_1
+4	the	the	DT	DT	O	5	det	
+5	plate	plate	NN	NN	O	3	dobj	plate_1
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_2
+
+1	The	the	DT	DT	O	2	det	
+2	plate	plate	NN	NN	O	7	nsubjpass	plate_1
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	counter	counter	NN	NN	O	2	nmod	counter_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	arranged	arrange	VB	VBN	O	0	ROOT	arrange_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	washes	wash	VB	VBZ	O	0	ROOT	wash_1
+4	the	the	DT	DT	O	5	det	
+5	mug	mug	NN	NN	O	3	dobj	mug_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	vase	vase	NN	NN	O	8	nmod	vase_1//pan_2//plate_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	mug	mug	NN	NN	O	12	nsubjpass	mug_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	counter	counter	NN	NN	O	2	nmod	counter_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	vase	vase	NN	NN	O	5	nmod	vase_1//pan_2//plate_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	washed	wash	VB	VBN	O	0	ROOT	wash_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	pan	pan	NN	NN	O	1	dobj	pan_2
+5	and	and	CC	CC	O	4	cc	
+6	the	the	DT	DT	O	7	det	
+7	plate	plate	NN	NN	O	4	conj	plate_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	stand	stand	VB	VB	O	7	ccomp	
+10	next	next	JJ	JJ	O	9	advmod	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	stove	stove	NN	NN	O	9	nmod	stove_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	knife	knife	NN	NN	O	1	nsubj	knife_1
+5	and	and	CC	CC	O	4	cc	
+6	the	the	DT	DT	O	7	det	
+7	pan	pan	NN	NN	O	4	conj	pan_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	stand	stand	VB	VBP	O	4	acl:relcl	
+10	on	on	IN	IN	O	13	case	
+11	the	the	DT	DT	O	13	det	
+12	left	left	JJ	JJ	O	13	amod	left_1
+13	counter	counter	NN	NN	O	9	nmod	counter_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	2	nsubj	mug_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	8	det	
+7	wine	wine	NN	NN	O	8	compound	
+8	shelf	shelf	NN	NN	O	4	conj	shelf_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	counter	counter	NN	NN	O	8	nmod	counter_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	vase	vase	NN	NN	O	2	nsubj	vase_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	conj	bag_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	bench	bench	NN	NN	O	7	nmod	bench_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	handle	handle	NN	NN	O	8	nmod	handle_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	mug	mug	NN	NN	O	3	dobj	mug_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	counter	counter	NN	NN	O	8	nmod	counter_2
+
+1	The	the	DT	DT	O	2	det	
+2	handle	handle	VB	VB	O	10	nsubjpass	handle_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	mug	mug	NN	NN	O	2	nmod	mug_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_2
+9	is	be	VB	VBZ	O	10	auxpass	
+10	holded	hold	VB	VBN	O	0	ROOT	hold_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	iobj	
+3	the	the	DT	DT	O	5	det	
+4	red	red	JJ	JJ	O	5	amod	red
+5	pan	pan	NN	NN	O	1	dobj	pan_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	left	left	JJ	JJ	O	9	amod	left_1
+9	counter	counter	NN	NN	O	5	nmod	counter_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_1
+13	cleans	clean	VB	VBZ	O	5	nmod	clean_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	pan	pan	NN	NN	O	1	dobj	pan_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	right	right	JJ	JJ	O	9	amod	right_1
+9	counter	counter	NN	NN	O	5	nmod	counter_2
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_2
+13	stands	stand	VB	VBZ	O	1	ccomp	stand_1
+14	next	next	JJ	JJ	O	13	advmod	
+15	to	to	TO	TO	O	14	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	iobj	
+3	the	the	DT	DT	O	5	det	
+4	big	big	JJ	JJ	O	5	amod	big
+5	mug	mug	NN	NN	O	1	dobj	mug_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	left	left	JJ	JJ	O	9	amod	left_2
+9	counter	counter	NN	NN	O	5	nmod	counter_3
+10	with	with	IN	IN	O	13	case	
+11	a	a	DT	DT	O	13	det	
+12	wine	wine	NN	NN	O	13	compound	
+13	shelf	shelf	NN	NN	O	9	nmod	shelf_1
+14	on	on	IN	IN	O	15	case	
+15	it	it	PRP	PRP	O	13	nmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	grater	grater	NN	NN	O	0	ROOT	grater_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	box	box	NN	NN	O	4	nmod	box_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	grasps	grasp	VB	VBZ	O	4	ccomp	grasp_1
+12	tightly	tightly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	grater	grater	NN	NN	O	0	ROOT	grater_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	box	box	NN	NN	O	4	nmod	box_1
+8	that	that	WDT	WDT	O	11	nsubjpass	
+9	is	be	VB	VBZ	O	11	auxpass	
+10	tightly	tightly	RB	RB	O	11	advmod	
+11	grasped	grasp	VB	VBN	O	4	ccomp	grasp_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	0	ROOT	box_3
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	grasps	grasp	VB	VBZ	O	4	ccomp	grasp_3
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	0	ROOT	box_3
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	grasped	grasp	VB	VBN	O	4	ccomp	grasp_3
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	grasps	grasp	VBZ	VBZ	O	0	ROOT	grasp_1
+4	the	the	DT	DT	O	5	det	
+5	grater	grater	NN	NN	O	3	dobj	grater_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_1
+
+1	The	the	DT	DT	O	2	det	
+2	grater	grater	NN	NN	O	7	nsubjpass	grater_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	2	nmod	box_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	grasped	grasp	VB	VBN	O	0	ROOT	grasp_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	grasps	grasp	VB	VBZ	O	0	ROOT	grasp_3
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	3	dobj	box_3
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	water	water	NN	NN	O	9	compound	
+9	boiler	boiler	NN	NN	O	5	nmod	boiler_1
+
+1	The	the	DT	DT	O	2	det	
+2	box	box	NN	NN	O	8	nsubjpass	box_3
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	water	water	NN	NN	O	6	compound	
+6	boiler	boiler	NN	NN	O	2	nmod	boiler_1
+7	is	be	VB	VBZ	O	8	auxpass	
+8	grasped	grasp	VB	VBN	O	0	ROOT	grasp_3
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	8	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	grasps	grasp	VB	VBZ	O	0	ROOT	grasp_2
+4	the	the	DT	DT	O	5	det	
+5	ladle	ladle	NN	NN	O	3	dobj	ladle_1
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	box	box	NN	NN	O	5	nmod	box_2
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	grater	grater	NN	NN	O	9	nmod	grater_2
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	ladle	ladle	NN	NN	O	13	nsubjpass	ladle_1
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	box	box	NN	NN	O	2	nmod	box_2
+7	with	with	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	grater	grater	NN	NN	O	6	nmod	grater_2
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+12	is	be	VB	VBZ	O	13	auxpass	
+13	grasped	grasp	VB	VBN	O	0	ROOT	grasp_2
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	man	man	NN	NN	O	13	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	tomato	tomato	NN	NN	O	1	dobj	tomato_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	grater	grater	NN	NN	O	6	nmod	grater_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	spatula	spatula	NN	NN	O	1	dobj	spatula_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	grater	grater	NN	NN	O	6	nmod	grater_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	1	dobj	mug_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	wallet	wallet	NN	NN	O	6	nmod	wallet_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	tomato	tomato	NN	NN	O	2	nsubj	tomato_1
+4	and	and	CC	CC	O	3	cc	
+5	grater	grater	NN	NN	O	3	conj	grater_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lie	lie	VB	VBP	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	tray	tray	NN	NN	O	7	nmod	tray_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	lid	lid	NN	NN	O	3	dobj	lid_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_3
+9	on	on	IN	IN	O	12	case	
+10	the	the	DT	DT	O	12	det	
+11	marble	marble	JJ	JJ	O	12	compound	marble
+12	counter	counter	NN	NN	O	8	nmod	counter_2
+
+1	the	the	DT	DT	O	2	det	
+2	lid	lid	NN	NN	O	11	nsubjpass	lid_3
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	2	nmod	box_3
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	marble	marble	JJ	JJ	O	9	compound	marble
+9	counter	counter	NN	NN	O	5	nmod	counter_2
+10	is	be	VB	VBZ	O	11	auxpass	
+11	opened	open	VB	VBN	O	0	ROOT	open_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	11	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	1	dobj	mug_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	10	case	
+8	the	the	DT	DT	O	10	det	
+9	wooden	wooden	JJ	JJ	O	10	amod	wooden
+10	counter	counter	NN	NN	O	6	nmod	counter_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	green	green	JJ	JJ	O	5	amod	green
+5	tray	tray	NN	NN	O	1	dobj	tray_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	wooden	wooden	JJ	JJ	O	11	amod	wooden
+11	counter	counter	NN	NN	O	7	nmod	counter_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	brown	brown	JJ	JJ	O	5	compound	brown
+5	mug	mug	NN	NN	O	1	xcomp	mug_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	metal	metal	JJ	JJ	O	9	compound	metal
+9	stool	stool	NN	NN	O	5	nmod	stool_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	guitar_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	sits	sit	VB	VBZ	O	4	ccomp	sit_1
+12	on	on	IN	IN	O	13	case	
+13	comfortably	comfortably	RB	RB	O	11	advcl	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	guitar_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	occupied	occupy	VB	VBN	O	7	ccomp	occupy_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	guitar_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	plays	play	VB	VBZ	O	4	ccomp	play_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	0	ROOT	guitar_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	played	play	VB	VBN	O	4	ccomp	play_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	sits	sit	VB	VBZ	O	0	ROOT	sit_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	couch	couch	NN	NN	O	3	nmod	couch_1
+7	with	with	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	guitar	guitar	NN	NN	O	6	nmod	guitar_1
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	couch	couch	NN	NN	O	9	nsubjpass	couch_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	2	nmod	guitar_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	occupied	occupy	VB	VBN	O	0	ROOT	occupy_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_1
+
+1	the	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	plays	play	VB	VBZ	O	0	ROOT	play_1
+4	the	the	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	3	dobj	guitar_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_2
+
+1	the	the	DT	DT	O	2	det	
+2	guitar	guitar	NN	NN	O	7	nsubjpass	guitar_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	played	play	VB	VBN	O	0	ROOT	play_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	flute	flute	NN	NN	O	1	nsubj	flute_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	Xylophone	xylophone	NN	NN	O	7	nmod	xylophone_1
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	chest	chest	NN	NN	O	6	nmod	chest_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	pillow	pillow	NN	NN	O	1	dobj	pillow_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_3
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	bag	bag	NN	NN	O	9	nmod	bag_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	xylophone	xylophone	NN	NN	O	2	nsubj	xylophone_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	flute	flute	NN	NN	O	4	conj	flute_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	chest	chest	NN	NN	O	9	nmod	chest_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	2	nsubj	guitar_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	pillow	pillow	NN	NN	O	4	conj	pillow_2
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	couch	couch	NN	NN	O	9	nmod	couch_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	guitar	guitar	NN	NN	O	2	nsubj	guitar_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	cardigan	cardigan	NN	NN	O	4	conj	cardigan_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	couch	couch	NN	NN	O	2	nmod	couch_1
+11	that	that	IN	IN	O	14	mark	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	14	nsubj	woman_1
+14	sits	sit	VB	VBZ	O	10	ccomp	sit_1
+15	on	on	IN	IN	O	14	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	breaks	break	VB	VBZ	O	0	ROOT	break_1
+4	the	the	DT	DT	O	5	det	
+5	glass	glass	NN	NN	O	3	dobj	glass_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	vitrine	vitrine	NN	NN	O	5	nmod	vitrine_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	vase	vase	NN	NN	O	8	nmod	vase_1
+12	inside	inside	IN	IN	O	3	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	glass	glass	NN	NN	O	11	nsubjpass	glass_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	2	nmod	vitrine_1
+6	with	with	IN	IN	O	9	case	
+7	a	a	DT	DT	O	9	det	
+8	vase	vase	NN	NN	O	9	compound	vase_1
+9	inside	inside	NN	NN	O	5	nmod	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	broken	break	VB	VBN	O	0	ROOT	break_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	attunes	attune	VB	VBZ	O	0	ROOT	attune_1
+4	the	the	DT	DT	O	5	det	
+5	strings	string	NN	NNS	O	3	dobj	string_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	guitar	guitar	NN	NN	O	5	nmod	guitar_2
+9	that	that	IN	IN	O	12	mark	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	12	nsubj	woman_2
+12	plays	play	VB	VBZ	O	8	ccomp	play_1
+
+1	The	the	DT	DT	O	2	det	
+2	string	string	NN	NNS	O	11	nsubj	string_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	guitar	guitar	NN	NN	O	2	nmod	guitar_2
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	woman	woman	NN	NN	O	9	nsubj	woman_2
+9	plays	play	VB	VBZ	O	5	ccomp	play_1
+10	is	be	VB	VBZ	O	11	aux	
+11	attuned	attune	VB	VBD	O	0	ROOT	attune_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	white	white	JJ	JJ	O	5	amod	white
+5	guitar	guitar	NN	NN	O	1	dobj	guitar_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	beige	beige	JJ	JJ	O	9	amod	beige
+9	couch	couch	NN	NN	O	5	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_1
+13	sits	sit	VB	VBZ	O	9	ccomp	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	pillow	pillow	NN	NN	O	1	dobj	pillow_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VBZ	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	beige	beige	JJ	JJ	O	11	amod	beige
+11	couch	couch	NN	NN	O	7	nmod	couch_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	pillow	pillow	NN	NN	O	1	dobj	pillow_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	blue	blue	JJ	JJ	O	9	amod	blue
+9	couch	couch	NN	NN	O	5	nmod	couch_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	5	det	
+4	white	white	JJ	JJ	O	5	amod	white
+5	guitar	guitar	NN	NN	O	1	nsubj	guitar_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	piano	piano	NN	NN	O	7	nmod	piano_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	cardigan	cardigan	NN	NN	O	1	nsubj	cardigan_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	guitar	guitar	NN	NN	O	7	nmod	guitar_1
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	couch	couch	NN	NN	O	6	nmod	couch_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	hat	hat	NN	NN	O	0	ROOT	hat_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	closet	closet	NN	NN	O	4	nmod	closet_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	organizes	organize	VB	VBZ	O	4	ccomp	organize_1
+12	carefully	carefully	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	hat	hat	NN	NN	O	0	ROOT	hat_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	closet	closet	NN	NN	O	4	nmod	closet_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	organized	organize	VB	VBN	O	7	ccomp	organize_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	closet	closet	NN	NN	O	0	ROOT	closet_2
+5	with	with	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hat	hat	NN	NN	O	4	nmod	hat_2
+8	on	on	IN	IN	O	9	case	
+9	it	it	PRP	PRP	O	7	nmod	
+10	that	that	IN	IN	O	13	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_2
+13	paints	paint	VB	VBZ	O	4	ccomp	paint_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	closet	closet	NN	NN	O	0	ROOT	closet_2
+5	with	with	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hat	hat	NN	NN	O	4	nmod	hat_2
+8	on	on	IN	IN	O	9	case	
+9	it	it	PRP	PRP	O	7	nmod	
+10	that	that	WDT	WDT	O	12	nsubjpass	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	painted	paint	VB	VBN	O	4	ccomp	paint_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	closet	closet	NN	NN	O	0	ROOT	closet_2
+5	that	that	IN	IN	O	8	case	
+6	the	the	DT	DT	O	7	det	
+7	woman	woman	NN	NN	O	8	nsubj	woman_2
+8	paints	paint	VB	VBZ	O	4	ccomp	paint_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	closet	closet	NN	NN	O	0	ROOT	closet_2
+5	that	that	WDT	WDT	O	7	nsubjpass	
+6	is	be	VB	VBZ	O	7	auxpass	
+7	painted	paint	VB	VBN	O	4	ccomp	paint_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	organizes	organize	VB	VBZ	O	0	ROOT	organize_1
+4	the	the	DT	DT	O	5	det	
+5	closet	closet	NN	NN	O	3	dobj	closet_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	hat	hat	NN	NN	O	5	nmod	hat_1
+9	and	and	CC	CC	O	5	cc	
+10	cloths	cloth	NN	NNS	O	5	conj	cloth_1
+11	on	on	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	closet	closet	NN	NN	O	11	nsubjpass	closet_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	hat	hat	NN	NN	O	2	nmod	hat_1
+6	and	and	CC	CC	O	5	cc	
+7	cloths	cloth	NN	NNS	O	5	conj	cloth_1
+8	on	on	IN	IN	O	9	case	
+9	it	it	PRP	PRP	O	5	nmod	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	organized	organize	VB	VBN	O	0	ROOT	organize_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	11	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	paints	paint	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	closet	closet	NN	NN	O	3	dobj	closet_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	hat	hat	NN	NN	O	5	nmod	hat_2
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	closet	closet	NN	NN	O	9	nsubjpass	closet_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	hat	hat	NN	NN	O	2	nmod	hat_2
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VBZ	VBZ	O	9	auxpass	
+9	painted	paint	VB	VBN	O	0	ROOT	paint_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	mirror	mirror	NN	NN	O	1	dobj	mirror_2
+5	lying	lie	VB	VBG	O	4	ccmop	
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	drawer	drawer	NN	NN	O	5	nmod	drawer_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	brush	brush	NN	NN	O	1	dobj	brush_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	mirror	mirror	NN	NN	O	6	nmod	mirror_1
+11	and	and	CC	CC	O	10	cc	
+12	hat	hat	NN	NN	O	10	conj	hat_3
+
+1	there	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	brush	brush	NN	NNS	O	2	nsubj	brush_1
+4	","	","	","	","	O	3	cc	
+5	mirror	mirror	NN	NN	O	3	appos	mirror_1
+6	and	and	CC	CC	O	5	cc	
+7	hat	hat	NN	NN	O	5	conj	hat_3
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	5	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	dresser	dresser	NN	NN	O	9	nmod	dresser_1
+
+1	there	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	hat	hat	NN	NN	O	2	nsubj	hat_1
+4	and	and	CC	CC	O	3	cc	
+5	cloth	cloth	NN	NN	O	3	conj	cloth_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lie	lie	VB	VBP	O	3	ccomp	
+8	in	in	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	closet	closet	NN	NN	O	7	nmod	closet_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	checks	check	VB	VBZ	O	0	ROOT	check_1
+4	the	the	DT	DT	O	5	det	
+5	side	side	NN	NN	O	3	dobj	side_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	closet	closet	NN	NN	O	5	nmod	closet_2
+9	that	that	IN	IN	O	12	case	
+10	the	the	DT	DT	O	12	det	
+11	woman	woman	NN	NN	O	12	compound	woman_2
+12	paints	paint	VB	VBZ	O	8	ccomp	paint_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	checks	check	VB	VBZ	O	0	ROOT	check_1
+4	the	the	DT	DT	O	5	det	
+5	side	side	NN	NN	O	3	dobj	side_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	closet	closet	NN	NN	O	5	nmod	closet_2
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	painted	paint	VB	VBN	O	8	ccomp	paint_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	11	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	observes	observe	VB	VBZ	O	0	ROOT	observe_1
+4	the	the	DT	DT	O	5	det	
+5	shelf	shelf	NN	NN	O	3	dobj	shelf_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	closet	closet	NN	NN	O	5	nmod	closet_1
+9	that	that	IN	IN	O	12	mark	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	12	nsubj	woman_1
+12	organizes	organize	VB	VBZ	O	3	ccomp	organize_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	observes	observe	VB	VBZ	O	0	ROOT	observe_1
+4	the	the	DT	DT	O	5	det	
+5	shelf	shelf	NN	NN	O	3	dobj	shelf_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	closet	closet	NN	NN	O	5	nmod	closet_1
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VBZ	VBZ	O	11	auxpass	
+11	organized	organize	VB	VBN	O	8	ccomp	organize_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	11	nmod	woman_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	black	black	JJ	JJ	O	5	amod	black
+5	hat	hat	NN	NN	O	1	dobj	hat_3
+6	lying	lie	VB	VBG	O	5	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	dresser	dresser	NN	NN	O	6	nmod	dresser_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	colorful	colorful	JJ	JJ	O	5	amod	colorful
+5	box	box	NN	NN	O	1	dobj	box_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	in	in	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	closet	closet	NN	NN	O	7	nmod	closet_3
+
+1	clean	clean	JJ	JJ	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	blue	blue	JJ	JJ	O	4	amod	blue
+4	shoes	shoe	NN	NNS	O	1	dobj	shoe_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lie	lie	VB	VBP	O	4	ccomp	
+7	in	in	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	closet	closet	NN	NN	O	6	nmod	closet_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	mirror	mirror	NN	NN	O	1	nsubj	mirror_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	perfume	perfume	NN	NN	O	6	nmod	perfume_1
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	hat	hat	NN	NN	O	2	nsubj	hat_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	xcomp	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	mirror	mirror	NN	NN	O	7	nmod	mirror_1
+11	and	and	CC	CC	O	10	cc	
+12	the	the	DT	DT	O	13	det	
+13	brush	brush	NN	NN	O	10	conj	brush_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	ball	ball	NN	NN	O	0	ROOT	ball_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	picks	pick	VB	VBZ	O	4	ccomp	pick_1
+12	up	up	RP	RP	O	11	compound:prt	
+13	slowly	slowly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	ball	ball	NN	NN	O	0	ROOT	ball_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	picked	pick	VB	VBN	O	4	ccomp	pick_1
+11	up	up	RP	RP	O	10	compound:prt	
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	0	ROOT	box_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	organizes	organize	VB	VBZ	O	4	ccomp	organize_1
+12	up	up	RP	RP	O	11	compound:prt	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	0	ROOT	box_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	organized	organize	VB	VBN	O	7	ccomp	organize_1
+11	up	up	RP	RP	O	10	compound:prt	
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	picks	pick	VB	VBZ	O	0	ROOT	pick_1
+4	up	up	RP	RP	O	3	compound:prt	
+5	the	the	DT	DT	O	6	det	
+6	ball	ball	NN	NN	O	3	dobj	ball_1
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	table	table	NN	NN	O	6	nmod	table_1
+
+1	The	the	DT	DT	O	2	det	
+2	ball	ball	NN	NN	O	7	nsubjpass	ball_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	table	table	NN	NN	O	2	nmod	table_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	picked	pick	VB	VBN	O	0	ROOT	pick_1
+8	up	up	RP	RP	O	7	compound:prt	
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	organizes	organize	VB	VBZ	O	0	ROOT	organize_1
+4	up	up	RP	RP	O	3	compound:prt	
+5	the	the	DT	DT	O	6	det	
+6	box	box	NN	NN	O	3	dobj	box_1
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	table	table	NN	NN	O	6	nmod	table_1
+
+1	The	the	DT	DT	O	2	det	
+2	box	box	NN	NN	O	7	nsubjpass	box_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	table	table	NN	NN	O	2	nmod	table_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	organized	organize	VB	VBN	O	0	ROOT	organize_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	10	nsubj	box_1
+5	with	with	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	ball	ball	NN	NN	O	4	nmod	ball_2
+8	and	and	CC	CC	O	7	cc	
+9	a	a	DT	DT	O	7	conj	
+10	can	can	NN	NN	O	7	nmod	can_1
+11	in	in	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	13	nmod	
+13	lying	lie	VBG	VBG	O	10	xcomp	
+14	on	on	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	table	table	NN	NN	O	13	nmod	table_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	ipod	ipod	NN	NN	O	1	dobj	ipod_1
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	4	nmod	box_2
+9	lying	lie	VB	VBG	O	8	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	table	table	NN	NN	O	9	nmod	table_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	box	box	NN	NN	O	7	nsubj	box_2
+5	and	and	CC	CC	O	4	cc	
+6	ipod	ipod	NN	NN	O	4	conj	ipod_1
+7	standing	stand	VB	VBG	O	4	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	table	table	NN	NN	O	7	nmod	table_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	toy	toy	NN	NN	O	2	nsubj	toy_1
+5	and	and	CC	CC	O	4	cc	
+6	glasses	glass	NNS	NNS	O	4	conj	glass_1
+7	that	that	WDT	WDT	O	8	nsubj	
+8	stand	stand	VB	VBP	O	4	ccomp	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	stand	stand	NN	NN	O	8	nmod	stand_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	ball	ball	NN	NN	O	2	nsubj	ball_2 
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	can	can	NN	NN	O	4	conj	can_1
+8	lying	lie	VB	VBG	O	7	ccomp	
+9	in	in	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	box	box	NN	NN	O	8	nmod	box_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	collects	collect	VB	VBZ	O	0	ROOT	collect_1
+4	the	the	DT	DT	O	5	det	
+5	piece	piece	NN	NN	O	3	dobj	piece_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	toy	toy	NN	NN	O	5	nmod	toy_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	stand	stand	NN	NN	O	10	nmod	stand_1
+
+1	The	the	DT	DT	O	2	det	
+2	piece	piece	NN	NN	O	12	nsubjpass	piece_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	toy	toy	NN	NN	O	2	nmod	toy_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	stand	stand	NN	NN	O	7	nmod	stand_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	collected	collect	VB	VBN	O	0	ROOT	collect_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	sits	sit	VB	VBZ	O	0	ROOT	sit_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	arm	arm	NN	NN	O	3	nmod	arm_1
+7	of	of	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	green	green	JJ	JJ	O	5	amod	green
+5	ball	ball	NN	NN	O	1	dobj	ball_1
+6	that	that	IN	IN	O	10	mark	
+7	the	the	DT	DT	O	9	det	
+8	blonde	blonde	JJ	JJ	O	9	amod	blonde
+9	woman	woman	NN	NN	O	10	nsubj	woman_1
+10	picks	pick	VB	VBZ	O	5	ccomp	pick_1
+11	up	up	RP	RP	O	10	compound:prt	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	ball	ball	NN	NN	O	1	dobj	ball_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_1
+9	that	that	IN	IN	O	12	mark	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	12	nsubj	woman_2
+12	organizes	organize	VB	VBZ	O	8	ccomp	organize_1
+13	up	up	RP	RP	O	12	compound:prt	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	glass	glass	NN	NNS	O	1	dobj	glass_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	toy	toy	NN	NN	O	6	nmod	toy_1
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	stand	stand	NN	NN	O	6	nmod	stand_1
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	ball	ball	NN	NN	O	2	nsubj	ball_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	paper	paper	JJ	JJ	O	11	amod	paper
+11	box	box	NN	NN	O	6	nmod	box_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	1	xcomp	box_2
+5	on	on	IN	IN	O	8	case	
+6	the	the	DT	DT	O	8	det	
+7	side	side	JJ	JJ	O	8	amod	side
+8	table	table	NN	NN	O	4	nmod	table_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	iPod	ipod	NN	NN	O	8	nmod	ipod_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	book	book	NN	NN	O	0	ROOT	book_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	reads	read	VB	VBZ	O	4	ccomp	read_1
+12	quietly	quietly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	book	book	NN	NN	O	0	ROOT	book_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	read	read	VB	VBN	O	4	ccomp	read_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	couch	couch	NN	NN	O	0	ROOT	couch_1
+5	with	with	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	blanket	blanket	NN	NN	O	4	nmod	blanket_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	sits	sit	VB	VBZ	O	4	ccomp	sit_1
+12	on	on	IN	IN	O	11	nmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	newspaper	newspaper	NN	NN	O	0	ROOT	newspaper_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	reads	read	VB	VBZ	O	4	ccomp	read_2
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	newspaper	newspaper	NN	NN	O	0	ROOT	newspaper_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	read	read	VB	VBN	O	4	ccomp	read_2
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	reads	read	VB	VBZ	O	0	ROOT	read_1
+4	the	the	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	blanket	blanket	NN	NN	O	8	nmod	blanket_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	the	the	DT	DT	O	2	det	
+2	book	book	NN	NN	O	12	nsubjpass	book_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	blanket	blanket	NN	NN	O	5	nmod	blanket_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	read	read	VB	VBN	O	0	ROOT	read_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	laptop	laptop	NN	NN	O	1	dobj	laptop_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	mug	mug	NN	NN	O	6	nmod	mug_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	1	dobj	mug_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	table	table	NN	NN	O	6	nmod	table_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	blanket	blanket	NN	NN	O	1	dobj	blanket_2
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	book	book	NN	NN	O	4	nmod	book_3
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	box	box	NN	NN	O	10	nmod	box_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	blanket	blanket	NN	NN	O	2	nsubj	blanket_1
+4	and	and	CC	CC	O	3	cc	
+5	book	book	NN	NN	O	3	conj	book_1
+6	lying	lie	VB	VBG	O	2	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	mug	mug	NN	NN	O	2	nsubj	mug_1
+4	and	and	CC	CC	O	3	cc	
+5	laptop	laptop	NN	NN	O	3	conj	laptop_1
+6	lying	lie	VB	VBG	O	2	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	table	table	NN	NN	O	6	nmod	table_1
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VBZ	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	bag	bag	NN	NN	O	2	nsubj	bag_1
+5	and	and	CC	CC	O	4	cc	
+6	shoe	shoe	NN	NN	O	4	conj	shoe_1
+7	that	that	WDT	WDT	O	8	nsubj	
+8	lies	lie	VB	VBZ	O	4	ccomp	
+9	next	next	JJ	JJ	O	8	advmod	
+10	to	to	TO	TO	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	couch	couch	NN	NN	O	8	nmod	couch_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	plug	plug	NN	NN	O	3	dobj	plug_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	laptop	laptop	NN	NN	O	5	nmod	laptop_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	table	table	NN	NN	O	10	nmod	table_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	fluffs	fluff	VB	VBZ	O	0	ROOT	fluff_1
+4	out	out	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	pillow	pillow	NN	NN	O	3	nmod	pillow_1
+7	of	of	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	13	nsubj	man_1
+13	sits	sit	VB	VBZ	O	9	dep	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	pillow	pillow	NN	NN	O	12	nsubjpass	pillow_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	man	man	NN	NN	O	9	nsubj	man_1
+9	sits	sit	VB	VBZ	O	5	ccomp	sit_1
+10	on	on	IN	IN	O	9	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	fluffed	fluff	VB	VBN	O	0	ROOT	fluff_1
+13	out	out	RP	RP	O	12	compound:prt	
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	thin	thin	JJ	JJ	O	5	amod	thin
+5	book	book	NN	NN	O	1	dobj	book_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	box	box	NN	NN	O	7	nmod	box_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	thin	thin	JJ	JJ	O	5	amod	thin
+5	book	book	NN	NN	O	1	dobj	book_3
+6	next	next	JJ	JJ	O	8	dep	
+7	to	to	TO	TO	O	8	case	
+8	newspaper	newspaper	NN	NN	O	5	nmod	newspaper_1
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	read	read	VB	VBN	O	8	ccomp	read_2
+12	by	by	IN	IN	O	15	case	
+13	the	the	DT	DT	O	15	det	
+14	old	old	JJ	JJ	O	15	amod	old
+15	man	man	NN	NN	O	11	nmod	man_2
+
+1	take	take	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	beige	beige	JJ	JJ	O	4	amod	beige
+4	blanket	blanket	NN	NN	O	1	dobj	blanket_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	12	mark	
+9	the	the	DT	DT	O	11	det	
+10	young	young	JJ	JJ	O	11	amod	young
+11	man	man	NN	NN	O	12	nsubj	man_1
+12	sits	sit	VB	VBZ	O	7	ccomp	sit_1
+13	on	on	IN	IN	O	12	nmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	an	a	DT	DT	O	4	det	
+4	apple	apple	NN	NN	O	0	ROOT	apple_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	basket	basket	NN	NN	O	4	nmod	basket_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	picks	pick	VB	VBZ	O	4	ccomp	pick_1
+12	up	up	RP	RP	O	11	compound:prt	
+13	quickly	quickly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	an	a	DT	DT	O	4	det	
+4	apple	apple	NN	NN	O	0	ROOT	apple_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	basket	basket	NN	NN	O	4	nmod	basket_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	picked	pick	VB	VBN	O	7	ccomp	pick_1
+11	up	up	RP	RP	O	10	compound:prt	
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	an	a	DT	DT	O	4	det	
+4	apple	apple	NN	NN	O	0	ROOT	apple_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	board	board	NN	NN	O	4	nmod	board_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	cuts	cut	VB	VBZ	O	4	ccomp	cut_1
+12	into	into	IN	IN	O	13	case	
+13	pieces	piece	NNS	NNS	O	11	nmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	an	a	DT	DT	O	4	det	
+4	apple	apple	NN	NN	O	0	ROOT	apple_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	board	board	NN	NN	O	4	nmod	board_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cut	cut	VB	VBN	O	7	ccomp	cut_1
+11	into	into	IN	IN	O	12	case	
+12	pieces	piece	NN	NNS	O	10	nmod	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	10	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	picks	pick	VB	VBZ	O	0	ROOT	pick_1
+4	up	up	RP	RP	O	3	compound:prt	
+5	the	the	DT	DT	O	6	det	
+6	apple	apple	NN	NN	O	3	dobj	apple_1
+7	in	in	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	basket	basket	NN	NN	O	6	nmod	basket_1
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	counter	counter	NN	NN	O	9	nmod	counter_1
+
+1	The	the	DT	DT	O	2	det	
+2	apple	apple	NN	NN	O	10	nsubjpass	apple_1
+3	in	in	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	basket	basket	NN	NN	O	2	nmod	basket_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_1
+9	is	be	VB	VBZ	O	10	auxpass	
+10	picked	pick	VB	VBN	O	0	ROOT	pick_1
+11	up	up	RP	RP	O	10	compound:prt	
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	10	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	cuts	cut	VB	VBZ	O	0	ROOT	cut_1
+4	the	the	DT	DT	O	5	det	
+5	apple	apple	NN	NN	O	3	dobj	apple_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	board	board	NN	NN	O	5	nmod	board_1
+
+1	The	the	DT	DT	O	2	det	
+2	apple	apple	NN	NN	O	7	nsubjpass	apple_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	board	board	NN	NN	O	2	nmod	board_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cut	cut	VB	VBN	O	0	ROOT	cut_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	basket	basket	NN	NN	O	1	dobj	basket_2
+5	with	with	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	apple	apple	NN	NN	O	1	nmod	apple_4
+8	and	and	CC	CC	O	7	cc	
+9	a	a	DT	DT	O	10	det	
+10	banana	banana	NN	NN	O	7	conj	banana_1
+11	in	in	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+13	that	that	IN	IN	O	14	nsubj	
+14	lies	lie	VB	VBZ	O	10	acl:relcl	
+15	next	next	JJ	JJ	O	14	advmod	
+16	to	to	TO	TO	O	18	case	
+17	the	the	DT	DT	O	18	det	
+18	eggs	egg	NN	NNS	O	14	nmod	egg_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	apple	apple	NN	NN	O	1	dobj	apple_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	9	mark	
+9	pear	pear	NN	NN	O	6	nmod	pear_1
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	basket	basket	NN	NN	O	9	nmod	basket_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	apple	apple	NN	NN	O	2	nsubj	apple_4
+4	and	and	CC	CC	O	3	cc	
+5	banana	banana	NN	NN	O	3	conj	banana_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lie	lie	VB	VBP	O	3	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	basket	basket	NN	NN	O	7	nmod	basket_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	wine	wine	NN	NN	O	2	nsubj	wine_1
+4	and	and	CC	CC	O	3	cc	
+5	glass	glass	NN	NN	O	3	conj	glass_1
+6	lying	lie	VB	VBG	O	3	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	trolley	trolley	NN	NN	O	6	nmod	trolley_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	corks	cork	NN	NNS	O	3	dobj	cork_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	wine	wine	NN	NN	O	5	nmod	wine_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	next	next	JJ	JJ	O	10	advmod	
+12	to	to	TO	TO	O	13	case	
+13	glass	glass	NN	NN	O	10	nmod	glass_1
+
+1	The	the	DT	DT	O	2	det	
+2	cork	cork	NN	NNS	O	12	nsubjpass	cork_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	wine	wine	NN	NN	O	2	nmod	wine_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	2	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	10	case	
+10	glass	glass	NN	NN	O	7	nmod	glass_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	opened	open	VB	VBN	O	0	ROOT	open_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	removes	remove	VB	VBZ	O	0	ROOT	remove_1
+4	the	the	DT	DT	O	5	det	
+5	peel	peel	NN	NN	O	3	dobj	peel_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	apple	apple	NN	NN	O	5	nmod	apple_2
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	board	board	NN	NN	O	10	nmod	board_1
+
+1	The	the	DT	DT	O	2	det	
+2	peel	peel	NN	NN	O	12	nsubjpass	peel_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	apple	apple	NN	NN	O	2	nmod	apple_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	board	board	NN	NN	O	7	nmod	board_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	removed	remove	VB	VBN	O	0	ROOT	remove_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	pot	pot	NN	NN	O	1	dobj	pot_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	counter	counter	NN	NN	O	7	nmod	counter_2
+11	with	with	IN	IN	O	12	case	
+12	eggs	egg	NN	NNS	O	10	nmod	eggs_1
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	green	green	JJ	JJ	O	5	amod	green
+5	apple	apple	NN	NN	O	1	dobj	apple_2
+6	lying	lie	VB	VBG	O	5	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	board	board	NN	NN	O	6	nmod	board_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	pot	pot	NN	NN	O	1	dobj	pot_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	board	board	NN	NN	O	7	nmod	board_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	basket	basket	NN	NN	O	1	xcomp	basket_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	with	with	IN	IN	O	10	case	
+9	a	a	DT	DT	O	10	det	
+10	pot	pot	NN	NN	O	7	nmod	pot_2
+11	on	on	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	basket	basket	NN	NN	O	1	xcomp	basket_1
+5	with	with	IN	IN	O	8	case	
+6	a	a	DT	DT	O	8	det	
+7	red	red	JJ	JJ	O	8	amod	red
+8	apple	apple	NN	NN	O	4	nmod	apple_1
+9	in	in	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	0	ROOT	canvas_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_1
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	paints	paint	VB	VBZ	O	4	ccomp	paint_1
+12	cautiously	cautiously	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	0	ROOT	canvas_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VBZ	VBZ	O	10	auxpass	
+10	painted	paint	VB	VBN	O	7	ccomp	paint_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	0	ROOT	canvas_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	measures	measure	VB	VBZ	O	4	ccomp	measure_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	0	ROOT	canvas_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VBZ	VBZ	O	10	auxpass	
+10	measured	measure	VB	VBN	O	7	ccomp	measure_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	paints	paint	VB	VBZ	O	0	ROOT	paint_1
+4	the	the	DT	DT	O	5	det	
+5	canvas	canvas	NN	NN	O	3	dep	canvas_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_1
+
+1	The	the	DT	DT	O	2	det	
+2	canvas	canvas	NN	NN	O	7	nsubjpass	canvas_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	counter	counter	NN	NN	O	2	nmod	counter_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	painted	paint	VB	VBN	O	0	ROOT	paint_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	measures	measure	VB	VBZ	O	0	ROOT	measure_1
+4	the	the	DT	DT	O	5	det	
+5	canvas	canvas	NN	NN	O	3	dobj	canvas_2
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	notebook	notebook	NN	NN	O	8	nmod	notebook_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	canvas	canvas	NN	NN	O	12	nsubjpass	canvas_2
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	counter	counter	NN	NN	O	2	nmod	counter_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	notebook	notebook	NN	NN	O	5	nmod	notebook_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	measured	measure	VB	VBN	O	0	ROOT	measure_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	paint	paint	NN	NN	O	1	dobj	paint_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	hammer	hammer	NN	NN	O	6	nmod	hammer_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	1	dobj	canvas_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	notebook	notebook	NN	NN	O	6	nmod	notebook_1
+
+1	there	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	picture	picture	NN	NN	O	2	nsubj	picture_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	board	board	NN	NN	O	4	conj	board_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	acl:relcl	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	wall	wall	NN	NN	O	9	nmod	wall_1
+
+1	there	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	hammer	hammer	NN	NN	O	2	nsubj	hammer_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	paint	paint	NN	NN	O	4	conj	paint_1
+8	lying	lie	VB	VBG	O	7	acl	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	drawer	drawer	NN	NN	O	8	nmod	drawer_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	canvas	canvas	NN	NN	O	2	nsubj	canvas_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	notebook	notebook	NN	NN	O	4	conj	notebook_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	acl:relcl	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	counter	counter	NN	NN	O	9	nmod	counter_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	handle	handle	NN	NN	O	3	dobj	handle_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	hammer	hammer	NN	NN	O	5	nmod	hammer_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VBZ	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	drawer	drawer	NN	NN	O	10	nmod	drawer_1
+
+1	The	the	DT	DT	O	2	det	
+2	handle	handle	NN	NN	O	12	nsubjpass	handle_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	hammer	hammer	NN	NN	O	2	nmod	hammer_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	drawer	drawer	NN	NN	O	5	nmod	drawer_1
+11	is	be	VB	VBZ	O	12	cop	
+12	hold	hold	VB	VBN	O	0	ROOT	hold_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	measures	measure	VB	VBZ	O	0	ROOT	measure_1
+4	the	the	DT	DT	O	5	det	
+5	height	height	NN	NN	O	3	dobj	height_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	canvas	canvas	NN	NN	O	5	nmod	canvas_2
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	counter	counter	NN	NN	O	10	nmod	counter_2
+
+1	The	the	DT	DT	O	2	det	
+2	height	height	NN	NN	O	12	nsubjpass	height_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	canvas	canvas	NN	NN	O	2	nmod	canvas_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	counter	counter	NN	NN	O	7	nmod	counter_2
+11	is	be	VB	VBZ	O	12	auxpass	
+12	measured	measure	VB	VBN	O	0	ROOT	measure_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	white	white	JJ	JJ	O	5	amod	white
+5	notebook	notebook	NN	NN	O	1	dobj	notebook_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	canvas	canvas	NN	NN	O	7	nmod	canvas_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	big	big	JJ	JJ	O	5	amod	big
+5	vase	vase	NN	NN	O	1	dobj	vase_1
+6	lying	lie	VB	VBG	O	5	acl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	stool	stool	NN	NN	O	6	nmod	stool_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	small	small	JJ	JJ	O	5	amod	small
+5	vase	vase	NN	NN	O	1	dobj	vase_2
+6	lying	lie	VB	VBG	O	5	acl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	counter	counter	NN	NN	O	6	nmod	counter_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	moves	move	VB	VBZ	O	4	ccomp	move_1
+12	carefully	carefully	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	moved	move	VB	VBN	O	7	ccomp	move_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	cleans	clean	VB	VBZ	O	4	ccomp	clean_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cleaned	clean	VB	VBN	O	7	ccomp	clean_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	moves	move	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	3	dobj	cage_1
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	chest	chest	NN	NN	O	5	nmod	chest_1
+
+1	The	the	DT	DT	O	2	det	
+2	cage	cage	NN	NN	O	7	nsubjpass	cage_1
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	chest	chest	NN	NN	O	2	nmod	chest_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	moved	move	VB	VBN	O	0	ROOT	move_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	3	dobj	cage_2
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	chest	chest	NN	NN	O	5	nmod	chest_2
+
+1	the	the	DT	DT	O	2	det	
+2	cage	cage	NN	NN	O	7	nsubjpass	cage_2
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	chest	chest	NN	NN	O	2	nmod	chest_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	medicine	medicine	NN	NN	O	1	dobj	medicine_1
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	flowers	flower	NNS	NNS	O	4	nmod	flower_2
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lies	lie	VB	VBZ	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	shelf	shelf	NN	NN	O	9	nmod	shelf_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	1	dobj	cage_3
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	4	nmod	shelf_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	flower	flower	NN	NNS	O	2	nsubj	flower_2
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	medicine	medicine	NN	NN	O	3	conj	medicine_1
+7	that	that	WDT	WDT	O	8	nsubj	
+8	lie	lie	VB	VBP	O	6	ccomp	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	shelf	shelf	NN	NN	O	8	nmod	shelf_1
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	2	nsubj	cage_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	conj	bag_1
+8	lying	lie	VB	VBG	O	7	ccomp	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	chest	chest	NN	NN	O	8	nmod	chest_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	door	door	NN	NN	O	3	dobj	door_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	cage	cage	NN	NN	O	5	nmod	cage_2
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	cleaned	clean	VB	VBN	O	8	ccomp	clean_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	door	door	NN	NN	O	13	nsubjpass	door_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	2	nmod	cage_2
+6	that	that	WDT	WDT	O	8	nsubjpass	
+7	is	be	VB	VBZ	O	8	auxpass	
+8	cleaned	clean	VB	VBN	O	5	ccomp	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	8	nmod	man_2
+12	is	be	VB	VBZ	O	13	auxpass	
+13	opened	open	VB	VBN	O	0	ROOT	open_1
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	13	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	removes	remove	VB	VBZ	O	0	ROOT	remove_1
+4	the	the	DT	DT	O	5	det	
+5	label	label	NN	NN	O	3	dobj	label_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	medicine	medicine	NN	NN	O	5	nmod	medicine_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	shelf	shelf	NN	NN	O	10	nmod	shelf_1
+
+1	The	the	DT	DT	O	2	det	
+2	label	label	NN	NN	O	12	nsubjpass	label_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	medicine	medicine	NN	NN	O	2	nmod	medicine_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	shelf	shelf	NN	NN	O	7	nmod	shelf_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	removed	remove	VB	VBN	O	0	ROOT	remove_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	yellow	yellow	JJ	JJ	O	5	amod	yellow
+5	toy	toy	NN	NN	O	1	dobj	toy_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	ground	ground	NN	NN	O	7	nmod	ground_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	1	dobj	cage_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	green	green	JJ	JJ	O	11	amod	green
+11	chair	chair	NN	NN	O	6	nmod	chair_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	cage	cage	NN	NN	O	1	dobj	cage_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	chest	chest	NN	NN	O	5	nmod	chest_1
+9	that	that	IN	IN	O	12	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	12	nsubj	man_1
+12	moves	move	VB	VBZ	O	8	ccomp	move_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	toy	toy	NN	NN	O	1	nsubj	toy_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	dog	dog	NN	NN	O	6	nmod	dog_1
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	chest	chest	NN	NN	O	2	nsubj	chest_1
+5	with	with	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	cage	cage	NN	NN	O	4	nmod	cage_1
+8	and	and	CC	CC	O	7	cc	
+9	bag	bag	NN	NN	O	7	conj	bag_1
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	7	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	3	dobj	cage_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bird	bird	NN	NN	O	3	nmod	bird_1
+9	in	in	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	cage	cage	NN	NN	O	9	nsubjpass	cage_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bird	bird	NN	NN	O	2	nmod	bird_1
+6	in	in	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	blanket	blanket	NN	NN	O	0	ROOT	blanket_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	woman	woman	NN	NN	O	11	compound	woman_1
+11	patches	patch	VB	VBZ	O	7	ccomp	patch_1
+12	slowly	slowly	RB	RB	O	4	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	blanket	blanket	NN	NN	O	0	ROOT	blanket_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	patched	patch	VB	VBN	O	7	ccomp	patch_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	blanket	blanket	NN	NN	O	0	ROOT	blanket_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	grasps	grasp	VB	VBZ	O	4	ccomp	grasp_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	blanket	blanket	NN	NN	O	0	ROOT	blanket_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	grasped	grasp	VB	VBN	O	7	ccomp	grasp_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	patches	patch	VB	VBZ	O	0	ROOT	patch_1
+4	the	the	DT	DT	O	5	det	
+5	blanket	blanket	NN	NN	O	3	dobj	blanket_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_1
+
+1	the	the	DT	DT	O	2	det	
+2	blanket	blanket	NN	NN	O	7	nsubjpass	blanket_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	patched	patch	VB	VBN	O	0	ROOT	patch_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	grasps	grasp	VB	VBZ	O	0	ROOT	grasp_1
+4	the	the	DT	DT	O	5	det	
+5	blanket	blanket	NN	NN	O	3	dobj	blanket_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_1
+
+1	the	the	DT	DT	O	2	det	
+2	blanket	blanket	NN	NN	O	7	nsubjpass	blanket_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	grasped	grasp	VB	VBN	O	0	ROOT	grasp_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	needles	needle	NN	NNS	O	1	dobj	needle_2
+5	next	next	JJ	JJ	O	8	case	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	iron	iron	NN	NN	O	4	nmod	iron_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	tray	tray	NN	NN	O	1	dobj	tray_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	pillow	pillow	NN	NN	O	6	nmod	pillow_2
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	couch	couch	NN	NN	O	10	nmod	couch_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	blanket	blanket	NN	NN	O	2	nsubj	blanket_3
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	needle	needle	NN	NN	O	4	conj	needle_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	stand	stand	NN	NN	O	9	nmod	stand_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	needles	needle	NN	NNS	O	2	nsubj	needle_2
+5	and	and	CC	CC	O	4	cc	
+6	an	a	DT	DT	O	7	det	
+7	iron	iron	NN	NN	O	4	conj	iron_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lie	lie	VB	VBP	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	stand	stand	NN	NN	O	9	nmod	stand_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	pillow	pillow	NN	NN	O	2	nsubj	pillow_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	tray	tray	NN	NN	O	4	conj	tray_1
+8	lying	lie	VB	VBG	O	7	ccomp	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	couch	couch	NN	NN	O	8	nmod	couch_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	fabric	fabric	NN	NN	O	3	dobj	fabric_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	tray	tray	NN	NN	O	8	nmod	tray_1//pillow_2
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	fabric	fabric	NN	NN	O	12	nsubjpass	fabric_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	tray	tray	NN	NN	O	5	nmod	tray_1//pillow_2
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	polishes	polish	VB	VBZ	O	0	ROOT	polish_1
+4	the	the	DT	DT	O	5	det	
+5	frame	frame	NN	NN	O	3	dobj	frame_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	picture	picture	NN	NN	O	5	nmod	picture_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	wall	wall	NN	NN	O	8	nmod	wall_1
+
+1	The	the	DT	DT	O	2	det	
+2	frame	frame	NN	NN	O	10	nsubjpass	frame_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	picture	picture	NN	NN	O	2	nmod	picture_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	wall	wall	NN	NN	O	5	nmod	wall_1
+9	is	be	VB	VBZ	O	10	auxpass	
+10	polished	polish	VB	VBN	O	0	ROOT	polish_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	blanket	blanket	NN	NN	O	1	dobj	blanket_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	short	short	JJ	JJ	O	11	amod	short
+11	stand	stand	NN	NN	O	7	nmod	stand_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	red	red	JJ	JJ	O	5	amod	red
+5	pillow	pillow	NN	NN	O	1	dobj	pillow_1
+6	lying	lie	VB	VBG	O	5	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_1
+
+1	clean	clean	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	narrow	narrow	JJ	JJ	O	4	amod	narrow
+4	stand	stand	NN	NN	O	1	ROOT	stand_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	couch	couch	NN	NN	O	7	nmod	couch_1
+11	with	with	IN	IN	O	14	case	
+12	a	a	DT	DT	O	14	det	
+13	green	green	JJ	JJ	O	14	amod	green
+14	pillow	pillow	NN	NN	O	10	nmod	pillow_2//blanket_1
+15	on	on	IN	IN	O	16	case	
+16	it	it	PRP	PRP	O	10	nmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	lamp	lamp	NN	NN	O	0	ROOT	lamp_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	wall	wall	NN	NN	O	4	nmod	wall_1
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	repairs	repair	VB	VBZ	O	7	ccomp	repair_1
+12	carefully	carefully	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	lamp	lamp	NN	NN	O	0	ROOT	lamp_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	wall	wall	NN	NN	O	4	nmod	wall_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	repaired	repair	VB	VBN	O	7	ccomp	repair_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	0	ROOT	dispenser_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	sink	sink	NN	NN	O	4	nmod	sink_1
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	refills	refill	VB	VBZ	O	7	nmod	refill_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	chair	chair	NN	NN	O	0	ROOT	chair_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	carpet	carpet	NN	NN	O	4	nmod	carpet_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	sits	sit	VB	VBZ	O	4	ccomp	sit_1
+12	on	on	IN	IN	O	13	case	
+13	silently	silently	RB	RB	O	11	advcl	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	chair	chair	NN	NN	O	0	ROOT	chair_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	carpet	carpet	NN	NN	O	4	nmod	carpet_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	occupied	occupy	VB	VBN	O	7	ccomp	occupy_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	carpet	carpet	NN	NN	O	0	ROOT	carpet_2
+5	with	with	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chair	chair	NN	NN	O	4	nmod	chair_2
+8	on	on	IN	IN	O	9	case	
+9	it	it	PRP	PRP	O	7	nmod	
+10	that	that	IN	IN	O	13	case	
+11	the	the	DT	DT	O	13	det	
+12	woman	woman	NN	NN	O	13	compound	woman_2
+13	vacuums	vacuum	VB	VBZ	O	4	ccomp	vacuum_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	carpet	carpet	NN	NN	O	0	ROOT	carpet_2
+5	with	with	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chair	chair	NN	NN	O	4	nmod	chair_2
+8	on	on	IN	IN	O	9	case	
+9	it	it	PRP	PRP	O	7	nmod	
+10	that	that	WDT	WDT	O	12	nsubjpass	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	vacuumed	vacuum	VB	VBN	O	4	acl:relcl	vacuum_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	sits	sit	VB	VBZ	O	0	ROOT	sit_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	carpet	carpet	NN	NN	O	3	nmod	carpet_1
+7	with	with	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	chair	chair	NN	NN	O	6	nmod	chair_1
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+12	next	next	JJ	JJ	O	15	dep	
+13	to	to	TO	TO	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	backpack	backpack	NN	NN	O	9	nmod	backpack_1
+
+1	The	the	DT	DT	O	2	det	
+2	carpet	carpet	NN	NN	O	13	nsubjpass	carpet_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	chair	chair	NN	NN	O	2	nmod	chair_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	next	next	JJ	JJ	O	11	dep	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	backpack	backpack	NN	NN	O	5	nmod	backpack_1
+12	is	be	VB	VBZ	O	13	auxpass	
+13	occupied	occupy	VB	VBN	O	0	ROOT	occupy_1
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	13	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	vacuums	vacuum	VB	VBZ	O	0	ROOT	vacuum_1
+4	the	the	DT	DT	O	5	det	
+5	carpet	carpet	NN	NN	O	3	dobj	carpet_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	chair	chair	NN	NN	O	3	nmod	chair_2
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	carpet	carpet	NN	NN	O	9	nsubjpass	carpet_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	chair	chair	NN	NN	O	2	nmod	chair_2
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	vacuumed	vacuum	VB	VBN	O	0	ROOT	vacuum_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_2
+
+1	the	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	reads	read	VB	VBZ	O	0	ROOT	read_1
+4	the	the	DT	DT	O	5	det	
+5	magazines	magazine	NN	NNS	O	3	dobj	magazine_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	drawer	drawer	NN	NN	O	5	nmod	drawer_1
+
+1	the	the	DT	DT	O	2	det	
+2	magazine	magazine	NN	NN	O	7	nsubjpass	magazine_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	drawer	drawer	NN	NN	O	2	nmod	drawer_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	read	read	VB	VBN	O	0	ROOT	read_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	game	game	NN	NN	O	1	dobj	game_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	drawer	drawer	NN	NN	O	6	nmod	drawer_1
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	magazines	magazine	NN	NNS	O	9	nmod	magazine_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	flower	flower	NN	NN	O	1	dobj	flower_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	stand	stand	NN	NN	O	6	nmod	stand_1
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	desk	desk	NN	NN	O	9	nmod	desk_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	chair	chair	NN	NN	O	1	dobj	chair_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	carpet	carpet	NN	NN	O	6	nmod	carpet_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_1
+13	sits	sit	VB	VBZ	O	6	ccomp	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	chair	chair	NN	NN	O	1	dobj	chair_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	carpet	carpet	NN	NN	O	6	nmod	carpet_2
+10	that	that	IN	IN	O	13	case	
+11	the	the	DT	DT	O	13	det	
+12	woman	woman	NN	NN	O	13	compound	woman_2
+13	vacuums	vacuum	VB	VBZ	O	9	ccomp	vacuum_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	game	game	NN	NN	O	2	nsubj	game_1
+4	and	and	CC	CC	O	3	cc	
+5	magazines	magazine	NN	NNS	O	3	conj	magazine_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	drawer	drawer	NN	NN	O	3	nmod	drawer_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	flower	flower	NN	NN	O	2	nsubj	flower_2
+4	and	and	CC	CC	O	3	cc	
+5	magazines	magazine	NN	NNS	O	3	conj	magazine_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	stand	stand	NN	NN	O	3	nmod	stand_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	flower	flower	NN	NN	O	2	nsubj	flower_1
+4	and	and	CC	CC	O	3	cc	
+5	computer	computer	NN	NN	O	3	conj	computer_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	desk	desk	NN	NN	O	3	nmod	desk_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	checks	check	VB	VBZ	O	0	ROOT	check_1
+4	the	the	DT	DT	O	5	det	
+5	cover	cover	NN	NN	O	3	dobj	cover_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	magazine	magazine	NN	NN	O	5	nmod	magazine_2
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	drawer	drawer	NN	NN	O	10	nmod	drawer_1
+
+1	The	the	DT	DT	O	2	det	
+2	cover	cover	NN	NN	O	12	nsubjpass	cover_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	magazine	magazine	NN	NN	O	2	nmod	magazine_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	drawer	drawer	NN	NN	O	7	nmod	drawer_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	checked	check	VB	VBN	O	0	ROOT	check_1
+13	at	at	IN	IN	O	16	case	
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	man	man	NN	NN	O	12	nmod	man_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	green	green	JJ	JJ	O	5	amod	green 
+5	chair	chair	NN	NN	O	1	dobj	chair_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	carpet	carpet	NN	NN	O	7	nmod	carpet_1
+11	that	that	IN	IN	O	15	mark	
+12	the	the	DT	DT	O	14	det	
+13	blonde	blonde	JJ	JJ	O	14	amod	blonde
+14	woman	woman	NN	NN	O	15	nsubj	woman_1
+15	sits	sit	VB	VBZ	O	7	ccomp	sit_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	brown	brown	JJ	JJ	O	5	amod	brown
+5	chair	chair	NN	NN	O	1	dobj	chair_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	carpet	carpet	NN	NN	O	7	nmod	carpet_2
+11	that	that	IN	IN	O	15	mark	
+12	the	the	DT	DT	O	14	det	
+13	brunette	brunette	NN	NN	O	14	compound	brunette
+14	woman	woman	NN	NN	O	15	nsibj	woman_2
+15	vacuums	vacuum	VB	VBZ	O	10	ccomp	vacuum_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	counts	count	VB	VBZ	O	0	ROOT	count_1
+4	the	the	DT	DT	O	5	det	
+5	stones	stone	NN	NNS	O	3	dobj	stone_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	game	game	NN	NN	O	5	nmod	game_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	next	next	JJ	JJ	O	10	advmod	
+12	to	to	TO	TO	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	magazine	magazine	NN	NN	O	10	nmod	magazine_2
+
+1	The	the	DT	DT	O	2	det	
+2	stones	stone	NN	NNS	O	13	nsubjpass	stone_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	game	game	NN	NN	O	2	nmod	game_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	magazine	magazine	NN	NN	O	7	nmod	magazine_2
+12	is	be	VB	VBZ	O	13	auxpass	
+13	counted	count	VB	VBN	O	0	ROOT	count_1
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	man	man	NN	NN	O	13	nmod	man_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cat	cat	NN	NN	O	0	ROOT	cat_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	shelf	shelf	NN	NN	O	4	nmod	shelf_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	chases	chase	VB	VBZ	O	4	ccomp	chase_1
+12	playfully	playfully	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cat	cat	NN	NN	O	0	ROOT	cat_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	shelf	shelf	NN	NN	O	4	nmod	shelf_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	chased	chase	VB	VBN	O	7	ccomp	chase_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	cat	cat	NN	NN	O	0	ROOT	cat_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	shelf	shelf	NN	NN	O	4	nmod	shelf_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	cleans	clean	VB	VBZ	O	4	ccomp	clean_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	cat	cat	NN	NN	O	0	ROOT	cat_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	shelf	shelf	NN	NN	O	4	nmod	shelf_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cleaned	clean	VB	VBN	O	7	acl:relcl	clean_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	chases	chase	VB	VBZ	O	0	ROOT	chase_1
+4	the	the	DT	DT	O	5	det	
+5	cat	cat	NN	NN	O	3	dobj	cat_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	5	nmod	shelf_1
+
+1	The	the	DT	DT	O	2	det	
+2	cat	cat	NN	NN	O	7	nsubjpass	cat_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	shelf	shelf	NN	NN	O	2	nmod	shelf_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	chased	chase	VB	VBN	O	0	ROOT	chase_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	shelf	shelf	NN	NN	O	3	dobj	shelf_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	cat	cat	NN	NN	O	3	nmod	cat_2
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	shelf	shelf	NN	NN	O	9	nsubjpass	shelf_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	cat	cat	NN	NN	O	2	nmod	cat_2
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	takes	take	VB	VBZ	O	0	ROOT	take_1
+4	the	the	DT	DT	O	5	det	
+5	books	book	NN	NNS	O	3	dobj	book_3
+6	from	from	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	3	nmod	shelf_3
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	candle	candle	NN	NN	O	8	nmod	candle_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	book	book	NN	NNS	O	12	nsubjpass	book_3
+3	from	from	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	shelf	shelf	NN	NN	O	2	nmod	shelf_3
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	candle	candle	NN	NN	O	5	nmod	candle_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	taken	take	VB	VBN	O	0	ROOT	take_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	candle	candle	NN	NN	O	1	dobj	candle_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	box	box	NN	NN	O	6	nmod	box_1
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	newspaper	newspaper	NN	NN	O	9	nmod	newspaper_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	flower	flower	NN	NN	O	1	nsubj	flower_1
+5	next	next	JJ	JJ	O	4	advmod	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	cat	cat	NN	NN	O	5	nmod	cat_1//book_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	4	acl:relcl	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	shelf	shelf	NN	NN	O	10	nmod	shelf_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	candle	candle	NN	NN	O	1	dobj	candle_1
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	books	book	NN	NNS	O	4	nmod	book_3
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	takes	take	VB	VBZ	O	7	ccomp	take_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	newspaper	newspaper	NN	NN	O	2	nsubj	newspaper_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	candle	candle	NN	NN	O	4	conj	candle_2
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	box	box	NN	NN	O	7	nmod	box_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	cat	cat	NN	NN	O	2	nsubj	cat_1
+5	","	","	","	","	O	4	punc	
+6	a	a	DT	DT	O	7	det	
+7	flower	flower	NN	NN	O	4	conj	flower_1
+8	and	and	CC	CC	O	4	cc	
+9	books	book	NN	NNS	O	4	conj	book_1
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	shelf	shelf	NN	NN	O	9	nmod	shelf_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	cat	cat	NN	NN	O	2	nsubj	cat_2
+5	","	","	","	","	O	4	punc	
+6	a	a	DT	DT	O	7	det	
+7	vase	vase	NN	NN	O	4	conj	vase_1
+8	and	and	CC	CC	O	4	cc	
+9	books	book	NN	NNS	O	4	conj	book_2
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	shelf	shelf	NN	NN	O	9	nmod	shelf_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_2
+4	the	the	DT	DT	O	5	det	
+5	steps	step	NN	NNS	O	3	dobj	step_1
+6	of	of	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	cat	cat	NN	NN	O	9	compound	
+9	house	house	NN	NN	O	5	nmod	house_1
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	cat	cat	NN	NN	O	3	nmod	cat_3
+13	in	in	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	stands	stand	VB	VBZ	O	0	ROOT	stand_1
+4	next	next	JJ	JJ	O	3	advmod	
+5	to	to	TO	TO	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	steps	step	NN	NNS	O	3	nmod	step_2
+8	of	of	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	room	room	NN	NN	O	7	nmod	room_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blonde	blonde	JJ	JJ	O	5	amod	blonde
+5	cat	cat	NN	NN	O	1	dobj	cat_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	wooden	wooden	JJ	JJ	O	11	amod	wooden
+11	shelf	shelf	NN	NN	O	7	nmod	shelf_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	black	black	JJ	JJ	O	5	amod	black
+5	cat	cat	NN	NN	O	1	dobj	cat_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	glass	glass	JJ	JJ	O	11	amod	glass
+11	shelf	shelf	NN	NN	O	7	nmod	shelf_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	thick	thick	JJ	JJ	O	5	amod	thick
+5	candle	candle	NN	NN	O	1	dobj	candle_1
+6	next	next	JJ	JJ	O	9	case	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	book	book	NN	NN	O	5	acl	book_3
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_1
+13	takes	take	VBZ	VBZ	O	9	ccomp	take_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	thin	thin	JJ	JJ	O	5	amod	thin
+5	candle	candle	NN	NN	O	1	dobj	candle_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	box	box	NN	NN	O	7	nmod	box_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_2
+4	the	the	DT	DT	O	5	det	
+5	shelf	shelf	NN	NN	O	3	dobj	shelf_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	vitrine	vitrine	NN	NN	O	5	nmod	vitrine_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	next	next	JJ	JJ	O	10	advmod	
+12	to	to	TO	TO	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	lamp	lamp	NN	NN	O	10	nmod	lamp_1
+
+1	the	the	DT	DT	O	2	det	
+2	shelf	shelf	NN	NN	O	13	nsubjpass	shelf_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	vitrine	vitrine	NN	NN	O	2	nmod	vitrine_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	lamp	lamp	NN	NN	O	7	nmod	lamp_1
+12	is	be	VB	VBZ	O	13	auxpass	
+13	cleaned	clean	VB	VBN	O	0	ROOT	clean_2
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	13	nmod	woman_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	fills	fill	VB	VBZ	O	7	ccomp	fill_1
+12	out	out	RP	RP	O	11	compound:prt	
+13	professionally	professionally	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	filled	fill	VB	VBN	O	7	acl:relcl	fill_1
+11	out	out	RP	RP	O	10	compound:prt	
+12	on	on	IN	IN	O	15	case	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	cuts	cut	VB	VBZ	O	4	ccomp	cut_1
+12	into	into	IN	IN	O	13	case	
+13	pieces	piece	NN	NNS	O	11	nmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cut	cut	VB	VBN	O	7	acl:relcl	cut_1
+11	into	into	IN	IN	O	12	case	
+12	pieces	piece	NNS	NNS	O	10	nmod	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	fills	fill	VB	VBZ	O	0	ROOT	fill_1
+4	out	out	IN	IN	O	3	compound:prt	
+5	the	the	DT	DT	O	6	det	
+6	list	list	NN	NN	O	3	dobj	list_1
+7	on	on	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	6	nmod	desk_1
+
+1	The	the	DT	DT	O	2	det	
+2	list	list	NN	NN	O	7	nsubjpass	list_1
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	desk	desk	NN	NN	O	2	nmod	desk_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	filled	fill	VB	VBN	O	0	ROOT	fill_1
+8	out	out	RP	RP	O	7	compound:prt	
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cuts	cut	VB	VBZ	O	0	ROOT	cut_1
+4	into	into	IN	IN	O	5	case	
+5	pieces	piece	NN	NNS	O	3	nmod	
+6	the	the	DT	DT	O	7	det	
+7	list	list	NN	NN	O	3	dobj	list_2
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	desk	desk	NN	NN	O	7	nmod	desk_2
+
+1	The	the	DT	DT	O	2	det	
+2	list	list	NN	NN	O	7	nsubjpass	list_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	desk	desk	NN	NN	O	2	nmod	desk_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cut	cut	VB	VBN	O	0	ROOT	cut_1
+8	into	into	IN	IN	O	9	case	
+9	pieces	piece	NN	NNS	O	7	nmod	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	computer	computer	NN	NN	O	3	dobj	computer_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	desk	desk	NN	NN	O	5	nmod	desk_3
+
+1	The	the	DT	DT	O	2	det	
+2	computer	computer	NN	NN	O	7	nsubjpass	computer_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	desk	desk	NN	NN	O	2	nmod	desk_3
+6	is	be	VB	VBZ	O	7	auxpass	
+7	opened	open	VB	VBN	O	0	ROOT	open_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	envelope	envelope	NN	NN	O	1	dobj	envelope_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	6	nmod	desk_3
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	chair	chair	NN	NN	O	9	nmod	chair_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	list	list	NN	NN	O	1	dobj	list_3
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	phone	phone	NN	NN	O	4	nmod	phone_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	on	on	IN	IN	O	14	case	
+12	the	the	DT	DT	O	14	det	
+13	storage	storage	NN	NN	O	14	compound	storage_1
+14	unit	unit	NN	NN	O	10	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	list	list	NN	NN	O	1	dobj	list_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	6	nmod	desk_1
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	pencils	pencil	NN	NNS	O	9	nmod	pencil_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	2	nsubj	list_1
+5	and	and	CC	CC	O	4	cc	
+6	pencils	pencil	NN	NNS	O	4	conj	pencil_1
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	4	nmod	desk_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	computer	computer	NN	NN	O	2	nsubj	computer_1
+5	and	and	CC	CC	O	4	cc	
+6	an	a	DT	DT	O	7	det	
+7	envelope	envelope	NN	NN	O	4	conj	envelope_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	desk	desk	NN	NN	O	7	nmod	desk_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	2	nsubj	list_3
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	phone	phone	NN	NN	O	4	conj	phone_1
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	storage	storage	NN	NN	O	11	compound	storage_1
+11	unit	unit	NN	NN	O	7	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	changes	change	VB	VBZ	O	0	ROOT	change_1
+4	the	the	DT	DT	O	5	det	
+5	pot	pot	NN	NN	O	3	dobj	pot_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	flower	flower	NN	NN	O	5	nmod	flower_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	ground	ground	NN	NN	O	10	nmod	ground_1
+
+1	The	the	DT	DT	O	2	det	
+2	pot	pot	NN	NN	O	12	nsubjpass	pot_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	flower	flower	NN	NN	O	2	nmod	flower_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VBZ	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	ground	ground	NN	NN	O	7	nmod	ground_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	changed	change	VB	VBN	O	0	ROOT	change_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	presses	press	VB	VBZ	O	0	ROOT	press_1
+4	the	the	DT	DT	O	5	det	
+5	button	button	NN	NN	O	3	dep	button_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	computer	computer	NN	NN	O	5	nmod	computer_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	stands	stand	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	desk	desk	NN	NN	O	10	nmod	desk_3
+
+1	The	the	DT	DT	O	2	det	
+2	button	button	NN	NN	O	12	nsubjpass	button_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	computer	computer	NN	NN	O	2	nmod	computer_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	desk	desk	NN	NN	O	7	nmod	desk_3
+11	is	be	VB	VBZ	O	12	auxpass	
+12	pressed	press	VB	VBN	O	0	ROOT	press_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	flower	flower	NN	NN	O	1	dobj	flower_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	desk	desk	NN	NN	O	7	nmod	desk_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	chair	chair	NN	NN	O	1	xcomp	chair_1
+6	next	next	JJ	JJ	O	9	case	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	5	acl	desk_3
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	computer	computer	NN	NN	O	9	nmod	computer_1
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	an	a	DT	DT	O	4	det	
+4	envelope	envelope	NN	NN	O	2	nsubj	envelope_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	computer	computer	NN	NN	O	6	nmod	computer_1
+
+1	water	water	NN	NN	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	green	green	JJ	JJ	O	4	amod	green
+4	flower	flower	NN	NN	O	1	dep	flower_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VBZ	VBZ	O	1	dep	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	stapler	stapler	NN	NN	O	6	nmod	stapler_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	list	list	NN	NN	O	1	xcomp	list_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_1
+8	with	with	IN	IN	O	9	case	
+9	pencils	pencil	NN	NNS	O	7	nmod	pencil_1
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	phone	phone	NN	NN	O	1	xcomp	phone_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	storage	storage	NN	NN	O	4	nmod	storage_1
+8	with	with	IN	IN	O	10	case	
+9	a	a	DT	DT	O	10	det	
+10	list	list	NN	NN	O	7	nmod	list_3
+11	on	on	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	dog	dog	NN	NN	O	0	ROOT	dog_1
+5	under	under	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	bed	bed	NN	NN	O	4	nmod	bed_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	lies	lie	VB	VBZ	O	7	ccomp	lie_1
+12	on	on	IN	IN	O	13	mark	
+13	relaxed	relax	VBN	VBN	O	11	advcl	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	dog	dog	NN	NN	O	0	ROOT	dog_1
+5	under	under	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	bed	bed	NN	NN	O	4	nmod	bed_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	occupied	occupy	VB	VBN	O	7	acl:relcl	occupy_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	dog	dog	NN	NN	O	0	ROOT	dog_2
+5	under	under	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	bed	bed	NN	NN	O	4	nmod	bed_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	feeds	feed	VB	VBZ	O	4	ccomp	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	dog	dog	NN	NN	O	0	ROOT	dog_2
+5	under	under	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	bed	bed	NN	NN	O	4	nmod	bed_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	fed	feed	VB	VBN	O	7	acl:relcl	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	lies	lie	VB	VBZ	O	0	ROOT	
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	bed	bed	NN	NN	O	3	nmod	bed_1
+7	with	with	IN	IN	O	8	case	
+8	dog	dog	NN	NN	O	6	nmod	dog_1
+9	under	under	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	bed	bed	NN	NN	O	8	nsubjpass	bed_1
+3	with	with	IN	IN	O	4	case	
+4	dog	dog	NN	NN	O	2	nmod	dog_1
+5	under	under	IN	IN	O	6	case	
+6	it	it	PRP	PRP	O	4	nmod	
+7	is	be	VB	VBZ	O	8	auxpass	
+8	occupied	occupy	VB	VBN	O	0	ROOT	occupy_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	8	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	feeds	feed	VB	VBZ	O	0	ROOT	feed_1
+4	the	the	DT	DT	O	5	det	
+5	dog	dog	NN	NN	O	3	dobj	dog_2
+6	under	under	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	bed	bed	NN	NN	O	3	nmod	bed_2
+
+1	The	the	DT	DT	O	2	det	
+2	dog	dog	NN	NN	O	7	nsubjpass	dog_2
+3	under	under	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	bed	bed	NN	NN	O	2	nmod	bed_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	fed	feed	VB	VBN	O	0	ROOT	feed_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	skate	skate	NN	NN	O	1	dobj	skate_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	in	in	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	box	box	NN	NN	O	6	nmod	box_1
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	chair	chair	NN	NN	O	9	nmod	chair_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	bag	bag	NN	NN	O	1	nsubj	bag_2
+5	and	and	CC	CC	O	4	cc	
+6	the	the	DT	DT	O	7	det	
+7	pencil	pencil	NN	NN	O	4	conj	pencil_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lies	lie	VB	VBZ	O	4	acl:relcl	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	drawer	drawer	NN	NN	O	9	nmod	drawer_1
+13	next	next	JJ	JJ	O	16	dep	
+14	to	to	TO	TO	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	bed	bed	NN	NN	O	12	nmod	bed_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	pillow	pillow	NN	NN	O	2	nsubj	pillow_2
+5	","	","	","	","	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	dog	dog	NN	NN	O	4	conj	dog_2
+8	and	and	CC	CC	O	4	cc	
+9	socks	sock	NN	NNS	O	4	conj	sock_1
+10	that	that	WDT	WDT	O	11	nsubj	
+11	lie	lie	VB	VBP	O	9	acl:relcl	
+12	on	on	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	bed	bed	NN	NN	O	11	nmod	bed_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	shoes	shoe	NN	NNS	O	2	nsubj	shoe_1
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	book	book	NN	NN	O	3	conj	book_1
+7	under	under	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	stool	stool	NN	NN	O	6	nmod	stool_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	dog	dog	NN	NN	O	2	nsubj	dog_1
+5	and	and	CC	CC	O	4	cc	
+6	pillow	pillow	NN	NN	O	4	conj	pillow_1
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	bed	bed	NN	NN	O	4	nmod	bed_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_1
+13	lies	lie	VB	VBZ	O	9	ccomp	lie_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	repairs	repair	VB	VBZ	O	0	ROOT	repair_1
+4	the	the	DT	DT	O	5	det	
+5	wheel	wheel	NN	NN	O	3	dep	wheel_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	skate	skate	NN	NN	O	5	nmod	skate_1
+9	next	next	JJ	JJ	O	11	dep	
+10	to	to	TO	TO	O	11	case	
+11	bag	bag	NN	NN	O	8	nmod	bag_1
+
+1	The	the	DT	DT	O	2	det	
+2	wheel	wheel	NN	NN	O	10	nsubjpass	wheel_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	skate	skate	NN	NN	O	2	nmod	skate_1
+6	next	next	JJ	JJ	O	8	case	
+7	to	to	TO	TO	O	8	case	
+8	bag	bag	NN	NN	O	6	nmod	bag_1
+9	is	be	VB	VBZ	O	10	auxpass	
+10	repaired	repair	VB	VBN	O	0	ROOT	repair_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	changes	change	VB	VBZ	O	0	ROOT	change_1
+4	the	the	DT	DT	O	5	det	
+5	slip	slip	NN	NN	O	3	dobj	slip_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	pillow	pillow	NN	NN	O	5	nmod	pillow_3
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	chair	chair	NN	NN	O	10	nmod	chair_1
+
+1	The	the	DT	DT	O	2	det	
+2	slip	slip	NN	NN	O	12	nsubjpass	slip_3
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	pillow	pillow	NN	NN	O	2	nmod	pillow_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	chair	chair	NN	NN	O	7	nmod	chair_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	changed	change	VB	VBN	O	0	ROOT	change_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	hold	hold	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	black	black	JJ	JJ	O	4	amod	black
+4	dog	dog	NN	NN	O	1	dobj	dog_1
+5	under	under	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	bed	bed	NN	NN	O	1	nmod	bed_1
+8	with	with	IN	IN	O	11	case	
+9	a	a	DT	DT	O	11	det	
+10	red	red	JJ	JJ	O	11	amod	red
+11	pillow	pillow	NN	NN	O	7	nmod	pillow_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	pillow	pillow	NN	NN	O	1	dobj	pillow_3
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	chair	chair	NN	NN	O	5	nmod	chair_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	green	green	JJ	JJ	O	5	amod	green
+5	pillow	pillow	NN	NN	O	1	dobj	pillow_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	bed	bed	NN	NN	O	5	nmod	bed_2
+9	with	with	IN	IN	O	12	case	
+10	a	a	DT	DT	O	12	det	
+11	brown	brown	JJ	JJ	O	12	amod	brown
+12	dog	dog	NN	NN	O	8	nmod	dog_2
+13	under	under	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	book	book	NN	NN	O	1	nsubj	book_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	9	case	
+9	shoes	shoe	NN	NNS	O	6	nmod	shoe_1
+
+1	hold	hold	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	black	black	JJ	JJ	O	4	amod	black
+4	dog	dog	NN	NN	O	1	dobj	dog_3
+5	under	under	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	drawer	drawer	NN	NN	O	1	nmod	drawer_3
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lies	lie	VB	VBZ	O	7	acl:relcl	
+10	next	next	JJ	JJ	O	9	advmod	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	bed	bed	NN	NN	O	9	nmod	bed_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	fixes	fix	VB	VBZ	O	7	ccomp	fix_1
+12	carefully	carefully	RB	RB	O	4	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	fixed	fix	VB	VBN	O	7	acl:relcl	fix_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	takes	take	VB	VBZ	O	4	ccomp	take_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	taken	take	VB	VBN	O	7	acl:relcl	take_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	fixes	fix	VB	VBZ	O	0	ROOT	fix_1
+4	the	the	DT	DT	O	5	det	
+5	hook	hook	NN	NN	O	3	dobj	hook_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bathrobe	bathrobe	NN	NN	O	5	nmod	bathrobe_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	the	the	DT	DT	O	2	det	
+2	hook	hook	NN	NN	O	9	nsubjpass	hook_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bathrobe	bathrobe	NN	NN	O	2	nmod	bathrobe_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	fixed	fix	VB	VBN	O	0	ROOT	fix_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	takes	take	VB	VBZ	O	0	ROOT	take_1
+4	the	the	DT	DT	O	5	det	
+5	bathrobe	bathrobe	NN	NN	O	3	dobj	bathrobe_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	hook	hook	NN	NN	O	5	nmod	hook_2
+
+1	the	the	DT	DT	O	2	det	
+2	bathrobe	bathrobe	NN	NN	O	7	nsubjpass	bathrobe_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	hook	hook	NN	NN	O	2	nmod	hook_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	taken	take	VB	VBN	O	0	ROOT	take_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	1	dobj	dispenser_1
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	holder	holder	NN	NN	O	4	nmod	holder_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	1	dobj	bathrobe_3
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	towels	towel	NN	NNS	O	4	nmod	towel_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	towels	towel	NN	NNS	O	7	nsubj	towel_1
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	bathrobe	bathrobe	NN	NN	O	3	conj	bathrobe_3
+7	lying	lie	VB	VBG	O	2	ccomp	
+8	in	in	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	bathtub	bathtub	NN	NN	O	7	nmod	bathtub_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	2	nsubj	dispenser_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	holder	holder	NN	NN	O	4	conj	holder_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	stand	stand	VB	VBP	O	7	acl:relcl	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	sink	sink	NN	NN	O	9	nmod	sink_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	changes	change	VB	VBZ	O	0	ROOT	change_1
+4	the	the	DT	DT	O	5	det	
+5	screw	screw	NN	NN	O	3	dobj	screw_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	hook	hook	NN	NN	O	5	nmod	hook_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bathrobe	bathrobe	NN	NN	O	8	nmod	bathrobe_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	the	the	DT	DT	O	2	det	
+2	screw	screw	NN	NN	O	12	nsubjpass	screw_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	hook	hook	NN	NN	O	2	nmod	hook_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bathrobe	bathrobe	NN	NN	O	5	nmod	bathrobe_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	changed	change	VB	VBN	O	0	ROOT	change_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink 
+5	bathrobe	bathrobe	NN	NN	O	6	nsubj	bathrobe_2
+6	hanging	hang	VBG	VBG	O	1	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	hook	hook	NN	NN	O	6	nmod	hook_2
+
+1	empty	empty	JJ	JJ	O	0	ROOT	empty_1
+2	the	the	DT	DT	O	3	det	
+3	basket	basket	NN	NN	O	4	nsubj	basket_2
+4	lying	lie	VBG	VBG	O	1	ccomp	
+5	next	next	JJ	JJ	O	4	advmod	
+6	to	to	TO	TO	O	7	case	
+7	bathtub	bathtub	NN	NN	O	4	nmod	bathtub_1
+
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	1	dobj	bathrobe_2
+5	on	on	IN	IN	O	8	case	
+6	the	the	DT	DT	O	8	det	
+7	wooden	wooden	JJ	JJ	O	8	amod	wooden
+8	hook	hook	NN	NN	O	4	nmod	hook_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	5	det	
+4	soap	soap	NN	NN	O	5	compound	soap
+5	dispenser	dispenser	NN	NN	O	1	nsubj	dispenser_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	holder	holder	NN	NN	O	7	nmod	holder_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	1	xcomp	dispenser_2
+5	lying	lie	VB	VBG	O	4	acl	
+6	next	next	JJ	JJ	O	9	case	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	perfume	perfume	NN	NN	O	5	nmod	perfume_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	towel	towel	NN	NN	O	9	conj	towel_2
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	towel	towel	NN	NN	O	2	nsubj	
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	shelf	shelf	NN	NN	O	4	nmod	shelf_1
+8	lying	lie	VB	VBG	O	7	acl	
+9	next	next	JJ	JJ	O	8	advmod	
+10	to	to	TO	TO	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	perfume	perfume	NN	NN	O	9	nmod	perfume_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	tablerunner	tablerunner	NN	NN	O	4	nmod	tablerunner_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	holds	hold	VB	VBZ	O	4	ccomp	hold_1
+12	lightly	lightly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	tablerunner	tablerunner	NN	NN	O	4	nmod	tablerunner_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	held	hold	VB	VBN	O	7	acl:relcl	hold_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_2
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	bag	bag	NN	NN	O	4	nmod	bag_1 
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	opens	open	VB	VBZ	O	4	ccomp	open_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	0	ROOT	glass_2
+5	next	next	JJ	JJ	O	4	dep	
+6	to	to	TO	TO	O	7	case	
+7	bag	bag	NN	NN	O	4	nmod	bag_1 
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	opened	open	VB	VBN	O	7	acl:relcl	open_2
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	glasses	glass	NNS	NNS	O	3	dobj	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	glasses	glass	NN	NNS	O	7	nsubjpass	glass_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	tablerunner	tablerunner	NN	NN	O	2	nmod	tablerunner_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	held	hold	VB	VBN	O	0	ROOT	hold_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	opens	open	VB	VBZ	O	0	ROOT	open_2
+4	the	the	DT	DT	O	5	det	
+5	bag	bag	NN	NN	O	3	dobj	bag_1 
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_2
+
+1	The	the	DT	DT	O	2	det	
+2	bag	bag	NN	NN	O	7	nsubjpass	bag_1 
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	tablerunner	tablerunner	NN	NN	O	2	nmod	tablerunner_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	opened	open	VB	VBN	O	0	ROOT	open_2
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	glasses	glass	NN	NNS	O	3	dobj	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	glasses	glass	NN	NNS	O	7	nsubjpass	glass_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	tablerunner	tablerunner	NN	NN	O	2	nmod	tablerunner_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	held	hold	VB	VBN	O	0	ROOT	hold_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	1	dobj	glass_3
+5	lying	lie	VB	VBG	O	4	ccomp	
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	book	book	NN	NN	O	5	nmod	book_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	key	key	NN	NN	O	2	nsubj	key_1
+5	","	","	","	","	O	4	cc	
+6	glasses	glass	NN	NNS	O	4	conj	glass_2
+7	and	and	CC	CC	O	4	cc	
+8	a	a	DT	DT	O	9	det	
+9	bag	bag	NN	NN	O	4	conj	bag_1
+10	lying	lie	VB	VBG	O	9	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	tablerunner	tablerunner	NN	NN	O	10	nmod	tablerunner_2
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	glasses	glass	NN	NNS	O	2	nsubj	glass_1
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	bottle	bottle	NN	NN	O	3	conj	bottle_1
+7	lying	lie	VB	VBG	O	6	acl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	tablerunner	tablerunner	NN	NN	O	7	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	cap	cap	NN	NN	O	3	dobj	cap_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	5	nmod	bottle_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	tablerunner	tablerunner	NN	NN	O	8	nmod	tablerunner_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	fixes	fix	VB	VBZ	O	0	ROOT	fix_1
+4	the	the	DT	DT	O	5	det	
+5	sidearm	sidearm	NN	NN	O	3	dobj	sidearm_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	glasses	glass	NN	NNS	O	5	nmod	glass_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	table	table	NN	NN	O	8	nmod	tablerunner_1
+12	with	with	IN	IN	O	14	case	
+13	a	a	DT	DT	O	14	det	
+14	bottle	bottle	NN	NN	O	11	nmod	bottle_1
+15	on	on	IN	IN	O	16	case	
+16	it	it	PRP	PRP	O	14	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	bag	bag	NN	NN	O	1	dobj	bag_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	ground	ground	NN	NN	O	7	nmod	ground_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	nsubj	
+3	the	the	DT	DT	O	5	dep	
+4	framed	framed	jj	JJ	O	5	dep	framed
+5	glasses	glass	NN	NNS	O	1	dobj	glass_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	green	green	JJ	JJ	O	9	amod	green
+9	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	tablerunner	tablerunner	NN	NN	O	1	dobj	tablerunner_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	blue	blue	JJ	JJ	O	11	amod	blue
+11	bag	bag	NN	NN	O	7	nmod	bag_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NNS	NNS	O	1	dobj	glass_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	10	case	
+8	the	the	DT	DT	O	10	det	
+9	blue	blue	JJ	JJ	O	10	amod	blue
+10	tablerunner	tablerunner	NN	NN	O	6	nmod	tablerunner_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	phone	phone	NN	NN	O	1	nsubj	phone_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	book	book	NN	NN	O	6	nmod	book_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	1	xcomp	glass_2
+5	lying	lie	VB	VBG	O	4	acl	
+6	next	next	JJ	JJ	O	5	advmod	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	bag	bag	NN	NN	O	5	nmod	bag_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	key	key	NN	NN	O	9	conj	key_1
+
+1	clean	clean	JJ	JJ	O	0	ROOT	
+2	the	the	DT	DT	O	3	det	
+3	shelf	shelf	NN	NN	O	1	dep	shelf_2
+4	with	with	IN	IN	O	6	case	
+5	a	a	DT	DT	O	6	det	
+6	mug	mug	NN	NN	O	3	nmod	mug_1
+7	on	on	IN	IN	O	8	case	
+8	it	it	PRP	PRP	O	6	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	glasses	glass	NN	NNS	O	2	nsubj	glass_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	tablerunner	tablerunner	NN	NN	O	4	nmod	tablerunner_1
+8	with	with	IN	IN	O	10	case	
+9	a	a	DT	DT	O	10	det	
+10	bottle	bottle	NN	NN	O	7	nmod	bottle_1
+11	on	on	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	sidearm	sidearm	NN	NN	O	15	nsubjpass	sidearm_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	glasses	glass	NN	NNS	O	2	nmod	glass_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tablerunner	tablerunner	NN	NN	O	5	nmod	tablerunner_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bottle	bottle	NN	NN	O	8	nmod	bottle_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+14	is	be	VB	VBZ	O	15	auxpass	
+15	fixed	fix	VB	VBN	O	0	ROOT	fix_1
+16	by	by	IN	IN	O	18	case	
+17	the	the	DT	DT	O	18	det	
+18	man	man	NN	NN	O	15	nmod	man_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	3	cop	
+3	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	table	table	NN	NN	O	3	nmod	table_1
+7	that	that	IN	IN	O	10	mark	
+8	the	the	DT	DT	O	9	det	
+9	man	man	NN	NN	O	10	nsubj	man_1
+10	assembles	assemble	VB	VBZ	O	6	ccomp	assemble_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	3	cop	
+3	bottle	bottle	NN	NN	O	0	ROOT	bottle_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	table	table	NN	NN	O	3	nmod	table_1
+7	that	that	WDT	WDT	O	9	nsubjpass	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	assembled	assemble	VB	VBN	O	6	acl:relcl	assemble_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	laptop	laptop	NN	NN	O	0	ROOT	laptop_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	uses	use	VB	VBZ	O	4	ccomp	use_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	laptop	laptop	NN	NN	O	0	ROOT	laptop_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	table	table	NN	NN	O	4	nmod	table_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	used	use	VB	VBN	O	7	ccomp	use_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	assembles	assemble	VB	VBZ	O	0	ROOT	assemble_1
+4	the	the	DT	DT	O	5	det	
+5	table	table	NN	NN	O	3	dobj	table_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	3	nmod	bottle_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	table	table	NN	NN	O	9	nsubjpass	table_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bottle	bottle	NN	NN	O	2	nmod	bottle_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	assembled	assemble	VB	VBN	O	0	ROOT	assemble_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	uses	use	VB	VBZ	O	0	ROOT	use_1
+4	the	the	DT	DT	O	5	det	
+5	laptop	laptop	NN	NN	O	3	dobj	laptop_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bottle	bottle	NN	NN	O	8	nmod	bottle_2
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	laptop	laptop	NN	NN	O	12	nsubjpass	laptop_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	table	table	NN	NN	O	2	nmod	table_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bottle	bottle	NN	NN	O	5	nmod	bottle_2
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	used	use	VB	VBN	O	0	ROOT	use_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	envelope	envelope	NN	NN	O	1	dobj	envelope_1
+5	lying	lie	VB	VBG	O	4	ccomp	
+6	in	in	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	1	dobj	mug_1
+5	next	next	JJ	JJ	O	9	dep	
+6	to	to	TO	TO	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	coffee	coffee	NN	NN	O	9	compound	
+9	machine	machine	NN	NN	O	4	nmod	machine_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	bottle	bottle	NN	NN	O	9	conj	bottle_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	2	nsubj	mug_1
+5	","	","	","	","	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	bottle	bottle	NN	NN	O	4	conj	bottle_3
+8	and	and	CC	CC	O	4	cc	
+9	a	a	DT	DT	O	11	det	
+10	coffee	coffee	NN	NN	O	11	compound	
+11	machine	machine	NN	NN	O	4	conj	machine_1
+12	that	that	WDT	WDT	O	13	nsubj	
+13	stand	stand	VB	VBP	O	11	ccomp	
+14	on	on	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	table	table	NN	NN	O	13	nmod	table_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	sandwich	sandwich	NN	NN	O	2	nsubj	sandwich_1
+5	","	","	","	","	O	4	cc	
+6	an	a	DT	DT	O	7	det	
+7	envelope	envelope	NN	NN	O	4	conj	envelope_2
+8	and	and	CC	CC	O	4	cc	
+9	a	a	DT	DT	O	10	det	
+10	holder	holder	NN	NN	O	4	conj	holder_1
+11	that	that	WDT	WDT	O	12	nsubj	
+12	lie	lie	VB	VBP	O	10	ccomp	
+13	on	on	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	cabinet	cabinet	NN	NN	O	12	nmod	cabinet_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	leg	leg	NN	NN	O	3	dobj	leg_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_1
+9	that	that	IN	IN	O	11	mark	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	stands	stand	VB	VBZ	O	3	ccomp	 stand_1
+12	next	next	JJ	JJ	O	11	xcomp	
+13	to	to	TO	TO	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	paints	paint	VB	VBZ	O	0	ROOT	paint_1
+4	the	the	DT	DT	O	5	det	
+5	leg	leg	NN	NN	O	3	dobj	leg_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	table	table	NN	NN	O	5	nmod	table_3
+9	with	with	IN	IN	O	12	case	
+10	a	a	DT	DT	O	12	det	
+11	coffee	coffee	NN	NN	O	12	compound	
+12	machine	machine	NN	NN	O	8	nmod	machine_1
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	open	open	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	3	det	
+3	envelope	envelope	NN	NN	O	1	dobj	envelope_2
+4	that	that	WDT	WDT	O	5	nsubj	
+5	lies	lie	VB	VBZ	O	3	acl:relcl	
+6	next	next	JJ	JJ	O	5	advmod	
+7	to	to	TO	TO	O	8	case	
+8	holder	holder	NN	NN	O	6	nmod	holder_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	cabinet	cabinet	NN	NN	O	5	nmod	cabinet_1
+
+1	clean	clean	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	beige	beige	JJ	JJ	O	4	amod	beige
+4	table	table	NN	NN	O	1	dobj	table_3
+5	with	with	IN	IN	O	8	case	
+6	a	a	DT	DT	O	8	det	
+7	coffee	coffee	NN	NN	O	8	compound	
+8	machine	machine	NN	NN	O	4	nmod	machine_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	4	nmod	
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	opened	opened	JJ	JJ	O	5	amod	opened
+5	envelope	envelope	NN	NN	O	1	dobj	envelope_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	envelope	envelope	NN	NN	O	1	nsubj	envelope_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	sandwich	sandwich	NN	NN	O	6	nmod	sandwich_1
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	glass	glass	NN	NN	O	5	compound	glass
+5	bottle	bottle	NN	NN	O	1	xcomp	bottle_2
+6	lying	lie	VB	VBG	O	5	acl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	laptop	laptop	NN	NN	O	7	nmod	laptop_1
+

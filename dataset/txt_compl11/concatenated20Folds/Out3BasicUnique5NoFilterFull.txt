@@ -1,0 +1,674 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	wall	wall	NN	NN	O	0	_	bathrobe_1	wall_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_1	hook_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	fixes	fix	VB	VBZ	O	7	_		fix_1	
+12	carefully	carefully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_1	bathrobe_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_1	hook_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	fixes	fix	VB	VBZ	O	7	_		fix_1	
+12	carefully	carefully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_1	bathrobe_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_1	hook_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	fixes	fix	VB	VBZ	O	7	_		fix_1	
+12	carefully	carefully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	wall	wall	NN	NN	O	0	_	bathrobe_1	wall_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_1	hook_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	fixed	fix	VB	VBN	O	7	_	fix_1	fix_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_1	bathrobe_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_1	hook_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	fixed	fix	VB	VBN	O	7	_	fix_1	fix_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_1	bathrobe_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_1	hook_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	fixed	fix	VB	VBN	O	7	_	fix_1	fix_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_2	hook_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	takes	take	VB	VBZ	O	4	_		take_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_2	hook_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	takes	take	VB	VBZ	O	4	_		take_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_2	hook_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	takes	take	VB	VBZ	O	4	_		take_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	10	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_2	hook_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	taken	take	VB	VBN	O	0	_		take_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	10	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_2	hook_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	taken	take	VB	VBN	O	0	_		take_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	10	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_2	hook_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	taken	take	VB	VBN	O	0	_		take_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	fixes	fix	VB	VBZ	O	0	_		fix_1	
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	3	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	fixes	fix	VB	VBZ	O	0	_		fix_1	
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	3	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	fixes	fix	VB	VBZ	O	0	_		fix_1	
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	3	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	the	the	DT	DT	O	2	_			
+2	hook	hook	NN	NN	O	9	_	hook_1	hook_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bathrobe	bathrobe	NN	NN	O	2	_	bathrobe_1	bathrobe_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	fixed	fix	VB	VBN	O	0	_		fix_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_1	woman_1	
+
+1	the	the	DT	DT	O	2	_			
+2	hook	hook	NN	NN	O	9	_	hook_1	hook_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bathrobe	bathrobe	NN	NN	O	2	_	bathrobe_1	bathrobe_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	fixed	fix	VB	VBN	O	0	_		fix_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_1	woman_1	
+
+1	the	the	DT	DT	O	2	_			
+2	hook	hook	NN	NN	O	9	_	hook_1	hook_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bathrobe	bathrobe	NN	NN	O	2	_	bathrobe_1	bathrobe_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	fixed	fix	VB	VBN	O	0	_		fix_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	the	the	DT	DT	O	5	_			
+5	bathrobe	bathrobe	NN	NN	O	3	_	bathrobe_2	bathrobe_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_2	hook_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	the	the	DT	DT	O	5	_			
+5	bathrobe	bathrobe	NN	NN	O	3	_	bathrobe_2	bathrobe_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_2	hook_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	the	the	DT	DT	O	5	_			
+5	bathrobe	bathrobe	NN	NN	O	3	_	bathrobe_2	bathrobe_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_2	hook_2	
+
+1	the	the	DT	DT	O	2	_			
+2	bathrobe	bathrobe	NN	NN	O	7	_	bathrobe_2	bathrobe_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_2	hook_2	
+6	is	be	VB	VBZ	O	7	_			
+7	taken	take	VB	VBN	O	0	_		take_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	bathrobe	bathrobe	NN	NN	O	7	_	bathrobe_2	bathrobe_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_2	hook_2	
+6	is	be	VB	VBZ	O	7	_			
+7	taken	take	VB	VBN	O	0	_		take_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	bathrobe	bathrobe	NN	NN	O	7	_	bathrobe_2	bathrobe_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_2	hook_2	
+6	is	be	VB	VBZ	O	7	_			
+7	taken	take	VB	VBN	O	0	_		take_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	dispenser	dispenser	NN	NN	O	1	_	dispenser_1	dispenser_1	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	holder	holder	NN	NN	O	4	_	holder_1	holder_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	1	_	bathrobe_3//perfume_1	bathrobe_3	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	towels	towel	NN	NNS	O	4	_		towel_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	towel	towel	NN	NN	O	2	_	towel_1	towel_1	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	bathrobe	bathrobe	NN	NN	O	3	_	bathrobe_3	bathrobe_3	
+7	lying	lie	VB	VBG	O	6	_		lie_13	
+8	in	in	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	bathtub	bathtub	NN	NN	O	7	_	bathtub_1	bathtub_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	towels	towel	NN	NNS	O	2	_	towel_1	towel_1	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	bathrobe	bathrobe	NN	NN	O	3	_	bathrobe_3	bathrobe_3	
+7	lying	lie	VB	VBG	O	6	_		lie_13	
+8	in	in	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	bathtub	bathtub	NN	NN	O	7	_	bathtub_1	bathtub_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	towels	towel	NN	NNS	O	2	_	towel_1	towel_1	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	bathrobe	bathrobe	NN	NN	O	3	_	bathrobe_3	bathrobe_3	
+7	lying	lie	VB	VBG	O	6	_		lie_13	
+8	in	in	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	bathtub	bathtub	NN	NN	O	7	_	bathtub_1	bathtub_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	dispenser	dispenser	NN	NN	O	2	_	dispenser_1	dispenser_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	holder	holder	NN	NN	O	4	_	holder_1	holder_1	
+8	that	that	WDT	WDT	O	9	_			
+9	stand	stand	VB	VBP	O	7	_		stand_16	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	sink	sink	NN	NN	O	9	_	sink_1	sink_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	dispenser	dispenser	NN	NN	O	2	_	dispenser_1	dispenser_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	holder	holder	NN	NN	O	4	_	holder_1	holder_1	
+8	that	that	WDT	WDT	O	9	_			
+9	stand	stand	VB	VBP	O	7	_		stand_16	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	sink	sink	NN	NN	O	9	_	sink_1	sink_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	dispenser	dispenser	NN	NN	O	2	_	dispenser_1	dispenser_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	holder	holder	NN	NN	O	4	_	holder_1	holder_1	
+8	that	that	WDT	WDT	O	9	_			
+9	stand	stand	VB	VBP	O	7	_		stand_16	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	sink	sink	NN	NN	O	9	_	sink_1	sink_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	changes	change	VB	VBZ	O	0	_		change_1	
+4	the	the	DT	DT	O	5	_			
+5	screw	screw	NN	NN	O	3	_	screw_1	screw_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_1	hook_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bathrobe	bathrobe	NN	NN	O	8	_	bathrobe_1	bathrobe_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	changes	change	VB	VBZ	O	0	_		change_1	
+4	the	the	DT	DT	O	5	_			
+5	screw	screw	NN	NN	O	3	_	screw_1	screw_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_1	hook_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bathrobe	bathrobe	NN	NN	O	8	_	bathrobe_1	bathrobe_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	changes	change	VB	VBZ	O	0	_		change_1	
+4	the	the	DT	DT	O	5	_			
+5	screw	screw	NN	NN	O	3	_	screw_1	screw_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_1	hook_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bathrobe	bathrobe	NN	NN	O	8	_	bathrobe_1	bathrobe_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	changes	change	VB	VBZ	O	0	_		change_1	
+4	the	the	DT	DT	O	5	_			
+5	screw	screw	NN	NN	O	3	_	screw_1	screw_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_1	hook_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bathrobe	bathrobe	NN	NN	O	8	_	bathrobe_1	bathrobe_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	the	the	DT	DT	O	2	_			
+2	screw	screw	NN	NN	O	12	_	screw_1	screw_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_		change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	the	the	DT	DT	O	2	_			
+2	screw	screw	NN	NN	O	12	_	screw_1	screw_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_		change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	the	the	DT	DT	O	2	_			
+2	screw	screw	NN	NN	O	12	_	screw_1	screw_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_		change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	the	the	DT	DT	O	2	_			
+2	screw	screw	NN	NN	O	12	_	screw_1	screw_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_		change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	bathrobe	bathrobe	NN	NN	O	1	_	bathrobe_2	bathrobe_2	
+6	hanging	hang	VBG	VBG	O	5	_		hang_17	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	hook	hook	NN	NN	O	6	_	hook_2	hook_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	bathrobe	bathrobe	NN	NN	O	1	_	bathrobe_2	bathrobe_2	
+6	hanging	hang	VBG	VBG	O	5	_		hang_17	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	hook	hook	NN	NN	O	6	_	hook_2	hook_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	bathrobe	bathrobe	NN	NN	O	1	_	bathrobe_2	bathrobe_2	
+6	hanging	hang	VBG	VBG	O	5	_		hang_17	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	hook	hook	NN	NN	O	6	_	hook_2	hook_2	
+
+1	empty	empty	JJ	JJ	O	0	_	empty_1	empty_1	
+2	the	the	DT	DT	O	3	_			
+3	basket	basket	NN	NN	O	1	_	basket_2	basket_2	
+4	lying	lie	VBG	VBG	O	3	_		lie_11	
+5	next	next	JJ	JJ	O	4	_			
+6	to	to	TO	TO	O	7	_			
+7	bathtub	bathtub	NN	NN	O	3	_	bathtub_1	bathtub_1	
+
+1	empty	empty	JJ	JJ	O	0	_	empty_1	empty_1	
+2	the	the	DT	DT	O	3	_			
+3	basket	basket	NN	NN	O	1	_	basket_2	basket_2	
+4	lying	lie	VBG	VBG	O	3	_		lie_11	
+5	next	next	JJ	JJ	O	4	_			
+6	to	to	TO	TO	O	7	_			
+7	bathtub	bathtub	NN	NN	O	3	_	bathtub_1	bathtub_1	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	1	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	8	_			
+6	the	the	DT	DT	O	8	_			
+7	wooden	wooden	JJ	JJ	O	8	_	wooden	wooden	
+8	hook	hook	NN	NN	O	4	_	hook_2	hook_2	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	1	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	8	_			
+6	the	the	DT	DT	O	8	_			
+7	wooden	wooden	JJ	JJ	O	8	_	wooden	wooden	
+8	hook	hook	NN	NN	O	4	_	hook_2	hook_2	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	1	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	8	_			
+6	the	the	DT	DT	O	8	_			
+7	wooden	wooden	JJ	JJ	O	8	_	wooden	wooden	
+8	hook	hook	NN	NN	O	4	_	hook_2	hook_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	soap	soap	JJ	JJ	O	5	_	soap	soap	
+5	dispenser	dispenser	NN	NN	O	1	_	dispenser_1	dispenser_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_16	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	holder	holder	NN	NN	O	7	_	holder_1	holder_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	soap	soap	NN	NN	O	5	_	soap	soap	
+5	dispenser	dispenser	NN	NN	O	1	_	dispenser_1	dispenser_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_16	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	holder	holder	NN	NN	O	7	_	holder_1	holder_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	soap	soap	NN	NN	O	5	_	soap	soap	
+5	dispenser	dispenser	NN	NN	O	1	_	dispenser_1	dispenser_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_16	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	sink	sink	NN	NN	O	7	_	holder_1	sink_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	dispenser	dispenser	NN	NN	O	1	_	dispenser_2	dispenser_2	
+5	lying	lie	VB	VBG	O	4	_		lie_14	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	perfume	perfume	NN	NN	O	5	_	perfume_1	perfume_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	towel	towel	NN	NN	O	9	_	towel_2	towel_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	dispenser	dispenser	NN	NN	O	1	_	dispenser_2	dispenser_2	
+5	lying	lie	VB	VBG	O	4	_		lie_14	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	perfume	perfume	NN	NN	O	5	_	perfume_1	perfume_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	towel	towel	NN	NN	O	9	_	towel_2	towel_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	dispenser	dispenser	NN	NN	O	1	_	dispenser_2	dispenser_2	
+5	lying	lie	VB	VBG	O	4	_		lie_14	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	perfume	perfume	NN	NN	O	5	_	perfume_1	perfume_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	towel	towel	NN	NN	O	9	_	towel_2	towel_2	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	towel	towel	NN	NN	O	0	_		towel_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	dispenser	dispenser	NN	NN	O	4	_	shelf_1	dispenser_2	
+8	lying	lie	VB	VBG	O	7	_		lie_14	
+9	next	next	JJ	JJ	O	8	_			
+10	to	to	TO	TO	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	perfume	perfume	NN	NN	O	8	_	perfume_1	perfume_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	towel	towel	NN	NN	O	0	_		towel_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_1	shelf_1	
+8	lying	lie	VB	VBG	O	7	_		lie_16	
+9	next	next	JJ	JJ	O	8	_			
+10	to	to	TO	TO	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	sink	sink	NN	NN	O	8	_	perfume_1//dispencer_2	sink_1	
+

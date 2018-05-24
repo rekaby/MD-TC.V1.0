@@ -1,0 +1,994 @@
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	cage	NN	NN	O	0	ROOT	cage_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	moves	move	VB	VBZ	O	4	ccomp	
+12	carefully	carefully	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	chest	NN	NN	O	4	nmod	chest_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	moves	move	VB	VBZ	O	4	ccomp	
+12	carefully	carefully	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	11	nsubj	man_1
+11	moves	move	VB	VBZ	O	4	ccomp	
+12	carefully	carefully	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	cage	NN	NN	O	0	ROOT	cage_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	moved	move	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	chest	NN	NN	O	4	nmod	chest_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	moved	move	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	moved	move	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	cage	NN	NN	O	0	ROOT	cage_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	cleans	clean	VB	VBZ	O	4	ccomp	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	chest	NN	NN	O	4	nmod	chest_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	cleans	clean	VB	VBZ	O	4	ccomp	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	11	nsubj	man_2
+11	cleans	clean	VB	VBZ	O	4	ccomp	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	cage	NN	NN	O	0	ROOT	cage_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cleaned	clean	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	chest	NN	NN	O	4	nmod	chest_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cleaned	clean	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	0	ROOT	cage_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	chest	chest	NN	NN	O	4	nmod	chest_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cleaned	clean	VB	VBN	O	7	ccomp	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	man	NN	NN	O	10	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	moves	move	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	3	dobj	cage_1
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	chest	chest	NN	NN	O	5	nmod	chest_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	moves	move	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	cage	NN	NN	O	3	dobj	cage_1
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	chest	chest	NN	NN	O	5	nmod	chest_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	moves	move	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	3	dobj	cage_1
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	??	chest	NN	NN	O	5	nmod	chest_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	cage	NN	NN	O	7	nsubjpass	cage_1
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	chest	chest	NN	NN	O	2	nmod	chest_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	moved	move	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	cage	cage	NN	NN	O	7	nsubjpass	cage_1
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	??	chest	NN	NN	O	2	nmod	chest_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	moved	move	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	cage	cage	NN	NN	O	7	nsubjpass	cage_1
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	chest	chest	NN	NN	O	2	nmod	chest_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	moved	move	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	3	dobj	cage_2
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	chest	chest	NN	NN	O	5	nmod	chest_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	cage	NN	NN	O	3	dobj	cage_2
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	chest	chest	NN	NN	O	5	nmod	chest_2
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	3	dobj	cage_2
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	??	chest	NN	NN	O	5	nmod	chest_2
+
+1	the	the	DT	DT	O	2	det	
+2	??	cage	NN	NN	O	7	nsubjpass	cage_2
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	chest	chest	NN	NN	O	2	nmod	chest_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cleaned	clean	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_2
+
+1	the	the	DT	DT	O	2	det	
+2	cage	cage	NN	NN	O	7	nsubjpass	cage_2
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	??	chest	NN	NN	O	2	nmod	chest_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cleaned	clean	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_2
+
+1	the	the	DT	DT	O	2	det	
+2	cage	cage	NN	NN	O	7	nsubjpass	cage_2
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	chest	chest	NN	NN	O	2	nmod	chest_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cleaned	clean	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	7	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	medicine	NN	NN	O	1	dobj	medicine_1
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	flowers	flower	NNS	NNS	O	4	nmod	flower_2
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lies	lie	VB	VBZ	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	shelf	shelf	NN	NN	O	9	nmod	shelf_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	medicine	medicine	NN	NN	O	1	dobj	medicine_1
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	??	flower	NNS	NNS	O	4	nmod	flower_2
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lies	lie	VB	VBZ	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	shelf	shelf	NN	NN	O	9	nmod	shelf_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	medicine	medicine	NN	NN	O	1	dobj	medicine_1
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	flowers	flower	NNS	NNS	O	4	nmod	flower_2
+8	that	that	WDT	WDT	O	9	nsubj	
+9	lies	lie	VB	VBZ	O	7	ccomp	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	shelf	NN	NN	O	9	nmod	shelf_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	cage	NN	NN	O	1	dobj	cage_3//chair_1
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	shelf	shelf	NN	NN	O	4	nmod	shelf_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	??	flower	NN	NNS	O	2	nsubj	flower_2
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	medicine	medicine	NN	NN	O	3	conj	medicine_1
+7	that	that	WDT	WDT	O	8	nsubj	
+8	lie	lie	VB	VBP	O	6	ccomp	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	shelf	shelf	NN	NN	O	8	nmod	shelf_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	flowers	flower	NN	NNS	O	2	nsubj	flower_2
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	??	medicine	NN	NN	O	3	conj	medicine_1
+7	that	that	WDT	WDT	O	8	nsubj	
+8	lie	lie	VB	VBP	O	6	ccomp	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	shelf	shelf	NN	NN	O	8	nmod	shelf_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	flowers	flower	NN	NNS	O	2	nsubj	flower_2
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	medicine	medicine	NN	NN	O	3	conj	medicine_1
+7	that	that	WDT	WDT	O	8	nsubj	
+8	lie	lie	VB	VBP	O	6	ccomp	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	shelf	NN	NN	O	8	nmod	shelf_1
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	cage	NN	NN	O	2	nsubj	cage_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	conj	bag_1
+8	lying	lie	VB	VBG	O	7	ccomp	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	chest	chest	NN	NN	O	8	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	2	nsubj	cage_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	??	bag	NN	NN	O	4	conj	bag_1
+8	lying	lie	VB	VBG	O	7	ccomp	
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	chest	chest	NN	NN	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	door	door	NN	NN	O	3	dobj	door_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	cage	cage	NN	NN	O	5	nmod	cage_2
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	cleaned	clean	VB	VBN	O	8	ccomp	clean_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	??	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	door	door	NN	NN	O	3	dobj	door_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	cage	cage	NN	NN	O	5	nmod	cage_2
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	cleaned	clean	VB	VBN	O	8	ccomp	clean_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	??	door	NN	NN	O	3	dobj	door_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	cage	cage	NN	NN	O	5	nmod	cage_2
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	cleaned	clean	VB	VBN	O	8	ccomp	clean_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	door	door	NN	NN	O	3	dobj	door_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	cage	NN	NN	O	5	nmod	cage_2
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	cleaned	clean	VB	VBN	O	8	ccomp	clean_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	door	door	NN	NN	O	3	dobj	door_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	cage	cage	NN	NN	O	5	nmod	cage_2
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	??	clean	VB	VBN	O	8	ccomp	clean_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	door	door	NN	NN	O	3	dobj	door_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	cage	cage	NN	NN	O	5	nmod	cage_2
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	cleaned	clean	VB	VBN	O	8	ccomp	clean_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	??	man	NN	NN	O	11	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	??	door	NN	NN	O	13	nsubjpass	door_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	2	nmod	cage_2
+6	that	that	WDT	WDT	O	8	nsubjpass	
+7	is	be	VB	VBZ	O	8	auxpass	
+8	cleaned	clean	VB	VBN	O	5	ccomp	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	8	nmod	man_2
+12	is	be	VB	VBZ	O	13	auxpass	
+13	opened	open	VB	VBN	O	0	ROOT	open_1
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	13	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	door	door	NN	NN	O	13	nsubjpass	door_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	cage	NN	NN	O	2	nmod	cage_2
+6	that	that	WDT	WDT	O	8	nsubjpass	
+7	is	be	VB	VBZ	O	8	auxpass	
+8	cleaned	clean	VB	VBN	O	5	ccomp	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	8	nmod	man_2
+12	is	be	VB	VBZ	O	13	auxpass	
+13	opened	open	VB	VBN	O	0	ROOT	open_1
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	13	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	door	door	NN	NN	O	13	nsubjpass	door_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	2	nmod	cage_2
+6	that	that	WDT	WDT	O	8	nsubjpass	
+7	is	be	VB	VBZ	O	8	auxpass	
+8	??	clean	VB	VBN	O	5	ccomp	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	8	nmod	man_2
+12	is	be	VB	VBZ	O	13	auxpass	
+13	opened	open	VB	VBN	O	0	ROOT	open_1
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	13	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	door	door	NN	NN	O	13	nsubjpass	door_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	2	nmod	cage_2
+6	that	that	WDT	WDT	O	8	nsubjpass	
+7	is	be	VB	VBZ	O	8	auxpass	
+8	cleaned	clean	VB	VBN	O	5	ccomp	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	man	NN	NN	O	8	nmod	man_2
+12	is	be	VB	VBZ	O	13	auxpass	
+13	opened	open	VB	VBN	O	0	ROOT	open_1
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	13	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	door	door	NN	NN	O	13	nsubjpass	door_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	2	nmod	cage_2
+6	that	that	WDT	WDT	O	8	nsubjpass	
+7	is	be	VB	VBZ	O	8	auxpass	
+8	cleaned	clean	VB	VBN	O	5	ccomp	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	8	nmod	man_2
+12	is	be	VB	VBZ	O	13	auxpass	
+13	??	open	VB	VBN	O	0	ROOT	open_1
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	13	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	door	door	NN	NN	O	13	nsubjpass	door_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	2	nmod	cage_2
+6	that	that	WDT	WDT	O	8	nsubjpass	
+7	is	be	VB	VBZ	O	8	auxpass	
+8	cleaned	clean	VB	VBN	O	5	ccomp	clean_1
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	8	nmod	man_2
+12	is	be	VB	VBZ	O	13	auxpass	
+13	opened	open	VB	VBN	O	0	ROOT	open_1
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	??	woman	NN	NN	O	13	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	removes	remove	VB	VBZ	O	0	ROOT	remove_1
+4	the	the	DT	DT	O	5	det	
+5	label	label	NN	NN	O	3	dobj	label_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	medicine	medicine	NN	NN	O	5	nmod	medicine_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	shelf	shelf	NN	NN	O	10	nmod	shelf_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	??	remove	VB	VBZ	O	0	ROOT	remove_1
+4	the	the	DT	DT	O	5	det	
+5	label	label	NN	NN	O	3	dobj	label_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	medicine	medicine	NN	NN	O	5	nmod	medicine_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	shelf	shelf	NN	NN	O	10	nmod	shelf_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	removes	remove	VB	VBZ	O	0	ROOT	remove_1
+4	the	the	DT	DT	O	5	det	
+5	??	label	NN	NN	O	3	dobj	label_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	medicine	medicine	NN	NN	O	5	nmod	medicine_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	shelf	shelf	NN	NN	O	10	nmod	shelf_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	removes	remove	VB	VBZ	O	0	ROOT	remove_1
+4	the	the	DT	DT	O	5	det	
+5	label	label	NN	NN	O	3	dobj	label_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	medicine	NN	NN	O	5	nmod	medicine_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	shelf	shelf	NN	NN	O	10	nmod	shelf_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	removes	remove	VB	VBZ	O	0	ROOT	remove_1
+4	the	the	DT	DT	O	5	det	
+5	label	label	NN	NN	O	3	dobj	label_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	medicine	medicine	NN	NN	O	5	nmod	medicine_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	shelf	NN	NN	O	10	nmod	shelf_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	label	NN	NN	O	12	nsubjpass	label_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	medicine	medicine	NN	NN	O	2	nmod	medicine_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	shelf	shelf	NN	NN	O	7	nmod	shelf_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	removed	remove	VB	VBN	O	0	ROOT	remove_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	label	label	NN	NN	O	12	nsubjpass	label_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	medicine	NN	NN	O	2	nmod	medicine_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	shelf	shelf	NN	NN	O	7	nmod	shelf_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	removed	remove	VB	VBN	O	0	ROOT	remove_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	label	label	NN	NN	O	12	nsubjpass	label_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	medicine	medicine	NN	NN	O	2	nmod	medicine_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	shelf	NN	NN	O	7	nmod	shelf_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	removed	remove	VB	VBN	O	0	ROOT	remove_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	label	label	NN	NN	O	12	nsubjpass	label_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	medicine	medicine	NN	NN	O	2	nmod	medicine_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	shelf	shelf	NN	NN	O	7	nmod	shelf_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	??	remove	VB	VBN	O	0	ROOT	remove_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	label	label	NN	NN	O	12	nsubjpass	label_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	medicine	medicine	NN	NN	O	2	nmod	medicine_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	shelf	shelf	NN	NN	O	7	nmod	shelf_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	removed	remove	VB	VBN	O	0	ROOT	remove_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	??	woman	NN	NN	O	12	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	yellow	JJ	JJ	O	5	amod	yellow
+5	toy	toy	NN	NN	O	1	dobj	toy_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	ground	ground	NN	NN	O	7	nmod	ground_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	yellow	yellow	JJ	JJ	O	5	amod	yellow
+5	??	toy	NN	NN	O	1	dobj	toy_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	ground	ground	NN	NN	O	7	nmod	ground_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	yellow	yellow	JJ	JJ	O	5	amod	yellow
+5	toy	toy	NN	NN	O	1	dobj	toy_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	ground	NN	NN	O	7	nmod	ground_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	cage	NN	NN	O	1	dobj	cage_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	green	green	JJ	JJ	O	11	amod	green
+11	chair	chair	NN	NN	O	6	nmod	chair_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	1	dobj	cage_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	??	green	JJ	JJ	O	11	amod	green
+11	chair	chair	NN	NN	O	6	nmod	chair_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	cage	cage	NN	NN	O	1	dobj	cage_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	green	green	JJ	JJ	O	11	amod	green
+11	??	chair	NN	NN	O	6	nmod	chair_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	blue	JJ	JJ	O	5	amod	blue
+5	cage	cage	NN	NN	O	1	dobj	cage_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	chest	chest	NN	NN	O	5	nmod	chest_1
+9	that	that	IN	IN	O	12	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	12	nsubj	man_1
+12	moves	move	VB	VBZ	O	8	ccomp	move_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	??	cage	NN	NN	O	1	dobj	cage_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	chest	chest	NN	NN	O	5	nmod	chest_1
+9	that	that	IN	IN	O	12	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	12	nsubj	man_1
+12	moves	move	VB	VBZ	O	8	ccomp	move_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	cage	cage	NN	NN	O	1	dobj	cage_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	chest	NN	NN	O	5	nmod	chest_1
+9	that	that	IN	IN	O	12	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	12	nsubj	man_1
+12	moves	move	VB	VBZ	O	8	ccomp	move_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	cage	cage	NN	NN	O	1	dobj	cage_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	chest	chest	NN	NN	O	5	nmod	chest_1
+9	that	that	IN	IN	O	12	case	
+10	the	the	DT	DT	O	11	det	
+11	??	man	NN	NN	O	12	nsubj	man_1
+12	moves	move	VB	VBZ	O	8	ccomp	move_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	cage	cage	NN	NN	O	1	dobj	cage_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	chest	chest	NN	NN	O	5	nmod	chest_1
+9	that	that	IN	IN	O	12	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	12	nsubj	man_1
+12	??	move	VB	VBZ	O	8	ccomp	move_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	??	toy	NN	NN	O	1	nsubj	toy_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	dog	dog	NN	NN	O	6	nmod	dog_1
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	chest	NN	NN	O	2	nsubj	chest_1
+5	with	with	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	cage	cage	NN	NN	O	4	nmod	cage_1
+8	and	and	CC	CC	O	7	cc	
+9	bag	bag	NN	NN	O	7	conj	bag_1
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	7	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	chest	chest	NN	NN	O	2	nsubj	chest_1
+5	with	with	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	cage	NN	NN	O	4	nmod	cage_1
+8	and	and	CC	CC	O	7	cc	
+9	bag	bag	NN	NN	O	7	conj	bag_1
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	7	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	3	dobj	cage_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bird	bird	NN	NN	O	3	nmod	bird_1
+9	in	in	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	??	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	3	dobj	cage_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bird	bird	NN	NN	O	3	nmod	bird_1
+9	in	in	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	??	cage	NN	NN	O	3	dobj	cage_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bird	bird	NN	NN	O	3	nmod	bird_1
+9	in	in	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	cage	cage	NN	NN	O	3	dobj	cage_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	??	bird	NN	NN	O	3	nmod	bird_1
+9	in	in	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	cage	NN	NN	O	9	nsubjpass	cage_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bird	bird	NN	NN	O	2	nmod	bird_1
+6	in	in	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	cage	cage	NN	NN	O	9	nsubjpass	cage_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	??	bird	NN	NN	O	2	nmod	bird_1
+6	in	in	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	cage	cage	NN	NN	O	9	nsubjpass	cage_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bird	bird	NN	NN	O	2	nmod	bird_1
+6	in	in	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	??	clean	VB	VBN	O	0	ROOT	clean_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	cage	cage	NN	NN	O	9	nsubjpass	cage_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bird	bird	NN	NN	O	2	nmod	bird_1
+6	in	in	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	man	NN	NN	O	9	nmod	man_2
+

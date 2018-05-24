@@ -1,0 +1,2094 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	0	_	cat_1	cat_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_1	shelf_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	chases	chase	VB	VBZ	O	4	_		chase_1	
+12	playfully	playfully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	0	_	cat_1	cat_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_1	shelf_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	chases	chase	VB	VBZ	O	4	_		chase_1	
+12	playfully	playfully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	0	_	cat_1	cat_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_1	shelf_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_1	man_1	
+11	chases	chase	VB	VBZ	O	4	_		chase_1	
+12	playfully	playfully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	10	_	cat_1	cat_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_1	shelf_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	chased	chase	VB	VBN	O	0	_		chase_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	10	_	cat_1	cat_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_1	shelf_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	chased	chase	VB	VBN	O	0	_		chase_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	10	_	cat_1	cat_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_1	shelf_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	chased	chase	VB	VBN	O	0	_		chase_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	book	book	NN	NN	O	0	_	cat_2//book_2//lamp_1	book_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_2	shelf_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	cleans	clean	VB	VBZ	O	7	_		clean_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	0	_	cat_2	cat_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_2	shelf_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	cleans	clean	VB	VBZ	O	7	_		clean_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	0	_	cat_2	cat_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_2	shelf_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	cleans	clean	VB	VBZ	O	7	_		clean_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	book	book	NN	NN	O	0	_	cat_2//book_2//lamp_1	book_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_2	shelf_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cleaned	clean	VB	VBN	O	7	_		clean_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	0	_	cat_2	cat_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_2	shelf_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cleaned	clean	VB	VBN	O	7	_		clean_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	0	_	cat_2	cat_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_2	shelf_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cleaned	clean	VB	VBN	O	7	_		clean_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	chases	chase	VB	VBZ	O	0	_		chase_1	
+4	the	the	DT	DT	O	5	_			
+5	cat	cat	NN	NN	O	3	_	cat_1	cat_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_1	shelf_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	chases	chase	VB	VBZ	O	0	_		chase_1	
+4	the	the	DT	DT	O	5	_			
+5	cat	cat	NN	NN	O	3	_	cat_1	cat_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_1	shelf_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	chases	chase	VB	VBZ	O	0	_		chase_1	
+4	the	the	DT	DT	O	5	_			
+5	cat	cat	NN	NN	O	3	_	cat_1	cat_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_1	shelf_1	
+
+1	The	the	DT	DT	O	2	_			
+2	cat	cat	NN	NN	O	7	_	cat_1	cat_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	2	_	shelf_1	shelf_1	
+6	is	be	VB	VBZ	O	7	_			
+7	chased	chase	VB	VBN	O	0	_		chase_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	cat	cat	NN	NN	O	7	_	cat_1	cat_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	2	_	shelf_1	shelf_1	
+6	is	be	VB	VBZ	O	7	_			
+7	chased	chase	VB	VBN	O	0	_		chase_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	cat	cat	NN	NN	O	7	_	cat_1	cat_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	2	_	shelf_1	shelf_1	
+6	is	be	VB	VBZ	O	7	_			
+7	chased	chase	VB	VBN	O	0	_		chase_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_		clean_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_2	shelf_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	cat	cat	NN	NN	O	5	_	cat_2	cat_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_		clean_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_2	shelf_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	cat	cat	NN	NN	O	5	_	cat_2	cat_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	cleans	clean	VB	VBZ	O	0	_		clean_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_2	shelf_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	book	book	NN	NN	O	5	_	cat_2//book_2//lamp_1	book_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	shelf	shelf	NN	NN	O	9	_	shelf_2	shelf_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	cat	cat	NN	NN	O	2	_	cat_2	cat_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	cleaned	clean	VB	VBN	O	0	_		clean_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	shelf	shelf	NN	NN	O	9	_	shelf_2	shelf_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	book	book	NN	NN	O	2	_	cat_2//book_2//lamp_1	book_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	cleaned	clean	VB	VBN	O	0	_		clean_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	shelf	shelf	NN	NN	O	9	_	shelf_2	shelf_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	cat	cat	NN	NN	O	2	_	cat_2	cat_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	cleaned	clean	VB	VBN	O	0	_		clean_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	man	man	NN	NN	O	9	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	takes	take	VB	VBZ	O	0	_	take_1	take_1	
+4	the	the	DT	DT	O	5	_			
+5	books	book	NN	NNS	O	3	_	book_3	book_3	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_3	shelf_3	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	candle	candle	NN	NN	O	8	_	candle_1	candle_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	take	take	VB	VBZ	O	0	_	take_1	take_1	
+4	the	the	DT	DT	O	5	_			
+5	books	book	NN	NNS	O	3	_	book_3	book_3	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_3	shelf_3	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	candle	candle	NN	NN	O	8	_	candle_1	candle_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	takes	take	VB	VBZ	O	0	_	take_1	take_1	
+4	the	the	DT	DT	O	5	_			
+5	book	book	NN	NN	O	3	_	book_3	book_3	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_3	shelf_3	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	candle	candle	NN	NN	O	8	_	candle_1	candle_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	takes	take	VB	VBZ	O	0	_	take_1	take_1	
+4	the	the	DT	DT	O	5	_			
+5	books	book	NN	NNS	O	3	_	book_3	book_3	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_3	shelf_3	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	candle	candle	NN	NN	O	8	_	candle_1	candle_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	takes	take	VB	VBZ	O	0	_	take_1	take_1	
+4	the	the	DT	DT	O	5	_			
+5	books	book	NN	NNS	O	3	_	book_3	book_3	
+6	from	from	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	shelf_3	shelf_3	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	candle	candle	NN	NN	O	8	_	candle_1	candle_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	book	book	NN	NN	O	12	_	book_3	book_3	
+3	from	from	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	2	_	shelf_3	shelf_3	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	candle	candle	NN	NN	O	5	_	candle_1	candle_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	taken	take	VB	VBN	O	0	_	take_1	take_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	books	book	NN	NNS	O	12	_	book_3	book_3	
+3	from	from	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	2	_	shelf_3	shelf_3	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	candle	candle	NN	NN	O	5	_	candle_1	candle_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	taken	take	VB	VBN	O	0	_	take_1	take_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	books	book	NN	NNS	O	12	_	book_3	book_3	
+3	from	from	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	2	_	shelf_3	shelf_3	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	candle	candle	NN	NN	O	5	_	candle_1	candle_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	taken	take	VB	VBN	O	0	_	take_1	take_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	books	book	NN	NNS	O	12	_	book_3	book_3	
+3	from	from	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	2	_	shelf_3	shelf_3	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	candle	candle	NN	NN	O	5	_	candle_1	candle_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	take	take	VB	VBN	O	0	_	take_1	take_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	books	book	NN	NNS	O	12	_	book_3	book_3	
+3	from	from	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	2	_	shelf_3	shelf_3	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	candle	candle	NN	NN	O	5	_	candle_1	candle_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	taken	take	VB	VBN	O	0	_	take_1	take_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	candle	candle	NN	NN	O	1	_	candle_2	candle_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	6	_	box_1	box_1	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	newspaper	newspaper	NN	NN	O	9	_	newspaper_1	newspaper_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	candle	candle	NN	NN	O	1	_	candle_2	candle_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_13	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	candle	candle	NN	NN	O	6	_	box_1	candle_2	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	newspaper	newspaper	NN	NN	O	9	_	newspaper_1	newspaper_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	candle	candle	NN	NN	O	1	_	candle_2	candle_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	6	_	box_1	box_1	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	newspaper	newspaper	NN	NN	O	9	_	newspaper_1	newspaper_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	flower	flower	NN	NN	O	1	_	flower_1	flower_1	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	book	book	NN	NN	O	4	_	cat_1//book_1	book_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_14	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	shelf	shelf	NN	NN	O	10	_	shelf_1	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	flower	flower	NN	NN	O	1	_	flower_1	flower_1	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cat	cat	NN	NN	O	4	_	cat_1	cat_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_14	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	shelf	shelf	NN	NN	O	10	_	shelf_1	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	candle	candle	NN	NN	O	1	_	candle_1	candle_1	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	books	book	NN	NNS	O	4	_	book_3	book_3	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	takes	take	VB	VBZ	O	7	_	take_1	take_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	candle	candle	NN	NN	O	1	_	candle_1	candle_1	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	book	book	NN	NN	O	4	_	book_3	book_3	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	takes	take	VB	VBZ	O	7	_	take_1	take_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	candle	candle	NN	NN	O	1	_	candle_1	candle_1	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	books	book	NN	NNS	O	4	_	book_3	book_3	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	takes	take	VB	VBZ	O	7	_	take_1	take_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	candle	candle	NN	NN	O	1	_	candle_1	candle_1	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	books	book	NN	NNS	O	4	_	book_3	book_3	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	take	take	VB	VBZ	O	7	_	take_1	take_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	newspaper	newspaper	NN	NN	O	2	_	newspaper_1	newspaper_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	candle	candle	NN	NN	O	4	_	candle_2	candle_2	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	box	box	NN	NN	O	7	_	box_1	box_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	newspaper	newspaper	NN	NN	O	2	_	newspaper_1	newspaper_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	candle	candle	NN	NN	O	4	_	candle_2	candle_2	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	box	box	NN	NN	O	7	_	box_1	box_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	newspaper	newspaper	NN	NN	O	2	_	newspaper_1	newspaper_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	candle	candle	NN	NN	O	4	_	candle_2	candle_2	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	box	box	NN	NN	O	7	_	box_1	box_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	2	_	cat_1	cat_1	
+5	","	","	","	","	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	flower	flower	NN	NN	O	4	_		flower_1	
+8	and	and	CC	CC	O	7	_			
+9	books	book	NN	NNS	O	7	_	book_1	book_1	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	shelf	shelf	NN	NN	O	9	_	shelf_1	shelf_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	2	_	cat_1	cat_1	
+5	","	","	","	","	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	flower	flower	NN	NN	O	4	_		flower_1	
+8	and	and	CC	CC	O	7	_			
+9	book	book	NN	NN	O	7	_	book_1	book_1	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	shelf	shelf	NN	NN	O	9	_	shelf_1	shelf_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	2	_	cat_1	cat_1	
+5	","	","	","	","	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	flower	flower	NN	NN	O	4	_		flower_1	
+8	and	and	CC	CC	O	7	_			
+9	books	book	NN	NNS	O	7	_	book_1	book_1	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	shelf	shelf	NN	NN	O	9	_	shelf_1	shelf_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	2	_	cat_2	cat_2	
+5	","	","	","	","	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	vase	vase	NN	NN	O	4	_		vase_1	
+8	and	and	CC	CC	O	7	_			
+9	books	book	NN	NNS	O	7	_	book_2	book_2	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	shelf	shelf	NN	NN	O	9	_	shelf_2	shelf_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	2	_	cat_2	cat_2	
+5	","	","	","	","	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	vase	vase	NN	NN	O	4	_		vase_1	
+8	and	and	CC	CC	O	7	_			
+9	book	book	NN	NN	O	7	_	book_2	book_2	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	shelf	shelf	NN	NN	O	9	_	shelf_2	shelf_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	cat	cat	NN	NN	O	2	_	cat_2	cat_2	
+5	","	","	","	","	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	vase	vase	NN	NN	O	4	_		vase_1	
+8	and	and	CC	CC	O	7	_			
+9	books	book	NN	NNS	O	7	_	book_2	book_2	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	shelf	shelf	NN	NN	O	9	_	shelf_2	shelf_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_2	clean_2	
+4	the	the	DT	DT	O	5	_			
+5	steps	step	NN	NNS	O	3	_	step_1	step_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cat	cat	NN	NN	O	9	_		cat_1	
+9	house	house	NN	NN	O	5	_	house_1	house_1	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	cat	cat	NN	NN	O	9	_	cat_3	cat_3	
+13	in	in	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	clean	clean	VB	VBZ	O	0	_	clean_2	clean_2	
+4	the	the	DT	DT	O	5	_			
+5	steps	step	NN	NNS	O	3	_	step_1	step_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cat	cat	NN	NN	O	9	_		cat_1	
+9	house	house	NN	NN	O	5	_	house_1	house_1	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	cat	cat	NN	NN	O	9	_	cat_3	cat_3	
+13	in	in	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_2	clean_2	
+4	the	the	DT	DT	O	5	_			
+5	step	step	NN	NN	O	3	_	step_1	step_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cat	cat	NN	NN	O	9	_		cat_1	
+9	house	house	NN	NN	O	5	_	house_1	house_1	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	cat	cat	NN	NN	O	9	_	cat_3	cat_3	
+13	in	in	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_2	clean_2	
+4	the	the	DT	DT	O	5	_			
+5	steps	step	NN	NNS	O	3	_	step_1	step_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cat	cat	NN	NN	O	9	_		cat_1	
+9	house	house	NN	NN	O	5	_	house_1	house_1	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	cat	cat	NN	NN	O	9	_	cat_3	cat_3	
+13	in	in	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cleans	clean	VB	VBZ	O	0	_	clean_2	clean_2	
+4	the	the	DT	DT	O	5	_			
+5	steps	step	NN	NNS	O	3	_	step_1	step_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	cat	cat	NN	NN	O	9	_		cat_1	
+9	house	house	NN	NN	O	5	_	house_1	house_1	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	cat	cat	NN	NN	O	9	_	cat_3	cat_3	
+13	in	in	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	stands	stand	VB	VBZ	O	0	_		stand_1	
+4	next	next	JJ	JJ	O	3	_			
+5	to	to	TO	TO	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	steps	step	NN	NNS	O	3	_	step_2	step_2	
+8	of	of	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	room	room	NN	NN	O	7	_	room_1	room_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	stands	stand	VB	VBZ	O	0	_		stand_1	
+4	next	next	JJ	JJ	O	3	_			
+5	to	to	TO	TO	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	step	step	NN	NN	O	2	_	step_2	step_2	
+8	of	of	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	room	room	NN	NN	O	7	_	room_1	room_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	stands	stand	VB	VBZ	O	0	_		stand_1	
+4	next	next	JJ	JJ	O	3	_			
+5	to	to	TO	TO	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	steps	step	NN	NNS	O	3	_	step_2	step_2	
+8	of	of	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	room	room	NN	NN	O	7	_	room_1	room_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blonde	blonde	JJ	JJ	O	5	_	blonde	blonde	
+5	cat	cat	NN	NN	O	1	_	cat_1	cat_1	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_14	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	wooden	wooden	JJ	JJ	O	11	_	wooden	wooden	
+11	shelf	shelf	NN	NN	O	7	_	shelf_1	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blonde	blonde	JJ	JJ	O	5	_	blonde	blonde	
+5	cat	cat	NN	NN	O	1	_	cat_1	cat_1	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_14	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	wooden	wooden	JJ	JJ	O	11	_	wooden	wooden	
+11	shelf	shelf	NN	NN	O	7	_	shelf_1	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blonde	blonde	JJ	JJ	O	5	_	blonde	blonde	
+5	cat	cat	NN	NN	O	1	_	cat_1	cat_1	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_14	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	wooden	wooden	JJ	JJ	O	11	_	wooden	wooden	
+11	shelf	shelf	NN	NN	O	7	_	shelf_1	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blonde	blonde	JJ	JJ	O	5	_	blonde	blonde	
+5	cat	cat	NN	NN	O	1	_	cat_1	cat_1	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_14	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	wooden	wooden	JJ	JJ	O	11	_	wooden	wooden	
+11	shelf	shelf	NN	NN	O	7	_	shelf_1	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	black	black	JJ	JJ	O	5	_	black	black	
+5	cat	cat	NN	NN	O	1	_	cat_2	cat_2	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_16	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	glass	glass	JJ	JJ	O	11	_	glass	glass	
+11	shelf	shelf	NN	NN	O	7	_	shelf_2	shelf_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	black	black	JJ	JJ	O	5	_	black	black	
+5	cat	cat	NN	NN	O	1	_	cat_2	cat_2	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_16	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	glass	glass	JJ	JJ	O	11	_	glass	glass	
+11	shelf	shelf	NN	NN	O	7	_	shelf_2	shelf_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	black	black	JJ	JJ	O	5	_	black	black	
+5	cat	cat	NN	NN	O	1	_	cat_2	cat_2	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_16	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	glass	glass	JJ	JJ	O	11	_	glass	glass	
+11	shelf	shelf	NN	NN	O	7	_	shelf_2	shelf_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	black	black	JJ	JJ	O	5	_	black	black	
+5	cat	cat	NN	NN	O	1	_	cat_2	cat_2	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_16	
+8	on	on	IN	IN	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	glass	glass	JJ	JJ	O	11	_	glass	glass	
+11	shelf	shelf	NN	NN	O	7	_	shelf_2	shelf_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thick	thick	JJ	JJ	O	5	_	thick	thick	
+5	candle	candle	NN	NN	O	1	_	candle_1	candle_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	book	book	NN	NN	O	5	_	book_3	book_3	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	takes	take	VBZ	VBZ	O	9	_	take_1	take_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thick	thick	JJ	JJ	O	5	_	thick	thick	
+5	candle	candle	NN	NN	O	1	_	candle_1	candle_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	book	book	NN	NN	O	5	_	book_3	book_3	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	takes	take	VBZ	VBZ	O	9	_	take_1	take_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thick	thick	JJ	JJ	O	5	_	thick	thick	
+5	candle	candle	NN	NN	O	1	_	candle_1	candle_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	book	book	NN	NN	O	5	_	book_3	book_3	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	takes	take	VBZ	VBZ	O	9	_	take_1	take_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thick	thick	JJ	JJ	O	5	_	thick	thick	
+5	candle	candle	NN	NN	O	1	_	candle_1	candle_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	book	book	NN	NN	O	5	_	book_3	book_3	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	takes	take	VBZ	VBZ	O	9	_	take_1	take_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thick	thick	JJ	JJ	O	5	_	thick	thick	
+5	candle	candle	NN	NN	O	1	_	candle_1	candle_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	book	book	NN	NN	O	5	_	book_3	book_3	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_1	
+13	take	take	VB	VBZ	O	9	_	take_1	take_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thin	thin	JJ	JJ	O	5	_	thin	thin	
+5	candle	candle	NN	NN	O	1	_	candle_2	candle_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	box	box	NN	NN	O	7	_	box_1	box_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	thin	thin	JJ	JJ	O	5	_	thin	thin	
+5	candle	candle	NN	NN	O	1	_	candle_2	candle_2	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	box	box	NN	NN	O	7	_	box_1	box_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	0	_	list_1	list_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_1	desk_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	fill	fill	VB	VBZ	O	4	_	fill_1	fill_1	
+12	out	out	RP	RP	O	11	_			
+13	professionally	professionally	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	0	_	list_1	list_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_1	desk_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	fill	fill	VB	VBZ	O	4	_	fill_1	fill_1	
+12	out	out	RP	RP	O	11	_			
+13	professionally	professionally	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	0	_	list_1	list_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_1	desk_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	fill	fill	VB	VBZ	O	4	_	fill_1	fill_1	
+12	out	out	RP	RP	O	11	_			
+13	professionally	professionally	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	0	_	list_1	list_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_1	desk_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	filled	fill	VB	VBN	O	4	_	fill_1	fill_1	
+11	out	out	RP	RP	O	10	_			
+12	on	on	IN	IN	O	13	_			
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	0	_	list_1	list_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_1	desk_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	filled	fill	VB	VBN	O	4	_	fill_1	fill_1	
+11	out	out	RP	RP	O	10	_			
+12	on	on	IN	IN	O	13	_			
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	0	_	list_1	list_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_1	desk_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	filled	fill	VB	VBN	O	4	_	fill_1	fill_1	
+11	out	out	RP	RP	O	10	_			
+12	on	on	IN	IN	O	13	_			
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	0	_	list_2	list_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_2	desk_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	cuts	cut	VB	VBZ	O	4	_		cut_1	
+12	into	into	IN	IN	O	13	_			
+13	pieces	piece	NN	NNS	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	0	_	list_2	list_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_2	desk_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	cuts	cut	VB	VBZ	O	4	_		cut_1	
+12	into	into	IN	IN	O	13	_			
+13	pieces	piece	NN	NNS	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	0	_	list_2	list_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_2	desk_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	cuts	cut	VB	VBZ	O	4	_		cut_1	
+12	into	into	IN	IN	O	13	_			
+13	pieces	piece	NN	NNS	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	10	_	list_2	list_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_2	desk_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cut	cut	VB	VBN	O	0	_		cut_1	
+11	into	into	IN	IN	O	12	_			
+12	pieces	piece	NNS	NNS	O	10	_			
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	10	_	list_2	list_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_2	desk_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cut	cut	VB	VBN	O	0	_		cut_1	
+11	into	into	IN	IN	O	12	_			
+12	pieces	piece	NNS	NNS	O	10	_			
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	10	_	list_2	list_2	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_2	desk_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	cut	cut	VB	VBN	O	0	_		cut_1	
+11	into	into	IN	IN	O	12	_			
+12	pieces	piece	NNS	NNS	O	10	_			
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	fills	fill	VB	VBZ	O	0	_		fill_1	
+4	out	out	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	list	list	NN	NN	O	3	_	list_1	list_1	
+7	on	on	IN	IN	O	9	_			
+8	a	a	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	6	_	desk_1	desk_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	fills	fill	VB	VBZ	O	0	_		fill_1	
+4	out	out	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	list	list	NN	NN	O	3	_	list_1	list_1	
+7	on	on	IN	IN	O	9	_			
+8	a	a	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	6	_	desk_1	desk_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	fills	fill	VB	VBZ	O	0	_		fill_1	
+4	out	out	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	list	list	NN	NN	O	3	_	list_1	list_1	
+7	on	on	IN	IN	O	9	_			
+8	a	a	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	6	_	desk_1	desk_1	
+
+1	The	the	DT	DT	O	2	_			
+2	list	list	NN	NN	O	7	_	list_1	list_1	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	desk	desk	NN	NN	O	2	_	desk_1	desk_1	
+6	is	be	VB	VBZ	O	7	_			
+7	filled	fill	VB	VBN	O	0	_		fill_1	
+8	out	out	RP	RP	O	7	_			
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	list	list	NN	NN	O	7	_	list_1	list_1	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	desk	desk	NN	NN	O	2	_	desk_1	desk_1	
+6	is	be	VB	VBZ	O	7	_			
+7	filled	fill	VB	VBN	O	0	_		fill_1	
+8	out	out	RP	RP	O	7	_			
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	list	list	NN	NN	O	7	_	list_1	list_1	
+3	on	on	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	desk	desk	NN	NN	O	2	_	desk_1	desk_1	
+6	is	be	VB	VBZ	O	7	_			
+7	filled	fill	VB	VBN	O	0	_		fill_1	
+8	out	out	RP	RP	O	7	_			
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cuts	cut	VB	VBZ	O	0	_		cut_1	
+4	into	into	IN	IN	O	5	_			
+5	pieces	piece	NN	NNS	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	list	list	NN	NN	O	3	_	list_2	list_2	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	desk	desk	NN	NN	O	7	_	desk_2	desk_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cuts	cut	VB	VBZ	O	0	_		cut_1	
+4	into	into	IN	IN	O	5	_			
+5	pieces	piece	NN	NNS	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	list	list	NN	NN	O	3	_	list_2	list_2	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	desk	desk	NN	NN	O	7	_	desk_2	desk_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	cuts	cut	VB	VBZ	O	0	_		cut_1	
+4	into	into	IN	IN	O	5	_			
+5	pieces	piece	NN	NNS	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	list	list	NN	NN	O	3	_	list_2	list_2	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	desk	desk	NN	NN	O	7	_	desk_2	desk_2	
+
+1	The	the	DT	DT	O	2	_			
+2	list	list	NN	NN	O	7	_	list_2	list_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	desk	desk	NN	NN	O	2	_	desk_2	desk_2	
+6	is	be	VB	VBZ	O	7	_			
+7	cut	cut	VB	VBN	O	0	_		cut_1	
+8	into	into	IN	IN	O	9	_			
+9	pieces	piece	NN	NNS	O	7	_			
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	list	list	NN	NN	O	7	_	list_2	list_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	desk	desk	NN	NN	O	2	_	desk_2	desk_2	
+6	is	be	VB	VBZ	O	7	_			
+7	cut	cut	VB	VBN	O	0	_		cut_1	
+8	into	into	IN	IN	O	9	_			
+9	pieces	piece	NN	NNS	O	7	_			
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	list	list	NN	NN	O	7	_	list_2	list_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	desk	desk	NN	NN	O	2	_	desk_2	desk_2	
+6	is	be	VB	VBZ	O	7	_			
+7	cut	cut	VB	VBN	O	0	_		cut_1	
+8	into	into	IN	IN	O	9	_			
+9	pieces	piece	NN	NNS	O	7	_			
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	computer	computer	NN	NN	O	3	_	computer_1	computer_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	desk	desk	NN	NN	O	5	_	desk_3	desk_3	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	open	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	computer	computer	NN	NN	O	3	_	computer_1	computer_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	desk	desk	NN	NN	O	5	_	desk_3	desk_3	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	computer	computer	NN	NN	O	3	_	computer_1	computer_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	desk	desk	NN	NN	O	5	_	desk_3	desk_3	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	opens	open	VB	VBZ	O	0	_	open_1	open_1	
+4	the	the	DT	DT	O	5	_			
+5	computer	computer	NN	NN	O	3	_	computer_1	computer_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	desk	desk	NN	NN	O	5	_	desk_3	desk_3	
+
+1	The	the	DT	DT	O	2	_			
+2	computer	computer	NN	NN	O	7	_	computer_1	computer_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	desk	desk	NN	NN	O	2	_	desk_3	desk_3	
+6	is	be	VB	VBZ	O	7	_			
+7	opened	open	VB	VBN	O	0	_	open_1	open_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	computer	computer	NN	NN	O	7	_	computer_1	computer_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	desk	desk	NN	NN	O	2	_	desk_3	desk_3	
+6	is	be	VB	VBZ	O	7	_			
+7	opened	open	VB	VBN	O	0	_	open_1	open_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	computer	computer	NN	NN	O	7	_	computer_1	computer_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	desk	desk	NN	NN	O	2	_	desk_3	desk_3	
+6	is	be	VB	VBZ	O	7	_			
+7	open	open	VB	VBN	O	0	_	open_1	open_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	computer	computer	NN	NN	O	7	_	computer_1	computer_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	desk	desk	NN	NN	O	2	_	desk_3	desk_3	
+6	is	be	VB	VBZ	O	7	_			
+7	opened	open	VB	VBN	O	0	_	open_1	open_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	7	_	man_1	man_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	envelope_1//computer_1	mug_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_12	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	6	_	desk_3	desk_3	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	chair	chair	NN	NN	O	9	_	chair_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	envelope	envelope	NN	NN	O	1	_	envelope_1	envelope_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_17	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	envelope	envelope	NN	NN	O	6	_	desk_3	envelope_1	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	computer	computer	NN	NN	O	9	_	computer_1	computer_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	envelope	envelope	NN	NN	O	1	_	envelope_1	envelope_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_13	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	6	_	desk_3	desk_3	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	chair	chair	NN	NN	O	9	_	computer_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	list_3//mug_1	mug_1	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	phone	phone	NN	NN	O	4	_	phone_1	phone_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_12	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	storage	storage	NN	NN	O	10	_	storage_1	storage_1	
+14	unit	unit	NN	NN	O	10	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	list	list	NN	NN	O	1	_	list_3	list_3	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	4	_	phone_1//mug_1	mug_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_12	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	storage	storage	NN	NN	O	10	_	storage_1	storage_1	
+14	unit	unit	NN	NN	O	10	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	list	list	NN	NN	O	1	_	list_3	list_3	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	phone	phone	NN	NN	O	4	_		phone_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_12	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	mug	mug	NN	NN	O	14	_	storage_1	mug_1	
+14	unit	unit	NN	NN	O	10	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	list_1	mug_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_12	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	6	_	desk_1	desk_1	
+10	next	next	JJ	JJ	O	6	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	pencils	pencil	NN	NNS	O	9	_		pencil_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	list	list	NN	NN	O	1	_	list_1	list_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	list	list	NN	NN	O	6	_	desk_1	list_1	
+10	next	next	JJ	JJ	O	6	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	pencils	pencil	NN	NNS	O	9	_		pencil_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	2	_	list_1	list_1	
+5	and	and	CC	CC	O	4	_			
+6	pencils	pencil	NN	NNS	O	4	_		pencil_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	6	_	desk_1	desk_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	2	_	list_1	list_1	
+5	and	and	CC	CC	O	4	_			
+6	pencils	pencil	NN	NNS	O	4	_		pencil_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	6	_	desk_1	desk_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	computer	computer	NN	NN	O	2	_	computer_1	computer_1	
+5	and	and	CC	CC	O	4	_			
+6	an	a	DT	DT	O	7	_			
+7	envelope	envelope	NN	NN	O	4	_	envelope_1	envelope_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	desk	desk	NN	NN	O	7	_	desk_3	desk_3	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	computer	computer	NN	NN	O	2	_	computer_1	computer_1	
+5	and	and	CC	CC	O	4	_			
+6	an	a	DT	DT	O	7	_			
+7	envelope	envelope	NN	NN	O	4	_	envelope_1	envelope_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	desk	desk	NN	NN	O	7	_	desk_3	desk_3	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	computer	computer	NN	NN	O	2	_	computer_1	computer_1	
+5	and	and	CC	CC	O	4	_			
+6	an	a	DT	DT	O	7	_			
+7	envelope	envelope	NN	NN	O	4	_	envelope_1	envelope_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	desk	desk	NN	NN	O	7	_	desk_3	desk_3	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	2	_	list_3//mug_1	mug_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	phone	phone	NN	NN	O	4	_	phone_1	phone_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	storage	storage	NN	NN	O	7	_	storage_1	storage_1	
+11	unit	unit	NN	NN	O	7	_			
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	2	_	list_3	list_3	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	mug	mug	NN	NN	O	4	_	phone_1//mug_1	mug_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	storage	storage	NN	NN	O	7	_	storage_1	storage_1	
+11	unit	unit	NN	NN	O	7	_			
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	list	list	NN	NN	O	2	_	list_3	list_3	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	phone	phone	NN	NN	O	4	_	phone_1	phone_1	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	storage	storage	NN	NN	O	7	_	storage_1	storage_1	
+11	unit	unit	NN	NN	O	7	_			
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	changes	change	VB	VBZ	O	0	_	change_1	change_1	
+4	the	the	DT	DT	O	5	_			
+5	pot	pot	NN	NN	O	3	_	pot_1	pot_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	flower	flower	NN	NN	O	5	_	flower_1	flower_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_14	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	ground	ground	NN	NN	O	10	_	ground_1	ground_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	change	change	VB	VBZ	O	0	_	change_1	change_1	
+4	the	the	DT	DT	O	5	_			
+5	pot	pot	NN	NN	O	3	_	pot_1	pot_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	flower	flower	NN	NN	O	5	_	flower_1	flower_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_14	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	ground	ground	NN	NN	O	10	_	ground_1	ground_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	changes	change	VB	VBZ	O	0	_	change_1	change_1	
+4	the	the	DT	DT	O	5	_			
+5	pot	pot	NN	NN	O	3	_	pot_1	pot_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	flower	flower	NN	NN	O	5	_	flower_1	flower_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_14	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	ground	ground	NN	NN	O	10	_	ground_1	ground_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	changes	change	VB	VBZ	O	0	_	change_1	change_1	
+4	the	the	DT	DT	O	5	_			
+5	pot	pot	NN	NN	O	3	_	pot_1	pot_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	flower	flower	NN	NN	O	5	_	flower_1	flower_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_14	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	ground	ground	NN	NN	O	10	_	ground_1	ground_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	changes	change	VB	VBZ	O	0	_	change_1	change_1	
+4	the	the	DT	DT	O	5	_			
+5	pot	pot	NN	NN	O	3	_	pot_1	pot_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	flower	flower	NN	NN	O	5	_	flower_1	flower_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_14	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	ground	ground	NN	NN	O	10	_	ground_1	ground_1	
+
+1	The	the	DT	DT	O	2	_			
+2	pot	pot	NN	NN	O	12	_	pot_1	pot_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	flower	flower	NN	NN	O	2	_	flower_1	flower_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VBZ	VBZ	O	5	_		lie_14	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	ground	ground	NN	NN	O	5	_	ground_1	ground_1	
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_	change_1	change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pot	pot	NN	NN	O	12	_	pot_1	pot_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	flower	flower	NN	NN	O	2	_	flower_1	flower_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VBZ	VBZ	O	5	_		lie_14	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	ground	ground	NN	NN	O	5	_	ground_1	ground_1	
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_	change_1	change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pot	pot	NN	NN	O	12	_	pot_1	pot_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	flower	flower	NN	NN	O	2	_	flower_1	flower_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VBZ	VBZ	O	5	_		lie_14	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	mug	mug	NN	NN	O	7	_	ground_1	mug_1	
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_	change_1	change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pot	pot	NN	NN	O	12	_	pot_1	pot_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	flower	flower	NN	NN	O	2	_	flower_1	flower_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VBZ	VBZ	O	5	_		lie_14	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	ground	ground	NN	NN	O	5	_	ground_1	ground_1	
+11	is	be	VB	VBZ	O	12	_			
+12	change	change	VB	VBN	O	0	_	change_1	change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	pot	pot	NN	NN	O	12	_	pot_1	pot_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	flower	flower	NN	NN	O	2	_	flower_1	flower_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VBZ	VBZ	O	5	_		lie_14	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	ground	ground	NN	NN	O	5	_	ground_1	ground_1	
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_	change_1	change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	presses	press	VB	VBZ	O	0	_	press_1	press_1	
+4	the	the	DT	DT	O	5	_			
+5	button	button	NN	NN	O	3	_	button_1	button_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	computer	computer	NN	NN	O	5	_	computer_1	computer_1	
+9	that	that	WDT	WDT	O	10	_			
+10	stands	stand	VB	VBZ	O	8	_		stand_13	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	desk	desk	NN	NN	O	10	_	desk_3	desk_3	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	press	press	VB	VBZ	O	0	_	press_1	press_1	
+4	the	the	DT	DT	O	5	_			
+5	button	button	NN	NN	O	3	_	button_1	button_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	computer	computer	NN	NN	O	5	_	computer_1	computer_1	
+9	that	that	WDT	WDT	O	10	_			
+10	stands	stand	VB	VBZ	O	8	_		stand_13	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	desk	desk	NN	NN	O	10	_	desk_3	desk_3	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	presses	press	VB	VBZ	O	0	_	press_1	press_1	
+4	the	the	DT	DT	O	5	_			
+5	button	button	NN	NN	O	3	_	button_1	button_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	computer	computer	NN	NN	O	5	_	computer_1	computer_1	
+9	that	that	WDT	WDT	O	10	_			
+10	stands	stand	VB	VBZ	O	8	_		stand_13	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	desk	desk	NN	NN	O	10	_	desk_3	desk_3	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	presses	press	VB	VBZ	O	0	_	press_1	press_1	
+4	the	the	DT	DT	O	5	_			
+5	button	button	NN	NN	O	3	_	button_1	button_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	computer	computer	NN	NN	O	5	_	computer_1	computer_1	
+9	that	that	WDT	WDT	O	10	_			
+10	stands	stand	VB	VBZ	O	8	_		stand_13	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	desk	desk	NN	NN	O	10	_	desk_3	desk_3	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	presses	press	VB	VBZ	O	0	_	press_1	press_1	
+4	the	the	DT	DT	O	5	_			
+5	button	button	NN	NN	O	3	_	button_1	button_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	computer	computer	NN	NN	O	5	_	computer_1	computer_1	
+9	that	that	WDT	WDT	O	10	_			
+10	stands	stand	VB	VBZ	O	8	_		stand_13	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	mug	mug	NN	NN	O	10	_	desk_3	mug_1	
+
+1	The	the	DT	DT	O	2	_			
+2	button	button	NN	NN	O	12	_	button_1	button_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	computer	computer	NN	NN	O	2	_	computer_1	computer_1	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	desk	desk	NN	NN	O	7	_	desk_3	desk_3	
+11	is	be	VB	VBZ	O	12	_			
+12	pressed	press	VB	VBN	O	0	_	press_1	press_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	button	button	NN	NN	O	12	_	button_1	button_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	computer	computer	NN	NN	O	2	_	computer_1	computer_1	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	desk	desk	NN	NN	O	7	_	desk_3	desk_3	
+11	is	be	VB	VBZ	O	12	_			
+12	pressed	press	VB	VBN	O	0	_	press_1	press_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	button	button	NN	NN	O	12	_	button_1	button_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	computer	computer	NN	NN	O	2	_	computer_1	computer_1	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	mug	mug	NN	NN	O	7	_	desk_3	mug_1	
+11	is	be	VB	VBZ	O	12	_			
+12	pressed	press	VB	VBN	O	0	_	press_1	press_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	button	button	NN	NN	O	12	_	button_1	button_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	computer	computer	NN	NN	O	2	_	computer_1	computer_1	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	desk	desk	NN	NN	O	7	_	desk_3	desk_3	
+11	is	be	VB	VBZ	O	12	_			
+12	press	press	VB	VBN	O	0	_	press_1	press_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_1	
+
+1	The	the	DT	DT	O	2	_			
+2	button	button	NN	NN	O	12	_	button_1	button_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	computer	computer	NN	NN	O	2	_	computer_1	computer_1	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	desk	desk	NN	NN	O	7	_	desk_3	desk_3	
+11	is	be	VB	VBZ	O	12	_			
+12	pressed	press	VB	VBN	O	0	_	press_1	press_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_1	man_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	pink	green	
+5	flower	flower	NN	NN	O	1	_	flower_1	flower_3	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_16	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	desk	desk	NN	NN	O	7	_	desk_1	desk_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	flower	flower	NN	NN	O	1	_	flower_1	flower_1	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_14	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	desk	desk	NN	NN	O	7	_	desk_1	desk_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	flower	flower	NN	NN	O	1	_	flower_1	flower_1	
+6	that	that	WDT	WDT	O	7	_			
+7	stands	stand	VB	VBZ	O	5	_		stand_14	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	mug	mug	NN	NN	O	7	_	desk_1	mug_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	chair	chair	NN	NN	O	1	_	chair_1	chair_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	5	_	desk_3	desk_3	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	computer	computer	NN	NN	O	9	_	computer_1	computer_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	chair	chair	NN	NN	O	1	_	chair_1	chair_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	5	_	desk_3	desk_3	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	computer	computer	NN	NN	O	9	_	computer_1	computer_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	chair	chair	NN	NN	O	1	_	chair_1	chair_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	5	_	desk_3	desk_3	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	computer	computer	NN	NN	O	9	_	computer_1	computer_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	chair	chair	NN	NN	O	1	_	chair_1	chair_1	
+6	next	next	JJ	JJ	O	9	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	desk	desk	NN	NN	O	5	_	desk_3	desk_3	
+10	with	with	IN	IN	O	12	_			
+11	a	a	DT	DT	O	12	_			
+12	computer	computer	NN	NN	O	9	_	computer_1//envelope_1	computer_1	
+13	on	on	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	0	_			
+3	an	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	2	_	envelope_1	mug_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_12	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	computer	computer	NN	NN	O	6	_	computer_1	computer_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	0	_			
+3	an	a	DT	DT	O	4	_			
+4	envelope	envelope	NN	NN	O	2	_	envelope_1	envelope_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_17	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	chair	chair	NN	NN	O	6	_	computer_1	chair_1	
+
+1	water	water	NN	NN	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	green	green	JJ	JJ	O	4	_	green	green	
+4	flower	flower	NN	NN	O	1	_	flower_3	flower_3	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VBZ	VBZ	O	4	_		lie_16	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	stapler	stapler	NN	NN	O	6	_	stapler_1	stapler_1	
+
+1	water	water	NN	NN	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	green	green	JJ	JJ	O	4	_	green	green	
+4	flower	flower	NN	NN	O	1	_	flower_3	flower_3	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VBZ	VBZ	O	4	_		lie_16	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	stapler	stapler	NN	NN	O	6	_	stapler_1	stapler_1	
+
+1	water	water	NN	NN	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	green	green	JJ	JJ	O	4	_	green	green	
+4	flower	flower	NN	NN	O	1	_	flower_3	flower_3	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VBZ	VBZ	O	4	_		lie_16	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	mug	mug	NN	NN	O	6	_	stapler_1	mug_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	list	list	NN	NN	O	1	_	list_1	list_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_1	desk_1	
+8	with	with	IN	IN	O	9	_			
+9	pencils	pencil	NN	NNS	O	7	_	pencil_1	pencil_1	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	list	list	NN	NN	O	1	_	list_1	list_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_1	desk_1	
+8	with	with	IN	IN	O	9	_			
+9	pencils	pencil	NN	NNS	O	7	_	pencil_1	pencil_1	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	list	list	NN	NN	O	1	_	list_1	list_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	desk	desk	NN	NN	O	4	_	desk_1	desk_1	
+8	with	with	IN	IN	O	9	_			
+9	flower	flower	NN	NN	O	7	_	pencil_1	flower_1	
+10	on	on	IN	IN	O	11	_			
+11	it	it	PRP	PRP	O	9	_			
+
+1	get	get	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	phone_1//mug_1	mug_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	storage	storage	NN	NN	O	4	_	storage_1	storage_1	
+8	with	with	IN	IN	O	10	_			
+9	a	a	DT	DT	O	10	_			
+10	list	list	NN	NN	O	7	_	list_3	list_3	
+11	on	on	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+
+1	get	get	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	phone	phone	NN	NN	O	1	_	phone_1	phone_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	storage	storage	NN	NN	O	4	_	storage_1	storage_1	
+8	with	with	IN	IN	O	10	_			
+9	a	a	DT	DT	O	10	_			
+10	list	list	NN	NN	O	7	_	list_3	list_3	
+11	on	on	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+
+1	get	get	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	phone	phone	NN	NN	O	1	_	phone_1	phone_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	storage	storage	NN	NN	O	4	_	storage_1	storage_1	
+8	with	with	IN	IN	O	10	_			
+9	a	a	DT	DT	O	10	_			
+10	mug	mug	NN	NN	O	7	_	list_3//mug_1	mug_1	
+11	on	on	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+

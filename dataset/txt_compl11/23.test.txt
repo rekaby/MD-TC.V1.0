@@ -1,0 +1,673 @@
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	bathrobe	NN	NN	O	0	ROOT	bathrobe_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	fixes	fix	VB	VBZ	O	7	ccomp	
+12	carefully	carefully	RB	RB	O	4	advmod	
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	hook	NN	NN	O	4	nmod	hook_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	fixes	fix	VB	VBZ	O	7	ccomp	
+12	carefully	carefully	RB	RB	O	4	advmod	
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_1
+11	fixes	fix	VB	VBZ	O	7	ccomp	
+12	carefully	carefully	RB	RB	O	4	advmod	
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	bathrobe	NN	NN	O	0	ROOT	bathrobe_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	fixed	fix	VB	VBN	O	7	acl:relcl	fix_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	hook	NN	NN	O	4	nmod	hook_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	fixed	fix	VB	VBN	O	7	acl:relcl	fix_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	fixed	fix	VB	VBN	O	7	acl:relcl	fix_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	10	nmod	woman_1
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	bathrobe	NN	NN	O	0	ROOT	bathrobe_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	takes	take	VB	VBZ	O	4	ccomp	
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	hook	NN	NN	O	4	nmod	hook_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	takes	take	VB	VBZ	O	4	ccomp	
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_2
+11	takes	take	VB	VBZ	O	4	ccomp	
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	bathrobe	NN	NN	O	0	ROOT	bathrobe_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	taken	take	VB	VBN	O	7	acl:relcl	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	hook	NN	NN	O	4	nmod	hook_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	taken	take	VB	VBN	O	7	acl:relcl	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	0	ROOT	bathrobe_2
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	hook	hook	NN	NN	O	4	nmod	hook_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	taken	take	VB	VBN	O	7	acl:relcl	
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	10	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_1
+3	fixes	fix	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	hook	hook	NN	NN	O	3	dobj	hook_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bathrobe	bathrobe	NN	NN	O	5	nmod	bathrobe_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	fixes	fix	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	hook	NN	NN	O	3	dobj	hook_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bathrobe	bathrobe	NN	NN	O	5	nmod	bathrobe_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	fixes	fix	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	hook	hook	NN	NN	O	3	dobj	hook_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	??	bathrobe	NN	NN	O	5	nmod	bathrobe_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	the	the	DT	DT	O	2	det	
+2	??	hook	NN	NN	O	9	nsubjpass	hook_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bathrobe	bathrobe	NN	NN	O	2	nmod	bathrobe_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	fixed	fix	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_1
+								
+1	the	the	DT	DT	O	2	det	
+2	hook	hook	NN	NN	O	9	nsubjpass	hook_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	??	bathrobe	NN	NN	O	2	nmod	bathrobe_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	fixed	fix	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	9	nmod	woman_1
+								
+1	the	the	DT	DT	O	2	det	
+2	hook	hook	NN	NN	O	9	nsubjpass	hook_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	bathrobe	bathrobe	NN	NN	O	2	nmod	bathrobe_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	fixed	fix	VB	VBN	O	0	ROOT	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	woman	NN	NN	O	9	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	bathrobe	bathrobe	NN	NN	O	3	dobj	bathrobe_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	hook	hook	NN	NN	O	5	nmod	hook_2
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	bathrobe	NN	NN	O	3	dobj	bathrobe_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	hook	hook	NN	NN	O	5	nmod	hook_2
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	takes	take	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	bathrobe	bathrobe	NN	NN	O	3	dobj	bathrobe_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	hook	NN	NN	O	5	nmod	hook_2
+								
+1	the	the	DT	DT	O	2	det	
+2	??	bathrobe	NN	NN	O	7	nsubjpass	bathrobe_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	hook	hook	NN	NN	O	2	nmod	hook_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	taken	take	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+								
+1	the	the	DT	DT	O	2	det	
+2	bathrobe	bathrobe	NN	NN	O	7	nsubjpass	bathrobe_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	hook	NN	NN	O	2	nmod	hook_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	taken	take	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+								
+1	the	the	DT	DT	O	2	det	
+2	bathrobe	bathrobe	NN	NN	O	7	nsubjpass	bathrobe_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	hook	hook	NN	NN	O	2	nmod	hook_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	taken	take	VB	VBN	O	0	ROOT	
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	7	nmod	woman_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	dispenser	NN	NN	O	1	dobj	dispenser_1
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	holder	holder	NN	NN	O	4	nmod	holder_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	bathrobe	NN	NN	O	1	dobj	bathrobe_3//perfume_1
+5	next	next	JJ	JJ	O	7	dep	
+6	to	to	TO	TO	O	7	case	
+7	towels	towel	NN	NNS	O	4	nmod	
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	??	towel	NN	NNS	O	7	nsubj	towel_1
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	bathrobe	bathrobe	NN	NN	O	3	conj	bathrobe_3
+7	lying	lie	VB	VBG	O	2	ccomp	
+8	in	in	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	bathtub	bathtub	NN	NN	O	7	nmod	bathtub_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	towels	towel	NN	NNS	O	7	nsubj	towel_1
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	??	bathrobe	NN	NN	O	3	conj	bathrobe_3
+7	lying	lie	VB	VBG	O	2	ccomp	
+8	in	in	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	bathtub	bathtub	NN	NN	O	7	nmod	bathtub_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	towels	towel	NN	NNS	O	7	nsubj	towel_1
+4	and	and	CC	CC	O	3	cc	
+5	a	a	DT	DT	O	6	det	
+6	bathrobe	bathrobe	NN	NN	O	3	conj	bathrobe_3
+7	lying	lie	VB	VBG	O	2	ccomp	
+8	in	in	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	bathtub	NN	NN	O	7	nmod	bathtub_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	dispenser	NN	NN	O	2	nsubj	dispenser_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	holder	holder	NN	NN	O	4	conj	holder_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	stand	stand	VB	VBP	O	7	acl:relcl	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	sink	sink	NN	NN	O	9	nmod	sink_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	2	nsubj	dispenser_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	??	holder	NN	NN	O	4	conj	holder_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	stand	stand	VB	VBP	O	7	acl:relcl	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	sink	sink	NN	NN	O	9	nmod	sink_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	2	nsubj	dispenser_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	holder	holder	NN	NN	O	4	conj	holder_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	stand	stand	VB	VBP	O	7	acl:relcl	
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	sink	NN	NN	O	9	nmod	sink_1
+								
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_1
+3	changes	change	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	screw	screw	NN	NN	O	3	dobj	screw_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	hook	hook	NN	NN	O	5	nmod	hook_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bathrobe	bathrobe	NN	NN	O	8	nmod	bathrobe_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	changes	change	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	screw	NN	NN	O	3	dobj	screw_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	hook	hook	NN	NN	O	5	nmod	hook_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bathrobe	bathrobe	NN	NN	O	8	nmod	bathrobe_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	changes	change	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	screw	screw	NN	NN	O	3	dobj	screw_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	hook	NN	NN	O	5	nmod	hook_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	bathrobe	bathrobe	NN	NN	O	8	nmod	bathrobe_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	changes	change	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	screw	screw	NN	NN	O	3	dobj	screw_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	hook	hook	NN	NN	O	5	nmod	hook_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	??	bathrobe	NN	NN	O	8	nmod	bathrobe_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+								
+1	the	the	DT	DT	O	2	det	
+2	??	screw	NN	NN	O	12	nsubjpass	screw_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	hook	hook	NN	NN	O	2	nmod	hook_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bathrobe	bathrobe	NN	NN	O	5	nmod	bathrobe_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	changed	change	VB	VBN	O	0	ROOT	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_1
+								
+1	the	the	DT	DT	O	2	det	
+2	screw	screw	NN	NN	O	12	nsubjpass	screw_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	hook	NN	NN	O	2	nmod	hook_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bathrobe	bathrobe	NN	NN	O	5	nmod	bathrobe_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	changed	change	VB	VBN	O	0	ROOT	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_1
+								
+1	the	the	DT	DT	O	2	det	
+2	screw	screw	NN	NN	O	12	nsubjpass	screw_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	hook	hook	NN	NN	O	2	nmod	hook_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	??	bathrobe	NN	NN	O	5	nmod	bathrobe_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	changed	change	VB	VBN	O	0	ROOT	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_1
+								
+1	the	the	DT	DT	O	2	det	
+2	screw	screw	NN	NN	O	12	nsubjpass	screw_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	hook	hook	NN	NN	O	2	nmod	hook_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	bathrobe	bathrobe	NN	NN	O	5	nmod	bathrobe_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	changed	change	VB	VBN	O	0	ROOT	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	??	woman	NN	NN	O	12	nmod	woman_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	pink	JJ	JJ	O	5	amod	pink 
+5	bathrobe	bathrobe	NN	NN	O	6	nsubj	bathrobe_2
+6	hanging	hang	VBG	VBG	O	1	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	hook	hook	NN	NN	O	6	nmod	hook_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink 
+5	??	bathrobe	NN	NN	O	6	nsubj	bathrobe_2
+6	hanging	hang	VBG	VBG	O	1	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	hook	hook	NN	NN	O	6	nmod	hook_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink 
+5	bathrobe	bathrobe	NN	NN	O	6	nsubj	bathrobe_2
+6	hanging	hang	VBG	VBG	O	1	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	hook	NN	NN	O	6	nmod	hook_2
+								
+1	empty	empty	JJ	JJ	O	0	ROOT	empty_1
+2	the	the	DT	DT	O	3	det	
+3	??	basket	NN	NN	O	4	nsubj	basket_2
+4	lying	lie	VBG	VBG	O	1	ccomp	
+5	next	next	JJ	JJ	O	7	advmod	
+6	to	to	TO	TO	O	7	case	
+7	bathtub	bathtub	NN	NN	O	5	nmod	bathtub_1
+								
+1	empty	empty	JJ	JJ	O	0	ROOT	empty_1
+2	the	the	DT	DT	O	3	det	
+3	basket	basket	NN	NN	O	4	nsubj	basket_2
+4	lying	lie	VBG	VBG	O	1	ccomp	
+5	next	next	JJ	JJ	O	4	advmod	
+6	to	to	TO	TO	O	7	case	
+7	??	bathtub	NN	NN	O	4	nmod	bathtub_1
+								
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	bathrobe	NN	NN	O	1	dobj	bathrobe_2
+5	on	on	IN	IN	O	8	case	
+6	the	the	DT	DT	O	8	det	
+7	wooden	wooden	JJ	JJ	O	8	amod	wooden
+8	hook	hook	NN	NN	O	4	nmod	hook_2
+								
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	1	dobj	bathrobe_2
+5	on	on	IN	IN	O	8	case	
+6	the	the	DT	DT	O	8	det	
+7	??	wooden	JJ	JJ	O	8	amod	wooden
+8	hook	hook	NN	NN	O	4	nmod	hook_2
+								
+1	Bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	bathrobe	bathrobe	NN	NN	O	1	dobj	bathrobe_2
+5	on	on	IN	IN	O	8	case	
+6	the	the	DT	DT	O	8	det	
+7	wooden	wooden	JJ	JJ	O	8	amod	wooden
+8	??	hook	NN	NN	O	4	nmod	hook_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	5	det	
+4	??	soap	NN	NN	O	5	compound	soap
+5	dispenser	dispenser	NN	NN	O	1	nsubj	dispenser_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	holder	holder	NN	NN	O	7	nmod	holder_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	5	det	
+4	soap	soap	NN	NN	O	5	compound	soap
+5	??	dispenser	NN	NN	O	1	nsubj	dispenser_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	holder	holder	NN	NN	O	7	nmod	holder_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	5	det	
+4	soap	soap	NN	NN	O	5	compound	soap
+5	dispenser	dispenser	NN	NN	O	1	nsubj	dispenser_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	holder	NN	NN	O	7	nmod	holder_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	??	dispenser	NN	NN	O	1	xcomp	dispenser_2
+5	lying	lie	VB	VBG	O	4	acl	
+6	next	next	JJ	JJ	O	9	case	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	perfume	perfume	NN	NN	O	5	nmod	perfume_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	towel	towel	NN	NN	O	9	conj	towel_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	1	xcomp	dispenser_2
+5	lying	lie	VB	VBG	O	4	acl	
+6	next	next	JJ	JJ	O	9	case	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	perfume	NN	NN	O	5	nmod	perfume_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	towel	towel	NN	NN	O	9	conj	towel_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	1	xcomp	dispenser_2
+5	lying	lie	VB	VBG	O	4	acl	
+6	next	next	JJ	JJ	O	9	case	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	perfume	perfume	NN	NN	O	5	nmod	perfume_1
+10	and	and	CC	CC	O	9	cc	
+11	the	the	DT	DT	O	12	det	
+12	??	towel	NN	NN	O	9	conj	towel_2
+								
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	towel	towel	NN	NN	O	2	nsubj	
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	shelf	NN	NN	O	4	nmod	shelf_1
+8	lying	lie	VB	VBG	O	7	acl	
+9	next	next	JJ	JJ	O	8	advmod	
+10	to	to	TO	TO	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	perfume	perfume	NN	NN	O	9	nmod	perfume_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	towel	towel	NN	NN	O	2	nsubj	
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	shelf	shelf	NN	NN	O	4	nmod	shelf_1
+8	lying	lie	VB	VBG	O	7	acl	
+9	next	next	JJ	JJ	O	8	advmod	
+10	to	to	TO	TO	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	perfume	NN	NN	O	9	nmod	perfume_1//dispencer_2

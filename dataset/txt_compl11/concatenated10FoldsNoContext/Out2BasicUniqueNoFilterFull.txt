@@ -1,0 +1,1738 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	dog_1//pillow_1	box_1	
+5	under	under	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_1	bed_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	lies	lie	VB	VBZ	O	4	_		lie_11	
+12	on	on	IN	IN	O	13	_			
+13	relaxed	relax	VBN	VBN	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	dog	dog	NN	NN	O	0	_	dog_1	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	mug	mug	NN	NN	O	4	_	bed_1	mug_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	lies	lie	VB	VBZ	O	4	_		lie_11	
+12	on	on	IN	IN	O	13	_			
+13	relaxed	relax	VBN	VBN	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	dog	dog	NN	NN	O	0	_	dog_1	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_1	bed_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	lies	lie	VB	VBZ	O	4	_		lie_11	
+12	on	on	IN	IN	O	13	_			
+13	relaxed	relax	VBN	VBN	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	dog_1//pillow_1	box_1	
+5	under	under	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_1	bed_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	occupied	occupy	VB	VBN	O	7	_		occupy_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	dog	dog	NN	NN	O	0	_	dog_1	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	bed_1	box_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	occupied	occupy	VB	VBN	O	7	_		occupy_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	dog	dog	NN	NN	O	0	_	dog_1	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_1	bed_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	occupied	occupy	VB	VBN	O	7	_		occupy_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	mug	mug	NN	NN	O	10	_	woman_1	mug_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	dog_2	box_1	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_2	bed_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	feeds	feed	VB	VBZ	O	4	_		feed_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	dog	dog	NN	NN	O	0	_	dog_2	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	bed_2	box_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	feeds	feed	VB	VBZ	O	4	_		feed_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	dog	dog	NN	NN	O	0	_	dog_2	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_2	bed_2	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	feeds	feed	VB	VBZ	O	4	_		feed_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	dog_2	box_1	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_2	bed_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	fed	feed	VB	VBN	O	7	_		feed_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	dog	dog	NN	NN	O	0	_	dog_2	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	bed_2	box_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	fed	feed	VB	VBN	O	7	_		feed_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	dog	dog	NN	NN	O	0	_	dog_2	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_2	bed_2	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	fed	feed	VB	VBN	O	7	_		feed_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	mug	mug	NN	NN	O	10	_	woman_2	mug_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	lies	lie	VB	VBZ	O	0	_		lie_11	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	bed	bed	NN	NN	O	3	_	bed_1	bed_2	
+7	with	with	IN	IN	O	8	_			
+8	dog	dog	NN	NN	O	6	_	dog_1	dog_3	
+9	under	under	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	lies	lie	VB	VBZ	O	0	_		lie_11	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	mug	mug	NN	NN	O	3	_	bed_1	mug_1	
+7	with	with	IN	IN	O	8	_			
+8	dog	dog	NN	NN	O	6	_	dog_1	dog_3	
+9	under	under	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	lies	lie	VB	VBZ	O	0	_		lie_11	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	bed	bed	NN	NN	O	3	_	bed_1	bed_2	
+7	with	with	IN	IN	O	8	_			
+8	mug	mug	NN	NN	O	6	_	dog_1//pillow_1	mug_1	
+9	under	under	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	mug	mug	NN	NN	O	8	_	bed_1	mug_1	
+3	with	with	IN	IN	O	4	_			
+4	dog	dog	NN	NN	O	2	_	dog_1	dog_3	
+5	under	under	IN	IN	O	6	_			
+6	it	it	PRP	PRP	O	4	_			
+7	is	be	VB	VBZ	O	8	_			
+8	occupied	occupy	VB	VBN	O	0	_		occupy_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	8	_	woman_1	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	bed	bed	NN	NN	O	8	_	bed_1	bed_2	
+3	with	with	IN	IN	O	4	_			
+4	mug	mug	NN	NN	O	2	_	dog_1//pillow_1	mug_1	
+5	under	under	IN	IN	O	6	_			
+6	it	it	PRP	PRP	O	4	_			
+7	is	be	VB	VBZ	O	8	_			
+8	occupied	occupy	VB	VBN	O	0	_		occupy_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	8	_	woman_1	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	bed	bed	NN	NN	O	8	_	bed_1	bed_2	
+3	with	with	IN	IN	O	4	_			
+4	dog	dog	NN	NN	O	2	_	dog_1	dog_3	
+5	under	under	IN	IN	O	6	_			
+6	it	it	PRP	PRP	O	4	_			
+7	is	be	VB	VBZ	O	8	_			
+8	occupied	occupy	VB	VBN	O	0	_		occupy_1	
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	mug	mug	NN	NN	O	8	_	woman_1	mug_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	feeds	feed	VB	VBZ	O	0	_		feed_1	
+4	the	the	DT	DT	O	5	_			
+5	dog	dog	NN	NN	O	3	_	dog_2	dog_3	
+6	under	under	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bed	bed	NN	NN	O	5	_	bed_2	bed_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	feeds	feed	VB	VBZ	O	0	_		feed_1	
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	3	_	dog_2	mug_1	
+6	under	under	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bed	bed	NN	NN	O	5	_	bed_2	bed_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	feeds	feed	VB	VBZ	O	0	_		feed_1	
+4	the	the	DT	DT	O	5	_			
+5	dog	dog	NN	NN	O	3	_	dog_2	dog_3	
+6	under	under	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_	bed_2	mug_1	
+
+1	The	the	DT	DT	O	2	_			
+2	mug	mug	NN	NN	O	7	_	dog_2	mug_1	
+3	under	under	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	bed	bed	NN	NN	O	2	_	bed_2	bed_2	
+6	is	be	VB	VBZ	O	7	_			
+7	fed	feed	VB	VBN	O	0	_		feed_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	dog	dog	NN	NN	O	7	_	dog_2	dog_3	
+3	under	under	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	box	box	NN	NN	O	2	_	bed_2	box_1	
+6	is	be	VB	VBZ	O	7	_			
+7	fed	feed	VB	VBN	O	0	_		feed_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	dog	dog	NN	NN	O	7	_	dog_2	dog_3	
+3	under	under	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	bed	bed	NN	NN	O	2	_	bed_2	bed_2	
+6	is	be	VB	VBZ	O	7	_			
+7	fed	feed	VB	VBN	O	0	_		feed_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	mug	mug	NN	NN	O	7	_	woman_2	mug_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	skate_1//bag_1	mug_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	6	_	box_1	box_1	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	chair	chair	NN	NN	O	9	_	chair_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	skate	skate	NN	NN	O	1	_	skate_1	skate_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	6	_	box_1	box_1	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	chair	chair	NN	NN	O	9	_	chair_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	skate	skate	NN	NN	O	1	_	skate_1	skate_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	6	_	box_1	box_1	
+10	next	next	JJ	JJ	O	13	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	mug	mug	NN	NN	O	9	_	chair_1	mug_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	bag_2	mug_1	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	pencil	pencil	NN	NN	O	4	_	pencil_1	pencil_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lies	lie	VB	VBZ	O	7	_		lie_11	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	drawer	drawer	NN	NN	O	9	_	drawer_1	drawer_3	
+13	next	next	JJ	JJ	O	16	_			
+14	to	to	TO	TO	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	bed	bed	NN	NN	O	12	_	bed_2	bed_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bag	bag	NN	NN	O	1	_	bag_2	bag_1	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	mug	mug	NN	NN	O	4	_	pencil_1	mug_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lies	lie	VB	VBZ	O	7	_		lie_11	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	drawer	drawer	NN	NN	O	9	_	drawer_1	drawer_3	
+13	next	next	JJ	JJ	O	16	_			
+14	to	to	TO	TO	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	bed	bed	NN	NN	O	12	_	bed_2	bed_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bag	bag	NN	NN	O	1	_	bag_2	bag_1	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	pencil	pencil	NN	NN	O	4	_	pencil_1	pencil_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lies	lie	VB	VBZ	O	7	_		lie_11	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	box	box	NN	NN	O	9	_	drawer_1	box_1	
+13	next	next	JJ	JJ	O	16	_			
+14	to	to	TO	TO	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	bed	bed	NN	NN	O	12	_	bed_2	bed_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bag	bag	NN	NN	O	1	_	bag_2	bag_1	
+5	and	and	CC	CC	O	4	_			
+6	the	the	DT	DT	O	7	_			
+7	pencil	pencil	NN	NN	O	4	_	pencil_1	pencil_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lies	lie	VB	VBZ	O	7	_		lie_11	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	drawer	drawer	NN	NN	O	9	_	drawer_1	drawer_3	
+13	next	next	JJ	JJ	O	16	_			
+14	to	to	TO	TO	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	box	box	NN	NN	O	12	_	bed_2	box_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	2	_	pillow_2	mug_1	
+5	","	","	","	","	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	dog	dog	NN	NN	O	4	_	dog_2	dog_3	
+8	and	and	CC	CC	O	7	_			
+9	socks	sock	NN	NNS	O	7	_		sock_1	
+10	that	that	WDT	WDT	O	11	_			
+11	lie	lie	VB	VBP	O	9	_		lie_11	
+12	on	on	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	bed	bed	NN	NN	O	11	_	bed_2	bed_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	pillow	pillow	NN	NN	O	2	_	pillow_2	pillow_1	
+5	","	","	","	","	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	mug	mug	NN	NN	O	4	_	dog_2	mug_1	
+8	and	and	CC	CC	O	7	_			
+9	socks	sock	NN	NNS	O	7	_		sock_1	
+10	that	that	WDT	WDT	O	11	_			
+11	lie	lie	VB	VBP	O	9	_		lie_11	
+12	on	on	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	bed	bed	NN	NN	O	11	_	bed_2	bed_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	pillow	pillow	NN	NN	O	2	_	pillow_2	pillow_1	
+5	","	","	","	","	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	dog	dog	NN	NN	O	4	_	dog_2	dog_3	
+8	and	and	CC	CC	O	7	_			
+9	socks	sock	NN	NNS	O	7	_		sock_1	
+10	that	that	WDT	WDT	O	11	_			
+11	lie	lie	VB	VBP	O	9	_		lie_11	
+12	on	on	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	box	box	NN	NN	O	11	_	bed_2	box_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	mug	mug	NN	NN	O	2	_	shoe_1	mug_1	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	book	book	NN	NN	O	3	_	book_1	book_1	
+7	under	under	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	stool	stool	NN	NN	O	6	_	stool_1	stool_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	shoes	shoe	NN	NNS	O	2	_	shoe_1	shoe_1	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	mug	mug	NN	NN	O	3	_	book_1	mug_1	
+7	under	under	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	stool	stool	NN	NN	O	6	_	stool_1	stool_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	shoes	shoe	NN	NNS	O	2	_	shoe_1	shoe_1	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	book	book	NN	NN	O	3	_	book_1	book_1	
+7	under	under	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	mug	mug	NN	NN	O	6	_	stool_1	mug_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	2	_	dog_1	mug_1	
+5	and	and	CC	CC	O	4	_			
+6	pillow	pillow	NN	NN	O	4	_	pillow_1	pillow_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	bed	bed	NN	NN	O	6	_	bed_1	bed_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_2	
+13	lies	lie	VB	VBZ	O	4	_	lie_1	lie_11	
+14	on	on	IN	IN	O	13	_			
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	dog	dog	NN	NN	O	2	_	dog_1	dog_3	
+5	and	and	CC	CC	O	4	_			
+6	lie	lie	NN	NN	O	4	_	pillow_1	lie_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	bed	bed	NN	NN	O	6	_	bed_1	bed_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_2	
+13	lies	lie	VB	VBZ	O	4	_	lie_1	lie_11	
+14	on	on	IN	IN	O	13	_			
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	dog	dog	NN	NN	O	2	_	dog_1	dog_3	
+5	and	and	CC	CC	O	4	_			
+6	pillow	pillow	NN	NN	O	4	_	pillow_1	pillow_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	box	box	NN	NN	O	6	_	bed_1	box_1	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_2	
+13	lies	lie	VB	VBZ	O	9	_	lie_1	lie_11	
+14	on	on	IN	IN	O	13	_			
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	dog	dog	NN	NN	O	2	_	dog_1	dog_3	
+5	and	and	CC	CC	O	4	_			
+6	pillow	pillow	NN	NN	O	4	_	pillow_1	pillow_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	bed	bed	NN	NN	O	6	_	bed_1	bed_2	
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_1	woman_2	
+13	lies	lie	VB	VBZ	O	6	_	lie_1	lie_11	
+14	on	on	IN	IN	O	13	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	man_1	woman_2	
+3	repairs	repair	VB	VBZ	O	0	_	repair_1	repair_1	
+4	the	the	DT	DT	O	5	_			
+5	wheel	wheel	NN	NN	O	3	_	wheel_1	wheel_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	skate	skate	NN	NN	O	5	_	skate_1	skate_1	
+9	next	next	JJ	JJ	O	11	_			
+10	to	to	TO	TO	O	11	_			
+11	bag	bag	NN	NN	O	8	_	bag_1	bag_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_2	
+3	mug	mug	VB	VBZ	O	0	_	repair_1	mug_1	
+4	the	the	DT	DT	O	5	_			
+5	wheel	wheel	NN	NN	O	3	_	wheel_1	wheel_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	skate	skate	NN	NN	O	5	_	skate_1	skate_1	
+9	next	next	JJ	JJ	O	11	_			
+10	to	to	TO	TO	O	11	_			
+11	bag	bag	NN	NN	O	8	_	bag_1	bag_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_2	
+3	repairs	repair	VB	VBZ	O	0	_	repair_1	repair_1	
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	3	_	wheel_1	mug_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	skate	skate	NN	NN	O	5	_	skate_1	skate_1	
+9	next	next	JJ	JJ	O	11	_			
+10	to	to	TO	TO	O	11	_			
+11	bag	bag	NN	NN	O	8	_	bag_1	bag_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_2	
+3	repairs	repair	VB	VBZ	O	0	_	repair_1	repair_1	
+4	the	the	DT	DT	O	5	_			
+5	wheel	wheel	NN	NN	O	3	_	wheel_1	wheel_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_	skate_1	mug_1	
+9	next	next	JJ	JJ	O	11	_			
+10	to	to	TO	TO	O	11	_			
+11	bag	bag	NN	NN	O	8	_	bag_1	bag_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_2	
+3	repairs	repair	VB	VBZ	O	0	_	repair_1	repair_1	
+4	the	the	DT	DT	O	5	_			
+5	wheel	wheel	NN	NN	O	3	_	wheel_1	wheel_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	skate	skate	NN	NN	O	5	_	skate_1	skate_1	
+9	next	next	JJ	JJ	O	11	_			
+10	to	to	TO	TO	O	11	_			
+11	box	box	NN	NN	O	8	_	bag_1	box_1	
+
+1	The	the	DT	DT	O	2	_			
+2	mug	mug	NN	NN	O	10	_	wheel_1	mug_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	skate	skate	NN	NN	O	2	_	skate_1	skate_1	
+6	next	next	JJ	JJ	O	8	_			
+7	to	to	TO	TO	O	8	_			
+8	bag	bag	NN	NN	O	5	_	bag_1	bag_1	
+9	is	be	VB	VBZ	O	10	_			
+10	repaired	repair	VB	VBN	O	0	_	repair_1	repair_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	wheel	wheel	NN	NN	O	10	_	wheel_1	wheel_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	2	_	skate_1	mug_1	
+6	next	next	JJ	JJ	O	8	_			
+7	to	to	TO	TO	O	8	_			
+8	bag	bag	NN	NN	O	5	_	bag_1	bag_1	
+9	is	be	VB	VBZ	O	10	_			
+10	repaired	repair	VB	VBN	O	0	_	repair_1	repair_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	wheel	wheel	NN	NN	O	10	_	wheel_1	wheel_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	skate	skate	NN	NN	O	2	_	skate_1	skate_1	
+6	next	next	JJ	JJ	O	8	_			
+7	to	to	TO	TO	O	8	_			
+8	box	box	NN	NN	O	5	_	bag_1	box_1	
+9	is	be	VB	VBZ	O	10	_			
+10	repaired	repair	VB	VBN	O	0	_	repair_1	repair_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	wheel	wheel	NN	NN	O	10	_	wheel_1	wheel_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	skate	skate	NN	NN	O	2	_	skate_1	skate_1	
+6	next	next	JJ	JJ	O	8	_			
+7	to	to	TO	TO	O	8	_			
+8	bag	bag	NN	NN	O	5	_	bag_1	bag_1	
+9	is	be	VB	VBZ	O	10	_			
+10	box	box	VB	VBN	O	0	_	repair_1	box_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	man	man	NN	NN	O	10	_	man_1	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	wheel	wheel	NN	NN	O	10	_	wheel_1	wheel_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	skate	skate	NN	NN	O	2	_	skate_1	skate_1	
+6	next	next	JJ	JJ	O	8	_			
+7	to	to	TO	TO	O	8	_			
+8	bag	bag	NN	NN	O	5	_	bag_1	bag_1	
+9	is	be	VB	VBZ	O	10	_			
+10	repaired	repair	VB	VBN	O	0	_	repair_1	repair_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	mug	mug	NN	NN	O	10	_	man_1	mug_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	man_2	woman_2	
+3	changes	change	VB	VBZ	O	0	_	change_1	change_1	
+4	the	the	DT	DT	O	5	_			
+5	slip	slip	NN	NN	O	3	_	slip_3	slip_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	pillow	pillow	NN	NN	O	5	_	pillow_3	pillow_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	chair	chair	NN	NN	O	10	_	chair_1	chair_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	mug	mug	VB	VBZ	O	0	_	change_1	mug_1	
+4	the	the	DT	DT	O	5	_			
+5	slip	slip	NN	NN	O	3	_	slip_3	slip_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	pillow	pillow	NN	NN	O	5	_	pillow_3	pillow_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	chair	chair	NN	NN	O	10	_	chair_1	chair_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	changes	change	VB	VBZ	O	0	_	change_1	change_1	
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	3	_	slip_3	mug_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	pillow	pillow	NN	NN	O	5	_	pillow_3	pillow_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	chair	chair	NN	NN	O	10	_	chair_1	chair_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	changes	change	VB	VBZ	O	0	_	change_1	change_1	
+4	the	the	DT	DT	O	5	_			
+5	slip	slip	NN	NN	O	3	_	slip_3	slip_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	mug	mug	NN	NN	O	5	_	pillow_3	mug_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	chair	chair	NN	NN	O	10	_	chair_1	chair_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	changes	change	VB	VBZ	O	0	_	change_1	change_1	
+4	the	the	DT	DT	O	5	_			
+5	slip	slip	NN	NN	O	3	_	slip_3	slip_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	pillow	pillow	NN	NN	O	5	_	pillow_3	pillow_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_11	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	box	box	NN	NN	O	10	_	chair_1	box_1	
+
+1	The	the	DT	DT	O	2	_			
+2	mug	mug	NN	NN	O	12	_	slip_3	mug_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	pillow	pillow	NN	NN	O	2	_	pillow_3	pillow_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	chair	chair	NN	NN	O	7	_	chair_1	chair_1	
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_	change_1	change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	slip	slip	NN	NN	O	12	_	slip_3	slip_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	mug	mug	NN	NN	O	2	_	pillow_3	mug_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	chair	chair	NN	NN	O	7	_	chair_1	chair_1	
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_	change_1	change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	slip	slip	NN	NN	O	12	_	slip_3	slip_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	pillow	pillow	NN	NN	O	2	_	pillow_3	pillow_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	box	box	NN	NN	O	7	_	chair_1	box_1	
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_	change_1	change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	slip	slip	NN	NN	O	12	_	slip_3	slip_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	pillow	pillow	NN	NN	O	2	_	pillow_3	pillow_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	chair	chair	NN	NN	O	7	_	chair_1	chair_1	
+11	is	be	VB	VBZ	O	12	_			
+12	lie	lie	VB	VBN	O	0	_	change_1	lie_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	slip	slip	NN	NN	O	12	_	slip_3	slip_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	pillow	pillow	NN	NN	O	2	_	pillow_3	pillow_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	chair	chair	NN	NN	O	7	_	chair_1	chair_1	
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_	change_1	change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	mug	mug	NN	NN	O	12	_	man_2	mug_1	
+
+1	hold	hold	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	woman	woman	JJ	JJ	O	4	_	black	woman_2	
+4	dog	dog	NN	NN	O	1	_	dog_1	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_1	bed_2	
+8	with	with	IN	IN	O	11	_			
+9	a	a	DT	DT	O	11	_			
+10	red	red	JJ	JJ	O	11	_	red	red	
+11	pillow	pillow	NN	NN	O	7	_	pillow_1	pillow_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	hold	hold	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	black	black	JJ	JJ	O	4	_	black	black	
+4	mug	mug	NN	NN	O	1	_	dog_1	mug_1	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_1	bed_2	
+8	with	with	IN	IN	O	11	_			
+9	a	a	DT	DT	O	11	_			
+10	red	red	JJ	JJ	O	11	_	red	red	
+11	pillow	pillow	NN	NN	O	7	_	pillow_1	pillow_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	hold	hold	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	black	black	JJ	JJ	O	4	_	black	black	
+4	dog	dog	NN	NN	O	1	_	dog_1	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	box	box	NN	NN	O	4	_	bed_1	box_1	
+8	with	with	IN	IN	O	11	_			
+9	a	a	DT	DT	O	11	_			
+10	red	red	JJ	JJ	O	11	_	red	red	
+11	pillow	pillow	NN	NN	O	7	_	pillow_1	pillow_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	hold	hold	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	black	black	JJ	JJ	O	4	_	black	black	
+4	dog	dog	NN	NN	O	1	_	dog_1	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_1	bed_2	
+8	with	with	IN	IN	O	10	_			
+9	a	a	DT	DT	O	10	_			
+10	mug	mug	NN	NN	O	7	_	red	mug_1	
+11	pillow	pillow	NN	NN	O	7	_	pillow_1	pillow_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	hold	hold	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	black	black	JJ	JJ	O	4	_	black	black	
+4	dog	dog	NN	NN	O	1	_	dog_1	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	bed	bed	NN	NN	O	4	_	bed_1	bed_2	
+8	with	with	IN	IN	O	11	_			
+9	a	a	DT	DT	O	11	_			
+10	red	red	JJ	JJ	O	11	_	red	red	
+11	mug	mug	NN	NN	O	7	_	pillow_1	mug_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	pink	woman_2	
+5	pillow	pillow	NN	NN	O	1	_	pillow_3	pillow_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	chair	chair	NN	NN	O	5	_	chair_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	mug	mug	NN	NN	O	1	_	pillow_3	mug_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	chair	chair	NN	NN	O	5	_	chair_1	chair_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	pillow	pillow	NN	NN	O	1	_	pillow_3	pillow_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	chair_1	box_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	green	woman_2	
+5	pillow	pillow	NN	NN	O	1	_	pillow_2	pillow_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bed	bed	NN	NN	O	5	_	bed_2	bed_2	
+9	with	with	IN	IN	O	12	_			
+10	a	a	DT	DT	O	12	_			
+11	brown	brown	JJ	JJ	O	12	_	brown	brown	
+12	dog	dog	NN	NN	O	8	_	dog_2	dog_3	
+13	under	under	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	mug	mug	NN	NN	O	1	_	pillow_2	mug_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bed	bed	NN	NN	O	5	_	bed_2	bed_2	
+9	with	with	IN	IN	O	12	_			
+10	a	a	DT	DT	O	12	_			
+11	brown	brown	JJ	JJ	O	12	_	brown	brown	
+12	dog	dog	NN	NN	O	8	_	dog_2	dog_3	
+13	under	under	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	pillow	pillow	NN	NN	O	1	_	pillow_2	pillow_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	bed_2	box_1	
+9	with	with	IN	IN	O	12	_			
+10	a	a	DT	DT	O	12	_			
+11	brown	brown	JJ	JJ	O	12	_	brown	brown	
+12	dog	dog	NN	NN	O	8	_	dog_2	dog_3	
+13	under	under	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	pillow	pillow	NN	NN	O	1	_	pillow_2	pillow_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bed	bed	NN	NN	O	5	_	bed_2	bed_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	mug	mug	NN	NN	O	8	_	brown	mug_1	
+12	dog	dog	NN	NN	O	8	_	dog_2	dog_3	
+13	under	under	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	pillow	pillow	NN	NN	O	1	_	pillow_2	pillow_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	bed	bed	NN	NN	O	5	_	bed_2	bed_2	
+9	with	with	IN	IN	O	12	_			
+10	a	a	DT	DT	O	12	_			
+11	brown	brown	JJ	JJ	O	12	_	brown	brown	
+12	mug	mug	NN	NN	O	8	_	dog_2	mug_1	
+13	under	under	IN	IN	O	14	_			
+14	it	it	PRP	PRP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mug	mug	NN	NN	O	1	_	book_1	mug_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	9	_			
+9	shoes	shoe	NN	NNS	O	6	_	shoe_1	shoe_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	book	book	NN	NN	O	1	_	book_1	book_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_11	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	9	_			
+9	box	box	NN	NN	O	6	_	shoe_1	box_1	
+
+1	hold	hold	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	woman	woman	JJ	JJ	O	4	_	black	woman_2	
+4	dog	dog	NN	NN	O	1	_	dog_3	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	drawer	drawer	NN	NN	O	4	_	drawer_3	drawer_3	
+8	that	that	WDT	WDT	O	9	_			
+9	lies	lie	VB	VBZ	O	7	_		lie_11	
+10	next	next	JJ	JJ	O	9	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	bed	bed	NN	NN	O	9	_	bed_1	bed_2	
+
+1	hold	hold	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	black	black	JJ	JJ	O	4	_	black	black	
+4	mug	mug	NN	NN	O	1	_	dog_3	mug_1	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	drawer	drawer	NN	NN	O	4	_	drawer_3	drawer_3	
+8	that	that	WDT	WDT	O	9	_			
+9	lies	lie	VB	VBZ	O	7	_		lie_11	
+10	next	next	JJ	JJ	O	9	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	bed	bed	NN	NN	O	9	_	bed_1	bed_2	
+
+1	hold	hold	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	black	black	JJ	JJ	O	4	_	black	black	
+4	dog	dog	NN	NN	O	1	_	dog_3	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	mug	mug	NN	NN	O	4	_	drawer_3	mug_1	
+8	that	that	WDT	WDT	O	9	_			
+9	lies	lie	VB	VBZ	O	7	_		lie_11	
+10	next	next	JJ	JJ	O	9	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	bed	bed	NN	NN	O	9	_	bed_1	bed_2	
+
+1	hold	hold	VB	VB	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	black	black	JJ	JJ	O	4	_	black	black	
+4	dog	dog	NN	NN	O	1	_	dog_3	dog_3	
+5	under	under	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	drawer	drawer	NN	NN	O	4	_	drawer_3	drawer_3	
+8	that	that	WDT	WDT	O	9	_			
+9	lies	lie	VB	VBZ	O	7	_		lie_11	
+10	next	next	JJ	JJ	O	9	_			
+11	to	to	TO	TO	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	box	box	NN	NN	O	9	_	bed_1	box_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	shelf	shelf	NN	NN	O	0	_	bathrobe_1	shelf_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_1	hook_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	fixes	fix	VB	VBZ	O	4	_		fix_1	
+12	carefully	carefully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_1	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	hook_1	shelf_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	fixes	fix	VB	VBZ	O	4	_		fix_1	
+12	carefully	carefully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_1	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_1	hook_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_2	
+11	fixes	fix	VB	VBZ	O	4	_		fix_1	
+12	carefully	carefully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	shelf	shelf	NN	NN	O	0	_	bathrobe_1	shelf_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_1	hook_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	fixed	fix	VB	VBN	O	7	_	fix_1	fix_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_1	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	hook_1	shelf_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	fixed	fix	VB	VBN	O	7	_	fix_1	fix_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_1	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_1	hook_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	fixed	fix	VB	VBN	O	7	_	fix_1	fix_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	shelf	shelf	NN	NN	O	10	_	woman_1	shelf_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	shelf	shelf	NN	NN	O	0	_	bathrobe_2	shelf_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_2	hook_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	takes	take	VB	VBZ	O	4	_		take_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	hook_2	shelf_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	takes	take	VB	VBZ	O	4	_		take_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_2	hook_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	takes	take	VB	VBZ	O	4	_		take_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	shelf	shelf	NN	NN	O	0	_	bathrobe_2	shelf_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_2	hook_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	taken	take	VB	VBN	O	7	_		take_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	hook_2	shelf_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	taken	take	VB	VBN	O	7	_		take_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	0	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hook	hook	NN	NN	O	4	_	hook_2	hook_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	taken	take	VB	VBN	O	7	_		take_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	shelf	shelf	NN	NN	O	10	_	woman_2	shelf_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	fixes	fix	VB	VBZ	O	0	_		fix_1	
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	3	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	fixes	fix	VB	VBZ	O	0	_		fix_1	
+4	the	the	DT	DT	O	5	_			
+5	lie	lie	NN	NN	O	3	_	hook_1	lie_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	fixes	fix	VB	VBZ	O	0	_		fix_1	
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	3	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	bathrobe_1	shelf_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	the	the	DT	DT	O	2	_			
+2	lie	lie	NN	NN	O	9	_	hook_1	lie_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bathrobe	bathrobe	NN	NN	O	2	_	bathrobe_1	bathrobe_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	fixed	fix	VB	VBN	O	0	_		fix_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_1	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	hook	hook	NN	NN	O	9	_	hook_1	hook_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	2	_	bathrobe_1	shelf_1	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	fixed	fix	VB	VBN	O	0	_		fix_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_1	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	hook	hook	NN	NN	O	9	_	hook_1	hook_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	bathrobe	bathrobe	NN	NN	O	2	_	bathrobe_1	bathrobe_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VB	VBZ	O	9	_			
+9	fixed	fix	VB	VBN	O	0	_		fix_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	shelf	shelf	NN	NN	O	9	_	woman_1	shelf_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	the	the	DT	DT	O	5	_			
+5	bathrobe	bathrobe	NN	NN	O	3	_	bathrobe_2	bathrobe_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_2	hook_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	the	the	DT	DT	O	5	_			
+5	lie	lie	NN	NN	O	3	_	bathrobe_2	lie_1	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_2	hook_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	takes	take	VB	VBZ	O	0	_		take_1	
+4	the	the	DT	DT	O	5	_			
+5	bathrobe	bathrobe	NN	NN	O	3	_	bathrobe_2	bathrobe_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	hook_2	shelf_1	
+
+1	the	the	DT	DT	O	2	_			
+2	shelf	shelf	NN	NN	O	7	_	bathrobe_2	shelf_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_2	hook_1	
+6	is	be	VB	VBZ	O	7	_			
+7	taken	take	VB	VBN	O	0	_		take_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	bathrobe	bathrobe	NN	NN	O	7	_	bathrobe_2	bathrobe_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	2	_	hook_2	shelf_1	
+6	is	be	VB	VBZ	O	7	_			
+7	taken	take	VB	VBN	O	0	_		take_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	bathrobe	bathrobe	NN	NN	O	7	_	bathrobe_2	bathrobe_2	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_2	hook_1	
+6	is	be	VB	VBZ	O	7	_			
+7	taken	take	VB	VBN	O	0	_		take_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	shelf	shelf	NN	NN	O	7	_	woman_2	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	shelf	shelf	NN	NN	O	1	_	dispenser_1	shelf_1	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	holder	holder	NN	NN	O	4	_	holder_1	holder_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	shelf	shelf	NN	NN	O	1	_	bathrobe_3//perfume_1	shelf_1	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	towels	towel	NN	NNS	O	4	_		towel_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	lie	lie	NN	NN	O	2	_	towel_1	lie_1	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	bathrobe	bathrobe	NN	NN	O	3	_	bathrobe_3	bathrobe_2	
+7	lying	lie	VB	VBG	O	6	_		lie_11	
+8	in	in	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	bathtub	bathtub	NN	NN	O	7	_	bathtub_1	bathtub_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	towels	towel	NN	NNS	O	2	_	towel_1	towel_1	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	shelf	shelf	NN	NN	O	3	_	bathrobe_3	shelf_1	
+7	lying	lie	VB	VBG	O	6	_		lie_11	
+8	in	in	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	bathtub	bathtub	NN	NN	O	7	_	bathtub_1	bathtub_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	towels	towel	NN	NNS	O	2	_	towel_1	towel_1	
+4	and	and	CC	CC	O	3	_			
+5	a	a	DT	DT	O	6	_			
+6	bathrobe	bathrobe	NN	NN	O	3	_	bathrobe_3	bathrobe_2	
+7	lying	lie	VB	VBG	O	6	_		lie_11	
+8	in	in	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	shelf	shelf	NN	NN	O	7	_	bathtub_1	shelf_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	lie	lie	NN	NN	O	2	_	dispenser_1	lie_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	holder	holder	NN	NN	O	4	_	holder_1	holder_1	
+8	that	that	WDT	WDT	O	9	_			
+9	stand	stand	VB	VBP	O	7	_		stand_15	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	sink	sink	NN	NN	O	9	_	sink_1	sink_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	dispenser	dispenser	NN	NN	O	2	_	dispenser_1	dispenser_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	lie	lie	NN	NN	O	4	_	holder_1	lie_1	
+8	that	that	WDT	WDT	O	9	_			
+9	stand	stand	VB	VBP	O	7	_		stand_15	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	sink	sink	NN	NN	O	9	_	sink_1	sink_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	dispenser	dispenser	NN	NN	O	2	_	dispenser_1	dispenser_1	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	holder	holder	NN	NN	O	4	_	holder_1	holder_1	
+8	that	that	WDT	WDT	O	9	_			
+9	stand	stand	VB	VBP	O	7	_		stand_15	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	shelf	shelf	NN	NN	O	9	_	sink_1	shelf_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	changes	change	VB	VBZ	O	0	_		change_1	
+4	the	the	DT	DT	O	5	_			
+5	screw	screw	NN	NN	O	3	_	screw_1	screw_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_1	hook_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bathrobe	bathrobe	NN	NN	O	8	_	bathrobe_1	bathrobe_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	changes	change	VB	VBZ	O	0	_		change_1	
+4	the	the	DT	DT	O	5	_			
+5	lie	lie	NN	NN	O	3	_	screw_1	lie_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_1	hook_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bathrobe	bathrobe	NN	NN	O	8	_	bathrobe_1	bathrobe_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	changes	change	VB	VBZ	O	0	_		change_1	
+4	the	the	DT	DT	O	5	_			
+5	screw	screw	NN	NN	O	3	_	screw_1	screw_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	hook_1	shelf_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	bathrobe	bathrobe	NN	NN	O	8	_	bathrobe_1	bathrobe_2	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_2	
+3	changes	change	VB	VBZ	O	0	_		change_1	
+4	the	the	DT	DT	O	5	_			
+5	screw	screw	NN	NN	O	3	_	screw_1	screw_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	hook	hook	NN	NN	O	5	_	hook_1	hook_1	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	shelf	shelf	NN	NN	O	8	_	bathrobe_1	shelf_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+
+1	the	the	DT	DT	O	2	_			
+2	lie	lie	NN	NN	O	12	_	screw_1	lie_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_		change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	screw	screw	NN	NN	O	12	_	screw_1	screw_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	2	_	hook_1	shelf_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_		change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	screw	screw	NN	NN	O	12	_	screw_1	screw_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	shelf	shelf	NN	NN	O	5	_	bathrobe_1	shelf_1	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_		change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_1	woman_2	
+
+1	the	the	DT	DT	O	2	_			
+2	screw	screw	NN	NN	O	12	_	screw_1	screw_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	hook	hook	NN	NN	O	2	_	hook_1	hook_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	bathrobe	bathrobe	NN	NN	O	5	_	bathrobe_1	bathrobe_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+11	is	be	VB	VBZ	O	12	_			
+12	changed	change	VB	VBN	O	0	_		change_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	shelf	shelf	NN	NN	O	12	_	woman_1	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	pink	woman_2	
+5	bathrobe	bathrobe	NN	NN	O	1	_	bathrobe_2	bathrobe_2	
+6	hanging	hang	VBG	VBG	O	5	_		hang_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	hook	hook	NN	NN	O	6	_	hook_2	hook_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	shelf	shelf	NN	NN	O	1	_	bathrobe_2	shelf_1	
+6	hanging	hang	VBG	VBG	O	5	_		hang_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	hook	hook	NN	NN	O	6	_	hook_2	hook_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	pink	pink	JJ	JJ	O	5	_	pink	pink	
+5	bathrobe	bathrobe	NN	NN	O	1	_	bathrobe_2	bathrobe_2	
+6	hanging	hang	VBG	VBG	O	5	_		hang_11	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	shelf	shelf	NN	NN	O	6	_	hook_2	shelf_1	
+
+1	empty	empty	JJ	JJ	O	3	_	empty_1	empty_1	
+2	the	the	DT	DT	O	3	_			
+3	shelf	shelf	NN	NN	O	0	_	basket_2	shelf_1	
+4	lying	lie	VBG	VBG	O	3	_		lie_11	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	bathtub	bathtub	NN	NN	O	3	_	bathtub_1	bathtub_1	
+
+1	empty	empty	JJ	JJ	O	3	_	empty_1	empty_1	
+2	the	the	DT	DT	O	3	_			
+3	basket	basket	NN	NN	O	0	_	basket_2	basket_1	
+4	lying	lie	VBG	VBG	O	3	_		lie_11	
+5	next	next	JJ	JJ	O	7	_			
+6	to	to	TO	TO	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	bathtub_1	shelf_1	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	shelf	shelf	NN	NN	O	1	_	bathrobe_2	shelf_1	
+5	on	on	IN	IN	O	8	_			
+6	the	the	DT	DT	O	8	_			
+7	wooden	wooden	JJ	JJ	O	8	_	wooden	wooden	
+8	hook	hook	NN	NN	O	4	_	hook_2	hook_1	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	1	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	8	_			
+6	the	the	DT	DT	O	8	_			
+7	woman	woman	JJ	JJ	O	8	_	wooden	woman_2	
+8	hook	hook	NN	NN	O	4	_	hook_2	hook_1	
+
+1	Bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	bathrobe	bathrobe	NN	NN	O	1	_	bathrobe_2	bathrobe_2	
+5	on	on	IN	IN	O	8	_			
+6	the	the	DT	DT	O	8	_			
+7	wooden	wooden	JJ	JJ	O	8	_	wooden	wooden	
+8	shelf	shelf	NN	NN	O	4	_	hook_2	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	woman	woman	JJ	JJ	O	5	_	soap	woman_2	
+5	dispenser	dispenser	NN	NN	O	1	_	dispenser_1	dispenser_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	holder	holder	NN	NN	O	7	_	holder_1	holder_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	soap	soap	NN	NN	O	1	_	soap	soap	
+5	shelf	shelf	NN	NN	O	1	_	dispenser_1	shelf_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	holder	holder	NN	NN	O	7	_	holder_1	holder_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	soap	soap	NN	NN	O	1	_	soap	soap	
+5	dispenser	dispenser	NN	NN	O	1	_	dispenser_1	dispenser_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	next	next	JJ	JJ	O	7	_			
+9	to	to	TO	TO	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	shelf	shelf	NN	NN	O	7	_	holder_1	shelf_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	shelf	shelf	NN	NN	O	1	_	dispenser_2	shelf_1	
+5	lying	lie	VB	VBG	O	4	_		lie_11	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	perfume	perfume	NN	NN	O	5	_	perfume_1	perfume_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	towel	towel	NN	NN	O	9	_	towel_2	towel_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	dispenser	dispenser	NN	NN	O	1	_	dispenser_2	dispenser_1	
+5	lying	lie	VB	VBG	O	4	_		lie_11	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	shelf	shelf	NN	NN	O	5	_	perfume_1	shelf_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	towel	towel	NN	NN	O	9	_	towel_2	towel_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	dispenser	dispenser	NN	NN	O	1	_	dispenser_2	dispenser_1	
+5	lying	lie	VB	VBG	O	4	_		lie_11	
+6	next	next	JJ	JJ	O	5	_			
+7	to	to	TO	TO	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	perfume	perfume	NN	NN	O	5	_	perfume_1	perfume_1	
+10	and	and	CC	CC	O	9	_			
+11	the	the	DT	DT	O	12	_			
+12	lie	lie	NN	NN	O	9	_	towel_2	lie_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	towel	towel	NN	NN	O	2	_		towel_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_1	shelf_1	
+8	lying	lie	VB	VBG	O	7	_		lie_11	
+9	next	next	JJ	JJ	O	8	_			
+10	to	to	TO	TO	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	perfume	perfume	NN	NN	O	8	_	perfume_1	perfume_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	towel	towel	NN	NN	O	2	_		towel_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	shelf	shelf	NN	NN	O	4	_	shelf_1	shelf_1	
+8	lying	lie	VB	VBG	O	7	_		lie_11	
+9	next	next	JJ	JJ	O	8	_			
+10	to	to	TO	TO	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	lie	lie	NN	NN	O	8	_	perfume_1//dispencer_2	lie_1	
+

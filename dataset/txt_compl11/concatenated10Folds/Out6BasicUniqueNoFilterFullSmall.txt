@@ -1,0 +1,12 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	cage	cage	NN	NN	O	0	_	cage_2	cage_2	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	bird	bird	NN	NN	O	4	_	chest_2	bird_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	man	man	NN	NN	O	11	_	man_2	man_2	
+11	cleans	clean	VB	VBZ	O	4	_		clean_1	
+

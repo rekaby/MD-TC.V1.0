@@ -1,0 +1,290 @@
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	lamp	lamp	NN	NN	O	0	ROOT	lamp_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	wall	wall	NN	NN	O	4	nmod	wall_1
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	repairs	repair	VB	VBZ	O	7	ccomp	repair_1
+12	carefully	carefully	RB	RB	O	11	advmod	
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	lamp	lamp	NN	NN	O	0	ROOT	lamp_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	wall	wall	NN	NN	O	4	nmod	wall_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	repaired	repair	VB	VBN	O	7	ccomp	repair_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	0	ROOT	dispenser_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	sink	sink	NN	NN	O	4	nmod	sink_1
+8	that	that	IN	IN	O	11	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	refills	refill	VB	VBZ	O	7	nmod	refill_1
+								
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	0	ROOT	dispenser_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	sink	sink	NN	NN	O	4	nmod	sink_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	refilled	refill	VB	VBN	O	7	ccomp	refill_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	0	ROOT	dispenser_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	sink	sink	NN	NN	O	4	nmod	sink_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	refilled	refill	VB	VBN	O	7	ccomp	refill_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	10	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	repairs	repair	VB	VBZ	O	0	ROOT	repair_1
+4	the	the	DT	DT	O	5	det	
+5	wall	wall	NN	NN	O	3	dep	wall_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	lamp	lamp	NN	NN	O	5	nmod	lamp_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	wall	wall	NN	NN	O	9	nsubjpass	wall_1
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	lamp	lamp	NN	NN	O	2	nmod	lamp_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	repaired	repair	VB	VBN	O	0	ROOT	repair_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	paints	paint	VB	VBZ	O	0	ROOT	paint_1
+4	the	the	DT	DT	O	5	det	
+5	wall	wall	NN	NN	O	3	dep	wall_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	heater	heater	NN	NN	O	5	nmod	heater_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	wall	wall	NN	NN	O	9	nsubjpass	wall_2
+3	with	with	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	heater	heater	NN	NN	O	2	nmod	heater_1
+6	on	on	IN	IN	O	7	case	
+7	it	it	PRP	PRP	O	5	nmod	
+8	is	be	VB	VBZ	O	9	auxpass	
+9	painted	paint	VB	VBN	O	0	ROOT	paint_1
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	9	nmod	man_2
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	refills	refill	VB	VBZ	O	0	ROOT	refill_1
+4	the	the	DT	DT	O	5	det	
+5	dispenser	dispenser	NN	NN	O	3	dobj	dispenser_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	sink	sink	NN	NN	O	5	nmod	sink_1
+								
+1	The	the	DT	DT	O	2	det	
+2	dispenser	dispenser	NN	NN	O	7	nsubjpass	dispenser_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	sink	sink	NN	NN	O	2	nmod	sink_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	refilled	refill	VB	VBN	O	0	ROOT	refill_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+								
+1	get	get	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	3	det	
+3	lamp	lamp	NN	NN	O	1	dobj	lamp_1
+4	on	on	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	wall	wall	NN	NN	O	1	nmod	wall_1
+7	next	next	JJ	JJ	O	10	dep	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	towel	towel	NN	NN	O	6	nmod	towel_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	3	det	
+3	towel	towel	NN	NN	O	1	dobj	towel_2
+4	that	that	WDT	WDT	O	5	nsubj	
+5	lies	lie	VB	VBZ	O	3	ccomp	
+6	in	in	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	bathtub	bathtub	NN	NN	O	5	nmod	bathtub_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	dispenser	dispenser	NN	NN	O	1	dobj	dispenser_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	tooth	tooth	NN	NN	O	10	compound	tooth
+10	brush	brush	NN	NN	O	6	nmod	brush_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	towel	towel	NN	NN	O	2	nsubj	towel_2
+5	","	","	","	","	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	toy	toy	NN	NN	O	4	conj	toy_1
+8	and	and	CC	CC	O	4	cc	
+9	a	a	DT	DT	O	10	det	
+10	dispenser	dispenser	NN	NN	O	4	conj	dispenser_2
+11	in	in	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	bathtub	bathtub	NN	NN	O	10	nmod	bathtub_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	5	det	
+4	tooth	tooth	NN	NN	O	5	compound	tooth
+5	brush	brush	NN	NN	O	2	nsubj	brush_1
+6	and	and	CC	CC	O	5	cc	
+7	a	a	DT	DT	O	8	det	
+8	dispenser	dispenser	NN	NN	O	5	conj	dispenser_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	sink	sink	NN	NN	O	8	nmod	sink_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_2
+4	the	the	DT	DT	O	5	nsubj	
+5	handle	handle	NN	NN	O	3	ccomp	handle_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	tooth	tooth	NN	NN	O	9	compound	tooth
+9	brush	brush	NN	NN	O	5	nmod	brush_1
+								
+1	the	the	DT	DT	O	2	det	
+2	handle	handle	NN	NN	O	8	nsubj	handle_1
+3	of	of	IN	IN	O	6	case	
+4	the	the	DT	DT	O	6	det	
+5	tooth	tooth	NN	NN	O	6	compound	tooth
+6	brush	brush	NN	NN	O	2	nmod	brush_1
+7	is	be	VB	VBZ	O	8	cop	
+8	hold	hold	VB	VBN	O	0	ROOT	hold_2
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	man	man	NN	NN	O	8	nmod	man_2
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	handle	handle	NN	NN	O	3	dobj	handle_2
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	door	door	NN	NN	O	5	nmod	door_1
+								
+1	the	the	DT	DT	O	2	det	
+2	handle	handle	NN	NN	O	7	nsubj	handle_2
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	door	door	NN	NN	O	2	nmod	door_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	held	hold	VB	VBN	O	0	ROOT	hold_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	red	red	JJ	JJ	O	5	amod	red
+5	towel	towel	NN	NN	O	1	dobj	towel_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	in	in	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	bathtub	bathtub	NN	NN	O	7	nmod	bathtub_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	small	small	JJ	JJ	O	5	amod	small
+5	candle	candle	NN	NN	O	1	dobj	candle_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	sink	sink	NN	NN	O	7	nmod	sink_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	brush	brush	NN	NN	O	1	nsubj	brush_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	toilet	toilet	NN	NN	O	6	nmod	toilet_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	yellow	yellow	JJ	JJ	O	5	amod	yellow
+5	towel	towel	NN	NN	O	1	xcomp	towel_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	wall	wall	NN	NN	O	5	nmod	wall_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	lamp	lamp	NN	NN	O	8	nmod	lamp_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+								
+1	clean	clean	JJ	JJ	O	0	ROOT	
+2	the	the	DT	DT	O	3	det	
+3	wall	wall	NN	NN	O	1	dep	wall_2
+4	with	with	IN	IN	O	6	case	
+5	a	a	DT	DT	O	6	det	
+6	heater	heater	NN	NN	O	3	nmod	heater_1
+7	on	on	IN	IN	O	8	case	
+8	it	it	PRP	PRP	O	6	nmod	

@@ -1,0 +1,969 @@
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	book	NN	NN	O	0	ROOT	book_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	reads	read	VB	VBZ	O	4	ccomp	read_1
+12	quietly	quietly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	book	book	NN	NN	O	0	ROOT	book_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	reads	read	VB	VBZ	O	4	ccomp	read_1
+12	quietly	quietly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	book	book	NN	NN	O	0	ROOT	book_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	11	nsubj	man_1
+11	reads	read	VB	VBZ	O	4	ccomp	read_1
+12	quietly	quietly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	book	book	NN	NN	O	0	ROOT	book_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	??	read	VB	VBZ	O	4	ccomp	read_1
+12	quietly	quietly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	book	NN	NN	O	0	ROOT	book_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	read	read	VB	VBN	O	4	ccomp	read_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	book	book	NN	NN	O	0	ROOT	book_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	read	read	VB	VBN	O	4	ccomp	read_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	 	
+4	book	book	NN	NN	O	0	ROOT	book_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	??	read	VB	VBN	O	4	ccomp	read_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	book	book	NN	NN	O	0	ROOT	book_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	read	read	VB	VBN	O	4	ccomp	read_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	man	NN	NN	O	10	nmod	man_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	??	couch	NN	NN	O	0	ROOT	couch_1
+5	with	with	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	blanket	blanket	NN	NN	O	4	nmod	blanket_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	sits	sit	VB	VBZ	O	4	ccomp	sit_1
+12	on	on	IN	IN	O	11	nmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	couch	couch	NN	NN	O	0	ROOT	couch_1
+5	with	with	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	blanket	blanket	NN	NN	O	4	nmod	blanket_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	11	nsubj	man_1
+11	sits	sit	VB	VBZ	O	4	ccomp	sit_1
+12	on	on	IN	IN	O	11	nmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	couch	couch	NN	NN	O	0	ROOT	couch_1
+5	with	with	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	blanket	blanket	NN	NN	O	4	nmod	blanket_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	??	sit	VB	VBZ	O	4	ccomp	sit_1
+12	on	on	IN	IN	O	11	nmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	newspaper	newspaper	NN	NN	O	0	ROOT	
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	reads	read	VB	VBZ	O	4	ccomp	read_2
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	newspaper	newspaper	NN	NN	O	0	ROOT	
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	11	nsubj	man_2
+11	reads	read	VB	VBZ	O	4	ccomp	read_2
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	newspaper	newspaper	NN	NN	O	0	ROOT	
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	??	read	VB	VBZ	O	4	ccomp	read_2
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	newspaper	newspaper	NN	NN	O	0	ROOT	newspaper_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	read	read	VB	VBN	O	4	ccomp	read_2
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	newspaper	newspaper	NN	NN	O	0	ROOT	newspaper_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	??	read	VB	VBN	O	4	ccomp	read_2
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_2
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	newspaper	newspaper	NN	NN	O	0	ROOT	newspaper_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	read	read	VB	VBN	O	4	ccomp	read_2
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	man	NN	NN	O	10	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	reads	read	VB	VBZ	O	0	ROOT	read_1
+4	the	the	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	blanket	blanket	NN	NN	O	8	nmod	blanket_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	??	read	VB	VBZ	O	0	ROOT	read_1
+4	the	the	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	blanket	blanket	NN	NN	O	8	nmod	blanket_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	reads	read	VB	VBZ	O	0	ROOT	read_1
+4	the	the	DT	DT	O	5	det	
+5	??	book	NN	NN	O	3	dobj	book_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	blanket	blanket	NN	NN	O	8	nmod	blanket_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	reads	read	VB	VBZ	O	0	ROOT	read_1
+4	the	the	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	couch	NN	NN	O	5	nmod	couch_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	blanket	blanket	NN	NN	O	8	nmod	blanket_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	reads	read	VB	VBZ	O	0	ROOT	read_1
+4	the	the	DT	DT	O	5	det	
+5	book	book	NN	NN	O	3	dobj	book_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	couch	couch	NN	NN	O	5	nmod	couch_1
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	??	blanket	NN	NN	O	8	nmod	blanket_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+
+1	the	the	DT	DT	O	2	det	
+2	??	book	NN	NN	O	12	nsubjpass	book_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	blanket	blanket	NN	NN	O	5	nmod	blanket_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	read	read	VB	VBN	O	0	ROOT	read_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	the	the	DT	DT	O	2	det	
+2	book	book	NN	NN	O	12	nsubjpass	book_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	couch	NN	NN	O	2	nmod	couch_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	blanket	blanket	NN	NN	O	5	nmod	blanket_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	read	read	VB	VBN	O	0	ROOT	read_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	the	the	DT	DT	O	2	det	
+2	book	book	NN	NN	O	12	nsubjpass	book_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	??	blanket	NN	NN	O	5	nmod	blanket_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	read	read	VB	VBN	O	0	ROOT	read_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	the	the	DT	DT	O	2	det	
+2	book	book	NN	NN	O	12	nsubjpass	book_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	blanket	blanket	NN	NN	O	5	nmod	blanket_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	??	read	VB	VBN	O	0	ROOT	read_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	the	the	DT	DT	O	2	det	
+2	book	book	NN	NN	O	12	nsubjpass	book_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	blanket	blanket	NN	NN	O	5	nmod	blanket_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	read	read	VB	VBN	O	0	ROOT	read_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	??	man	NN	NN	O	12	nmod	man_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	laptop	NN	NN	O	1	dobj	laptop_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	mug	mug	NN	NN	O	6	nmod	mug_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	laptop	laptop	NN	NN	O	1	dobj	laptop_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	mug	NN	NN	O	6	nmod	mug_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	mug	NN	NN	O	1	dobj	mug_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	table	table	NN	NN	O	6	nmod	table_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	1	dobj	mug_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	table	NN	NN	O	6	nmod	table_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	blanket	NN	NN	O	1	dobj	blanket_2//newspaper_1
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	book	book	NN	NN	O	4	nmod	book_3
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	box	box	NN	NN	O	10	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	blanket	blanket	NN	NN	O	1	dobj	blanket_2
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	book	NN	NN	O	4	nmod	book_3
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	box	box	NN	NN	O	10	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	blanket	blanket	NN	NN	O	2	nsubj	blanket_1
+4	and	and	CC	CC	O	3	cc	
+5	??	book	NN	NN	O	3	conj	book_1
+6	lying	lie	VB	VBG	O	2	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	??	mug	NN	NN	O	2	nsubj	mug_1
+4	and	and	CC	CC	O	3	cc	
+5	laptop	laptop	NN	NN	O	3	conj	laptop_1
+6	lying	lie	VB	VBG	O	2	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	table	table	NN	NN	O	6	nmod	table_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	mug	mug	NN	NN	O	2	nsubj	mug_1
+4	and	and	CC	CC	O	3	cc	
+5	??	laptop	NN	NN	O	3	conj	laptop_1
+6	lying	lie	VB	VBG	O	2	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	table	table	NN	NN	O	6	nmod	table_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	mug	mug	NN	NN	O	2	nsubj	mug_1
+4	and	and	CC	CC	O	3	cc	
+5	laptop	laptop	NN	NN	O	3	conj	laptop_1
+6	lying	lie	VB	VBG	O	2	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	table	NN	NN	O	6	nmod	table_1
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VBZ	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	bag	NN	NN	O	2	nsubj	bag_1
+5	and	and	CC	CC	O	4	cc	
+6	shoe	shoe	NN	NN	O	4	conj	shoe_1
+7	that	that	WDT	WDT	O	8	nsubj	
+8	lies	lie	VB	VBZ	O	4	ccomp	
+9	next	next	JJ	JJ	O	8	advmod	
+10	to	to	TO	TO	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	couch	couch	NN	NN	O	8	nmod	couch_1
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VBZ	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	bag	bag	NN	NN	O	2	nsubj	bag_1
+5	and	and	CC	CC	O	4	cc	
+6	??	shoe	NN	NN	O	4	conj	shoe_1
+7	that	that	WDT	WDT	O	8	nsubj	
+8	lies	lie	VB	VBZ	O	4	ccomp	
+9	next	next	JJ	JJ	O	8	advmod	
+10	to	to	TO	TO	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	couch	couch	NN	NN	O	8	nmod	couch_1
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VBZ	VBZ	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	bag	bag	NN	NN	O	2	nsubj	bag_1
+5	and	and	CC	CC	O	4	cc	
+6	shoe	shoe	NN	NN	O	4	conj	shoe_1
+7	that	that	WDT	WDT	O	8	nsubj	
+8	lies	lie	VB	VBZ	O	4	ccomp	
+9	next	next	JJ	JJ	O	8	advmod	
+10	to	to	TO	TO	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	couch	NN	NN	O	8	nmod	couch_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	plug	plug	NN	NN	O	3	dobj	plug_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	laptop	laptop	NN	NN	O	5	nmod	laptop_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	table	table	NN	NN	O	10	nmod	table_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	??	plug	NN	NN	O	3	dobj	plug_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	laptop	laptop	NN	NN	O	5	nmod	laptop_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	table	table	NN	NN	O	10	nmod	table_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	plug	plug	NN	NN	O	3	dobj	plug_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	laptop	NN	NN	O	5	nmod	laptop_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	table	table	NN	NN	O	10	nmod	table_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	holds	hold	VB	VBZ	O	0	ROOT	
+4	the	the	DT	DT	O	5	det	
+5	plug	plug	NN	NN	O	3	dobj	plug_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	laptop	laptop	NN	NN	O	5	nmod	laptop_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	table	NN	NN	O	10	nmod	table_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	fluffs	fluff	VB	VBZ	O	0	ROOT	fluff_1
+4	out	out	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	pillow	pillow	NN	NN	O	3	nmod	pillow_1
+7	of	of	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	13	nsubj	man_1
+13	sits	sit	VB	VBZ	O	9	dep	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	??	fluff	VB	VBZ	O	0	ROOT	fluff_1
+4	out	out	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	pillow	pillow	NN	NN	O	3	nmod	pillow_1
+7	of	of	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	13	nsubj	man_1
+13	sits	sit	VB	VBZ	O	9	dep	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	fluffs	fluff	VB	VBZ	O	0	ROOT	fluff_1
+4	out	out	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	??	pillow	NN	NN	O	3	nmod	pillow_1
+7	of	of	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	13	nsubj	man_1
+13	sits	sit	VB	VBZ	O	9	dep	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	fluffs	fluff	VB	VBZ	O	0	ROOT	fluff_1
+4	out	out	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	pillow	pillow	NN	NN	O	3	nmod	pillow_1
+7	of	of	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	couch	NN	NN	O	6	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	13	nsubj	man_1
+13	sits	sit	VB	VBZ	O	9	dep	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	fluffs	fluff	VB	VBZ	O	0	ROOT	fluff_1
+4	out	out	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	pillow	pillow	NN	NN	O	3	nmod	pillow_1
+7	of	of	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	??	man	NN	NN	O	13	nsubj	man_1
+13	sits	sit	VB	VBZ	O	9	dep	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	fluffs	fluff	VB	VBZ	O	0	ROOT	fluff_1
+4	out	out	IN	IN	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	pillow	pillow	NN	NN	O	3	nmod	pillow_1
+7	of	of	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	couch	couch	NN	NN	O	6	nmod	couch_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	man	man	NN	NN	O	13	nsubj	man_1
+13	??	sit	VB	VBZ	O	9	dep	sit_1
+14	on	on	IN	IN	O	13	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	pillow	NN	NN	O	12	nsubjpass	pillow_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	man	man	NN	NN	O	9	nsubj	man_1
+9	sits	sit	VB	VBZ	O	5	ccomp	sit_1
+10	on	on	IN	IN	O	9	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	fluffed	fluff	VB	VBN	O	0	ROOT	fluff_1
+13	out	out	RP	RP	O	12	compound:prt	
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	pillow	pillow	NN	NN	O	12	nsubjpass	pillow_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	couch	NN	NN	O	2	nmod	couch_1
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	man	man	NN	NN	O	9	nsubj	man_1
+9	sits	sit	VB	VBZ	O	5	ccomp	sit_1
+10	on	on	IN	IN	O	9	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	fluffed	fluff	VB	VBN	O	0	ROOT	fluff_1
+13	out	out	RP	RP	O	12	compound:prt	
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	pillow	pillow	NN	NN	O	12	nsubjpass	pillow_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	??	man	NN	NN	O	9	nsubj	man_1
+9	sits	sit	VB	VBZ	O	5	ccomp	sit_1
+10	on	on	IN	IN	O	9	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	fluffed	fluff	VB	VBN	O	0	ROOT	fluff_1
+13	out	out	RP	RP	O	12	compound:prt	
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	pillow	pillow	NN	NN	O	12	nsubjpass	pillow_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	man	man	NN	NN	O	9	nsubj	man_1
+9	??	sit	VB	VBZ	O	5	ccomp	sit_1
+10	on	on	IN	IN	O	9	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	fluffed	fluff	VB	VBN	O	0	ROOT	fluff_1
+13	out	out	RP	RP	O	12	compound:prt	
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	pillow	pillow	NN	NN	O	12	nsubjpass	pillow_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	man	man	NN	NN	O	9	nsubj	man_1
+9	sits	sit	VB	VBZ	O	5	ccomp	sit_1
+10	on	on	IN	IN	O	9	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	??	fluff	VB	VBN	O	0	ROOT	fluff_1
+13	out	out	RP	RP	O	12	compound:prt	
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	woman	woman	NN	NN	O	12	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	pillow	pillow	NN	NN	O	12	nsubjpass	pillow_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	couch	couch	NN	NN	O	2	nmod	couch_1
+6	that	that	IN	IN	O	9	mark	
+7	the	the	DT	DT	O	8	det	
+8	man	man	NN	NN	O	9	nsubj	man_1
+9	sits	sit	VB	VBZ	O	5	ccomp	sit_1
+10	on	on	IN	IN	O	9	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	fluffed	fluff	VB	VBN	O	0	ROOT	fluff_1
+13	out	out	RP	RP	O	12	compound:prt	
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	??	woman	NN	NN	O	12	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	thin	JJ	JJ	O	5	amod	thin
+5	book	book	NN	NN	O	1	dobj	book_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	box	box	NN	NN	O	7	nmod	box_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	thin	thin	JJ	JJ	O	5	amod	thin
+5	??	book	NN	NN	O	1	dobj	book_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	box	box	NN	NN	O	7	nmod	box_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	thin	thin	JJ	JJ	O	5	amod	thin
+5	book	book	NN	NN	O	1	dobj	book_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	box	NN	NN	O	7	nmod	box_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	thin	JJ	JJ	O	5	amod	thin
+5	book	book	NN	NN	O	1	dobj	book_3
+6	next	next	JJ	JJ	O	8	dep	
+7	to	to	TO	TO	O	8	case	
+8	newspaper	newspaper	NN	NN	O	5	nmod	newspaper_1
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	read	read	VB	VBN	O	8	ccomp	read_2
+12	by	by	IN	IN	O	15	case	
+13	the	the	DT	DT	O	15	det	
+14	old	old	JJ	JJ	O	15	amod	
+15	man	man	NN	NN	O	11	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	thin	thin	JJ	JJ	O	5	amod	thin
+5	??	book	NN	NN	O	1	dobj	book_3
+6	next	next	JJ	JJ	O	8	dep	
+7	to	to	TO	TO	O	8	case	
+8	newspaper	newspaper	NN	NN	O	5	nmod	newspaper_1
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	read	read	VB	VBN	O	8	ccomp	read_2
+12	by	by	IN	IN	O	15	case	
+13	the	the	DT	DT	O	15	det	
+14	old	old	JJ	JJ	O	15	amod	
+15	man	man	NN	NN	O	11	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	thin	thin	JJ	JJ	O	5	amod	thin
+5	book	book	NN	NN	O	1	dobj	book_3
+6	next	next	JJ	JJ	O	8	dep	
+7	to	to	TO	TO	O	8	case	
+8	??	newspaper	NN	NN	O	5	nmod	newspaper_1
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	read	read	VB	VBN	O	8	ccomp	read_2
+12	by	by	IN	IN	O	15	case	
+13	the	the	DT	DT	O	15	det	
+14	old	old	JJ	JJ	O	15	amod	
+15	man	man	NN	NN	O	11	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	thin	thin	JJ	JJ	O	5	amod	thin
+5	book	book	NN	NN	O	1	dobj	book_3
+6	next	next	JJ	JJ	O	8	dep	
+7	to	to	TO	TO	O	8	case	
+8	newspaper	newspaper	NN	NN	O	5	nmod	newspaper_1
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	??	read	VB	VBN	O	8	ccomp	read_2
+12	by	by	IN	IN	O	15	case	
+13	the	the	DT	DT	O	15	det	
+14	old	old	JJ	JJ	O	15	amod	
+15	man	man	NN	NN	O	11	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	thin	thin	JJ	JJ	O	5	amod	thin
+5	book	book	NN	NN	O	1	dobj	book_3
+6	next	next	JJ	JJ	O	8	dep	
+7	to	to	TO	TO	O	8	case	
+8	newspaper	newspaper	NN	NN	O	5	nmod	newspaper_1
+9	that	that	WDT	WDT	O	11	nsubjpass	
+10	is	be	VB	VBZ	O	11	auxpass	
+11	read	read	VB	VBN	O	8	ccomp	read_2
+12	by	by	IN	IN	O	15	case	
+13	the	the	DT	DT	O	15	det	
+14	old	old	JJ	JJ	O	15	amod	
+15	??	man	NN	NN	O	11	nmod	man_2
+
+1	take	take	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	??	beige	JJ	JJ	O	4	amod	beige
+4	blanket	blanket	NN	NN	O	1	dobj	blanket_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	12	mark	
+9	the	the	DT	DT	O	11	det	
+10	young	young	JJ	JJ	O	11	amod	young
+11	man	man	NN	NN	O	12	nsubj	man_1
+12	sits	sit	VB	VBZ	O	7	ccomp	sit_1
+13	on	on	IN	IN	O	12	nmod	
+
+1	take	take	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	beige	beige	JJ	JJ	O	4	amod	beige
+4	??	blanket	NN	NN	O	1	dobj	blanket_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	12	mark	
+9	the	the	DT	DT	O	11	det	
+10	young	young	JJ	JJ	O	11	amod	young
+11	man	man	NN	NN	O	12	nsubj	man_1
+12	sits	sit	VB	VBZ	O	7	ccomp	sit_1
+13	on	on	IN	IN	O	12	nmod	
+
+1	take	take	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	beige	beige	JJ	JJ	O	4	amod	beige
+4	blanket	blanket	NN	NN	O	1	dobj	blanket_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	12	mark	
+9	the	the	DT	DT	O	11	det	
+10	young	young	JJ	JJ	O	11	amod	young
+11	man	man	NN	NN	O	12	nsubj	man_1
+12	sits	sit	VB	VBZ	O	7	ccomp	sit_1
+13	on	on	IN	IN	O	12	nmod	
+
+1	take	take	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	beige	beige	JJ	JJ	O	4	amod	beige
+4	blanket	blanket	NN	NN	O	1	dobj	blanket_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	12	mark	
+9	the	the	DT	DT	O	11	det	
+10	??	young	JJ	JJ	O	11	amod	young
+11	man	man	NN	NN	O	12	nsubj	man_1
+12	sits	sit	VB	VBZ	O	7	ccomp	sit_1
+13	on	on	IN	IN	O	12	nmod	
+
+1	take	take	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	beige	beige	JJ	JJ	O	4	amod	beige
+4	blanket	blanket	NN	NN	O	1	dobj	blanket_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	12	mark	
+9	the	the	DT	DT	O	11	det	
+10	young	young	JJ	JJ	O	11	amod	young
+11	??	man	NN	NN	O	12	nsubj	man_1
+12	sits	sit	VB	VBZ	O	7	ccomp	sit_1
+13	on	on	IN	IN	O	12	nmod	
+
+1	take	take	VB	VB	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	beige	beige	JJ	JJ	O	4	amod	beige
+4	blanket	blanket	NN	NN	O	1	dobj	blanket_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	couch	couch	NN	NN	O	4	nmod	couch_1
+8	that	that	IN	IN	O	12	mark	
+9	the	the	DT	DT	O	11	det	
+10	young	young	JJ	JJ	O	11	amod	young
+11	man	man	NN	NN	O	12	nsubj	man_1
+12	??	sit	VB	VBZ	O	7	ccomp	sit_1
+13	on	on	IN	IN	O	12	nmod	
+

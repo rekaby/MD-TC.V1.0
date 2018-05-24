@@ -1,0 +1,280 @@
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	an	a	DT	DT	O	4	det	
+4	apple	apple	NN	NN	O	0	ROOT	apple_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	basket	basket	NN	NN	O	4	nmod	basket_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	picks	pick	VB	VBZ	O	4	ccomp	pick_1
+12	up	up	RP	RP	O	11	compound:prt	
+13	quickly	quickly	RB	RB	O	11	advmod	
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	an	a	DT	DT	O	4	det	
+4	apple	apple	NN	NN	O	0	ROOT	apple_1
+5	in	in	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	basket	basket	NN	NN	O	4	nmod	basket_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	picked	pick	VB	VBN	O	7	ccomp	pick_1
+11	up	up	RP	RP	O	10	compound:prt	
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	10	nmod	man_1
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	an	a	DT	DT	O	4	det	
+4	apple	apple	NN	NN	O	0	ROOT	apple_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	board	board	NN	NN	O	4	nmod	board_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_2
+11	cuts	cut	VB	VBZ	O	4	ccomp	cut_1
+12	into	into	IN	IN	O	13	case	
+13	pieces	piece	NNS	NNS	O	11	nmod	
+								
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	an	a	DT	DT	O	4	det	
+4	apple	apple	NN	NN	O	0	ROOT	apple_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	board	board	NN	NN	O	4	nmod	board_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cut	cut	VB	VBN	O	7	ccomp	cut_1
+11	into	into	IN	IN	O	12	case	
+12	pieces	piece	NN	NNS	O	10	nmod	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	10	nmod	man_2
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	picks	pick	VB	VBZ	O	0	ROOT	pick_1
+4	up	up	RP	RP	O	3	compound:prt	
+5	the	the	DT	DT	O	6	det	
+6	apple	apple	NN	NN	O	3	dobj	apple_1
+7	in	in	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	basket	basket	NN	NN	O	6	nmod	basket_1
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	counter	counter	NN	NN	O	9	nmod	counter_1
+								
+1	The	the	DT	DT	O	2	det	
+2	apple	apple	NN	NN	O	10	nsubjpass	apple_1
+3	in	in	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	basket	basket	NN	NN	O	2	nmod	basket_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_1
+9	is	be	VB	VBZ	O	10	auxpass	
+10	picked	pick	VB	VBN	O	0	ROOT	pick_1
+11	up	up	RP	RP	O	10	compound:prt	
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	10	nmod	man_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	cuts	cut	VB	VBZ	O	0	ROOT	cut_1
+4	the	the	DT	DT	O	5	det	
+5	apple	apple	NN	NN	O	3	dobj	apple_2
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	board	board	NN	NN	O	5	nmod	board_1
+								
+1	The	the	DT	DT	O	2	det	
+2	apple	apple	NN	NN	O	7	nsubjpass	apple_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	board	board	NN	NN	O	2	nmod	board_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cut	cut	VB	VBN	O	0	ROOT	cut_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	basket	basket	NN	NN	O	1	dobj	basket_2
+5	with	with	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	apple	apple	NN	NN	O	1	nmod	apple_4
+8	and	and	CC	CC	O	7	cc	
+9	a	a	DT	DT	O	10	det	
+10	banana	banana	NN	NN	O	7	conj	banana_1
+11	in	in	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+13	that	that	IN	IN	O	14	nsubj	
+14	lies	lie	VB	VBZ	O	10	acl:relcl	
+15	next	next	JJ	JJ	O	14	advmod	
+16	to	to	TO	TO	O	18	case	
+17	the	the	DT	DT	O	18	det	
+18	eggs	egg	NN	NNS	O	14	nmod	egg_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	apple	apple	NN	NN	O	1	dobj	apple_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	9	mark	
+9	pear	pear	NN	NN	O	6	nmod	pear_1
+10	on	on	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	basket	basket	NN	NN	O	9	nmod	basket_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	apple	apple	NN	NN	O	2	nsubj	apple_4
+4	and	and	CC	CC	O	3	cc	
+5	banana	banana	NN	NN	O	3	conj	banana_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lie	lie	VB	VBP	O	3	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	basket	basket	NN	NN	O	7	nmod	basket_2
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	wine	wine	NN	NN	O	2	nsubj	wine_1
+4	and	and	CC	CC	O	3	cc	
+5	glass	glass	NN	NN	O	3	conj	glass_1
+6	lying	lie	VB	VBG	O	3	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	trolley	trolley	NN	NN	O	6	nmod	trolley_1
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	corks	cork	NN	NNS	O	3	dobj	cork_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	wine	wine	NN	NN	O	5	nmod	wine_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	next	next	JJ	JJ	O	10	advmod	
+12	to	to	TO	TO	O	13	case	
+13	glass	glass	NN	NN	O	10	nmod	glass_1
+								
+1	The	the	DT	DT	O	2	det	
+2	cork	cork	NN	NNS	O	12	nsubjpass	cork_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	wine	wine	NN	NN	O	2	nmod	wine_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	2	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	10	case	
+10	glass	glass	NN	NN	O	7	nmod	glass_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	opened	open	VB	VBN	O	0	ROOT	open_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	12	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	removes	remove	VB	VBZ	O	0	ROOT	remove_1
+4	the	the	DT	DT	O	5	det	
+5	peel	peel	NN	NN	O	3	dobj	peel_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	apple	apple	NN	NN	O	5	nmod	apple_2
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	board	board	NN	NN	O	10	nmod	board_1
+								
+1	The	the	DT	DT	O	2	det	
+2	peel	peel	NN	NN	O	12	nsubjpass	peel_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	apple	apple	NN	NN	O	2	nmod	apple_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	board	board	NN	NN	O	7	nmod	board_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	removed	remove	VB	VBN	O	0	ROOT	remove_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	pot	pot	NN	NN	O	1	dobj	pot_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	counter	counter	NN	NN	O	7	nmod	counter_2
+11	with	with	IN	IN	O	12	case	
+12	eggs	egg	NN	NNS	O	10	nmod	eggs_1
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	green	green	JJ	JJ	O	5	amod	green
+5	apple	apple	NN	NN	O	1	dobj	apple_2
+6	lying	lie	VB	VBG	O	5	ccomp	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	board	board	NN	NN	O	6	nmod	board_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	pot	pot	NN	NN	O	1	dobj	pot_2
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	board	board	NN	NN	O	7	nmod	board_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	basket	basket	NN	NN	O	1	xcomp	basket_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	with	with	IN	IN	O	10	case	
+9	a	a	DT	DT	O	10	det	
+10	pot	pot	NN	NN	O	7	nmod	pot_2
+11	on	on	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	basket	basket	NN	NN	O	1	xcomp	basket_1
+5	with	with	IN	IN	O	8	case	
+6	a	a	DT	DT	O	8	det	
+7	red	red	JJ	JJ	O	8	amod	red
+8	apple	apple	NN	NN	O	4	nmod	apple_1
+9	in	in	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	

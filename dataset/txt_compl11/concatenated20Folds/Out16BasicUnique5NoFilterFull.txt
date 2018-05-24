@@ -1,0 +1,906 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	hat	hat	NN	NN	O	0	_		hat_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	closet	closet	NN	NN	O	4	_	closet_1	closet_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	organizes	organize	VB	VBZ	O	7	_		organize_1	
+12	carefully	carefully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	hat	hat	NN	NN	O	0	_		hat_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	closet	closet	NN	NN	O	4	_	closet_1	closet_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	organizes	organize	VB	VBZ	O	7	_		organize_1	
+12	carefully	carefully	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	hat	hat	NN	NN	O	0	_		hat_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	closet	closet	NN	NN	O	4	_	closet_1	closet_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	organized	organize	VB	VBN	O	7	_		organize_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	hat	hat	NN	NN	O	0	_		hat_1	
+5	in	in	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	closet	closet	NN	NN	O	4	_	closet_1	closet_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	organized	organize	VB	VBN	O	7	_		organize_1	
+11	by	by	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	closet	closet	NN	NN	O	0	_	closet_2	closet_2	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hat	hat	NN	NN	O	4	_	hat_2	hat_2	
+8	on	on	IN	IN	O	9	_			
+9	it	it	PRP	PRP	O	7	_			
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_2	woman_2	
+13	paints	paint	VB	VBZ	O	4	_		paint_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	closet	closet	NN	NN	O	0	_	closet_2	closet_2	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hat	hat	NN	NN	O	4	_	hat_2	hat_2	
+8	on	on	IN	IN	O	9	_			
+9	it	it	PRP	PRP	O	7	_			
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_2	woman_2	
+13	paints	paint	VB	VBZ	O	4	_		paint_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	closet	closet	NN	NN	O	0	_	closet_2	closet_2	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hat	hat	NN	NN	O	4	_	hat_2	hat_2	
+8	on	on	IN	IN	O	9	_			
+9	it	it	PRP	PRP	O	7	_			
+10	that	that	IN	IN	O	13	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	13	_	woman_2	woman_2	
+13	paints	paint	VB	VBZ	O	4	_		paint_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	closet	closet	NN	NN	O	12	_	closet_2	closet_2	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hat	hat	NN	NN	O	4	_	hat_2	hat_2	
+8	on	on	IN	IN	O	9	_			
+9	it	it	PRP	PRP	O	7	_			
+10	that	that	WDT	WDT	O	12	_			
+11	is	be	VB	VBZ	O	12	_			
+12	painted	paint	VB	VBN	O	0	_		paint_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	closet	closet	NN	NN	O	12	_	closet_2	closet_2	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hat	hat	NN	NN	O	4	_	hat_2	hat_2	
+8	on	on	IN	IN	O	9	_			
+9	it	it	PRP	PRP	O	7	_			
+10	that	that	WDT	WDT	O	12	_			
+11	is	be	VB	VBZ	O	12	_			
+12	painted	paint	VB	VBN	O	0	_		paint_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	closet	closet	NN	NN	O	12	_	closet_2	closet_2	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	hat	hat	NN	NN	O	4	_	hat_2	hat_2	
+8	on	on	IN	IN	O	9	_			
+9	it	it	PRP	PRP	O	7	_			
+10	that	that	WDT	WDT	O	12	_			
+11	is	be	VB	VBZ	O	12	_			
+12	painted	paint	VB	VBN	O	0	_		paint_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	closet	closet	NN	NN	O	0	_	closet_2	closet_2	
+5	that	that	IN	IN	O	8	_			
+6	the	the	DT	DT	O	7	_			
+7	woman	woman	NN	NN	O	8	_	woman_2	woman_2	
+8	paints	paint	VB	VBZ	O	4	_		paint_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VBZ	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	closet	closet	NN	NN	O	0	_	closet_2	closet_2	
+5	that	that	IN	IN	O	8	_			
+6	the	the	DT	DT	O	7	_			
+7	woman	woman	NN	NN	O	8	_	woman_2	woman_2	
+8	paints	paint	VB	VBZ	O	4	_		paint_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	closet	closet	NN	NN	O	0	_	closet_2	closet_2	
+5	that	that	WDT	WDT	O	7	_			
+6	is	be	VB	VBZ	O	7	_			
+7	painted	paint	VB	VBN	O	4	_		paint_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	closet	closet	NN	NN	O	0	_	closet_2	closet_2	
+5	that	that	WDT	WDT	O	7	_			
+6	is	be	VB	VBZ	O	7	_			
+7	painted	paint	VB	VBN	O	4	_		paint_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	organizes	organize	VB	VBZ	O	0	_	organize_1	organize_1	
+4	the	the	DT	DT	O	5	_			
+5	closet	closet	NN	NN	O	3	_	closet_1	closet_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	hat	hat	NN	NN	O	5	_	hat_1	hat_1	
+9	and	and	CC	CC	O	8	_			
+10	cloths	cloth	NN	NNS	O	8	_	cloth_1	cloth_1	
+11	on	on	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	organizes	organize	VB	VBZ	O	0	_	organize_1	organize_1	
+4	the	the	DT	DT	O	5	_			
+5	closet	closet	NN	NN	O	3	_	closet_1	closet_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	hat	hat	NN	NN	O	5	_	hat_1	hat_1	
+9	and	and	CC	CC	O	8	_			
+10	cloths	cloth	NN	NNS	O	8	_	cloth_1	cloth_1	
+11	on	on	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	organizes	organize	VB	VBZ	O	0	_	organize_1	organize_1	
+4	the	the	DT	DT	O	5	_			
+5	closet	closet	NN	NN	O	3	_	closet_1	closet_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	hat	hat	NN	NN	O	5	_	hat_1	hat_1	
+9	and	and	CC	CC	O	8	_			
+10	cloths	cloth	NN	NNS	O	8	_	cloth_1	cloth_1	
+11	on	on	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	organizes	organize	VB	VBZ	O	0	_	organize_1	organize_1	
+4	the	the	DT	DT	O	5	_			
+5	closet	closet	NN	NN	O	3	_	closet_1	closet_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	hat	hat	NN	NN	O	5	_	hat_1	hat_1	
+9	and	and	CC	CC	O	8	_			
+10	cloth	cloth	NN	NN	O	8	_	cloth_1	cloth_1	
+11	on	on	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	organize	organize	VB	VBZ	O	0	_	organize_1	organize_1	
+4	the	the	DT	DT	O	5	_			
+5	closet	closet	NN	NN	O	3	_	closet_1	closet_1	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	hat	hat	NN	NN	O	5	_	hat_1	hat_1	
+9	and	and	CC	CC	O	8	_			
+10	cloths	cloth	NN	NNS	O	8	_	cloth_1	cloth_1	
+11	on	on	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+
+1	The	the	DT	DT	O	2	_			
+2	closet	closet	NN	NN	O	11	_	closet_1	closet_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	hat	hat	NN	NN	O	2	_	hat_1	hat_1	
+6	and	and	CC	CC	O	5	_			
+7	cloths	cloth	NN	NNS	O	5	_	cloth_1	cloth_1	
+8	on	on	IN	IN	O	9	_			
+9	it	it	PRP	PRP	O	7	_			
+10	is	be	VB	VBZ	O	11	_			
+11	organized	organize	VB	VBN	O	0	_	organize_1	organize_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	closet	closet	NN	NN	O	11	_	closet_1	closet_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	hat	hat	NN	NN	O	2	_	hat_1	hat_1	
+6	and	and	CC	CC	O	5	_			
+7	cloths	cloth	NN	NNS	O	5	_	cloth_1	cloth_1	
+8	on	on	IN	IN	O	9	_			
+9	it	it	PRP	PRP	O	7	_			
+10	is	be	VB	VBZ	O	11	_			
+11	organized	organize	VB	VBN	O	0	_	organize_1	organize_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	closet	closet	NN	NN	O	11	_	closet_1	closet_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	hat	hat	NN	NN	O	2	_	hat_1	hat_1	
+6	and	and	CC	CC	O	5	_			
+7	cloth	cloth	NN	NN	O	5	_	cloth_1	cloth_1	
+8	on	on	IN	IN	O	9	_			
+9	it	it	PRP	PRP	O	7	_			
+10	is	be	VB	VBZ	O	11	_			
+11	organized	organize	VB	VBN	O	0	_	organize_1	organize_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	closet	closet	NN	NN	O	11	_	closet_1	closet_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	hat	hat	NN	NN	O	2	_	hat_1	hat_1	
+6	and	and	CC	CC	O	5	_			
+7	cloths	cloth	NN	NNS	O	5	_	cloth_1	cloth_1	
+8	on	on	IN	IN	O	9	_			
+9	it	it	PRP	PRP	O	7	_			
+10	is	be	VB	VBZ	O	11	_			
+11	organize	organize	VB	VBN	O	0	_	organize_1	organize_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	closet	closet	NN	NN	O	11	_	closet_1	closet_1	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	hat	hat	NN	NN	O	2	_	hat_1	hat_1	
+6	and	and	CC	CC	O	5	_			
+7	cloths	cloth	NN	NNS	O	5	_	cloth_1	cloth_1	
+8	on	on	IN	IN	O	9	_			
+9	it	it	PRP	PRP	O	7	_			
+10	is	be	VB	VBZ	O	11	_			
+11	organized	organize	VB	VBN	O	0	_	organize_1	organize_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	paints	paint	VB	VBZ	O	0	_		paint_1	
+4	the	the	DT	DT	O	5	_			
+5	closet	closet	NN	NN	O	3	_	closet_2	closet_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	hat	hat	NN	NN	O	5	_	hat_2	hat_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	paints	paint	VB	VBZ	O	0	_		paint_1	
+4	the	the	DT	DT	O	5	_			
+5	closet	closet	NN	NN	O	3	_	closet_2	closet_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	hat	hat	NN	NN	O	5	_	hat_2	hat_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	paints	paint	VB	VBZ	O	0	_		paint_1	
+4	the	the	DT	DT	O	5	_			
+5	closet	closet	NN	NN	O	3	_	closet_2	closet_2	
+6	with	with	IN	IN	O	8	_			
+7	a	a	DT	DT	O	8	_			
+8	hat	hat	NN	NN	O	5	_	hat_2	hat_2	
+9	on	on	IN	IN	O	10	_			
+10	it	it	PRP	PRP	O	8	_			
+
+1	The	the	DT	DT	O	2	_			
+2	closet	closet	NN	NN	O	9	_	closet_2	closet_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	hat	hat	NN	NN	O	2	_	hat_2	hat_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VBZ	VBZ	O	9	_			
+9	painted	paint	VB	VBN	O	0	_		paint_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	closet	closet	NN	NN	O	9	_	closet_2	closet_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	hat	hat	NN	NN	O	2	_	hat_2	hat_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VBZ	VBZ	O	9	_			
+9	painted	paint	VB	VBN	O	0	_		paint_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	closet	closet	NN	NN	O	9	_	closet_2	closet_2	
+3	with	with	IN	IN	O	5	_			
+4	a	a	DT	DT	O	5	_			
+5	hat	hat	NN	NN	O	2	_	hat_2	hat_2	
+6	on	on	IN	IN	O	7	_			
+7	it	it	PRP	PRP	O	5	_			
+8	is	be	VBZ	VBZ	O	9	_			
+9	painted	paint	VB	VBN	O	0	_		paint_1	
+10	by	by	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	woman	woman	NN	NN	O	9	_	woman_2	woman_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	perfume	perfume	NN	NN	O	1	_	mirror_2//perfume_1	perfume_1	
+5	lying	lie	VB	VBG	O	4	_		lie_16	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	drawer	drawer	NN	NN	O	5	_		drawer_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	brush	brush	NN	NN	O	1	_	brush_1	brush_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_17	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	mirror	mirror	NN	NN	O	6	_	mirror_1	mirror_1	
+11	and	and	CC	CC	O	10	_			
+12	hat	hat	NN	NN	O	10	_	hat_3	hat_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	brush	brush	NN	NN	O	1	_	brush_1	brush_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_17	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	mirror	mirror	NN	NN	O	6	_	mirror_1	mirror_1	
+11	and	and	CC	CC	O	10	_			
+12	hat	hat	NN	NN	O	10	_	hat_3	hat_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	brush	brush	NN	NN	O	1	_	brush_1	brush_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_17	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	mirror	mirror	NN	NN	O	6	_	mirror_1	mirror_1	
+11	and	and	CC	CC	O	10	_			
+12	hat	hat	NN	NN	O	10	_	hat_3	hat_3	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	brush	brush	NN	NN	O	2	_	brush_1	brush_1	
+4	","	","	","	","	O	5	_			
+5	mirror	mirror	NN	NN	O	3	_	mirror_1	mirror_1	
+6	and	and	CC	CC	O	5	_			
+7	hat	hat	NN	NN	O	5	_	hat_3	hat_3	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_17	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	dresser	dresser	NN	NN	O	9	_	dresser_1	dresser_1	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	brushes	brush	NN	NNS	O	2	_	brush_1	brush_1	
+4	","	","	","	","	O	5	_			
+5	mirror	mirror	NN	NN	O	3	_	mirror_1	mirror_1	
+6	and	and	CC	CC	O	5	_			
+7	hat	hat	NN	NN	O	5	_	hat_3	hat_3	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_17	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	dresser	dresser	NN	NN	O	9	_	dresser_1	dresser_1	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	brushes	brush	NN	NNS	O	2	_	brush_1	brush_1	
+4	","	","	","	","	O	5	_			
+5	mirror	mirror	NN	NN	O	3	_	mirror_1	mirror_1	
+6	and	and	CC	CC	O	5	_			
+7	hat	hat	NN	NN	O	5	_	hat_3	hat_3	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_17	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	dresser	dresser	NN	NN	O	9	_	dresser_1	dresser_1	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	brushes	brush	NN	NNS	O	2	_	brush_1	brush_1	
+4	","	","	","	","	O	5	_			
+5	mirror	mirror	NN	NN	O	3	_	mirror_1	mirror_1	
+6	and	and	CC	CC	O	5	_			
+7	hat	hat	NN	NN	O	5	_	hat_3	hat_3	
+8	that	that	WDT	WDT	O	9	_			
+9	lie	lie	VB	VBP	O	7	_		lie_17	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	dresser	dresser	NN	NN	O	9	_	dresser_1	dresser_1	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	hat	hat	NN	NN	O	2	_	hat_1	hat_1	
+4	and	and	CC	CC	O	3	_			
+5	cloth	cloth	NN	NN	O	3	_		cloth_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lie	lie	VB	VBP	O	5	_		lie_15	
+8	in	in	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	closet	closet	NN	NN	O	7	_	closet_1	closet_1	
+
+1	there	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	hat	hat	NN	NN	O	2	_	hat_1	hat_1	
+4	and	and	CC	CC	O	3	_			
+5	cloth	cloth	NN	NN	O	3	_		cloth_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lie	lie	VB	VBP	O	5	_		lie_15	
+8	in	in	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	closet	closet	NN	NN	O	7	_	closet_1	closet_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	checks	check	VB	VBZ	O	0	_		check_1	
+4	the	the	DT	DT	O	5	_			
+5	side	side	NN	NN	O	3	_	side_2	side_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_2	closet_2	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	paints	paint	VB	VBZ	O	8	_	paint_1	paint_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	checks	check	VB	VBZ	O	0	_		check_1	
+4	the	the	DT	DT	O	5	_			
+5	side	side	NN	NN	O	3	_	side_2	side_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_2	closet_2	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	paints	paint	VB	VBZ	O	8	_	paint_1	paint_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	checks	check	VB	VBZ	O	0	_		check_1	
+4	the	the	DT	DT	O	5	_			
+5	side	side	NN	NN	O	3	_	side_2	side_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_2	closet_2	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	paints	paint	VB	VBZ	O	8	_	paint_1	paint_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	checks	check	VB	VBZ	O	0	_		check_1	
+4	the	the	DT	DT	O	5	_			
+5	side	side	NN	NN	O	3	_	side_2	side_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_2	closet_2	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	paints	paint	VB	VBZ	O	8	_	paint_1	paint_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	checks	check	VB	VBZ	O	0	_		check_1	
+4	the	the	DT	DT	O	5	_			
+5	side	side	NN	NN	O	3	_	side_2	side_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_2	closet_2	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	paint	paint	VB	VBZ	O	8	_	paint_1	paint_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	checks	check	VB	VBZ	O	0	_		check_1	
+4	the	the	DT	DT	O	5	_			
+5	side	side	NN	NN	O	3	_	side_2	side_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_2	closet_2	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	painted	paint	VB	VBN	O	8	_	paint_1	paint_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	checks	check	VB	VBZ	O	0	_		check_1	
+4	the	the	DT	DT	O	5	_			
+5	side	side	NN	NN	O	3	_	side_2	side_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_2	closet_2	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	painted	paint	VB	VBN	O	8	_	paint_1	paint_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	checks	check	VB	VBZ	O	0	_		check_1	
+4	the	the	DT	DT	O	5	_			
+5	side	side	NN	NN	O	3	_	side_2	side_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_2	closet_2	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	painted	paint	VB	VBN	O	8	_	paint_1	paint_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	checks	check	VB	VBZ	O	0	_		check_1	
+4	the	the	DT	DT	O	5	_			
+5	side	side	NN	NN	O	3	_	side_2	side_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_2	closet_2	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	paint	paint	VB	VBN	O	8	_	paint_1	paint_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	checks	check	VB	VBZ	O	0	_		check_1	
+4	the	the	DT	DT	O	5	_			
+5	side	side	NN	NN	O	3	_	side_2	side_2	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_2	closet_2	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VB	VBZ	O	11	_			
+11	painted	paint	VB	VBN	O	8	_	paint_1	paint_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	observes	observe	VB	VBZ	O	0	_		observe_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_1	shelf_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_1	closet_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+12	organizes	organize	VB	VBZ	O	8	_	organize_1	organize_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	observes	observe	VB	VBZ	O	0	_		observe_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_1	shelf_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_1	closet_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+12	organizes	organize	VB	VBZ	O	8	_	organize_1	organize_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	observes	observe	VB	VBZ	O	0	_		observe_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_1	shelf_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_1	closet_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+12	organizes	organize	VB	VBZ	O	8	_	organize_1	organize_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	observes	observe	VB	VBZ	O	0	_		observe_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_1	shelf_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_1	closet_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+12	organizes	organize	VB	VBZ	O	8	_	organize_1	organize_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	observes	observe	VB	VBZ	O	0	_		observe_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_1	shelf_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_1	closet_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_1	woman_1	
+12	organize	organize	VB	VBZ	O	8	_	organize_1	organize_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	observes	observe	VB	VBZ	O	0	_		observe_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_1	shelf_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_1	closet_1	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VBZ	VBZ	O	11	_			
+11	organized	organize	VB	VBN	O	8	_	organize_1	organize_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	observes	observe	VB	VBZ	O	0	_		observe_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_1	shelf_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_1	closet_1	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VBZ	VBZ	O	11	_			
+11	organized	organize	VB	VBN	O	8	_	organize_1	organize_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	observes	observe	VB	VBZ	O	0	_		observe_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_1	shelf_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_1	closet_1	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VBZ	VBZ	O	11	_			
+11	organized	organize	VB	VBN	O	8	_	organize_1	organize_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	observes	observe	VB	VBZ	O	0	_		observe_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_1	shelf_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_1	closet_1	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VBZ	VBZ	O	11	_			
+11	organize	organize	VB	VBN	O	8	_	organize_1	organize_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	observes	observe	VB	VBZ	O	0	_		observe_1	
+4	the	the	DT	DT	O	5	_			
+5	shelf	shelf	NN	NN	O	3	_	shelf_1	shelf_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	closet	closet	NN	NN	O	5	_	closet_1	closet_1	
+9	that	that	WDT	WDT	O	11	_			
+10	is	be	VBZ	VBZ	O	11	_			
+11	organized	organize	VB	VBN	O	8	_	organize_1	organize_1	
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	black	black	JJ	JJ	O	5	_	black	black	
+5	hat	hat	NN	NN	O	1	_	hat_3	hat_3	
+6	lying	lie	VB	VBG	O	5	_		lie_17	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	dresser	dresser	NN	NN	O	6	_	dresser_1	dresser_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	black	black	JJ	JJ	O	5	_	black	black	
+5	hat	hat	NN	NN	O	1	_	hat_3	hat_3	
+6	lying	lie	VB	VBG	O	5	_		lie_17	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	dresser	dresser	NN	NN	O	6	_	dresser_1	dresser_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	black	black	JJ	JJ	O	5	_	black	black	
+5	hat	hat	NN	NN	O	1	_	hat_3	hat_3	
+6	lying	lie	VB	VBG	O	5	_		lie_17	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	dresser	dresser	NN	NN	O	6	_	dresser_1	dresser_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	colorful	colorful	JJ	JJ	O	5	_	colorful	colorful	
+5	box	box	NN	NN	O	1	_	box_1	box_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	in	in	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	closet	closet	NN	NN	O	7	_	closet_3	closet_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	colorful	colorful	JJ	JJ	O	5	_	colorful	colorful	
+5	box	box	NN	NN	O	1	_	box_1	box_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	in	in	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	closet	closet	NN	NN	O	7	_	closet_3	closet_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	colorful	colorful	JJ	JJ	O	5	_	colorful	colorful	
+5	box	box	NN	NN	O	1	_	box_1	box_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_11	
+8	in	in	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	closet	closet	NN	NN	O	7	_	closet_3	closet_3	
+
+1	clean	clean	JJ	JJ	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	blue	blue	JJ	JJ	O	4	_	blue	blue	
+4	shoes	shoe	NN	NNS	O	1	_	shoe_1	shoe_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lie	lie	VB	VBP	O	4	_		lie_11	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	closet	closet	NN	NN	O	6	_	closet_3	closet_3	
+
+1	clean	clean	JJ	JJ	O	0	_			
+2	the	the	DT	DT	O	4	_			
+3	blue	blue	JJ	JJ	O	4	_	blue	blue	
+4	shoes	shoe	NN	NNS	O	1	_	shoe_1	shoe_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lie	lie	VB	VBP	O	4	_		lie_11	
+7	in	in	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	closet	closet	NN	NN	O	6	_	closet_3	closet_3	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	mirror	mirror	NN	NN	O	1	_	mirror_2	mirror_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_16	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	perfume	perfume	NN	NN	O	6	_	perfume_1	perfume_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	hat	hat	NN	NN	O	2	_	hat_3	hat_3	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_17	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	mirror	mirror	NN	NN	O	6	_	mirror_1	mirror_1	
+11	and	and	CC	CC	O	10	_			
+12	the	the	DT	DT	O	13	_			
+13	brush	brush	NN	NN	O	10	_	brush_1	brush_1	
+

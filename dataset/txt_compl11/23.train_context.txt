@@ -1,0 +1,39 @@
+woman_1	$Agent$	fix_1
+woman_1	$Agent$	change_1
+woman_2	$Agent$	take_1
+bathrobe_2	$Theme$	take_1
+bathrobe_3	$Theme$	lie_1
+hook_1	$Theme$	fix_1
+screw_1	$Theme$	change_1
+basket_2	$Theme$	empty_1
+bathrobe_1	$Location$	hook_1
+bathrobe_2	$Location$	hook_2
+bathrobe_3	$Location$	bathtub_1
+hook_1	$Location$	wall_1
+hook_2	$Location$	wall_2
+hook_3	$Location$	wall_2
+dispenser_1	$Location$	sink_1
+holder_1	$Location$	sink_1
+towel_1	$Location$ 	bathtub_1
+plant_1	$NextTo$	woman_2
+basket_1	$NextTo$	sink_1
+basket_1	$NextTo$	woman_1
+basket_2	$NextTo$	bathtub_1
+dispenser_1	$NextTo$	holder_1
+hook_1	$Own$	screw_1
+hook_2	$Own$	screw_2
+hook_3	$Own$	screw_3
+bathrobe_1	$Property$	white
+bathrobe_2	$Property$	pink
+bathrobe_3	$Property$	grey
+hook_1	$Property$	plastic
+hook_2	$Property$	wooden
+hook_3	$Property$	wooden
+dispenser_1	$Property$	soap
+dispenser_2	$Property$	shampoo
+dispenser_2	$Location$	shelf_1
+perfume_1	$Location$	shelf_1
+towel_2	$Location$	shelf_1
+
+
+

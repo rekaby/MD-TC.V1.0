@@ -1,0 +1,1128 @@
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	list	NN	NN	O	0	ROOT	list_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	fill	fill	VB	VBZ	O	7	ccomp	fill_1
+12	out	out	RP	RP	O	11	compound:prt	
+13	professionally	professionally	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	desk	NN	NN	O	4	nmod	desk_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	fill	fill	VB	VBZ	O	7	ccomp	fill_1
+12	out	out	RP	RP	O	11	compound:prt	
+13	professionally	professionally	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_1
+11	fill	fill	VB	VBZ	O	7	ccomp	fill_1
+12	out	out	RP	RP	O	11	compound:prt	
+13	professionally	professionally	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	list	NN	NN	O	0	ROOT	list_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	filled	fill	VB	VBN	O	7	acl:relcl	fill_1
+11	out	out	RP	RP	O	10	compound:prt	
+12	on	on	IN	IN	O	15	case	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	desk	NN	NN	O	4	nmod	desk_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	filled	fill	VB	VBN	O	7	acl:relcl	fill_1
+11	out	out	RP	RP	O	10	compound:prt	
+12	on	on	IN	IN	O	15	case	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VBZ	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	filled	fill	VB	VBN	O	7	acl:relcl	fill_1
+11	out	out	RP	RP	O	10	compound:prt	
+12	on	on	IN	IN	O	15	case	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	??	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	list	NN	NN	O	0	ROOT	list_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	cuts	cut	VB	VBZ	O	4	ccomp	
+12	into	into	IN	IN	O	13	case	
+13	pieces	piece	NN	NNS	O	11	nmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	desk	NN	NN	O	4	nmod	desk_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	cuts	cut	VB	VBZ	O	4	ccomp	
+12	into	into	IN	IN	O	13	case	
+13	pieces	piece	NN	NNS	O	11	nmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_2
+11	cuts	cut	VB	VBZ	O	4	ccomp	
+12	into	into	IN	IN	O	13	case	
+13	pieces	piece	NN	NNS	O	11	nmod	
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	list	NN	NN	O	0	ROOT	list_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cut	cut	VB	VBN	O	7	acl:relcl	
+11	into	into	IN	IN	O	12	case	
+12	pieces	piece	NNS	NNS	O	10	nmod	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	desk	NN	NN	O	4	nmod	desk_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cut	cut	VB	VBN	O	7	acl:relcl	
+11	into	into	IN	IN	O	12	case	
+12	pieces	piece	NNS	NNS	O	10	nmod	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	woman	woman	NN	NN	O	10	nmod	woman_2
+
+1	It	it	PRP	PRP	O	2	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	0	ROOT	list_2
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cut	cut	VB	VBN	O	7	acl:relcl	
+11	into	into	IN	IN	O	12	case	
+12	pieces	piece	NNS	NNS	O	10	nmod	
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	??	woman	NN	NN	O	10	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_1
+3	fills	fill	VB	VBZ	O	0	ROOT	
+4	out	out	IN	IN	O	3	compound:prt	
+5	the	the	DT	DT	O	6	det	
+6	list	list	NN	NN	O	3	dobj	list_1
+7	on	on	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	6	nmod	desk_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	fills	fill	VB	VBZ	O	0	ROOT	
+4	out	out	IN	IN	O	3	compound:prt	
+5	the	the	DT	DT	O	6	det	
+6	??	list	NN	NN	O	3	dobj	list_1
+7	on	on	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	6	nmod	desk_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	fills	fill	VB	VBZ	O	0	ROOT	
+4	out	out	IN	IN	O	3	compound:prt	
+5	the	the	DT	DT	O	6	det	
+6	list	list	NN	NN	O	3	dobj	list_1
+7	on	on	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	??	desk	NN	NN	O	6	nmod	desk_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	list	NN	NN	O	7	nsubjpass	list_1
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	desk	desk	NN	NN	O	2	nmod	desk_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	filled	fill	VB	VBN	O	0	ROOT	
+8	out	out	RP	RP	O	7	compound:prt	
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	list	list	NN	NN	O	7	nsubjpass	list_1
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	??	desk	NN	NN	O	2	nmod	desk_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	filled	fill	VB	VBN	O	0	ROOT	
+8	out	out	RP	RP	O	7	compound:prt	
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	list	list	NN	NN	O	7	nsubjpass	list_1
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	desk	desk	NN	NN	O	2	nmod	desk_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	filled	fill	VB	VBN	O	0	ROOT	
+8	out	out	RP	RP	O	7	compound:prt	
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	woman	NN	NN	O	7	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	cuts	cut	VB	VBZ	O	0	ROOT	
+4	into	into	IN	IN	O	5	case	
+5	pieces	piece	NN	NNS	O	3	nmod	
+6	the	the	DT	DT	O	7	det	
+7	list	list	NN	NN	O	3	dobj	list_2
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	desk	desk	NN	NN	O	7	nmod	desk_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cuts	cut	VB	VBZ	O	0	ROOT	
+4	into	into	IN	IN	O	5	case	
+5	pieces	piece	NN	NNS	O	3	nmod	
+6	the	the	DT	DT	O	7	det	
+7	??	list	NN	NN	O	3	dobj	list_2
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	desk	desk	NN	NN	O	7	nmod	desk_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	cuts	cut	VB	VBZ	O	0	ROOT	
+4	into	into	IN	IN	O	5	case	
+5	pieces	piece	NN	NNS	O	3	nmod	
+6	the	the	DT	DT	O	7	det	
+7	list	list	NN	NN	O	3	dobj	list_2
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	desk	NN	NN	O	7	nmod	desk_2
+
+1	The	the	DT	DT	O	2	det	
+2	??	list	NN	NN	O	7	nsubjpass	list_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	desk	desk	NN	NN	O	2	nmod	desk_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cut	cut	VB	VBN	O	0	ROOT	
+8	into	into	IN	IN	O	9	case	
+9	pieces	piece	NN	NNS	O	7	nmod	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	list	list	NN	NN	O	7	nsubjpass	list_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	desk	NN	NN	O	2	nmod	desk_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cut	cut	VB	VBN	O	0	ROOT	
+8	into	into	IN	IN	O	9	case	
+9	pieces	piece	NN	NNS	O	7	nmod	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	7	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	list	list	NN	NN	O	7	nsubjpass	list_2
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	desk	desk	NN	NN	O	2	nmod	desk_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cut	cut	VB	VBN	O	0	ROOT	
+8	into	into	IN	IN	O	9	case	
+9	pieces	piece	NN	NNS	O	7	nmod	
+10	by	by	IN	IN	O	12	case	
+11	the	the	DT	DT	O	12	det	
+12	??	woman	NN	NN	O	7	nmod	woman_2
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	computer	computer	NN	NN	O	3	dobj	computer_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	desk	desk	NN	NN	O	5	nmod	desk_3
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	??	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	computer	computer	NN	NN	O	3	dobj	computer_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	desk	desk	NN	NN	O	5	nmod	desk_3
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	??	computer	NN	NN	O	3	dobj	computer_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	desk	desk	NN	NN	O	5	nmod	desk_3
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	computer	computer	NN	NN	O	3	dobj	computer_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	desk	NN	NN	O	5	nmod	desk_3
+
+1	The	the	DT	DT	O	2	det	
+2	??	computer	NN	NN	O	7	nsubjpass	computer_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	desk	desk	NN	NN	O	2	nmod	desk_3
+6	is	be	VB	VBZ	O	7	auxpass	
+7	opened	open	VB	VBN	O	0	ROOT	open_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	computer	computer	NN	NN	O	7	nsubjpass	computer_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	desk	NN	NN	O	2	nmod	desk_3
+6	is	be	VB	VBZ	O	7	auxpass	
+7	opened	open	VB	VBN	O	0	ROOT	open_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	computer	computer	NN	NN	O	7	nsubjpass	computer_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	desk	desk	NN	NN	O	2	nmod	desk_3
+6	is	be	VB	VBZ	O	7	auxpass	
+7	??	open	VB	VBN	O	0	ROOT	open_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	computer	computer	NN	NN	O	7	nsubjpass	computer_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	desk	desk	NN	NN	O	2	nmod	desk_3
+6	is	be	VB	VBZ	O	7	auxpass	
+7	opened	open	VB	VBN	O	0	ROOT	open_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	7	nmod	man_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	envelope	NN	NN	O	1	dobj	envelope_1//computer_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	6	nmod	desk_3
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	chair	chair	NN	NN	O	9	nmod	chair_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	envelope	envelope	NN	NN	O	1	dobj	envelope_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	desk	NN	NN	O	6	nmod	desk_3
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	computer	computer	NN	NN	O	9	nmod	computer_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	envelope	envelope	NN	NN	O	1	dobj	envelope_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	6	nmod	desk_3
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	computer	NN	NN	O	9	nmod	computer_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	list	NN	NN	O	1	dobj	list_3//mug_1
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	phone	phone	NN	NN	O	4	nmod	phone_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	on	on	IN	IN	O	14	case	
+12	the	the	DT	DT	O	14	det	
+13	storage	storage	NN	NN	O	14	compound	storage_1
+14	unit	unit	NN	NN	O	10	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	list	list	NN	NN	O	1	dobj	list_3
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	phone	NN	NN	O	4	nmod	phone_1//mug_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	on	on	IN	IN	O	14	case	
+12	the	the	DT	DT	O	14	det	
+13	storage	storage	NN	NN	O	14	compound	storage_1
+14	unit	unit	NN	NN	O	10	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	list	list	NN	NN	O	1	dobj	list_3
+5	next	next	JJ	JJ	O	8	dep	
+6	to	to	TO	TO	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	phone	phone	NN	NN	O	4	nmod	
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	on	on	IN	IN	O	14	case	
+12	the	the	DT	DT	O	14	det	
+13	??	storage	NN	NN	O	14	compound	storage_1
+14	unit	unit	NN	NN	O	10	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	list	NN	NN	O	1	dobj	list_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	6	nmod	desk_1
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	pencils	pencil	NN	NNS	O	9	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	list	list	NN	NN	O	1	dobj	list_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	desk	NN	NN	O	6	nmod	desk_1
+10	next	next	JJ	JJ	O	13	dep	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	pencils	pencil	NN	NNS	O	9	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	list	NN	NN	O	2	nsubj	list_1
+5	and	and	CC	CC	O	4	cc	
+6	pencils	pencil	NN	NNS	O	4	conj	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	4	nmod	desk_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	2	nsubj	list_1
+5	and	and	CC	CC	O	4	cc	
+6	pencils	pencil	NN	NNS	O	4	conj	
+7	on	on	IN	IN	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	desk	NN	NN	O	4	nmod	desk_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	computer	NN	NN	O	2	nsubj	computer_1
+5	and	and	CC	CC	O	4	cc	
+6	an	a	DT	DT	O	7	det	
+7	envelope	envelope	NN	NN	O	4	conj	envelope_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	desk	desk	NN	NN	O	7	nmod	desk_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	computer	computer	NN	NN	O	2	nsubj	computer_1
+5	and	and	CC	CC	O	4	cc	
+6	an	a	DT	DT	O	7	det	
+7	??	envelope	NN	NN	O	4	conj	envelope_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	desk	desk	NN	NN	O	7	nmod	desk_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	computer	computer	NN	NN	O	2	nsubj	computer_1
+5	and	and	CC	CC	O	4	cc	
+6	an	a	DT	DT	O	7	det	
+7	envelope	envelope	NN	NN	O	4	conj	envelope_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	desk	NN	NN	O	7	nmod	desk_3
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	??	list	NN	NN	O	2	nsubj	list_3//mug_1
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	phone	phone	NN	NN	O	4	conj	phone_1
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	storage	storage	NN	NN	O	11	compound	storage_1
+11	unit	unit	NN	NN	O	7	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	2	nsubj	list_3
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	??	phone	NN	NN	O	4	conj	phone_1//mug_1
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	storage	storage	NN	NN	O	11	compound	storage_1
+11	unit	unit	NN	NN	O	7	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	list	list	NN	NN	O	2	nsubj	list_3
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	phone	phone	NN	NN	O	4	conj	phone_1
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	??	storage	NN	NN	O	11	compound	storage_1
+11	unit	unit	NN	NN	O	7	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_2
+3	changes	change	VB	VBZ	O	0	ROOT	change_1
+4	the	the	DT	DT	O	5	det	
+5	pot	pot	NN	NN	O	3	dobj	pot_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	flower	flower	NN	NN	O	5	nmod	flower_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	ground	ground	NN	NN	O	10	nmod	ground_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	??	change	VB	VBZ	O	0	ROOT	change_1
+4	the	the	DT	DT	O	5	det	
+5	pot	pot	NN	NN	O	3	dobj	pot_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	flower	flower	NN	NN	O	5	nmod	flower_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	ground	ground	NN	NN	O	10	nmod	ground_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	changes	change	VB	VBZ	O	0	ROOT	change_1
+4	the	the	DT	DT	O	5	det	
+5	??	pot	NN	NN	O	3	dobj	pot_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	flower	flower	NN	NN	O	5	nmod	flower_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	ground	ground	NN	NN	O	10	nmod	ground_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	changes	change	VB	VBZ	O	0	ROOT	change_1
+4	the	the	DT	DT	O	5	det	
+5	pot	pot	NN	NN	O	3	dobj	pot_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	flower	NN	NN	O	5	nmod	flower_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	ground	ground	NN	NN	O	10	nmod	ground_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	changes	change	VB	VBZ	O	0	ROOT	change_1
+4	the	the	DT	DT	O	5	det	
+5	pot	pot	NN	NN	O	3	dobj	pot_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	flower	flower	NN	NN	O	5	nmod	flower_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	lies	lie	VB	VBZ	O	8	acl:relcl	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	ground	NN	NN	O	10	nmod	ground_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	pot	NN	NN	O	12	nsubjpass	pot_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	flower	flower	NN	NN	O	2	nmod	flower_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VBZ	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	ground	ground	NN	NN	O	7	nmod	ground_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	changed	change	VB	VBN	O	0	ROOT	change_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	pot	pot	NN	NN	O	12	nsubjpass	pot_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	flower	NN	NN	O	2	nmod	flower_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VBZ	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	ground	ground	NN	NN	O	7	nmod	ground_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	changed	change	VB	VBN	O	0	ROOT	change_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	pot	pot	NN	NN	O	12	nsubjpass	pot_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	flower	flower	NN	NN	O	2	nmod	flower_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VBZ	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	ground	NN	NN	O	7	nmod	ground_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	changed	change	VB	VBN	O	0	ROOT	change_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	pot	pot	NN	NN	O	12	nsubjpass	pot_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	flower	flower	NN	NN	O	2	nmod	flower_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VBZ	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	ground	ground	NN	NN	O	7	nmod	ground_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	??	change	VB	VBN	O	0	ROOT	change_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	pot	pot	NN	NN	O	12	nsubjpass	pot_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	flower	flower	NN	NN	O	2	nmod	flower_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VBZ	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	ground	ground	NN	NN	O	7	nmod	ground_1
+11	is	be	VB	VBZ	O	12	auxpass	
+12	changed	change	VB	VBN	O	0	ROOT	change_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	??	man	NN	NN	O	12	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	presses	press	VB	VBZ	O	0	ROOT	press_1
+4	the	the	DT	DT	O	5	det	
+5	button	button	NN	NN	O	3	dep	button_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	computer	computer	NN	NN	O	5	nmod	computer_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	stands	stand	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	desk	desk	NN	NN	O	10	nmod	desk_3
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	??	press	VB	VBZ	O	0	ROOT	press_1
+4	the	the	DT	DT	O	5	det	
+5	button	button	NN	NN	O	3	dep	button_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	computer	computer	NN	NN	O	5	nmod	computer_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	stands	stand	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	desk	desk	NN	NN	O	10	nmod	desk_3
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	presses	press	VB	VBZ	O	0	ROOT	press_1
+4	the	the	DT	DT	O	5	det	
+5	??	button	NN	NN	O	3	dep	button_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	computer	computer	NN	NN	O	5	nmod	computer_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	stands	stand	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	desk	desk	NN	NN	O	10	nmod	desk_3
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	presses	press	VB	VBZ	O	0	ROOT	press_1
+4	the	the	DT	DT	O	5	det	
+5	button	button	NN	NN	O	3	dep	button_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	computer	NN	NN	O	5	nmod	computer_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	stands	stand	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	desk	desk	NN	NN	O	10	nmod	desk_3
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	presses	press	VB	VBZ	O	0	ROOT	press_1
+4	the	the	DT	DT	O	5	det	
+5	button	button	NN	NN	O	3	dep	button_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	computer	computer	NN	NN	O	5	nmod	computer_1
+9	that	that	WDT	WDT	O	10	nsubj	
+10	stands	stand	VB	VBZ	O	8	ccomp	
+11	on	on	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	desk	NN	NN	O	10	nmod	desk_3
+
+1	The	the	DT	DT	O	2	det	
+2	??	button	NN	NN	O	12	nsubjpass	button_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	computer	computer	NN	NN	O	2	nmod	computer_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	desk	desk	NN	NN	O	7	nmod	desk_3
+11	is	be	VB	VBZ	O	12	auxpass	
+12	pressed	press	VB	VBN	O	0	ROOT	press_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	button	button	NN	NN	O	12	nsubjpass	button_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	computer	NN	NN	O	2	nmod	computer_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	desk	desk	NN	NN	O	7	nmod	desk_3
+11	is	be	VB	VBZ	O	12	auxpass	
+12	pressed	press	VB	VBN	O	0	ROOT	press_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	button	button	NN	NN	O	12	nsubjpass	button_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	computer	computer	NN	NN	O	2	nmod	computer_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	desk	NN	NN	O	7	nmod	desk_3
+11	is	be	VB	VBZ	O	12	auxpass	
+12	pressed	press	VB	VBN	O	0	ROOT	press_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	button	button	NN	NN	O	12	nsubjpass	button_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	computer	computer	NN	NN	O	2	nmod	computer_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	desk	desk	NN	NN	O	7	nmod	desk_3
+11	is	be	VB	VBZ	O	12	auxpass	
+12	??	press	VB	VBN	O	0	ROOT	press_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	button	button	NN	NN	O	12	nsubjpass	button_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	computer	computer	NN	NN	O	2	nmod	computer_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	acl:relcl	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	desk	desk	NN	NN	O	7	nmod	desk_3
+11	is	be	VB	VBZ	O	12	auxpass	
+12	pressed	press	VB	VBN	O	0	ROOT	press_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	??	man	NN	NN	O	12	nmod	man_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	pink	JJ	JJ	O	5	amod	pink
+5	flower	flower	NN	NN	O	1	dobj	flower_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	desk	desk	NN	NN	O	7	nmod	desk_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	??	flower	NN	NN	O	1	dobj	flower_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	desk	desk	NN	NN	O	7	nmod	desk_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	pink	pink	JJ	JJ	O	5	amod	pink
+5	flower	flower	NN	NN	O	1	dobj	flower_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	stands	stand	VB	VBZ	O	5	acl:relcl	
+8	next	next	JJ	JJ	O	7	advmod	
+9	to	to	TO	TO	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	desk	NN	NN	O	7	nmod	desk_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	??	blue	JJ	JJ	O	5	amod	blue
+5	chair	chair	NN	NN	O	1	xcomp	chair_1
+6	next	next	JJ	JJ	O	9	case	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	5	acl	desk_3
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	computer	computer	NN	NN	O	9	nmod	computer_1
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	??	chair	NN	NN	O	1	xcomp	chair_1
+6	next	next	JJ	JJ	O	9	case	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	5	acl	desk_3
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	computer	computer	NN	NN	O	9	nmod	computer_1
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	chair	chair	NN	NN	O	1	xcomp	chair_1
+6	next	next	JJ	JJ	O	9	case	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	desk	NN	NN	O	5	acl	desk_3
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	computer	computer	NN	NN	O	9	nmod	computer_1
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	chair	chair	NN	NN	O	1	xcomp	chair_1
+6	next	next	JJ	JJ	O	9	case	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	desk	desk	NN	NN	O	5	acl	desk_3
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	??	computer	NN	NN	O	9	nmod	computer_1//envelope_1
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	an	a	DT	DT	O	4	det	
+4	??	envelope	NN	NN	O	2	nsubj	envelope_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	computer	computer	NN	NN	O	6	nmod	computer_1
+
+1	There	there	EX	EX	O	2	expl	
+2	is	be	VB	VBZ	O	0	ROOT	
+3	an	a	DT	DT	O	4	det	
+4	envelope	envelope	NN	NN	O	2	nsubj	envelope_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	acl:relcl	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	computer	NN	NN	O	6	nmod	computer_1
+
+1	water	water	NN	NN	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	??	green	JJ	JJ	O	4	amod	green
+4	flower	flower	NN	NN	O	1	dep	flower_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VBZ	VBZ	O	1	dep	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	stapler	stapler	NN	NN	O	6	nmod	stapler_1
+
+1	water	water	NN	NN	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	green	green	JJ	JJ	O	4	amod	green
+4	??	flower	NN	NN	O	1	dep	flower_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VBZ	VBZ	O	1	dep	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	stapler	stapler	NN	NN	O	6	nmod	stapler_1
+
+1	water	water	NN	NN	O	0	ROOT	
+2	the	the	DT	DT	O	4	det	
+3	green	green	JJ	JJ	O	4	amod	green
+4	flower	flower	NN	NN	O	1	dep	flower_3
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VBZ	VBZ	O	1	dep	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	stapler	NN	NN	O	6	nmod	stapler_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	??	list	NN	NN	O	1	xcomp	list_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_1
+8	with	with	IN	IN	O	9	case	
+9	pencils	pencil	NN	NNS	O	7	nmod	pencil_1
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	list	list	NN	NN	O	1	xcomp	list_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	desk	NN	NN	O	4	nmod	desk_1
+8	with	with	IN	IN	O	9	case	
+9	pencils	pencil	NN	NNS	O	7	nmod	pencil_1
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	list	list	NN	NN	O	1	xcomp	list_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	desk	desk	NN	NN	O	4	nmod	desk_1
+8	with	with	IN	IN	O	9	case	
+9	??	pencil	NN	NNS	O	7	nmod	pencil_1
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	??	phone	NN	NN	O	1	xcomp	phone_1//mug_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	storage	storage	NN	NN	O	4	nmod	storage_1
+8	with	with	IN	IN	O	10	case	
+9	a	a	DT	DT	O	10	det	
+10	list	list	NN	NN	O	7	nmod	list_3
+11	on	on	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	phone	phone	NN	NN	O	1	xcomp	phone_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	storage	NN	NN	O	4	nmod	storage_1
+8	with	with	IN	IN	O	10	case	
+9	a	a	DT	DT	O	10	det	
+10	list	list	NN	NN	O	7	nmod	list_3
+11	on	on	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+
+1	get	get	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	4	nsubj	
+3	the	the	DT	DT	O	4	det	
+4	phone	phone	NN	NN	O	1	xcomp	phone_1
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	storage	storage	NN	NN	O	4	nmod	storage_1
+8	with	with	IN	IN	O	10	case	
+9	a	a	DT	DT	O	10	det	
+10	??	list	NN	NN	O	7	nmod	list_3//mug_1
+11	on	on	IN	IN	O	12	case	
+12	it	it	PRP	PRP	O	10	nmod	
+

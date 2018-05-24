@@ -1,0 +1,1000 @@
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	0	_	ball_1	ball_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	picks	pick	VB	VBZ	O	4	_	pick_1	pick_1	
+12	up	up	RP	RP	O	11	_			
+13	slowly	slowly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	0	_	ball_1	ball_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	picks	pick	VB	VBZ	O	4	_	pick_1	pick_1	
+12	up	up	RP	RP	O	11	_			
+13	slowly	slowly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	0	_	ball_1	ball_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	picks	pick	VB	VBZ	O	4	_	pick_1	pick_1	
+12	up	up	RP	RP	O	11	_			
+13	slowly	slowly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	0	_	ball_1	ball_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_1	woman_1	
+11	pick	pick	VB	VBZ	O	4	_	pick_1	pick_1	
+12	up	up	RP	RP	O	11	_			
+13	slowly	slowly	RB	RB	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	10	_	ball_1	ball_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	picked	pick	VB	VBN	O	0	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	10	_	ball_1	ball_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	picked	pick	VB	VBN	O	0	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	0	_	ball_1	ball_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	pick	pick	VB	VBZ	O	4	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	10	_	ball_1	ball_1	
+5	on	on	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	picked	pick	VB	VBN	O	0	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_1	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	organizes	organize	VB	VBZ	O	4	_	organize_1	organize_1	
+12	up	up	RP	RP	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_1	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	can	can	NN	NN	O	4	_	table_1	can_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	organizes	organize	VB	VBZ	O	4	_	organize_1	organize_1	
+12	up	up	RP	RP	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_1	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	organizes	organize	VB	VBZ	O	4	_	organize_1	organize_1	
+12	up	up	RP	RP	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	0	_	box_1	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	IN	IN	O	11	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	11	_	woman_2	woman_2	
+11	organize	organize	VB	VBZ	O	4	_	organize_1	organize_1	
+12	up	up	RP	RP	O	11	_			
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	10	_	box_1	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	organized	organize	VB	VBN	O	0	_	organize_1	organize_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	10	_	box_1	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	organized	organize	VB	VBN	O	0	_	organize_1	organize_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	10	_	box_1	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	organize	organize	VB	VBN	O	0	_	organize_1	organize_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	It	it	PRP	PRP	O	2	_			
+2	is	be	VB	VBZ	O	4	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	10	_	box_1	box_1	
+5	on	on	IN	IN	O	7	_			
+6	the	the	DT	DT	O	7	_			
+7	table	table	NN	NN	O	4	_	table_1	table_1	
+8	that	that	WDT	WDT	O	10	_			
+9	is	be	VB	VBZ	O	10	_			
+10	organized	organize	VB	VBN	O	0	_	organize_1	organize_1	
+11	up	up	RP	RP	O	10	_			
+12	by	by	IN	IN	O	14	_			
+13	the	the	DT	DT	O	14	_			
+14	woman	woman	NN	NN	O	10	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	picks	pick	VB	VBZ	O	0	_	pick_1	pick_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	ball	ball	NN	NN	O	3	_	ball_1	ball_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	table	table	NN	NN	O	6	_	table_1	table_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	pick	pick	VB	VBZ	O	0	_	pick_1	pick_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	ball	ball	NN	NN	O	3	_	ball_1	ball_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	table	table	NN	NN	O	6	_	table_1	table_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	picks	pick	VB	VBZ	O	0	_	pick_1	pick_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	ball	ball	NN	NN	O	3	_	ball_1	ball_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	table	table	NN	NN	O	6	_	table_1	table_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_1	woman_1	
+3	picks	pick	VB	VBZ	O	0	_	pick_1	pick_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	ball	ball	NN	NN	O	3	_	ball_1	ball_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	table	table	NN	NN	O	6	_	table_1	table_1	
+
+1	The	the	DT	DT	O	2	_			
+2	ball	ball	NN	NN	O	7	_	ball_1	ball_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_1	table_1	
+6	is	be	VB	VBZ	O	7	_			
+7	picked	pick	VB	VBN	O	0	_	pick_1	pick_1	
+8	up	up	RP	RP	O	7	_			
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	ball	ball	NN	NN	O	7	_	ball_1	ball_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_1	table_1	
+6	is	be	VB	VBZ	O	7	_			
+7	picked	pick	VB	VBN	O	0	_	pick_1	pick_1	
+8	up	up	RP	RP	O	7	_			
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	ball	ball	NN	NN	O	7	_	ball_1	ball_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_1	table_1	
+6	is	be	VB	VBZ	O	7	_			
+7	pick	pick	VB	VBN	O	0	_	pick_1	pick_1	
+8	up	up	RP	RP	O	7	_			
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	ball	ball	NN	NN	O	7	_	ball_1	ball_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_1	table_1	
+6	is	be	VB	VBZ	O	7	_			
+7	picked	pick	VB	VBN	O	0	_	pick_1	pick_1	
+8	up	up	RP	RP	O	7	_			
+9	by	by	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	7	_	woman_1	woman_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	organizes	organize	VB	VBZ	O	0	_	organize_1	organize_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	box	box	NN	NN	O	3	_	box_1	box_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	table	table	NN	NN	O	6	_	table_1	table_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	organize	organize	VB	VBZ	O	0	_	organize_1	organize_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	box	box	NN	NN	O	3	_	box_1	box_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	table	table	NN	NN	O	6	_	table_1	table_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	organizes	organize	VB	VBZ	O	0	_	organize_1	organize_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	box	box	NN	NN	O	3	_	box_1	box_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	table	table	NN	NN	O	6	_	table_1	table_1	
+
+1	The	the	DT	DT	O	2	_			
+2	woman	woman	NN	NN	O	3	_	woman_2	woman_2	
+3	organizes	organize	VB	VBZ	O	0	_	organize_1	organize_1	
+4	up	up	RP	RP	O	3	_			
+5	the	the	DT	DT	O	6	_			
+6	box	box	NN	NN	O	3	_	box_1	box_1	
+7	on	on	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	can	can	NN	NN	O	6	_	table_1	can_1	
+
+1	The	the	DT	DT	O	2	_			
+2	box	box	NN	NN	O	7	_	box_1	box_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_1	table_1	
+6	is	be	VB	VBZ	O	7	_			
+7	organized	organize	VB	VBN	O	0	_	organize_1	organize_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	box	box	NN	NN	O	7	_	box_1	box_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	can	can	NN	NN	O	2	_	table_1	can_1	
+6	is	be	VB	VBZ	O	7	_			
+7	organized	organize	VB	VBN	O	0	_	organize_1	organize_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	box	box	NN	NN	O	7	_	box_1	box_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_1	table_1	
+6	is	be	VB	VBZ	O	7	_			
+7	organize	organize	VB	VBN	O	0	_	organize_1	organize_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	The	the	DT	DT	O	2	_			
+2	box	box	NN	NN	O	7	_	box_1	box_1	
+3	on	on	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	table	table	NN	NN	O	2	_	table_1	table_1	
+6	is	be	VB	VBZ	O	7	_			
+7	organized	organize	VB	VBN	O	0	_	organize_1	organize_1	
+8	by	by	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	woman	woman	NN	NN	O	7	_	woman_2	woman_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	1	_	box_1	box_1	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	ball	ball	NN	NN	O	4	_	ball_2	ball_2	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	can	can	NN	NN	O	7	_	can_1	can_1	
+11	in	in	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+13	lying	lie	VBG	VBG	O	4	_		lie_11	
+14	on	on	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	table	table	NN	NN	O	13	_	table_1	table_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	1	_	box_1	box_1	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	ball	ball	NN	NN	O	4	_	ball_2	ball_2	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	can	can	NN	NN	O	7	_	can_1	can_1	
+11	in	in	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+13	lying	lie	VBG	VBG	O	4	_		lie_11	
+14	on	on	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	table	table	NN	NN	O	13	_	table_1	table_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	1	_	box_1	box_1	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	ball	ball	NN	NN	O	4	_	ball_2	ball_2	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	can	can	NN	NN	O	7	_	can_1	can_1	
+11	in	in	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+13	lying	lie	VBG	VBG	O	4	_		lie_11	
+14	on	on	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	table	table	NN	NN	O	13	_	table_1	table_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	1	_	box_1	box_1	
+5	with	with	IN	IN	O	7	_			
+6	a	a	DT	DT	O	7	_			
+7	ball	ball	NN	NN	O	4	_	ball_2	ball_2	
+8	and	and	CC	CC	O	7	_			
+9	a	a	DT	DT	O	10	_			
+10	can	can	NN	NN	O	7	_	can_1	can_1	
+11	in	in	IN	IN	O	12	_			
+12	it	it	PRP	PRP	O	10	_			
+13	lying	lie	VBG	VBG	O	10	_		lie_14	
+14	on	on	IN	IN	O	16	_			
+15	the	the	DT	DT	O	16	_			
+16	couch	couch	NN	NN	O	13	_	table_1	couch_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	ipod	ipod	NN	NN	O	1	_	ipod_1	ipod_1	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	4	_	box_2	box_2	
+9	lying	lie	VB	VBG	O	8	_		lie_12	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	table	table	NN	NN	O	9	_	table_2	table_2	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	ipod	ipod	NN	NN	O	1	_	ipod_1	ipod_1	
+5	next	next	JJ	JJ	O	8	_			
+6	to	to	TO	TO	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	4	_	box_2	box_2	
+9	lying	lie	VB	VBG	O	8	_		lie_12	
+10	on	on	IN	IN	O	12	_			
+11	the	the	DT	DT	O	12	_			
+12	table	table	NN	NN	O	9	_	table_2	table_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	box	box	NN	NN	O	2	_	box_2	box_2	
+5	and	and	CC	CC	O	4	_			
+6	ipod	ipod	NN	NN	O	4	_	ipod_1	ipod_1	
+7	standing	stand	VB	VBG	O	6	_		stand_12	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	table	table	NN	NN	O	7	_	table_2	table_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VBP	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	box	box	NN	NN	O	2	_	box_2	box_2	
+5	and	and	CC	CC	O	4	_			
+6	ipod	ipod	NN	NN	O	4	_	ipod_1	ipod_1	
+7	standing	stand	VB	VBG	O	6	_		stand_12	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	table	table	NN	NN	O	7	_	table_2	table_2	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	toy	toy	NN	NN	O	2	_	toy_1	toy_1	
+5	and	and	CC	CC	O	4	_			
+6	glasses	glass	NNS	NNS	O	4	_	glass_1	glass_1	
+7	that	that	WDT	WDT	O	8	_			
+8	stand	stand	VB	VBP	O	4	_		stand_13	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	stand	stand	NN	NN	O	8	_	stand_1	stand_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	toy	toy	NN	NN	O	2	_	toy_1	toy_1	
+5	and	and	CC	CC	O	4	_			
+6	glass	glass	NN	NN	O	4	_	glass_1	glass_1	
+7	that	that	WDT	WDT	O	8	_			
+8	stand	stand	VB	VBP	O	6	_		stand_13	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	stand	stand	NN	NN	O	8	_	stand_1	stand_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	toy	toy	NN	NN	O	2	_	toy_1	toy_1	
+5	and	and	CC	CC	O	4	_			
+6	glasses	glass	NNS	NNS	O	4	_	glass_1	glass_1	
+7	that	that	WDT	WDT	O	8	_			
+8	stand	stand	VB	VBP	O	4	_		stand_13	
+9	on	on	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	stand	stand	NN	NN	O	8	_	stand_1	stand_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	2	_	ball_2	ball_2	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	can	can	NN	NN	O	4	_	can_1	can_1	
+8	lying	lie	VB	VBG	O	7	_		lie_15	
+9	in	in	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	box	box	NN	NN	O	8	_	box_1	box_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	2	_	ball_2	ball_2	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	can	can	NN	NN	O	4	_	can_1	can_1	
+8	lying	lie	VB	VBG	O	7	_		lie_15	
+9	in	in	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	box	box	NN	NN	O	8	_	box_1	box_1	
+
+1	There	there	EX	EX	O	2	_			
+2	are	be	VB	VBP	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	2	_	ball_2	ball_2	
+5	and	and	CC	CC	O	4	_			
+6	a	a	DT	DT	O	7	_			
+7	can	can	NN	NN	O	4	_	can_1	can_1	
+8	lying	lie	VB	VBG	O	7	_		lie_15	
+9	in	in	IN	IN	O	11	_			
+10	the	the	DT	DT	O	11	_			
+11	box	box	NN	NN	O	8	_	box_1	box_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	collects	collect	VB	VBZ	O	0	_	collect_1	collect_1	
+4	the	the	DT	DT	O	5	_			
+5	piece	piece	NN	NN	O	3	_	piece_1	piece_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	toy	toy	NN	NN	O	5	_	toy_1	toy_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_13	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	stand	stand	NN	NN	O	10	_	stand_1	stand_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	collect	collect	VB	VBZ	O	0	_	collect_1	collect_1	
+4	the	the	DT	DT	O	5	_			
+5	piece	piece	NN	NN	O	3	_	piece_1	piece_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	toy	toy	NN	NN	O	5	_	toy_1	toy_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_13	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	stand	stand	NN	NN	O	10	_	stand_1	stand_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	collects	collect	VB	VBZ	O	0	_	collect_1	collect_1	
+4	the	the	DT	DT	O	5	_			
+5	piece	piece	NN	NN	O	3	_	piece_1	piece_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	toy	toy	NN	NN	O	5	_	toy_1	toy_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_13	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	stand	stand	NN	NN	O	10	_	stand_1	stand_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	collects	collect	VB	VBZ	O	0	_	collect_1	collect_1	
+4	the	the	DT	DT	O	5	_			
+5	piece	piece	NN	NN	O	3	_	piece_1	piece_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	toy	toy	NN	NN	O	5	_	toy_1	toy_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_13	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	stand	stand	NN	NN	O	10	_	stand_1	stand_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_2	man_2	
+3	collects	collect	VB	VBZ	O	0	_	collect_1	collect_1	
+4	the	the	DT	DT	O	5	_			
+5	piece	piece	NN	NN	O	3	_	piece_1	piece_1	
+6	of	of	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	toy	toy	NN	NN	O	5	_	toy_1	toy_1	
+9	that	that	WDT	WDT	O	10	_			
+10	lies	lie	VB	VBZ	O	8	_		lie_13	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	stand	stand	NN	NN	O	10	_	stand_1	stand_1	
+
+1	The	the	DT	DT	O	2	_			
+2	piece	piece	NN	NN	O	12	_	piece_1	piece_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	toy	toy	NN	NN	O	2	_	toy_1	toy_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	stand	stand	NN	NN	O	7	_	stand_1	stand_1	
+11	is	be	VB	VBZ	O	12	_			
+12	collected	collect	VB	VBN	O	0	_	collect_1	collect_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	piece	piece	NN	NN	O	12	_	piece_1	piece_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	toy	toy	NN	NN	O	2	_	toy_1	toy_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	stand	stand	NN	NN	O	7	_	stand_1	stand_1	
+11	is	be	VB	VBZ	O	12	_			
+12	collected	collect	VB	VBN	O	0	_	collect_1	collect_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	piece	piece	NN	NN	O	12	_	piece_1	piece_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	toy	toy	NN	NN	O	2	_	toy_1	toy_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	stand	stand	NN	NN	O	7	_	stand_1	stand_1	
+11	is	be	VB	VBZ	O	12	_			
+12	collected	collect	VB	VBN	O	0	_	collect_1	collect_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	piece	piece	NN	NN	O	12	_	piece_1	piece_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	toy	toy	NN	NN	O	2	_	toy_1	toy_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	stand	stand	NN	NN	O	7	_	stand_1	stand_1	
+11	is	be	VB	VBZ	O	12	_			
+12	collect	collect	VB	VBN	O	0	_	collect_1	collect_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	piece	piece	NN	NN	O	12	_	piece_1	piece_1	
+3	of	of	IN	IN	O	5	_			
+4	the	the	DT	DT	O	5	_			
+5	toy	toy	NN	NN	O	2	_	toy_1	toy_1	
+6	that	that	WDT	WDT	O	7	_			
+7	lies	lie	VB	VBZ	O	5	_		lie_13	
+8	on	on	IN	IN	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	stand	stand	NN	NN	O	7	_	stand_1	stand_1	
+11	is	be	VB	VBZ	O	12	_			
+12	collected	collect	VB	VBN	O	0	_	collect_1	collect_1	
+13	by	by	IN	IN	O	15	_			
+14	the	the	DT	DT	O	15	_			
+15	man	man	NN	NN	O	12	_	man_2	man_2	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	sits	sit	VB	VBZ	O	0	_	sit_1	sit_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	arm	arm	NN	NN	O	3	_	arm_1	arm_1	
+7	of	of	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_1	couch_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	sit	sit	VB	VBZ	O	0	_	sit_1	sit_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	arm	arm	NN	NN	O	3	_	arm_1	arm_1	
+7	of	of	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_1	couch_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	sits	sit	VB	VBZ	O	0	_	sit_1	sit_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	ball	ball	NN	NN	O	3	_	arm_1	ball_3	
+7	of	of	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_1	couch_1	
+
+1	The	the	DT	DT	O	2	_			
+2	man	man	NN	NN	O	3	_	man_1	man_1	
+3	sits	sit	VB	VBZ	O	0	_	sit_1	sit_1	
+4	on	on	IN	IN	O	6	_			
+5	the	the	DT	DT	O	6	_			
+6	arm	arm	NN	NN	O	3	_	arm_1	arm_1	
+7	of	of	IN	IN	O	9	_			
+8	the	the	DT	DT	O	9	_			
+9	couch	couch	NN	NN	O	6	_	couch_1	couch_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	ball	ball	NN	NN	O	1	_	ball_1	ball_1	
+6	that	that	IN	IN	O	10	_			
+7	the	the	DT	DT	O	9	_			
+8	blonde	blonde	JJ	JJ	O	9	_	blonde	blonde	
+9	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+10	picks	pick	VB	VBZ	O	5	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	ball	ball	NN	NN	O	1	_	ball_1	ball_1	
+6	that	that	IN	IN	O	10	_			
+7	the	the	DT	DT	O	9	_			
+8	blonde	blonde	JJ	JJ	O	9	_	blonde	blonde	
+9	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+10	picks	pick	VB	VBZ	O	5	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	ball	ball	NN	NN	O	1	_	ball_1	ball_1	
+6	that	that	IN	IN	O	10	_			
+7	the	the	DT	DT	O	9	_			
+8	blonde	blonde	JJ	JJ	O	9	_	blonde	blonde	
+9	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+10	picks	pick	VB	VBZ	O	5	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	ball	ball	NN	NN	O	1	_	ball_1	ball_1	
+6	that	that	IN	IN	O	10	_			
+7	the	the	DT	DT	O	9	_			
+8	blonde	blonde	JJ	JJ	O	9	_	blonde	blonde	
+9	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+10	picks	pick	VB	VBZ	O	5	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	green	green	JJ	JJ	O	5	_	green	green	
+5	ball	ball	NN	NN	O	1	_	ball_1	ball_1	
+6	that	that	IN	IN	O	10	_			
+7	the	the	DT	DT	O	9	_			
+8	blonde	blonde	JJ	JJ	O	9	_	blonde	blonde	
+9	woman	woman	NN	NN	O	10	_	woman_1	woman_1	
+10	pick	pick	VB	VBZ	O	5	_	pick_1	pick_1	
+11	up	up	RP	RP	O	10	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	ball	ball	NN	NN	O	1	_	ball_2	ball_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	organizes	organize	VB	VBZ	O	8	_	organize_1	organize_1	
+13	up	up	RP	RP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	ball	ball	NN	NN	O	1	_	ball_2	ball_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	organizes	organize	VB	VBZ	O	8	_	organize_1	organize_1	
+13	up	up	RP	RP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	ball	ball	NN	NN	O	1	_	ball_2	ball_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	organizes	organize	VB	VBZ	O	8	_	organize_1	organize_1	
+13	up	up	RP	RP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	ball	ball	NN	NN	O	1	_	ball_2	ball_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	organizes	organize	VB	VBZ	O	8	_	organize_1	organize_1	
+13	up	up	RP	RP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	5	_			
+4	blue	blue	JJ	JJ	O	5	_	blue	blue	
+5	ball	ball	NN	NN	O	1	_	ball_2	ball_2	
+6	on	on	IN	IN	O	8	_			
+7	the	the	DT	DT	O	8	_			
+8	box	box	NN	NN	O	5	_	box_1	box_1	
+9	that	that	IN	IN	O	12	_			
+10	the	the	DT	DT	O	11	_			
+11	woman	woman	NN	NN	O	12	_	woman_2	woman_2	
+12	organize	organize	VB	VBZ	O	8	_	organize_1	organize_1	
+13	up	up	RP	RP	O	12	_			
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glass	glass	NN	NN	O	1	_	glass_1	glass_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_13	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	toy	toy	NN	NN	O	6	_	toy_1	toy_1	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	stand	stand	NN	NN	O	10	_	stand_1	stand_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	1	_	glass_1	glass_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_13	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	toy	toy	NN	NN	O	6	_	toy_1	toy_1	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	stand	stand	NN	NN	O	10	_	stand_1	stand_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	glasses	glass	NN	NNS	O	1	_	glass_1	glass_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_13	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	10	_			
+9	the	the	DT	DT	O	10	_			
+10	toy	toy	NN	NN	O	6	_	toy_1	toy_1	
+11	on	on	IN	IN	O	13	_			
+12	the	the	DT	DT	O	13	_			
+13	stand	stand	NN	NN	O	10	_	stand_1	stand_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	can	can	NN	NN	O	2	_	ball_1	can_1	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	paper	paper	JJ	JJ	O	11	_	paper	paper	
+11	box	box	NN	NN	O	6	_	box_1	box_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	2	_	ball_1	ball_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	paper	paper	JJ	JJ	O	11	_	paper	paper	
+11	box	box	NN	NN	O	6	_	box_1	box_1	
+
+1	There	there	EX	EX	O	2	_			
+2	is	be	VB	VBZ	O	0	_			
+3	a	a	DT	DT	O	4	_			
+4	ball	ball	NN	NN	O	2	_	ball_1	ball_2	
+5	that	that	WDT	WDT	O	6	_			
+6	lies	lie	VB	VBZ	O	4	_		lie_15	
+7	next	next	JJ	JJ	O	6	_			
+8	to	to	TO	TO	O	11	_			
+9	the	the	DT	DT	O	11	_			
+10	paper	paper	JJ	JJ	O	11	_	paper	paper	
+11	box	box	NN	NN	O	6	_	box_1	box_1	
+
+1	bring	bring	VB	VB	O	0	_			
+2	me	I	PRP	PRP	O	1	_			
+3	the	the	DT	DT	O	4	_			
+4	box	box	NN	NN	O	1	_	box_2	box_2	
+5	on	on	IN	IN	O	8	_			
+6	the	the	DT	DT	O	8	_			
+7	side	side	JJ	JJ	O	8	_	side	side	
+8	table	table	NN	NN	O	4	_	table_2	table_2	
+9	with	with	IN	IN	O	11	_			
+10	a	a	DT	DT	O	11	_			
+11	iPod	ipod	NN	NN	O	8	_	ipod_1	ipod_1	
+12	on	on	IN	IN	O	13	_			
+13	it	it	PRP	PRP	O	11	_			
+

@@ -1,0 +1,888 @@
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	grater	NN	NN	O	0	ROOT	grater_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	box	box	NN	NN	O	4	nmod	box_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	grasps	grasp	VB	VBZ	O	4	ccomp	grasp_1
+12	tightly	tightly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	grater	grater	NN	NN	O	0	ROOT	grater_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	box	NN	NN	O	4	nmod	box_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	grasps	grasp	VB	VBZ	O	4	ccomp	grasp_1
+12	tightly	tightly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	grater	grater	NN	NN	O	0	ROOT	grater_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	box	box	NN	NN	O	4	nmod	box_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	11	nsubj	man_1
+11	grasps	grasp	VB	VBZ	O	4	ccomp	grasp_1
+12	tightly	tightly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	grater	grater	NN	NN	O	0	ROOT	grater_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	box	box	NN	NN	O	4	nmod	box_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	11	nsubj	man_1
+11	??	grasp	VB	VBZ	O	4	ccomp	grasp_1
+12	tightly	tightly	RB	RB	O	11	advmod	
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	??	grater	NN	NN	O	0	ROOT	grater_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	box	box	NN	NN	O	4	nmod	box_1
+8	that	that	WDT	WDT	O	11	nsubjpass	
+9	is	be	VB	VBZ	O	11	auxpass	
+10	tightly	tightly	RB	RB	O	11	advmod	
+11	grasped	grasp	VB	VBN	O	4	ccomp	grasp_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	grater	grater	NN	NN	O	0	ROOT	grater_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	??	box	NN	NN	O	4	nmod	box_1
+8	that	that	WDT	WDT	O	11	nsubjpass	
+9	is	be	VB	VBZ	O	11	auxpass	
+10	tightly	tightly	RB	RB	O	11	advmod	
+11	grasped	grasp	VB	VBN	O	4	ccomp	grasp_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	grater	grater	NN	NN	O	0	ROOT	grater_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	box	box	NN	NN	O	4	nmod	box_1
+8	that	that	WDT	WDT	O	11	nsubjpass	
+9	is	be	VB	VBZ	O	11	auxpass	
+10	tightly	tightly	RB	RB	O	11	advmod	
+11	??	grasp	VB	VBN	O	4	ccomp	grasp_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	man	man	NN	NN	O	11	nmod	man_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	grater	grater	NN	NN	O	0	ROOT	grater_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	box	box	NN	NN	O	4	nmod	box_1
+8	that	that	WDT	WDT	O	11	nsubjpass	
+9	is	be	VB	VBZ	O	11	auxpass	
+10	tightly	tightly	RB	RB	O	11	advmod	
+11	grasped	grasp	VB	VBN	O	4	ccomp	grasp_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	??	man	NN	NN	O	11	nmod	man_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	??	box	NN	NN	O	0	ROOT	box_3
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	grasps	grasp	VB	VBZ	O	4	ccomp	grasp_3
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	0	ROOT	box_3
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	grasps	grasp	VB	VBZ	O	4	ccomp	grasp_3
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	0	ROOT	box_3
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	??	woman	NN	NN	O	11	nsubj	woman_1
+11	grasps	grasp	VB	VBZ	O	4	ccomp	grasp_3
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	0	ROOT	box_3
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	??	grasp	VB	VBZ	O	4	ccomp	grasp_3
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	??	box	NN	NN	O	0	ROOT	box_3
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	grasped	grasp	VB	VBN	O	4	ccomp	grasp_3
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	0	ROOT	box_3
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	??	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	grasped	grasp	VB	VBN	O	4	ccomp	grasp_3
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	0	ROOT	box_3
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	??	grasp	VB	VBN	O	4	ccomp	grasp_3
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	box	box	NN	NN	O	0	ROOT	box_3
+5	on	on	IN	IN	O	7	case	
+6	the	the	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	grasped	grasp	VB	VBN	O	4	ccomp	grasp_3
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	??	woman	NN	NN	O	10	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_1
+3	grasps	grasp	VBZ	VBZ	O	0	ROOT	grasp_1
+4	the	the	DT	DT	O	5	det	
+5	grater	grater	NN	NN	O	3	dobj	grater_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	??	grasp	VBZ	VBZ	O	0	ROOT	grasp_1
+4	the	the	DT	DT	O	5	det	
+5	grater	grater	NN	NN	O	3	dobj	grater_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	grasps	grasp	VBZ	VBZ	O	0	ROOT	grasp_1
+4	the	the	DT	DT	O	5	det	
+5	??	grater	NN	NN	O	3	dobj	grater_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_1
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	grasps	grasp	VBZ	VBZ	O	0	ROOT	grasp_1
+4	the	the	DT	DT	O	5	det	
+5	grater	grater	NN	NN	O	3	dobj	grater_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	box	NN	NN	O	5	nmod	box_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	grater	NN	NN	O	7	nsubjpass	grater_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	2	nmod	box_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	grasped	grasp	VB	VBN	O	0	ROOT	grasp_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	grater	grater	NN	NN	O	7	nsubjpass	grater_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	box	NN	NN	O	2	nmod	box_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	grasped	grasp	VB	VBN	O	0	ROOT	grasp_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	grater	grater	NN	NN	O	7	nsubjpass	grater_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	2	nmod	box_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	??	grasp	VB	VBN	O	0	ROOT	grasp_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	man	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	grater	grater	NN	NN	O	7	nsubjpass	grater_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	2	nmod	box_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	grasped	grasp	VB	VBN	O	0	ROOT	grasp_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	man	NN	NN	O	7	nmod	man_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_1
+3	grasps	grasp	VB	VBZ	O	0	ROOT	grasp_3
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	3	dobj	box_3
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	water	water	NN	NN	O	9	compound	
+9	boiler	boiler	NN	NN	O	5	nmod	boiler_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	??	grasp	VB	VBZ	O	0	ROOT	grasp_3
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	3	dobj	box_3
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	water	water	NN	NN	O	9	compound	
+9	boiler	boiler	NN	NN	O	5	nmod	boiler_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	grasps	grasp	VB	VBZ	O	0	ROOT	grasp_3
+4	the	the	DT	DT	O	5	det	
+5	??	box	NN	NN	O	3	dobj	box_3
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	water	water	NN	NN	O	9	compound	
+9	boiler	boiler	NN	NN	O	5	nmod	boiler_1
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	grasps	grasp	VB	VBZ	O	0	ROOT	grasp_3
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	3	dobj	box_3
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	water	water	NN	NN	O	9	compound	
+9	??	boiler	NN	NN	O	5	nmod	boiler_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	box	NN	NN	O	8	nsubjpass	box_3
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	water	water	NN	NN	O	6	compound	
+6	boiler	boiler	NN	NN	O	2	nmod	boiler_1
+7	is	be	VB	VBZ	O	8	auxpass	
+8	grasped	grasp	VB	VBN	O	0	ROOT	grasp_3
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	8	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	box	box	NN	NN	O	8	nsubjpass	box_3
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	water	water	NN	NN	O	6	compound	
+6	??	boiler	NN	NN	O	2	nmod	boiler_1
+7	is	be	VB	VBZ	O	8	auxpass	
+8	grasped	grasp	VB	VBN	O	0	ROOT	grasp_3
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	8	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	box	box	NN	NN	O	8	nsubjpass	box_3
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	water	water	NN	NN	O	6	compound	
+6	boiler	boiler	NN	NN	O	2	nmod	boiler_1
+7	is	be	VB	VBZ	O	8	auxpass	
+8	??	grasp	VB	VBN	O	0	ROOT	grasp_3
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	woman	woman	NN	NN	O	8	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	box	box	NN	NN	O	8	nsubjpass	box_3
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	water	water	NN	NN	O	6	compound	
+6	boiler	boiler	NN	NN	O	2	nmod	boiler_1
+7	is	be	VB	VBZ	O	8	auxpass	
+8	grasped	grasp	VB	VBN	O	0	ROOT	grasp_3
+9	by	by	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	??	woman	NN	NN	O	8	nmod	woman_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	man	NN	NN	O	3	nsubj	man_2
+3	grasps	grasp	VB	VBZ	O	0	ROOT	grasp_2
+4	the	the	DT	DT	O	5	det	
+5	ladle	ladle	NN	NN	O	3	dobj	ladle_1
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	box	box	NN	NN	O	5	nmod	box_2
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	grater	grater	NN	NN	O	9	nmod	grater_2
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	??	grasp	VB	VBZ	O	0	ROOT	grasp_2
+4	the	the	DT	DT	O	5	det	
+5	ladle	ladle	NN	NN	O	3	dobj	ladle_1
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	box	box	NN	NN	O	5	nmod	box_2
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	grater	grater	NN	NN	O	9	nmod	grater_2
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	grasps	grasp	VB	VBZ	O	0	ROOT	grasp_2
+4	the	the	DT	DT	O	5	det	
+5	??	ladle	NN	NN	O	3	dobj	ladle_1
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	box	box	NN	NN	O	5	nmod	box_2
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	grater	grater	NN	NN	O	9	nmod	grater_2
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	grasps	grasp	VB	VBZ	O	0	ROOT	grasp_2
+4	the	the	DT	DT	O	5	det	
+5	ladle	ladle	NN	NN	O	3	dobj	ladle_1
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	??	box	NN	NN	O	5	nmod	box_2
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	grater	grater	NN	NN	O	9	nmod	grater_2
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_2
+3	grasps	grasp	VB	VBZ	O	0	ROOT	grasp_2
+4	the	the	DT	DT	O	5	det	
+5	ladle	ladle	NN	NN	O	3	dobj	ladle_1
+6	next	next	JJ	JJ	O	9	dep	
+7	to	to	TO	TO	O	9	case	
+8	the	the	DT	DT	O	9	det	
+9	box	box	NN	NN	O	5	nmod	box_2
+10	with	with	IN	IN	O	12	case	
+11	a	a	DT	DT	O	12	det	
+12	??	grater	NN	NN	O	9	nmod	grater_2
+13	on	on	IN	IN	O	14	case	
+14	it	it	PRP	PRP	O	12	nmod	
+
+1	The	the	DT	DT	O	2	det	
+2	??	ladle	NN	NN	O	13	nsubjpass	ladle_1
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	box	box	NN	NN	O	2	nmod	box_2
+7	with	with	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	grater	grater	NN	NN	O	6	nmod	grater_2
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+12	is	be	VB	VBZ	O	13	auxpass	
+13	grasped	grasp	VB	VBN	O	0	ROOT	grasp_2
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	man	man	NN	NN	O	13	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	ladle	ladle	NN	NN	O	13	nsubjpass	ladle_1
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	??	box	NN	NN	O	2	nmod	box_2
+7	with	with	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	grater	grater	NN	NN	O	6	nmod	grater_2
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+12	is	be	VB	VBZ	O	13	auxpass	
+13	grasped	grasp	VB	VBN	O	0	ROOT	grasp_2
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	man	man	NN	NN	O	13	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	ladle	ladle	NN	NN	O	13	nsubjpass	ladle_1
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	box	box	NN	NN	O	2	nmod	box_2
+7	with	with	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	??	grater	NN	NN	O	6	nmod	grater_2
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+12	is	be	VB	VBZ	O	13	auxpass	
+13	grasped	grasp	VB	VBN	O	0	ROOT	grasp_2
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	man	man	NN	NN	O	13	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	ladle	ladle	NN	NN	O	13	nsubjpass	ladle_1
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	box	box	NN	NN	O	2	nmod	box_2
+7	with	with	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	grater	grater	NN	NN	O	6	nmod	grater_2
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+12	is	be	VB	VBZ	O	13	auxpass	
+13	??	grasp	VB	VBN	O	0	ROOT	grasp_2
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	man	man	NN	NN	O	13	nmod	man_2
+
+1	The	the	DT	DT	O	2	det	
+2	ladle	ladle	NN	NN	O	13	nsubjpass	ladle_1
+3	next	next	JJ	JJ	O	6	dep	
+4	to	to	TO	TO	O	6	case	
+5	the	the	DT	DT	O	6	det	
+6	box	box	NN	NN	O	2	nmod	box_2
+7	with	with	IN	IN	O	9	case	
+8	a	a	DT	DT	O	9	det	
+9	grater	grater	NN	NN	O	6	nmod	grater_2
+10	on	on	IN	IN	O	11	case	
+11	it	it	PRP	PRP	O	9	nmod	
+12	is	be	VB	VBZ	O	13	auxpass	
+13	grasped	grasp	VB	VBN	O	0	ROOT	grasp_2
+14	by	by	IN	IN	O	16	case	
+15	the	the	DT	DT	O	16	det	
+16	??	man	NN	NN	O	13	nmod	man_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	tomato	tomato	NN	NN	O	1	dobj	
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	grater	NN	NN	O	6	nmod	grater_3
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	spatula	spatula	NN	NN	O	1	dobj	
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	grater	NN	NN	O	6	nmod	grater_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	mug	NN	NN	O	1	dobj	mug_2
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	next	next	JJ	JJ	O	6	advmod	
+8	to	to	TO	TO	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	wallet	wallet	NN	NN	O	6	nmod	
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	tomato	tomato	NN	NN	O	2	nsubj	
+4	and	and	CC	CC	O	3	cc	
+5	??	grater	NN	NN	O	3	conj	grater_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lie	lie	VB	VBP	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	tray	tray	NN	NN	O	7	nmod	tray_1
+
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VB	VBP	O	0	ROOT	
+3	tomato	tomato	NN	NN	O	2	nsubj	
+4	and	and	CC	CC	O	3	cc	
+5	grater	grater	NN	NN	O	3	conj	grater_3
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lie	lie	VB	VBP	O	5	ccomp	
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	??	tray	NN	NN	O	7	nmod	tray_1
+
+1	The	the	DT	DT	O	2	det	
+2	??	woman	NN	NN	O	3	nsubj	woman_2
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	lid	lid	NN	NN	O	3	dobj	lid_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_3
+9	on	on	IN	IN	O	12	case	
+10	the	the	DT	DT	O	12	det	
+11	marble	marble	JJ	JJ	O	12	compound	marble
+12	counter	counter	NN	NN	O	8	nmod	counter_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	??	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	lid	lid	NN	NN	O	3	dobj	lid_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_3
+9	on	on	IN	IN	O	12	case	
+10	the	the	DT	DT	O	12	det	
+11	marble	marble	JJ	JJ	O	12	compound	marble
+12	counter	counter	NN	NN	O	8	nmod	counter_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	??	lid	NN	NN	O	3	dobj	lid_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_3
+9	on	on	IN	IN	O	12	case	
+10	the	the	DT	DT	O	12	det	
+11	marble	marble	JJ	JJ	O	12	compound	marble
+12	counter	counter	NN	NN	O	8	nmod	counter_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	lid	lid	NN	NN	O	3	dobj	lid_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_3
+9	on	on	IN	IN	O	12	case	
+10	the	the	DT	DT	O	12	det	
+11	??	marble	JJ	JJ	O	12	compound	marble
+12	counter	counter	NN	NN	O	8	nmod	counter_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	lid	lid	NN	NN	O	3	dobj	lid_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	box	box	NN	NN	O	5	nmod	box_3
+9	on	on	IN	IN	O	12	case	
+10	the	the	DT	DT	O	12	det	
+11	marble	marble	JJ	JJ	O	12	compound	marble
+12	??	counter	NN	NN	O	8	nmod	counter_2
+
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	opens	open	VB	VBZ	O	0	ROOT	open_1
+4	the	the	DT	DT	O	5	det	
+5	lid	lid	NN	NN	O	3	dobj	lid_3
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	??	box	NN	NN	O	5	nmod	box_3
+9	on	on	IN	IN	O	12	case	
+10	the	the	DT	DT	O	12	det	
+11	marble	marble	JJ	JJ	O	12	compound	marble
+12	counter	counter	NN	NN	O	8	nmod	counter_2
+
+1	the	the	DT	DT	O	2	det	
+2	??	lid	NN	NN	O	11	nsubjpass	lid_3
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	2	nmod	box_3
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	marble	marble	JJ	JJ	O	9	compound	marble
+9	counter	counter	NN	NN	O	5	nmod	counter_2
+10	is	be	VB	VBZ	O	11	auxpass	
+11	opened	open	VB	VBN	O	0	ROOT	open_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	11	nmod	woman_2
+
+1	the	the	DT	DT	O	2	det	
+2	lid	lid	NN	NN	O	11	nsubjpass	lid_3
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	??	box	NN	NN	O	2	nmod	box_3
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	marble	marble	JJ	JJ	O	9	compound	marble
+9	counter	counter	NN	NN	O	5	nmod	counter_2
+10	is	be	VB	VBZ	O	11	auxpass	
+11	opened	open	VB	VBN	O	0	ROOT	open_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	11	nmod	woman_2
+
+1	the	the	DT	DT	O	2	det	
+2	lid	lid	NN	NN	O	11	nsubjpass	lid_3
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	2	nmod	box_3
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	??	marble	JJ	JJ	O	9	compound	marble
+9	counter	counter	NN	NN	O	5	nmod	counter_2
+10	is	be	VB	VBZ	O	11	auxpass	
+11	opened	open	VB	VBN	O	0	ROOT	open_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	11	nmod	woman_2
+
+1	the	the	DT	DT	O	2	det	
+2	lid	lid	NN	NN	O	11	nsubjpass	lid_3
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	2	nmod	box_3
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	marble	marble	JJ	JJ	O	9	compound	marble
+9	??	counter	NN	NN	O	5	nmod	counter_2
+10	is	be	VB	VBZ	O	11	auxpass	
+11	opened	open	VB	VBN	O	0	ROOT	open_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	11	nmod	woman_2
+
+1	the	the	DT	DT	O	2	det	
+2	lid	lid	NN	NN	O	11	nsubjpass	lid_3
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	2	nmod	box_3
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	marble	marble	JJ	JJ	O	9	compound	marble
+9	counter	counter	NN	NN	O	5	nmod	counter_2
+10	is	be	VB	VBZ	O	11	auxpass	
+11	??	open	VB	VBN	O	0	ROOT	open_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	woman	woman	NN	NN	O	11	nmod	woman_2
+
+1	the	the	DT	DT	O	2	det	
+2	lid	lid	NN	NN	O	11	nsubjpass	lid_3
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	box	box	NN	NN	O	2	nmod	box_3
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	marble	marble	JJ	JJ	O	9	compound	marble
+9	counter	counter	NN	NN	O	5	nmod	counter_2
+10	is	be	VB	VBZ	O	11	auxpass	
+11	opened	open	VB	VBN	O	0	ROOT	open_1
+12	by	by	IN	IN	O	14	case	
+13	the	the	DT	DT	O	14	det	
+14	??	woman	NN	NN	O	11	nmod	woman_2
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	??	mug	NN	NN	O	1	dobj	mug_1//box_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	10	case	
+8	the	the	DT	DT	O	10	det	
+9	??	wooden	JJ	JJ	O	10	amod	wooden
+10	counter	counter	NN	NN	O	6	nmod	counter_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	1	dobj	mug_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	10	case	
+8	the	the	DT	DT	O	10	det	
+9	??	wooden	JJ	JJ	O	10	amod	wooden
+10	counter	counter	NN	NN	O	6	nmod	counter_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	1	dobj	mug_1
+5	that	that	WDT	WDT	O	6	nsubj	
+6	lies	lie	VB	VBZ	O	4	ccomp	
+7	on	on	IN	IN	O	10	case	
+8	the	the	DT	DT	O	10	det	
+9	wooden	wooden	JJ	JJ	O	10	amod	wooden
+10	??	counter	NN	NN	O	6	nmod	counter_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	??	green	JJ	JJ	O	5	amod	green
+5	tray	tray	NN	NN	O	1	dobj	tray_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	wooden	wooden	JJ	JJ	O	11	amod	wooden
+11	counter	counter	NN	NN	O	7	nmod	counter_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	green	green	JJ	JJ	O	5	amod	green
+5	??	tray	NN	NN	O	1	dobj	tray_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	wooden	wooden	JJ	JJ	O	11	amod	wooden
+11	counter	counter	NN	NN	O	7	nmod	counter_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	green	green	JJ	JJ	O	5	amod	green
+5	tray	tray	NN	NN	O	1	dobj	tray_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	??	wooden	JJ	JJ	O	11	amod	wooden
+11	counter	counter	NN	NN	O	7	nmod	counter_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	5	det	
+4	green	green	JJ	JJ	O	5	amod	green
+5	tray	tray	NN	NN	O	1	dobj	tray_1
+6	that	that	WDT	WDT	O	7	nsubj	
+7	lies	lie	VB	VBZ	O	5	ccomp	
+8	on	on	IN	IN	O	11	case	
+9	the	the	DT	DT	O	11	det	
+10	wooden	wooden	JJ	JJ	O	11	amod	wooden
+11	??	counter	NN	NN	O	7	nmod	counter_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	??	brown	JJ	JJ	O	5	compound	brown
+5	mug	mug	NN	NN	O	1	xcomp	mug_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	metal	metal	JJ	JJ	O	9	compound	metal
+9	stool	stool	NN	NN	O	5	nmod	stool_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	brown	brown	JJ	JJ	O	5	compound	brown
+5	??	mug	NN	NN	O	1	xcomp	mug_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	metal	metal	JJ	JJ	O	9	compound	metal
+9	stool	stool	NN	NN	O	5	nmod	stool_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	brown	brown	JJ	JJ	O	5	compound	brown
+5	mug	mug	NN	NN	O	1	xcomp	mug_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	??	metal	JJ	JJ	O	9	compound	metal
+9	stool	stool	NN	NN	O	5	nmod	stool_1
+
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	nsubj	
+3	the	the	DT	DT	O	5	det	
+4	brown	brown	JJ	JJ	O	5	compound	brown
+5	mug	mug	NN	NN	O	1	xcomp	mug_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	metal	metal	JJ	JJ	O	9	compound	metal
+9	??	stool	NN	NN	O	5	nmod	stool_1
+

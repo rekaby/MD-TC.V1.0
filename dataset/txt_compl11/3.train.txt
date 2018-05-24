@@ -1,0 +1,245 @@
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	pan	pan	NN	NN	O	0	ROOT	pan_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_1
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_1
+11	cleans	clean	VB	VBZ	O	4	ccomp	clean_1
+12	thoroughly	thoroughly	RB	RB	O	11	advmod	
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	a	a	DT	DT	O	4	det	
+4	pan	pan	NN	NN	O	0	ROOT	pan_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_1
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	cleaned	clean	VB	VBN	O	4	ccomp	clean_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_1
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	plate	plate	NN	NN	O	0	ROOT	plate_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	IN	IN	O	11	mark	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	11	nsubj	woman_2
+11	arranges	arrange	VB	VBZ	O	4	ccomp	arrange_1
+								
+1	It	it	PRP	PRP	O	4	nsubj	
+2	is	be	VB	VBZ	O	4	cop	
+3	the	the	DT	DT	O	4	det	
+4	plate	plate	NN	NN	O	0	ROOT	plate_1
+5	on	on	IN	IN	O	7	case	
+6	a	a	DT	DT	O	7	det	
+7	counter	counter	NN	NN	O	4	nmod	counter_2
+8	that	that	WDT	WDT	O	10	nsubjpass	
+9	is	be	VB	VBZ	O	10	auxpass	
+10	arranged	arrange	VB	VBD	O	4	ccomp	arrange_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	woman	woman	NN	NN	O	10	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_1
+3	cleans	clean	VB	VBZ	O	0	ROOT	clean_1
+4	the	the	DT	DT	O	5	det	
+5	pan	pan	NN	NN	O	3	dobj	pan_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_1
+								
+1	The	the	DT	DT	O	2	det	
+2	pan	pan	NN	NN	O	7	nsubjpass	pan_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	counter	counter	NN	NN	O	2	nmod	counter_1
+6	is	be	VB	VBZ	O	7	auxpass	
+7	cleaned	clean	VB	VBN	O	0	ROOT	clean_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_1
+								
+1	The	the	DT	DT	O	2	det	
+2	woman	woman	NN	NN	O	3	nsubj	woman_2
+3	arranges	arrange	VB	VBZ	O	0	ROOT	arrange_1
+4	the	the	DT	DT	O	5	det	
+5	plate	plate	NN	NN	O	3	dobj	plate_1
+6	on	on	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_2
+								
+1	The	the	DT	DT	O	2	det	
+2	plate	plate	NN	NN	O	7	nsubjpass	plate_1
+3	on	on	IN	IN	O	5	case	
+4	a	a	DT	DT	O	5	det	
+5	counter	counter	NN	NN	O	2	nmod	counter_2
+6	is	be	VB	VBZ	O	7	auxpass	
+7	arranged	arrange	VB	VBN	O	0	ROOT	arrange_1
+8	by	by	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	woman	woman	NN	NN	O	7	nmod	woman_2
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	washes	wash	VB	VBZ	O	0	ROOT	wash_1
+4	the	the	DT	DT	O	5	det	
+5	mug	mug	NN	NN	O	3	dobj	mug_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_2
+9	with	with	IN	IN	O	11	case	
+10	a	a	DT	DT	O	11	det	
+11	vase	vase	NN	NN	O	8	nmod	vase_1//pan_2//plate_1
+12	on	on	IN	IN	O	13	case	
+13	it	it	PRP	PRP	O	11	nmod	
+								
+1	The	the	DT	DT	O	2	det	
+2	mug	mug	NN	NN	O	12	nsubjpass	mug_1
+3	on	on	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	counter	counter	NN	NN	O	2	nmod	counter_2
+6	with	with	IN	IN	O	8	case	
+7	a	a	DT	DT	O	8	det	
+8	vase	vase	NN	NN	O	5	nmod	vase_1//pan_2//plate_1
+9	on	on	IN	IN	O	10	case	
+10	it	it	PRP	PRP	O	8	nmod	
+11	is	be	VB	VBZ	O	12	auxpass	
+12	washed	wash	VB	VBN	O	0	ROOT	wash_1
+13	by	by	IN	IN	O	15	case	
+14	the	the	DT	DT	O	15	det	
+15	man	man	NN	NN	O	12	nmod	man_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	iobj	
+3	the	the	DT	DT	O	4	det	
+4	pan	pan	NN	NN	O	1	dobj	pan_2
+5	and	and	CC	CC	O	4	cc	
+6	the	the	DT	DT	O	7	det	
+7	plate	plate	NN	NN	O	4	conj	plate_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	stand	stand	VB	VB	O	7	ccomp	
+10	next	next	JJ	JJ	O	9	advmod	
+11	to	to	TO	TO	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	stove	stove	NN	NN	O	9	nmod	stove_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	1	dobj	
+3	the	the	DT	DT	O	4	det	
+4	knife	knife	NN	NN	O	1	nsubj	knife_1
+5	and	and	CC	CC	O	4	cc	
+6	the	the	DT	DT	O	7	det	
+7	pan	pan	NN	NN	O	4	conj	pan_1
+8	that	that	WDT	WDT	O	9	nsubj	
+9	stand	stand	VB	VBP	O	4	acl:relcl	
+10	on	on	IN	IN	O	13	case	
+11	the	the	DT	DT	O	13	det	
+12	left	left	JJ	JJ	O	13	amod	left_1
+13	counter	counter	NN	NN	O	9	nmod	counter_1
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	mug	mug	NN	NN	O	2	nsubj	mug_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	8	det	
+7	wine	wine	NN	NN	O	8	compound	
+8	shelf	shelf	NN	NN	O	4	conj	shelf_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	counter	counter	NN	NN	O	8	nmod	counter_3
+								
+1	There	there	EX	EX	O	2	expl	
+2	are	be	VBP	VBP	O	0	ROOT	
+3	a	a	DT	DT	O	4	det	
+4	vase	vase	NN	NN	O	2	nsubj	vase_2
+5	and	and	CC	CC	O	4	cc	
+6	a	a	DT	DT	O	7	det	
+7	bag	bag	NN	NN	O	4	conj	bag_1
+8	on	on	IN	IN	O	10	case	
+9	the	the	DT	DT	O	10	det	
+10	bench	bench	NN	NN	O	7	nmod	bench_1
+								
+1	The	the	DT	DT	O	2	det	
+2	man	man	NN	NN	O	3	nsubj	man_1
+3	holds	hold	VB	VBZ	O	0	ROOT	hold_1
+4	the	the	DT	DT	O	5	det	
+5	handle	handle	NN	NN	O	8	nmod	handle_1
+6	of	of	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	mug	mug	NN	NN	O	3	dobj	mug_1
+9	on	on	IN	IN	O	11	case	
+10	the	the	DT	DT	O	11	det	
+11	counter	counter	NN	NN	O	8	nmod	counter_2
+								
+1	The	the	DT	DT	O	2	det	
+2	handle	handle	VB	VB	O	10	nsubjpass	handle_1
+3	of	of	IN	IN	O	5	case	
+4	the	the	DT	DT	O	5	det	
+5	mug	mug	NN	NN	O	2	nmod	mug_1
+6	on	on	IN	IN	O	8	case	
+7	the	the	DT	DT	O	8	det	
+8	counter	counter	NN	NN	O	5	nmod	counter_2
+9	is	be	VB	VBZ	O	10	auxpass	
+10	holded	hold	VB	VBN	O	0	ROOT	hold_1
+11	by	by	IN	IN	O	13	case	
+12	the	the	DT	DT	O	13	det	
+13	man	man	NN	NN	O	10	nmod	man_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	iobj	
+3	the	the	DT	DT	O	5	det	
+4	red	red	JJ	JJ	O	5	amod	red
+5	pan	pan	NN	NN	O	1	dobj	pan_1
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	left	left	JJ	JJ	O	9	amod	left_1
+9	counter	counter	NN	NN	O	5	nmod	counter_1
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_1
+13	cleans	clean	VB	VBZ	O	5	nmod	clean_1
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	iobj	
+3	the	the	DT	DT	O	5	det	
+4	blue	blue	JJ	JJ	O	5	amod	blue
+5	pan	pan	NN	NN	O	1	dobj	pan_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	right	right	JJ	JJ	O	9	amod	right_1
+9	counter	counter	NN	NN	O	5	nmod	counter_2
+10	that	that	IN	IN	O	13	mark	
+11	the	the	DT	DT	O	12	det	
+12	woman	woman	NN	NN	O	13	nsubj	woman_2
+13	stands	stand	VB	VBZ	O	1	ccomp	stand_1
+14	next	next	JJ	JJ	O	13	advmod	
+15	to	to	TO	TO	O	14	nmod	
+								
+1	bring	bring	VB	VB	O	0	ROOT	
+2	me	I	PRP	PRP	O	5	iobj	
+3	the	the	DT	DT	O	5	det	
+4	big	big	JJ	JJ	O	5	amod	big
+5	mug	mug	NN	NN	O	1	dobj	mug_2
+6	on	on	IN	IN	O	9	case	
+7	the	the	DT	DT	O	9	det	
+8	left	left	JJ	JJ	O	9	amod	left_2
+9	counter	counter	NN	NN	O	5	nmod	counter_3
+10	with	with	IN	IN	O	13	case	
+11	a	a	DT	DT	O	13	det	
+12	wine	wine	NN	NN	O	13	compound	
+13	shelf	shelf	NN	NN	O	9	nmod	shelf_1
+14	on	on	IN	IN	O	15	case	
+15	it	it	PRP	PRP	O	13	nmod	
